@@ -1,0 +1,126 @@
+{
+  "match_id": "",
+  "date": "",
+  "tournament": "",
+  "winner": "team2",
+  "score": {
+    "team1": 1,
+    "team2": 2
+  },
+  "team1": {
+    "name": "BIG",
+    "players": [
+      {
+        "name": "tabsen",
+        "statistics": {
+          "DPR": 0.7,
+          "KAST": 70.0,
+          "ADR": 82.5,
+          "KPR": 0.71,
+          "RATING": 1.03
+        }
+      },
+      {
+        "name": "jdc",
+        "statistics": {
+          "DPR": 0.67,
+          "KAST": 70.5,
+          "ADR": 76.6,
+          "KPR": 0.69,
+          "RATING": 1.07
+        }
+      },
+      {
+        "name": "prosus",
+        "statistics": {
+          "DPR": 0.69,
+          "KAST": 70.1,
+          "ADR": 75.4,
+          "KPR": 0.68,
+          "RATING": 1.05
+        }
+      },
+      {
+        "name": "krimbo",
+        "statistics": {
+          "DPR": 0.61,
+          "KAST": 73.3,
+          "ADR": 75.5,
+          "KPR": 0.69,
+          "RATING": 1.11
+        }
+      },
+      {
+        "name": "hyped",
+        "statistics": {
+          "DPR": 0.63,
+          "KAST": 70.8,
+          "ADR": 70.3,
+          "KPR": 0.71,
+          "RATING": 1.09
+        }
+      }
+    ]
+  },
+  "team2": {
+    "name": "OG",
+    "players": [
+      {
+        "name": "nicoodoz",
+        "statistics": {
+          "DPR": 0.63,
+          "KAST": 71.8,
+          "ADR": 74.3,
+          "KPR": 0.73,
+          "RATING": 1.12
+        }
+      },
+      {
+        "name": "spooke",
+        "statistics": {
+          "DPR": 0.69,
+          "KAST": 71.0,
+          "ADR": 79.8,
+          "KPR": 0.72,
+          "RATING": 1.11
+        }
+      },
+      {
+        "name": "arrozdoce",
+        "statistics": {
+          "DPR": 0.66,
+          "KAST": 70.4,
+          "ADR": 73.0,
+          "KPR": 0.66,
+          "RATING": 1.04
+        }
+      },
+      {
+        "name": "adamb",
+        "statistics": {
+          "DPR": 0.67,
+          "KAST": 73.0,
+          "ADR": 75.6,
+          "KPR": 0.68,
+          "RATING": 1.09
+        }
+      },
+      {
+        "name": "chr1zn",
+        "statistics": {
+          "DPR": 0.69,
+          "KAST": 70.2,
+          "ADR": 73.8,
+          "KPR": 0.66,
+          "RATING": 1.04
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "match_type": "bo1",
+    "event_type": "lan",
+    "scraped_date": "2025-09-11T13:32:47.749793Z",
+    "hltv_url": "https://www.hltv.org/matches/2385169/big-vs-og-thunderpick-world-championship-2025-closed-qualifier"
+  }
+}

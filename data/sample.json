@@ -1,0 +1,124 @@
+{
+    "match_id": "",
+    "date": "",
+    "tournament": "",
+    "winner": "team1",
+    "score": {
+      "team1": ,
+      "team2": 
+    },
+    "team1": {
+      "name": "",
+      "players": [
+        {
+          "name": "karrigan",
+          "statistics": {
+            "DPR": 0.85,
+            "KAST": 72.3,
+            "ADR": 78.5,
+            "KPR": 0.95,
+            "RATING": 1.15
+          }
+        },
+        {
+          "name": "",
+          "statistics": {
+            "DPR": ,
+            "KAST": ,
+            "ADR": ,
+            "KPR": ,
+            "RATING": 
+          }
+        },
+        {
+          "name": "",
+          "statistics": {
+            "DPR": ,
+            "KAST": ,
+            "ADR": ,
+            "KPR": ,
+            "RATING": 
+          }
+        },
+        {
+          "name": "",
+          "statistics": {
+            "DPR": ,
+            "KAST": ,
+            "ADR": ,
+            "KPR": ,
+            "RATING": 
+          }
+        },
+        {
+          "name": "",
+          "statistics": {
+            "RATING": ,
+            "ADR": ,
+            "KDR": ,
+            "KAST":
+          }
+        }
+      ]
+    },
+    "team2": {
+      "name": "",
+      "players": [
+        {
+          "name": "",
+          "statistics": {
+            "RATING": ,
+            "ADR": ,
+            "KDR": ,
+            "KAST":
+          }
+        },
+        {
+          "name": "",
+          "statistics": {
+            "DPR": ,
+            "KAST": ,
+            "ADR": ,
+            "KPR": ,
+            "RATING": 
+          }
+        },
+        {
+          "name": "",
+          "statistics": {
+            "DPR": ,
+            "KAST": ,
+            "ADR": ,
+            "KPR": ,
+            "RATING": 
+          }
+        },
+        {
+          "name": "",
+          "statistics": {
+            "DPR": ,
+            "KAST": ,
+            "ADR": ,
+            "KPR": ,
+            "RATING": 
+          }
+        },
+        {
+          "name": "",
+          "statistics": {
+            "DPR": ,
+            "KAST": ,
+            "ADR": ,
+            "KPR": ,
+            "RATING": 
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "match_type": "bo1",
+      "event_type": "lan",
+      "scraped_date": "2024-12-15T10:30:00Z",
+      "hltv_url": "https://www.hltv.org/matches/2381924/faze-vs-navi-iem-cologne-2024"
+    }
+  }
