@@ -51,6 +51,18 @@ python run_scraper.py test --matches 10
 
 # Run single match scraper with forfeit detection
 python run_scraper.py results
+
+# Aggregate team statistics from scraped data
+python run_scraper.py aggregate --input data/largescale/hltv_largescale_data.json --output data/largescale/hltv_team_averages.json
+
+# Convert JSON data to CSV format
+python run_scraper.py csv --input data/largescale/hltv_team_averages.json --output data/largescale/hltv_matches.csv
+
+# Update with new matches since a specific match ID
+python run_scraper.py update --target_match_id 2385148 --output_dir data/updates
+
+# Run daily update (simple script)
+python daily_update.py
 ```
 
 #### Option B: Direct Script Execution
@@ -97,6 +109,74 @@ python scripts/hltv_resultsscrape.py
 - **Output**: `data/results/match_data.json`
 
 ## 📈 Data Structure
+
+All scrapers output JSON data with the following structure:
+
+### Team Statistics Aggregation
+
+The `aggregate` scraper processes scraped match data and adds team-level statistics:
+
+- **Team Averages**: Calculates average DPR, KAST, ADR, KPR, and RATING for each team
+- **Data Structure**: Adds `team_averages` object to each team in every match
+- **Usage**: Perfect for team performance analysis and comparison
+
+Example team averages structure:
+```json
+"team1": {
+  "name": "Team Name",
+  "players": [...],
+  "team_averages": {
+    "DPR": 0.72,
+    "KAST": 68.5,
+    "ADR": 75.3,
+    "KPR": 0.69,
+    "RATING": 1.05
+  }
+}
+```
+
+### CSV Export
+
+The `csv` converter transforms JSON data into a flat CSV structure perfect for data analysis:
+
+- **Format**: Each row = one match
+- **Columns**: 83 total columns including:
+  - Match information (ID, date, tournament, winner, scores)
+  - Team-level statistics (averages for DPR, KAST, ADR, KPR, RATING)
+  - Individual player statistics (all 5 players from each team)
+- **Usage**: Ideal for Excel, pandas, R, or any data analysis tool
+
+CSV Structure:
+- `match_id`, `date`, `tournament`, `winner`, `score_team1`, `score_team2`
+- `team1_name`, `team1_avg_DPR`, `team1_avg_KAST`, etc.
+- `team1_player_1_name`, `team1_player_1_DPR`, `team1_player_1_KAST`, etc.
+- `team2_name`, `team2_avg_DPR`, `team2_avg_KAST`, etc.
+- `team2_player_1_name`, `team2_player_1_DPR`, `team2_player_1_KAST`, etc.
+
+### Daily Updates
+
+The `update` scraper allows you to keep your dataset current by scraping new matches:
+
+- **Backwards Scraping**: Scrapes matches newer than a specified match ID
+- **Automatic Integration**: Appends new matches to existing CSV file
+- **Smart Filtering**: Skips forfeited matches and incomplete teams
+- **Progress Tracking**: Shows real-time progress during scraping
+
+**Daily Update Workflow:**
+1. **Set Target ID**: Update `TARGET_MATCH_ID` in `daily_update.py`
+2. **Run Update**: `python daily_update.py`
+3. **Check Results**: New matches appear at the top of your CSV
+
+**Manual Update:**
+```bash
+# Scrape matches newer than match ID 2385148
+python run_scraper.py update --target_match_id 2385148
+
+# Custom output directory
+python run_scraper.py update --target_match_id 2385148 --output_dir data/updates
+```
+
+### Raw Data Structure
 
 All scrapers output JSON data with the following structure:
 

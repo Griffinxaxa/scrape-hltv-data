@@ -59,12 +59,53 @@ def run_results_scraper():
     from hltv_resultsscrape import main
     return main()
 
+def run_aggregator(input_file: str, output_file: str = None):
+    """Run the team statistics aggregator"""
+    print("📊 Starting team statistics aggregator...")
+    from aggregate_team_stats import TeamStatsAggregator
+    
+    if not output_file:
+        output_file = input_file.replace('.json', '_team_averages.json')
+    
+    aggregator = TeamStatsAggregator(input_file, output_file)
+    aggregator.run()
+    return 0
+
+def run_csv_converter(input_file: str, output_file: str = None):
+    """Run the JSON to CSV converter"""
+    print("📊 Starting JSON to CSV converter...")
+    from json_to_csv_converter import JSONToCSVConverter
+    
+    if not output_file:
+        output_file = input_file.replace('.json', '.csv')
+    
+    converter = JSONToCSVConverter(input_file, output_file)
+    converter.run()
+    return 0
+
+def run_update_scraper(target_match_id: int, output_dir: str = "data/updates"):
+    """Run the update scraper"""
+    print(f"🔄 Starting update scraper for matches newer than ID {target_match_id}...")
+    from hltv_update_scraper import HLTVUpdateScraper
+    
+    scraper = HLTVUpdateScraper(target_match_id, output_dir)
+    scraper.run()
+    return 0
+
 def main():
     parser = argparse.ArgumentParser(description="HLTV Scraper Runner")
-    parser.add_argument("scraper", choices=["blast", "largescale", "test", "results"], 
+    parser.add_argument("scraper", choices=["blast", "largescale", "test", "results", "aggregate", "csv", "update"], 
                        help="Which scraper to run")
     parser.add_argument("--matches", "-m", type=int, default=500,
                        help="Number of matches to scrape (for largescale and test)")
+    parser.add_argument("--input", "-i", type=str,
+                       help="Input file for aggregation")
+    parser.add_argument("--output", "-o", type=str,
+                       help="Output file for aggregation")
+    parser.add_argument("--target_match_id", "-t", type=int,
+                       help="Target match ID for update scraper")
+    parser.add_argument("--output_dir", type=str, default="data/updates",
+                       help="Output directory for update scraper")
     
     args = parser.parse_args()
     
@@ -73,6 +114,7 @@ def main():
     os.makedirs("data/largescale", exist_ok=True)
     os.makedirs("data/test", exist_ok=True)
     os.makedirs("data/results", exist_ok=True)
+    os.makedirs("data/updates", exist_ok=True)
     
     if args.scraper == "blast":
         return run_blast_scraper()
@@ -82,6 +124,21 @@ def main():
         return run_test_scraper(args.matches)
     elif args.scraper == "results":
         return run_results_scraper()
+    elif args.scraper == "aggregate":
+        if not args.input:
+            print("Error: --input file required for aggregation")
+            return 1
+        return run_aggregator(args.input, args.output)
+    elif args.scraper == "csv":
+        if not args.input:
+            print("Error: --input file required for CSV conversion")
+            return 1
+        return run_csv_converter(args.input, args.output)
+    elif args.scraper == "update":
+        if not args.target_match_id:
+            print("Error: --target_match_id required for update scraper")
+            return 1
+        return run_update_scraper(args.target_match_id, args.output_dir)
 
 if __name__ == "__main__":
     exit(main())
