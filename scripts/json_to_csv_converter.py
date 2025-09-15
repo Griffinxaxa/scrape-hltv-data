@@ -83,6 +83,19 @@ class JSONToCSVConverter:
         row['score_team1'] = match.get('score', {}).get('team1', None)
         row['score_team2'] = match.get('score', {}).get('team2', None)
         
+        # Map veto information
+        map_veto = match.get('map_veto', {})
+        row['winner_map'] = map_veto.get('winner_map', None)
+        row['loser_map'] = map_veto.get('loser_map', None)
+        row['decider_map'] = map_veto.get('decider', None)
+        
+        # Head-to-head information
+        head2head = match.get('head_to_head', {})
+        row['winner_head2head_freq'] = head2head.get('winner_head2head_freq', None)
+        row['loser_head2head_freq'] = head2head.get('loser_head2head_freq', None)
+        row['winner_head2head_percentage'] = head2head.get('winner_head2head_percentage', None)
+        row['loser_head2head_percentage'] = head2head.get('loser_head2head_percentage', None)
+        
         # Metadata
         metadata = match.get('metadata', {})
         row['match_type'] = metadata.get('match_type', '')
@@ -120,6 +133,8 @@ class JSONToCSVConverter:
         # Basic match info
         headers.extend([
             'match_id', 'hltv_match_id', 'date', 'tournament', 'winner', 'score_team1', 'score_team2',
+            'winner_map', 'loser_map', 'decider_map',
+            'winner_head2head_freq', 'loser_head2head_freq', 'winner_head2head_percentage', 'loser_head2head_percentage',
             'match_type', 'event_type', 'scraped_date', 'hltv_url', 'match_number'
         ])
         

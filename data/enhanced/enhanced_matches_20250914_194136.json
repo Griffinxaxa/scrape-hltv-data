@@ -1,0 +1,156 @@
+{
+  "enhanced_scraping_session": {
+    "target_match_id": 2385305,
+    "num_matches_requested": 1,
+    "matches_found": 1,
+    "scraped_date": "2025-09-14T19:41:36.237394Z"
+  },
+  "matches": [
+    {
+      "match_id": "hltv_match_2385594",
+      "hltv_match_id": 2385594,
+      "date": "2025-09-14T15:30:00Z",
+      "tournament": "CCT Season 3 South America Series 4",
+      "winner": "team1",
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
+      "map_veto": {
+        "winner_map": "Mirage",
+        "loser_map": "Inferno",
+        "decider": "Nuke"
+      },
+      "team1": {
+        "name": "Fluxo",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 71.8,
+          "ADR": 76.96,
+          "KPR": 0.72,
+          "RATING": 1.12
+        },
+        "players": [
+          {
+            "name": "art",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 69.2,
+              "ADR": 77.5,
+              "KPR": 0.69,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "lucaozy",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 72.4,
+              "ADR": 77.9,
+              "KPR": 0.72,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "zevy",
+            "statistics": {
+              "DPR": 0.61,
+              "KAST": 72.5,
+              "ADR": 73.9,
+              "KPR": 0.74,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "decenty",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 73.4,
+              "ADR": 78.5,
+              "KPR": 0.74,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "kye",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 71.5,
+              "ADR": 77.0,
+              "KPR": 0.71,
+              "RATING": 1.1
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Players",
+        "team_averages": {
+          "DPR": 0.68,
+          "KAST": 69.32,
+          "ADR": 71.22,
+          "KPR": 0.64,
+          "RATING": 1.01
+        },
+        "players": [
+          {
+            "name": "flash",
+            "statistics": {
+              "DPR": 0.72,
+              "KAST": 69.5,
+              "ADR": 70.8,
+              "KPR": 0.61,
+              "RATING": 0.97
+            }
+          },
+          {
+            "name": "dok",
+            "statistics": {
+              "DPR": 0.72,
+              "KAST": 68.2,
+              "ADR": 75.4,
+              "KPR": 0.65,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "mithputtini",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 69.1,
+              "ADR": 66.5,
+              "KPR": 0.65,
+              "RATING": 1.01
+            }
+          },
+          {
+            "name": "xns",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 70.9,
+              "ADR": 72.1,
+              "KPR": 0.64,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "honda",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 68.9,
+              "ADR": 71.3,
+              "KPR": 0.66,
+              "RATING": 1.01
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "online",
+        "scraped_date": "2025-09-14T19:41:36.237244Z",
+        "hltv_url": "https://www.hltv.org/matches/2385594/fluxo-vs-players-cct-season-3-south-america-series-4"
+      }
+    }
+  ]
+}
