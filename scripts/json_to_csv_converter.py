@@ -80,6 +80,7 @@ class JSONToCSVConverter:
         row['date'] = match.get('date', '')
         row['tournament'] = match.get('tournament', '')
         row['winner'] = match.get('winner', '')
+        row['season'] = match.get('season', 1)
         row['score_team1'] = match.get('score', {}).get('team1', None)
         row['score_team2'] = match.get('score', {}).get('team2', None)
         
@@ -95,6 +96,18 @@ class JSONToCSVConverter:
         row['loser_head2head_freq'] = head2head.get('loser_head2head_freq', None)
         row['winner_head2head_percentage'] = head2head.get('winner_head2head_percentage', None)
         row['loser_head2head_percentage'] = head2head.get('loser_head2head_percentage', None)
+        
+        # Past 3 months information
+        past3_data = match.get('past_3_months', {})
+        row['winner_past3'] = past3_data.get('winner_past3', 50.0)
+        row['loser_past3'] = past3_data.get('loser_past3', 50.0)
+        
+        # Map win rates information
+        map_winrates = match.get('map_winrates', {})
+        all_maps = ['mirage', 'inferno', 'nuke', 'dust2', 'overpass', 'train', 'ancient', 'cache', 'vertigo', 'anubis', 'cobblestone']
+        for map_name in all_maps:
+            row[f'winner_{map_name}'] = map_winrates.get(f'winner_{map_name}', 50.0)
+            row[f'loser_{map_name}'] = map_winrates.get(f'loser_{map_name}', 50.0)
         
         # Metadata
         metadata = match.get('metadata', {})
@@ -132,9 +145,15 @@ class JSONToCSVConverter:
         
         # Basic match info
         headers.extend([
-            'match_id', 'hltv_match_id', 'date', 'tournament', 'winner', 'score_team1', 'score_team2',
+            'match_id', 'hltv_match_id', 'date', 'tournament', 'winner', 'season', 'score_team1', 'score_team2',
             'winner_map', 'loser_map', 'decider_map',
             'winner_head2head_freq', 'loser_head2head_freq', 'winner_head2head_percentage', 'loser_head2head_percentage',
+            'winner_past3', 'loser_past3',
+            # Map win rates for all maps
+            'winner_mirage', 'loser_mirage', 'winner_inferno', 'loser_inferno', 'winner_nuke', 'loser_nuke',
+            'winner_dust2', 'loser_dust2', 'winner_overpass', 'loser_overpass', 'winner_train', 'loser_train',
+            'winner_ancient', 'loser_ancient', 'winner_cache', 'loser_cache', 'winner_vertigo', 'loser_vertigo',
+            'winner_anubis', 'loser_anubis', 'winner_cobblestone', 'loser_cobblestone',
             'match_type', 'event_type', 'scraped_date', 'hltv_url', 'match_number'
         ])
         

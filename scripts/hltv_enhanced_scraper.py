@@ -36,6 +36,15 @@ class HLTVEnhancedScraper:
         # Delays for respectful scraping
         self.page_delay = 2
         self.match_delay = 1
+        
+        # Large-scale scraping features
+        self.match_counter = 0
+        self.pause_file = os.path.join(output_dir, "scraper_pause.flag")
+        self.progress_file = os.path.join(output_dir, "scraper_progress.json")
+        self.matches_per_season = 1750
+        
+        # Load progress if resuming
+        self.load_progress()
         self.player_stat_delay = 0.5
         
         # Create cloudscraper session to handle Cloudflare
@@ -51,6 +60,61 @@ class HLTVEnhancedScraper:
         
         # Create output directory
         os.makedirs(self.output_dir, exist_ok=True)
+    
+    def load_progress(self):
+        """Load scraping progress from file if resuming"""
+        try:
+            if os.path.exists(self.progress_file):
+                with open(self.progress_file, 'r') as f:
+                    progress_data = json.load(f)
+                    self.match_counter = progress_data.get('match_counter', 0)
+                    print(f"🔄 Resuming scraping from match #{self.match_counter + 1}")
+            else:
+                self.match_counter = 0
+                print(f"🚀 Starting fresh scraping session")
+        except Exception as e:
+            print(f"⚠️ Error loading progress: {e}. Starting fresh.")
+            self.match_counter = 0
+    
+    def save_progress(self):
+        """Save current scraping progress"""
+        try:
+            progress_data = {
+                'match_counter': self.match_counter,
+                'timestamp': datetime.now().isoformat()
+            }
+            with open(self.progress_file, 'w') as f:
+                json.dump(progress_data, f, indent=2)
+        except Exception as e:
+            print(f"⚠️ Error saving progress: {e}")
+    
+    def check_pause_signal(self):
+        """Check if pause signal file exists"""
+        return os.path.exists(self.pause_file)
+    
+    def handle_pause(self):
+        """Handle pause signal - save progress and exit gracefully"""
+        print(f"\n⏸️ Pause signal detected! Saving progress...")
+        self.save_progress()
+        print(f"💾 Progress saved at match #{self.match_counter}")
+        print(f"🔄 To resume, delete the pause file: {self.pause_file}")
+        print(f"📊 Current season: {self.get_current_season()}")
+        return True
+    
+    def get_current_season(self):
+        """Calculate current season based on match counter"""
+        if self.match_counter == 0:
+            return 1
+        return min(8, ((self.match_counter - 1) // self.matches_per_season) + 1)
+    
+    def create_pause_file(self):
+        """Create pause signal file for graceful stopping"""
+        try:
+            with open(self.pause_file, 'w') as f:
+                f.write(f"Pause requested at {datetime.now().isoformat()}")
+            print(f"✅ Pause file created: {self.pause_file}")
+        except Exception as e:
+            print(f"❌ Error creating pause file: {e}")
         
     def get_page_content(self, url: str) -> BeautifulSoup:
         """Get page content using cloudscraper"""
@@ -267,6 +331,309 @@ class HLTVEnhancedScraper:
         except Exception as e:
             print(f"    -> Error extracting head-to-head: {e}")
             return {"winner_head2head_freq": None, "loser_head2head_freq": None}
+    
+    def extract_past3_months(self, match_url: str, team1_name: str, team2_name: str, winner: str) -> Dict[str, Optional[float]]:
+        """Extract past 3 months win percentage for each team"""
+        try:
+            response = self.session.get(match_url)
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Find past matches boxes for both teams
+            past_matches_boxes = soup.select('.past-matches-box.text-ellipsis')
+            
+            # Also try alternative selectors
+            if not past_matches_boxes:
+                past_matches_boxes = soup.select('.past-matches-box')
+            if not past_matches_boxes:
+                past_matches_boxes = soup.select('[class*="past-matches"]')
+            
+            # Find past matches tables which contain the complete match history
+            
+            team1_wins = 0
+            team1_total = 0
+            team2_wins = 0
+            team2_total = 0
+            
+            print(f"    -> Found {len(past_matches_boxes)} past-matches-box elements")
+            
+            # Let's also try to find the tables which might have more complete data
+            past_tables = soup.select('.past-matches-table')
+            print(f"    -> Found {len(past_tables)} past-matches-table elements")
+            
+            if past_tables:
+                for i, table in enumerate(past_tables):
+                    rows = table.select('tr')
+                    print(f"    -> Table {i+1}: {len(rows)} rows")
+                    for j, row in enumerate(rows[:5]):  # Show first 5 rows
+                        team_cell = row.select_one('.past-matches-team')
+                        score_cell = row.select_one('.past-matches-score')
+                        if team_cell and score_cell:
+                            print(f"    -> Table {i+1}, Row {j+1}: Team='{team_cell.get_text().strip()}', Score='{score_cell.get_text().strip()}'")
+            
+            # Since tables 1&3 and 2&4 appear to be duplicates, let's just process the first 2 unique ones
+            # Based on the debug output, Table 1 has 19 rows (should be Astralis) and Table 2 has 16 rows (should be GamerLegion)
+            
+            if len(past_tables) >= 2:
+                # Process first table (should be Astralis - 19 rows)
+                table1 = past_tables[0]
+                rows1 = table1.select('tr')
+                print(f"    -> Processing Table 1 as {team1_name}: {len(rows1)} matches")
+                
+                table1_wins = 0
+                table1_total = 0
+                
+                for row in rows1:
+                    score_elem = row.select_one('.past-matches-score')
+                    if not score_elem:
+                        continue
+                    
+                    score_text = score_elem.get_text().strip()
+                    
+                    # Skip if score contains '3' (best of 5)
+                    if '3' in score_text:
+                        continue
+                    
+                    # Extract the first number from the score
+                    import re
+                    score_match = re.search(r'^(\d+)', score_text)
+                    if not score_match:
+                        continue
+                    
+                    first_score = int(score_match.group(1))
+                    
+                    # Count as win if starts with 2, loss if starts with 0 or 1
+                    is_win = first_score >= 2
+                    
+                    table1_total += 1
+                    if is_win:
+                        table1_wins += 1
+                
+                team1_total = table1_total
+                team1_wins = table1_wins
+                print(f"    -> Table 1 ({team1_name}) totals: {table1_wins}/{table1_total} wins")
+                
+                # Process second table (should be GamerLegion - 16 rows)  
+                table2 = past_tables[1]
+                rows2 = table2.select('tr')
+                print(f"    -> Processing Table 2 as {team2_name}: {len(rows2)} matches")
+                
+                table2_wins = 0
+                table2_total = 0
+                
+                for row in rows2:
+                    score_elem = row.select_one('.past-matches-score')
+                    if not score_elem:
+                        continue
+                    
+                    score_text = score_elem.get_text().strip()
+                    
+                    # Skip if score contains '3' (best of 5)
+                    if '3' in score_text:
+                        continue
+                    
+                    # Extract the first number from the score
+                    import re
+                    score_match = re.search(r'^(\d+)', score_text)
+                    if not score_match:
+                        continue
+                    
+                    first_score = int(score_match.group(1))
+                    
+                    # Count as win if starts with 2, loss if starts with 0 or 1
+                    is_win = first_score >= 2
+                    
+                    table2_total += 1
+                    if is_win:
+                        table2_wins += 1
+                
+                team2_total = table2_total
+                team2_wins = table2_wins
+                print(f"    -> Table 2 ({team2_name}) totals: {table2_wins}/{table2_total} wins")
+            
+            # Calculate percentages
+            team1_percentage = 50.0  # Default if no data
+            team2_percentage = 50.0  # Default if no data
+            
+            if team1_total > 0:
+                team1_percentage = round((team1_wins / team1_total) * 100, 2)
+            
+            if team2_total > 0:
+                team2_percentage = round((team2_wins / team2_total) * 100, 2)
+            
+            # Assign to winner and loser
+            if winner == "team1":
+                winner_past3 = team1_percentage
+                loser_past3 = team2_percentage
+            else:  # winner == "team2"
+                winner_past3 = team2_percentage
+                loser_past3 = team1_percentage
+            
+            print(f"    -> Past 3 months - {team1_name}: {team1_wins}/{team1_total} ({team1_percentage}%), {team2_name}: {team2_wins}/{team2_total} ({team2_percentage}%)")
+            print(f"    -> Winner past3: {winner_past3}%, Loser past3: {loser_past3}%")
+            
+            return {
+                "winner_past3": winner_past3,
+                "loser_past3": loser_past3
+            }
+            
+        except Exception as e:
+            print(f"    -> Error extracting past 3 months: {e}")
+            return {"winner_past3": 50.0, "loser_past3": 50.0}
+    
+    def extract_team_ids(self, match_url: str) -> Dict[str, Optional[str]]:
+        """Extract team IDs from the match page"""
+        try:
+            response = self.session.get(match_url)
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Look for team links that contain /team/ in the href
+            team_links = soup.select('a[href*="/team/"]')
+            
+            team1_id = None
+            team2_id = None
+            
+            for link in team_links:
+                href = link.get('href', '')
+                if '/team/' in href:
+                    # Extract team ID from URL like /team/4991/astralis
+                    import re
+                    match = re.search(r'/team/(\d+)/', href)
+                    if match:
+                        team_id = match.group(1)
+                        if team1_id is None:
+                            team1_id = team_id
+                        elif team2_id is None and team_id != team1_id:
+                            team2_id = team_id
+                            break
+            
+            print(f"    -> Extracted team IDs: team1={team1_id}, team2={team2_id}")
+            return {"team1_id": team1_id, "team2_id": team2_id}
+            
+        except Exception as e:
+            print(f"    -> Error extracting team IDs: {e}")
+            return {"team1_id": None, "team2_id": None}
+    
+    def extract_map_winrates(self, team_id: str, team_name: str) -> Dict[str, float]:
+        """Extract map win rates for a specific team"""
+        try:
+            # Format team name for URL (lowercase, replace spaces with dashes)
+            team_name_formatted = team_name.lower().replace(' ', '-').replace('.', '')
+            stats_url = f"https://www.hltv.org/stats/teams/maps/{team_id}/{team_name_formatted}"
+            
+            print(f"    -> Fetching map stats from: {stats_url}")
+            response = self.session.get(stats_url)
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Find all map pool elements
+            map_elements = soup.select('.map-pool-map-name')
+            
+            # Define all possible maps
+            all_maps = ['mirage', 'inferno', 'nuke', 'dust2', 'overpass', 'train', 'ancient', 'cache', 'vertigo', 'anubis', 'cobblestone']
+            map_winrates = {}
+            
+            # Initialize all maps to 50% (default)
+            for map_name in all_maps:
+                map_winrates[map_name] = 50.0
+            
+            # Debug: Print all map-related elements found
+            print(f"    -> Found {len(map_elements)} map-pool-map-name elements")
+            
+            # Also try alternative selectors
+            if not map_elements:
+                alt_selectors = ['.map-pool-map', '.map-name', '[class*="map"]']
+                for selector in alt_selectors:
+                    alt_elements = soup.select(selector)
+                    if alt_elements:
+                        print(f"    -> Alternative selector '{selector}' found {len(alt_elements)} elements")
+                        map_elements = alt_elements[:11]  # Take first 11 as backup
+                        break
+            
+            # Parse the actual map data
+            for i, element in enumerate(map_elements):
+                print(f"    -> Processing map element {i+1}")
+                
+                # Try to get map name and percentage from the element text
+                full_text = element.get_text().strip()
+                if not full_text:
+                    continue
+                
+                print(f"    -> Processing element text: '{full_text}'")
+                
+                import re
+                # Look for pattern like "mapname - percentage%"
+                match = re.match(r'^([a-zA-Z0-9]+)\s*-\s*(\d+(?:\.\d+)?)%', full_text)
+                if match:
+                    map_name = match.group(1).lower()
+                    percentage = float(match.group(2))
+                    
+                    print(f"    -> Extracted map: '{map_name}', percentage: {percentage}%")
+                    
+                    if map_name in all_maps:
+                        map_winrates[map_name] = percentage
+                        print(f"    -> {team_name} {map_name}: {percentage}%")
+                    else:
+                        print(f"    -> Map '{map_name}' not in our list of maps")
+                else:
+                    # If no percentage in the text, just get the map name
+                    map_name = full_text.lower()
+                    if map_name in all_maps:
+                        print(f"    -> Found map '{map_name}' without percentage, using default 50%")
+                    else:
+                        print(f"    -> Could not parse '{full_text}'")
+            
+            return map_winrates
+            
+        except Exception as e:
+            print(f"    -> Error extracting map winrates for {team_name}: {e}")
+            # Return default 50% for all maps
+            all_maps = ['mirage', 'inferno', 'nuke', 'dust2', 'overpass', 'train', 'ancient', 'cache', 'vertigo', 'anubis', 'cobblestone']
+            return {map_name: 50.0 for map_name in all_maps}
+    
+    def extract_team_map_winrates(self, match_url: str, team1_name: str, team2_name: str, winner: str) -> Dict[str, float]:
+        """Extract map win rates for both teams and assign to winner/loser"""
+        try:
+            # First extract team IDs
+            team_ids = self.extract_team_ids(match_url)
+            team1_id = team_ids["team1_id"]
+            team2_id = team_ids["team2_id"]
+            
+            if not team1_id or not team2_id:
+                print(f"    -> Could not extract team IDs, using defaults")
+                # Return default 50% for all maps
+                all_maps = ['mirage', 'inferno', 'nuke', 'dust2', 'overpass', 'train', 'ancient', 'cache', 'vertigo', 'anubis', 'cobblestone']
+                result = {}
+                for map_name in all_maps:
+                    result[f"winner_{map_name}"] = 50.0
+                    result[f"loser_{map_name}"] = 50.0
+                return result
+            
+            # Extract map winrates for both teams
+            team1_winrates = self.extract_map_winrates(team1_id, team1_name)
+            team2_winrates = self.extract_map_winrates(team2_id, team2_name)
+            
+            # Assign to winner/loser based on match result
+            result = {}
+            all_maps = ['mirage', 'inferno', 'nuke', 'dust2', 'overpass', 'train', 'ancient', 'cache', 'vertigo', 'anubis', 'cobblestone']
+            
+            for map_name in all_maps:
+                if winner == "team1":
+                    result[f"winner_{map_name}"] = team1_winrates.get(map_name, 50.0)
+                    result[f"loser_{map_name}"] = team2_winrates.get(map_name, 50.0)
+                else:  # winner == "team2"
+                    result[f"winner_{map_name}"] = team2_winrates.get(map_name, 50.0)
+                    result[f"loser_{map_name}"] = team1_winrates.get(map_name, 50.0)
+            
+            return result
+            
+        except Exception as e:
+            print(f"    -> Error extracting team map winrates: {e}")
+            # Return default 50% for all maps
+            all_maps = ['mirage', 'inferno', 'nuke', 'dust2', 'overpass', 'train', 'ancient', 'cache', 'vertigo', 'anubis', 'cobblestone']
+            result = {}
+            for map_name in all_maps:
+                result[f"winner_{map_name}"] = 50.0
+                result[f"loser_{map_name}"] = 50.0
+            return result
 
     def extract_map_veto(self, match_url: str, team1_name: str, team2_name: str, winner: str) -> Dict[str, Optional[str]]:
         """Extract map veto information from match page"""
@@ -585,12 +952,26 @@ class HLTVEnhancedScraper:
                 print(f"Found {len(all_matches_on_page)} matches on page {page_number}")
                 
                 for i, match_element in enumerate(all_matches_on_page):
+                    # Check for pause signal before processing each match
+                    if self.check_pause_signal():
+                        if self.handle_pause():
+                            return all_matches
+                    
                     if matches_found >= self.num_matches:
                         print(f"Reached target of {self.num_matches} matches, stopping...")
                         break
                     
+                    # Increment match counter and calculate season
+                    self.match_counter += 1
+                    current_season = self.get_current_season()
+                    
                     match_number = matches_found + 1
                     print(f"\nProcessing match {match_number}/{self.num_matches} (Page {page_number}, Match {i+1})...")
+                    print(f"📊 Global Match #{self.match_counter} | Season {current_season}")
+                    
+                    # Save progress every 10 matches
+                    if self.match_counter % 10 == 0:
+                        self.save_progress()
                     
                     try:
                         match_info = self.extract_match_info(match_element, match_number)
@@ -612,12 +993,15 @@ class HLTVEnhancedScraper:
                         event_type = self.extract_event_type(match_info['match_url'])
                         map_veto = self.extract_map_veto(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
                         head2head = self.extract_head_to_head(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
+                        past3_data = self.extract_past3_months(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
+                        map_winrates = self.extract_team_map_winrates(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
                         
                         print(f"    -> Date: {match_date}")
                         print(f"    -> Tournament: {tournament}")
                         print(f"    -> Event Type: {event_type}")
                         print(f"    -> Map Veto: Winner={map_veto['winner_map']}, Loser={map_veto['loser_map']}, Decider={map_veto['decider']}")
                         print(f"    -> Head-to-Head: Winner={head2head['winner_head2head_freq']}, Loser={head2head['loser_head2head_freq']}")
+                        print(f"    -> Past 3 Months: Winner={past3_data['winner_past3']}%, Loser={past3_data['loser_past3']}%")
                         
                         # Get team URLs
                         team1_url, team2_url = self.scrape_team_urls(match_info["match_url"])
@@ -681,6 +1065,7 @@ class HLTVEnhancedScraper:
                             "date": match_date,
                             "tournament": tournament,
                             "winner": match_info["winner"],
+                            "season": current_season,
                             "score": {
                                 "team1": match_info["team1_score"],
                                 "team2": match_info["team2_score"]
@@ -696,6 +1081,11 @@ class HLTVEnhancedScraper:
                                 "winner_head2head_percentage": winner_h2h_percentage,
                                 "loser_head2head_percentage": loser_h2h_percentage
                             },
+                            "past_3_months": {
+                                "winner_past3": past3_data["winner_past3"],
+                                "loser_past3": past3_data["loser_past3"]
+                            },
+                            "map_winrates": map_winrates,
                             "team1": {
                                 "name": match_info["team1_name"],
                                 "team_averages": team1_averages,
@@ -746,6 +1136,9 @@ class HLTVEnhancedScraper:
         except Exception as e:
             print(f"Error during scraping: {e}")
             return all_matches
+        finally:
+            # Always save final progress
+            self.save_progress()
     
     def save_to_json(self, matches: List[Dict[str, Any]]) -> str:
         """Save matches to JSON file"""
@@ -785,8 +1178,13 @@ class HLTVEnhancedScraper:
         # Save to JSON
         json_file = self.save_to_json(matches)
         
+        # Save final progress
+        self.save_progress()
+        
         print(f"\n📊 Enhanced Scraping Summary:")
         print(f"  • Matches scraped: {len(matches)}")
+        print(f"  • Total matches processed: {self.match_counter}")
+        print(f"  • Final season: {self.get_current_season()}")
         print(f"  • JSON file: {json_file}")
         print(f"  • Enhanced data: Date, Tournament, LAN/Online status")
 
@@ -799,11 +1197,18 @@ def main():
                        help='Number of matches to scrape')
     parser.add_argument('--output_dir', '-o', type=str, default='data/enhanced',
                        help='Output directory for enhanced matches')
+    parser.add_argument('--pause', action='store_true',
+                       help='Create a pause file to stop scraping gracefully')
     
     args = parser.parse_args()
     
-    scraper = HLTVEnhancedScraper(args.target_match_id, args.num_matches, args.output_dir)
-    scraper.run()
+    if args.pause:
+        # Create pause file
+        scraper = HLTVEnhancedScraper(args.target_match_id, args.num_matches, args.output_dir)
+        scraper.create_pause_file()
+    else:
+        scraper = HLTVEnhancedScraper(args.target_match_id, args.num_matches, args.output_dir)
+        scraper.run()
 
 if __name__ == "__main__":
     main()
