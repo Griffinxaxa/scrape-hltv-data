@@ -18,6 +18,7 @@ import sys
 import os
 import argparse
 import time
+import signal
 from datetime import datetime
 from typing import Dict, List, Any, Optional
 from statistics import mean
@@ -36,6 +37,9 @@ class HLTVEnhancedScraper:
         # Delays for respectful scraping
         self.page_delay = 2
         self.match_delay = 1
+        
+        # Timeout handling for stuck matches
+        self.match_timeout = 300  # 5 minutes per match max
         
         # Large-scale scraping features
         self.match_counter = 0
@@ -100,6 +104,57 @@ class HLTVEnhancedScraper:
         print(f"🔄 To resume, delete the pause file: {self.pause_file}")
         print(f"📊 Current season: {self.get_current_season()}")
         return True
+    
+    def timeout_handler(self, signum, frame):
+        """Handle timeout for stuck matches"""
+        raise TimeoutError("Match processing timed out")
+    
+    def process_match_with_timeout(self, match_element, match_number, match_info):
+        """Process a single match with timeout protection"""
+        def process_match():
+            # Extract enhanced information from match page
+            print(f"    Extracting enhanced information...")
+            match_date = self.extract_match_date(match_info['match_url'])
+            tournament = self.extract_tournament(match_info['match_url'])
+            event_type = self.extract_event_type(match_info['match_url'])
+            map_veto = self.extract_map_veto(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
+            head2head = self.extract_head_to_head(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
+            past3_data = self.extract_past3_months(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
+            map_winrates = self.extract_team_map_winrates(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
+            
+            print(f"    -> Date: {match_date}")
+            print(f"    -> Tournament: {tournament}")
+            print(f"    -> Event Type: {event_type}")
+            print(f"    -> Map Veto: Winner={map_veto['winner_map']}, Loser={map_veto['loser_map']}, Decider={map_veto['decider']}")
+            print(f"    -> Head-to-Head: Winner={head2head['winner_head2head_freq']}, Loser={head2head['loser_head2head_freq']}")
+            print(f"    -> Past 3 Months: Winner={past3_data['winner_past3']}%, Loser={past3_data['loser_past3']}%")
+            
+            return {
+                'match_date': match_date,
+                'tournament': tournament, 
+                'event_type': event_type,
+                'map_veto': map_veto,
+                'head2head': head2head,
+                'past3_data': past3_data,
+                'map_winrates': map_winrates
+            }
+        
+        # Set up timeout
+        old_handler = signal.signal(signal.SIGALRM, self.timeout_handler)
+        signal.alarm(self.match_timeout)
+        
+        try:
+            return process_match()
+        except TimeoutError:
+            print(f"    ⏰ Match processing timed out after {self.match_timeout} seconds, skipping...")
+            return None
+        except Exception as e:
+            print(f"    ❌ Error processing match: {e}")
+            return None
+        finally:
+            # Restore original handler and cancel alarm
+            signal.alarm(0)
+            signal.signal(signal.SIGALRM, old_handler)
     
     def get_current_season(self):
         """Calculate current season based on match counter"""
@@ -760,7 +815,7 @@ class HLTVEnhancedScraper:
                 return None
             
             # Check if we've reached our target match ID
-            if match_id <= self.target_match_id:
+            if match_id and match_id <= self.target_match_id:
                 print(f"  -> Reached target match ID {self.target_match_id} (found {match_id})")
                 return None
             
@@ -986,22 +1041,19 @@ class HLTVEnhancedScraper:
                         
                         print(f"  -> Processing: {match_info['team1_name']} vs {match_info['team2_name']}")
                         
-                        # Extract enhanced information from match page
-                        print(f"    Extracting enhanced information...")
-                        match_date = self.extract_match_date(match_info['match_url'])
-                        tournament = self.extract_tournament(match_info['match_url'])
-                        event_type = self.extract_event_type(match_info['match_url'])
-                        map_veto = self.extract_map_veto(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
-                        head2head = self.extract_head_to_head(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
-                        past3_data = self.extract_past3_months(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
-                        map_winrates = self.extract_team_map_winrates(match_info['match_url'], match_info['team1_name'], match_info['team2_name'], match_info['winner'])
+                        # Extract enhanced information with timeout protection
+                        enhanced_data = self.process_match_with_timeout(match_element, match_number, match_info)
+                        if not enhanced_data:
+                            print(f"  -> Skipping match due to timeout or error")
+                            continue
                         
-                        print(f"    -> Date: {match_date}")
-                        print(f"    -> Tournament: {tournament}")
-                        print(f"    -> Event Type: {event_type}")
-                        print(f"    -> Map Veto: Winner={map_veto['winner_map']}, Loser={map_veto['loser_map']}, Decider={map_veto['decider']}")
-                        print(f"    -> Head-to-Head: Winner={head2head['winner_head2head_freq']}, Loser={head2head['loser_head2head_freq']}")
-                        print(f"    -> Past 3 Months: Winner={past3_data['winner_past3']}%, Loser={past3_data['loser_past3']}%")
+                        match_date = enhanced_data['match_date']
+                        tournament = enhanced_data['tournament']
+                        event_type = enhanced_data['event_type']
+                        map_veto = enhanced_data['map_veto']
+                        head2head = enhanced_data['head2head']
+                        past3_data = enhanced_data['past3_data']
+                        map_winrates = enhanced_data['map_winrates']
                         
                         # Get team URLs
                         team1_url, team2_url = self.scrape_team_urls(match_info["match_url"])

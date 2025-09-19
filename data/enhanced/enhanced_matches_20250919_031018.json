@@ -1,0 +1,191 @@
+{
+  "enhanced_scraping_session": {
+    "target_match_id": 2385397,
+    "num_matches_requested": 1,
+    "matches_found": 1,
+    "scraped_date": "2025-09-19T03:10:18.239774Z"
+  },
+  "matches": [
+    {
+      "match_id": "hltv_match_2385669",
+      "hltv_match_id": 2385669,
+      "date": null,
+      "tournament": "ESL Impact League Season 8 North America",
+      "winner": "team1",
+      "season": 1,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
+      "map_veto": {
+        "winner_map": "Dust2",
+        "loser_map": "Inferno",
+        "decider": "Overpass"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 2,
+        "loser_head2head_freq": 0,
+        "winner_head2head_percentage": 100.0,
+        "loser_head2head_percentage": 0.0
+      },
+      "past_3_months": {
+        "winner_past3": 30.77,
+        "loser_past3": 16.67
+      },
+      "map_winrates": {
+        "winner_mirage": 51.3,
+        "loser_mirage": 43.5,
+        "winner_inferno": 50.0,
+        "loser_inferno": 45.2,
+        "winner_nuke": 75.0,
+        "loser_nuke": 38.1,
+        "winner_dust2": 50.0,
+        "loser_dust2": 30.8,
+        "winner_overpass": 52.6,
+        "loser_overpass": 41.0,
+        "winner_train": 50.0,
+        "loser_train": 50.7,
+        "winner_ancient": 62.5,
+        "loser_ancient": 60.0,
+        "winner_cache": 50.0,
+        "loser_cache": 44.0,
+        "winner_vertigo": 50.0,
+        "loser_vertigo": 50.0,
+        "winner_anubis": 66.7,
+        "loser_anubis": 75.0,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 48.6
+      },
+      "team1": {
+        "name": "Shimmer",
+        "team_averages": {
+          "DPR": 0.7,
+          "KAST": 70.68,
+          "ADR": 75.82,
+          "KPR": 0.69,
+          "RATING": 1.07
+        },
+        "players": [
+          {
+            "name": "stx",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 70.3,
+              "ADR": 71.9,
+              "KPR": 0.65,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "empathy",
+            "statistics": {
+              "DPR": 0.73,
+              "KAST": 71.2,
+              "ADR": 90.3,
+              "KPR": 0.82,
+              "RATING": 1.23
+            }
+          },
+          {
+            "name": "fawx",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 72.0,
+              "ADR": 82.0,
+              "KPR": 0.79,
+              "RATING": 1.2
+            }
+          },
+          {
+            "name": "raven",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 70.1,
+              "ADR": 69.1,
+              "KPR": 0.61,
+              "RATING": 0.94
+            }
+          },
+          {
+            "name": "serendipity",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 69.8,
+              "ADR": 65.8,
+              "KPR": 0.59,
+              "RATING": 0.95
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Ghost",
+        "team_averages": {
+          "DPR": 0.68,
+          "KAST": 71.64,
+          "ADR": 74.38,
+          "KPR": 0.68,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "emuhleet",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 71.9,
+              "ADR": 67.6,
+              "KPR": 0.68,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "mira",
+            "statistics": {
+              "DPR": 0.72,
+              "KAST": 71.3,
+              "ADR": 81.5,
+              "KPR": 0.73,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "piggykiki",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 71.7,
+              "ADR": 71.9,
+              "KPR": 0.66,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "7licious",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 73.5,
+              "ADR": 77.7,
+              "KPR": 0.7,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "ellie",
+            "statistics": {
+              "DPR": 0.72,
+              "KAST": 69.8,
+              "ADR": 73.2,
+              "KPR": 0.64,
+              "RATING": 0.99
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "online",
+        "scraped_date": "2025-09-19T03:10:18.238965Z",
+        "hltv_url": "https://www.hltv.org/matches/2385669/shimmer-vs-ghost-esl-impact-league-season-8-north-america"
+      }
+    }
+  ]
+}

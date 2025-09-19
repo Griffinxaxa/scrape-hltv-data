@@ -1,0 +1,553 @@
+{
+  "enhanced_scraping_session": {
+    "target_match_id": 2385397,
+    "num_matches_requested": 3,
+    "matches_found": 3,
+    "scraped_date": "2025-09-18T21:08:49.498854Z"
+  },
+  "matches": [
+    {
+      "match_id": "hltv_match_2385665",
+      "hltv_match_id": 2385665,
+      "date": "2025-09-18T18:15:00Z",
+      "tournament": "ESL Impact League Season 8 South America",
+      "winner": "team2",
+      "season": 1,
+      "score": {
+        "team1": 0,
+        "team2": 2
+      },
+      "map_veto": {
+        "winner_map": "Inferno",
+        "loser_map": "Mirage",
+        "decider": "Dust2"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 0,
+        "loser_head2head_freq": 0,
+        "winner_head2head_percentage": 50.0,
+        "loser_head2head_percentage": 50.0
+      },
+      "past_3_months": {
+        "winner_past3": 50.0,
+        "loser_past3": 0.0
+      },
+      "map_winrates": {
+        "winner_mirage": 100.0,
+        "loser_mirage": 50.0,
+        "winner_inferno": 100.0,
+        "loser_inferno": 0.0,
+        "winner_nuke": 50.0,
+        "loser_nuke": 50.0,
+        "winner_dust2": 50.0,
+        "loser_dust2": 0.0,
+        "winner_overpass": 50.0,
+        "loser_overpass": 50.0,
+        "winner_train": 50.0,
+        "loser_train": 50.0,
+        "winner_ancient": 50.0,
+        "loser_ancient": 0.0,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 50.0,
+        "loser_vertigo": 50.0,
+        "winner_anubis": 50.0,
+        "loser_anubis": 50.0,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "Curralzinho",
+        "team_averages": {
+          "DPR": 0.72,
+          "KAST": 70.06,
+          "ADR": 72.44,
+          "KPR": 0.65,
+          "RATING": 1.0
+        },
+        "players": [
+          {
+            "name": "kati",
+            "statistics": {
+              "DPR": 0.74,
+              "KAST": 66.3,
+              "ADR": 70.5,
+              "KPR": 0.63,
+              "RATING": 0.94
+            }
+          },
+          {
+            "name": "cara-de-banana",
+            "statistics": {
+              "DPR": 0.73,
+              "KAST": 61.7,
+              "ADR": 60.0,
+              "KPR": 0.54,
+              "RATING": 0.82
+            }
+          },
+          {
+            "name": "yuu",
+            "statistics": {
+              "DPR": 0.79,
+              "KAST": 64.2,
+              "ADR": 72.1,
+              "KPR": 0.63,
+              "RATING": 0.9
+            }
+          },
+          {
+            "name": "akane",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 84.5,
+              "ADR": 84.8,
+              "KPR": 0.84,
+              "RATING": 1.31
+            }
+          },
+          {
+            "name": "pack",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 73.6,
+              "ADR": 74.8,
+              "KPR": 0.63,
+              "RATING": 1.01
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Four Magic",
+        "team_averages": {
+          "DPR": 0.67,
+          "KAST": 71.12,
+          "ADR": 74.86,
+          "KPR": 0.69,
+          "RATING": 1.08
+        },
+        "players": [
+          {
+            "name": "annaex",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 72.4,
+              "ADR": 78.7,
+              "KPR": 0.69,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "cellax",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 66.5,
+              "ADR": 66.8,
+              "KPR": 0.68,
+              "RATING": 0.99
+            }
+          },
+          {
+            "name": "josi",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 71.1,
+              "ADR": 74.9,
+              "KPR": 0.68,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "babs",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 73.8,
+              "ADR": 82.1,
+              "KPR": 0.75,
+              "RATING": 1.19
+            }
+          },
+          {
+            "name": "brendinha",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.8,
+              "ADR": 71.8,
+              "KPR": 0.66,
+              "RATING": 1.03
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "online",
+        "scraped_date": "2025-09-18T21:08:12.185511Z",
+        "hltv_url": "https://www.hltv.org/matches/2385665/curralzinho-vs-four-magic-esl-impact-league-season-8-south-america"
+      }
+    },
+    {
+      "match_id": "hltv_match_2385649",
+      "hltv_match_id": 2385649,
+      "date": "2025-09-18T17:00:00Z",
+      "tournament": "ESL Challenger League Season 50 South America Cup 2",
+      "winner": "team2",
+      "season": 1,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
+      "map_veto": {
+        "winner_map": "Nuke",
+        "loser_map": "Mirage",
+        "decider": "Ancient"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 3,
+        "loser_head2head_freq": 2,
+        "winner_head2head_percentage": 60.0,
+        "loser_head2head_percentage": 40.0
+      },
+      "past_3_months": {
+        "winner_past3": 67.65,
+        "loser_past3": 39.13
+      },
+      "map_winrates": {
+        "winner_mirage": 57.0,
+        "loser_mirage": 31.4,
+        "winner_inferno": 64.0,
+        "loser_inferno": 35.1,
+        "winner_nuke": 57.6,
+        "loser_nuke": 35.3,
+        "winner_dust2": 60.0,
+        "loser_dust2": 33.3,
+        "winner_overpass": 62.5,
+        "loser_overpass": 50.0,
+        "winner_train": 50.0,
+        "loser_train": 36.4,
+        "winner_ancient": 52.8,
+        "loser_ancient": 37.5,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 50.0,
+        "loser_vertigo": 50.0,
+        "winner_anubis": 58.4,
+        "loser_anubis": 35.0,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "Yawara",
+        "team_averages": {
+          "DPR": 0.7,
+          "KAST": 69.52,
+          "ADR": 70.04,
+          "KPR": 0.64,
+          "RATING": 0.99
+        },
+        "players": [
+          {
+            "name": "j0w",
+            "statistics": {
+              "DPR": 0.72,
+              "KAST": 68.5,
+              "ADR": 70.5,
+              "KPR": 0.64,
+              "RATING": 0.98
+            }
+          },
+          {
+            "name": "revoltz",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 69.5,
+              "ADR": 66.2,
+              "KPR": 0.6,
+              "RATING": 0.95
+            }
+          },
+          {
+            "name": "tele-d",
+            "statistics": {
+              "DPR": 0.73,
+              "KAST": 69.4,
+              "ADR": 75.4,
+              "KPR": 0.66,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "nardes",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 71.3,
+              "ADR": 77.0,
+              "KPR": 0.74,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "lacerda",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 68.9,
+              "ADR": 61.1,
+              "KPR": 0.56,
+              "RATING": 0.87
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "BESTIA",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.5,
+          "ADR": 75.66,
+          "KPR": 0.7,
+          "RATING": 1.1
+        },
+        "players": [
+          {
+            "name": "noktse",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 68.9,
+              "ADR": 70.7,
+              "KPR": 0.64,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "cass1n",
+            "statistics": {
+              "DPR": 0.58,
+              "KAST": 73.3,
+              "ADR": 72.0,
+              "KPR": 0.7,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "luchov",
+            "statistics": {
+              "DPR": 0.71,
+              "KAST": 70.9,
+              "ADR": 79.0,
+              "KPR": 0.72,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "tomaszin",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 72.9,
+              "ADR": 80.7,
+              "KPR": 0.73,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "timo",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 71.5,
+              "ADR": 75.9,
+              "KPR": 0.71,
+              "RATING": 1.08
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "online",
+        "scraped_date": "2025-09-18T21:08:29.607192Z",
+        "hltv_url": "https://www.hltv.org/matches/2385649/yawara-vs-bestia-esl-challenger-league-season-50-south-america-cup-2"
+      }
+    },
+    {
+      "match_id": "hltv_match_2385650",
+      "hltv_match_id": 2385650,
+      "date": "2025-09-18T17:00:00Z",
+      "tournament": "ESL Challenger League Season 50 South America Cup 2",
+      "winner": "team1",
+      "season": 1,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
+      "map_veto": {
+        "winner_map": "Mirage",
+        "loser_map": "Ancient",
+        "decider": "Nuke"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 5,
+        "loser_head2head_freq": 2,
+        "winner_head2head_percentage": 71.43,
+        "loser_head2head_percentage": 28.57
+      },
+      "past_3_months": {
+        "winner_past3": 57.14,
+        "loser_past3": 63.16
+      },
+      "map_winrates": {
+        "winner_mirage": 56.9,
+        "loser_mirage": 41.9,
+        "winner_inferno": 63.3,
+        "loser_inferno": 56.9,
+        "winner_nuke": 57.2,
+        "loser_nuke": 50.0,
+        "winner_dust2": 37.9,
+        "loser_dust2": 50.0,
+        "winner_overpass": 51.9,
+        "loser_overpass": 0.0,
+        "winner_train": 58.3,
+        "loser_train": 50.0,
+        "winner_ancient": 55.3,
+        "loser_ancient": 37.5,
+        "winner_cache": 0.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 52.7,
+        "loser_vertigo": 30.4,
+        "winner_anubis": 53.8,
+        "loser_anubis": 42.9,
+        "winner_cobblestone": 33.3,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "RED Canids",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 72.28,
+          "ADR": 73.88,
+          "KPR": 0.69,
+          "RATING": 1.09
+        },
+        "players": [
+          {
+            "name": "drop",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.9,
+              "ADR": 69.5,
+              "KPR": 0.62,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "chayjesus",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 72.3,
+              "ADR": 76.2,
+              "KPR": 0.69,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "kauez",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 71.1,
+              "ADR": 75.0,
+              "KPR": 0.69,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "history",
+            "statistics": {
+              "DPR": 0.6,
+              "KAST": 72.6,
+              "ADR": 72.1,
+              "KPR": 0.72,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "venomzera",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 72.5,
+              "ADR": 76.6,
+              "KPR": 0.71,
+              "RATING": 1.12
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Galorys",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 72.06,
+          "ADR": 74.44,
+          "KPR": 0.7,
+          "RATING": 1.08
+        },
+        "players": [
+          {
+            "name": "destiny",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.3,
+              "ADR": 77.5,
+              "KPR": 0.71,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "nython",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 71.4,
+              "ADR": 70.6,
+              "KPR": 0.69,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "card",
+            "statistics": {
+              "DPR": 0.61,
+              "KAST": 70.5,
+              "ADR": 69.1,
+              "KPR": 0.69,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "gbb",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 73.1,
+              "ADR": 78.8,
+              "KPR": 0.71,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "tomate",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 74.0,
+              "ADR": 76.2,
+              "KPR": 0.69,
+              "RATING": 1.12
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "online",
+        "scraped_date": "2025-09-18T21:08:49.496626Z",
+        "hltv_url": "https://www.hltv.org/matches/2385650/red-canids-vs-galorys-esl-challenger-league-season-50-south-america-cup-2"
+      }
+    }
+  ]
+}

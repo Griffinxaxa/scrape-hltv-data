@@ -107,7 +107,7 @@ class HLTVUpdateScraper:
                 return None
             
             # Check if we've reached our target match ID
-            if match_id <= self.target_match_id:
+            if match_id and match_id <= self.target_match_id:
                 print(f"  -> Reached target match ID {self.target_match_id} (found {match_id})")
                 return None
             
