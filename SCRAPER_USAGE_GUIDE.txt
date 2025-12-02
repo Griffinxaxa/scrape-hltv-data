@@ -1,0 +1,433 @@
+================================================================================
+HLTV SCRAPER USAGE GUIDE
+================================================================================
+
+This guide explains how to use the various scrapers in this repository to collect
+CS:GO/CS2 match data from HLTV.org.
+
+================================================================================
+PREREQUISITES
+================================================================================
+
+1. Install Python dependencies:
+   pip install -r requirements.txt
+
+2. Activate virtual environment (if using one):
+   source venv/bin/activate
+
+3. Ensure you have a stable internet connection and are respectful of HLTV's
+   servers (scrapers include built-in delays).
+
+================================================================================
+1. INDEX SCRAPER (Match Snapshot Creator)
+================================================================================
+
+Purpose:
+--------
+Creates a snapshot of match IDs from HLTV results pages. This snapshot ensures
+consistent scraping that won't be affected by new matches being added during
+the scraping process.
+
+Script: scripts/create_match_snapshot.py
+
+Usage:
+------
+python scripts/create_match_snapshot.py --num_ids 15000 --output data/match_snapshot.json
+
+Arguments:
+----------
+--num_ids, -n    Number of match IDs to collect (default: 15000)
+                 Note: Collect more IDs than you need (e.g., 15000 for 10000 matches)
+                 because some matches will be filtered out (forfeits, BO1s, BO5s)
+
+--output, -o     Output file path (default: data/match_snapshot.json)
+
+Example:
+--------
+# Create a snapshot with 15,000 match IDs
+python scripts/create_match_snapshot.py --num_ids 15000 --output data/match_snapshot.json
+
+# Create a small test snapshot with 100 IDs
+python scripts/create_match_snapshot.py --num_ids 100 --output data/test_snapshot.json
+
+Output:
+-------
+A JSON file containing:
+- Metadata (creation date, total matches, first/last match IDs)
+- List of matches with: match_id, team1, team2, match_url
+
+Time Estimate:
+--------------
+~5-10 minutes for 15,000 IDs (2 second delay between pages)
+
+Notes:
+------
+- This scraper is fast because it only extracts match IDs, not full match data
+- The snapshot file is used as input for other scrapers
+- Run this first before running other scrapers that require a snapshot
+
+================================================================================
+2. TOTAL STATISTICS SCRAPER (Team-Level Statistics)
+================================================================================
+
+Status: WORK IN PROGRESS - CURRENTLY DOES NOT WORK CORRECTLY
+-------------------------------------------------------------------------------
+
+Purpose:
+--------
+Scrapes team-level aggregated statistics from match "Detailed stats" pages.
+This includes metrics like opening kills/deaths, multi-kill rounds, KAST%,
+clutches won, kills, assists, deaths, ADR, swing%, and Rating 3.0.
+
+Script: scripts/hltv_enhanced_scraper.py
+
+Current Issue:
+--------------
+This scraper does NOT work correctly for historical team statistics. When you
+visit a team's page on HLTV, it only shows CURRENT statistics (as of today),
+not the statistics as they were at the time of the match. This causes data
+leakage - you would be using future information to predict past matches.
+
+The scraper currently extracts statistics from the "Detailed stats" page
+(/stats/matches/[ID]/...) which contains immutable match-specific data, but
+it does NOT scrape team-level averages from team pages because those pages
+only show current stats, not historical stats.
+
+What It Currently Does:
+------------------------
+- Extracts team-level aggregated stats from match "Detailed stats" pages
+- These stats are match-specific and immutable (no data leakage)
+- Includes: opening kills/deaths, multi-kill rounds, KAST%, clutches, kills,
+  assists, deaths, ADR, swing%, Rating 3.0 for both teams
+
+What It Should Do (Future Work):
+---------------------------------
+- Scrape team-level averages from team pages, but only if those pages can
+  show historical statistics (filtered by date range)
+- OR: Calculate team averages from past matches in the dataset
+- OR: Use archived team pages if available
+
+Usage (Current Implementation):
+-------------------------------
+python scripts/hltv_enhanced_scraper.py \
+    --snapshot_file data/match_snapshot.json \
+    --num_matches 10000 \
+    --output_dir data/enhanced
+
+Arguments:
+----------
+--snapshot_file    Path to snapshot JSON file (created by index scraper)
+--num_matches      Number of matches to scrape (default: 3)
+--output_dir       Directory to save output files (default: data/enhanced)
+
+Output:
+-------
+- JSON checkpoint files: enhanced_matches_checkpoint_[N]_[timestamp].json
+- CSV checkpoint files: enhanced_matches_checkpoint_[N]_[timestamp].csv
+- Final files: enhanced_matches_[timestamp].json and .csv
+
+Columns Scraped:
+---------------
+- Basic match info: date, event_name, event_type, team1_name, team2_name,
+  team1_score, team2_score, winner, match_url
+- Team1 stats: opening_kills, opening_deaths, multi_kill_rounds, kast_pct,
+  clutches_won, kills, assists, deaths, adr, swing_pct, rating_3
+- Team2 stats: (same as Team1 stats)
+
+Time Estimate:
+--------------
+~30-50 hours for 10,000 matches (depends on delays and network speed)
+
+Resume Capability:
+------------------
+The scraper saves progress automatically and can be resumed if interrupted.
+Progress is saved in: [output_dir]/scraper_progress.json
+
+================================================================================
+3. ROUND-BY-ROUND SCRAPER
+================================================================================
+
+Purpose:
+--------
+Scrapes round-by-round data for each map in a match. Extracts starting sides,
+round winners, and handles edge cases like forfeits and incomplete maps.
+
+Script: scripts/hltv_round_by_round_scraper.py
+
+Usage:
+------
+python scripts/hltv_round_by_round_scraper.py \
+    --snapshot_file data/round_by_round_snapshot.json \
+    --num_matches 10000 \
+    --output_dir data/round_by_round
+
+Arguments:
+----------
+--snapshot_file    Path to snapshot JSON file with match URLs
+                   Note: You may need to create a snapshot from your existing
+                   dataset (e.g., extract match_urls from detailed_combined_latest.csv)
+
+--num_matches      Number of matches to scrape (default: 5)
+--output_dir       Directory to save output files (default: data/round_by_round)
+
+Example:
+--------
+# Run on 100 matches
+python scripts/hltv_round_by_round_scraper.py \
+    --snapshot_file data/round_by_round_snapshot.json \
+    --num_matches 100 \
+    --output_dir data/round_by_round
+
+Output:
+-------
+- CSV checkpoint files: round_by_round_checkpoint_[N]_[timestamp].csv
+- Final file: round_by_round_[timestamp].csv
+
+Columns Scraped:
+---------------
+- Basic match info: date, event_name, winner_side, team1_name, team2_name,
+  team1_score, team2_score, match_url
+- Map 1: map1_team1_startside, map1_team2_startside, map1_round1_winner,
+  map1_round2_winner, ... map1_round24_winner, map1_winner
+- Map 2: (same structure as Map 1)
+- Map 3: (same structure as Map 1, or "NA" if map didn't occur)
+
+Special Handling:
+-----------------
+- Drops maps with 12-0 or 0-12 halves (forfeit detection)
+- Sets round columns to "NA" if game ended before that round
+- Sets map3 columns to "NA" if only 2 maps were played
+- Determines map winner: "team1", "team2", "OT" (overtime), or "NA"
+
+Time Estimate:
+--------------
+~20-40 hours for 10,000 matches (depends on delays and network speed)
+
+Resume Capability:
+------------------
+The scraper saves progress automatically and can be resumed if interrupted.
+Progress is saved in: [output_dir]/scraper_progress.json
+
+Additional Scripts:
+-------------------
+- scripts/extract_map_names.py: Extracts map names (Mirage, Inferno, etc.)
+  for each match and saves to CSV
+- scripts/combine_rounds_with_map_names.py: Combines round-by-round data
+  with map names and calculates map winners
+
+================================================================================
+4. MAP-LEVEL STATISTICS SCRAPER
+================================================================================
+
+Status: NOT YET IMPLEMENTED
+-------------------------------------------------------------------------------
+
+Purpose:
+--------
+Scrape map-level aggregated statistics such as:
+- Average swing percentage over past 5 matches on a specific map
+- Team win rates on specific maps
+- Map-specific performance metrics
+
+Current Status:
+---------------
+This functionality is NOT yet implemented. Map-level statistics would need to
+be calculated from:
+1. The round-by-round data (already collected)
+2. Historical match data (would need to aggregate past matches)
+3. OR: Scraped from map-specific stats pages on HLTV (if available)
+
+Potential Implementation:
+------------------------
+A future scraper could:
+- Take the round-by-round dataset as input
+- For each team-map combination, calculate:
+  * Win rate on that map (from past N matches)
+  * Average swing% on that map (from past N matches)
+  * Average round win rate on that map
+  * Other map-specific metrics
+- Output: map-level statistics CSV that can be joined with match data
+
+Alternative Approach:
+--------------------
+Map-level statistics could be calculated post-scraping using pandas:
+- Load round-by-round dataset
+- Group by team and map name
+- Calculate rolling averages for past N matches
+- Join back to match dataset
+
+================================================================================
+5. GENERAL SCRAPER USAGE & JSON TO CSV PIPELINE
+================================================================================
+
+Running Scrapers:
+-----------------
+All scrapers follow a similar pattern:
+
+1. Create a snapshot (for index scraper) or use existing snapshot
+2. Run the scraper with appropriate arguments
+3. Monitor progress (check log files or progress JSON files)
+4. Combine checkpoint files if needed
+5. Convert JSON to CSV if needed
+
+Example Workflow:
+-----------------
+# Step 1: Create match snapshot
+python scripts/create_match_snapshot.py --num_ids 15000 --output data/match_snapshot.json
+
+# Step 2: Run detailed stats scraper
+python scripts/hltv_enhanced_scraper.py \
+    --snapshot_file data/match_snapshot.json \
+    --num_matches 10000 \
+    --output_dir data/enhanced
+
+# Step 3: Monitor progress
+tail -f scraping.log  # If running with nohup
+
+# Step 4: Combine checkpoints (if scraper created multiple checkpoint files)
+python scripts/combine_checkpoints.py \
+    --input_dir data/enhanced \
+    --output_file data/enhanced/combined_matches.csv
+
+# Step 5: JSON files are automatically converted to CSV by the scraper
+# But if you need to manually convert:
+python -c "import pandas as pd; import json; \
+    data = json.load(open('data/enhanced/enhanced_matches_*.json')); \
+    pd.DataFrame(data).to_csv('output.csv', index=False)"
+
+JSON to CSV Pipeline:
+---------------------
+The scrapers automatically convert JSON to CSV using pandas:
+
+1. Scrapers collect data as Python dictionaries (List[Dict[str, Any]])
+2. Data is saved to JSON files for persistence and checkpointing
+3. JSON files are automatically converted to CSV using pandas.DataFrame.to_csv()
+4. Both JSON and CSV files are saved with the same base filename
+
+Manual JSON to CSV Conversion:
+------------------------------
+If you need to convert JSON files manually:
+
+# Using Python/pandas:
+import pandas as pd
+import json
+
+with open('input.json', 'r') as f:
+    data = json.load(f)
+
+df = pd.DataFrame(data)
+df.to_csv('output.csv', index=False)
+
+# Using command line (if you have jq installed):
+# This is more complex and not recommended - use Python instead
+
+Combining Checkpoint Files:
+---------------------------
+If a scraper creates multiple checkpoint files, combine them:
+
+python scripts/combine_checkpoints.py \
+    --input_dir data/enhanced \
+    --output_file data/enhanced/combined_matches.csv
+
+This script:
+- Finds all checkpoint CSV files in the input directory
+- Combines them into one dataset
+- Removes duplicates based on match_id
+- Saves to output CSV file
+
+Running in Background:
+----------------------
+For long-running scrapers, use nohup (Linux/Mac):
+
+# Run scraper in background
+nohup python scripts/hltv_enhanced_scraper.py \
+    --snapshot_file data/match_snapshot.json \
+    --num_matches 10000 \
+    --output_dir data/enhanced \
+    > scraping.log 2>&1 &
+
+# Monitor progress
+tail -f scraping.log
+
+# Check if process is running
+ps aux | grep hltv_enhanced_scraper
+
+# Stop the scraper (if needed)
+pkill -f hltv_enhanced_scraper
+
+On macOS, prevent sleep during scraping:
+----------------------------------------
+nohup caffeinate -i python scripts/hltv_enhanced_scraper.py \
+    --snapshot_file data/match_snapshot.json \
+    --num_matches 10000 \
+    --output_dir data/enhanced \
+    > scraping.log 2>&1 &
+
+Resuming Interrupted Scrapers:
+------------------------------
+All scrapers support resume functionality:
+
+1. Progress is automatically saved to [output_dir]/scraper_progress.json
+2. If scraper is interrupted, simply run the same command again
+3. The scraper will detect the progress file and resume from where it left off
+4. No need to manually specify resume - it's automatic
+
+Output File Structure:
+---------------------
+Scrapers create files with timestamps:
+
+- Checkpoint files: [prefix]_checkpoint_[N]_[YYYYMMDD_HHMMSS].[json|csv]
+- Final files: [prefix]_[YYYYMMDD_HHMMSS].[json|csv]
+
+Example:
+- enhanced_matches_checkpoint_1000_20251115_120000.json
+- enhanced_matches_checkpoint_1000_20251115_120000.csv
+- enhanced_matches_20251115_120000.json
+- enhanced_matches_20251115_120000.csv
+
+Data Directory Structure:
+-------------------------
+data/
+├── enhanced/          # Detailed stats scraper output
+├── round_by_round/     # Round-by-round scraper output
+├── combined/          # Combined datasets
+└── test/              # Test outputs
+
+Cloudflare Bypass:
+------------------
+This repository uses the `cloudscraper` library to bypass Cloudflare protection.
+The library automatically handles:
+- JavaScript challenges
+- Cookie management
+- Rate limiting
+- User-Agent rotation
+
+No additional configuration needed - just install cloudscraper via requirements.txt.
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+Issue: Scraper stops unexpectedly
+Solution: Check log files for errors. Resume the scraper - it will continue
+          from the last checkpoint.
+
+Issue: Rate limiting / 429 errors
+Solution: Increase delays in the scraper code (page_delay, match_delay)
+
+Issue: Missing data in output
+Solution: Some matches may not have all data available (e.g., no detailed stats).
+          These matches are skipped automatically.
+
+Issue: JSON file is large
+Solution: JSON files can be large. Use CSV files for analysis, or compress JSON
+          files if you need to archive them.
+
+Issue: Scraper progress file is corrupted
+Solution: Delete the progress file and restart the scraper (it will start from
+          the beginning, but checkpoint files are preserved).
+
+================================================================================
+END OF GUIDE
+================================================================================
+

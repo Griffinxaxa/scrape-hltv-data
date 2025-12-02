@@ -1,0 +1,191 @@
+{
+  "enhanced_scraping_session": {
+    "target_match_id": 0,
+    "num_matches_requested": 1,
+    "matches_found": 1,
+    "scraped_date": "2025-10-16T14:31:25.568352Z"
+  },
+  "matches": [
+    {
+      "match_id": "hltv_match_2386834",
+      "hltv_match_id": 2386834,
+      "date": "2025-10-16T05:40:00Z",
+      "tournament": "CS Asia Championships 2025",
+      "winner": "team2",
+      "season": 5,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
+      "map_veto": {
+        "winner_map": "Inferno",
+        "loser_map": "Overpass",
+        "decider": "Train"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 3,
+        "loser_head2head_freq": 3,
+        "winner_head2head_percentage": 50.0,
+        "loser_head2head_percentage": 50.0
+      },
+      "past_3_months": {
+        "winner_past3": 56.67,
+        "loser_past3": 41.18
+      },
+      "map_winrates": {
+        "winner_mirage": 62.0,
+        "loser_mirage": 55.4,
+        "winner_inferno": 69.6,
+        "loser_inferno": 54.3,
+        "winner_nuke": 53.0,
+        "loser_nuke": 60.2,
+        "winner_dust2": 59.8,
+        "loser_dust2": 52.6,
+        "winner_overpass": 43.8,
+        "loser_overpass": 55.4,
+        "winner_train": 47.8,
+        "loser_train": 50.5,
+        "winner_ancient": 42.9,
+        "loser_ancient": 50.0,
+        "winner_cache": 62.5,
+        "loser_cache": 52.1,
+        "winner_vertigo": 60.7,
+        "loser_vertigo": 46.8,
+        "winner_anubis": 60.0,
+        "loser_anubis": 50.0,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 57.3
+      },
+      "team1": {
+        "name": "Virtus.pro",
+        "team_averages": {
+          "DPR": 0.62,
+          "KAST": 72.82,
+          "ADR": 73.06,
+          "KPR": 0.68,
+          "RATING": 1.09
+        },
+        "players": [
+          {
+            "name": "fl1t",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.3,
+              "ADR": 80.2,
+              "KPR": 0.72,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "perfecto",
+            "statistics": {
+              "DPR": 0.6,
+              "KAST": 73.6,
+              "ADR": 70.1,
+              "KPR": 0.63,
+              "RATING": 1.04
+            }
+          },
+          {
+            "name": "fame",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 71.7,
+              "ADR": 75.2,
+              "KPR": 0.7,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "icy",
+            "statistics": {
+              "DPR": 0.57,
+              "KAST": 73.7,
+              "ADR": 68.8,
+              "KPR": 0.7,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "to0ro",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.8,
+              "ADR": 71.0,
+              "KPR": 0.66,
+              "RATING": 1.07
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "3DMAX",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 70.82,
+          "ADR": 74.02,
+          "KPR": 0.67,
+          "RATING": 1.05
+        },
+        "players": [
+          {
+            "name": "bodyy",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 70.1,
+              "ADR": 76.4,
+              "KPR": 0.67,
+              "RATING": 0.98
+            }
+          },
+          {
+            "name": "maka",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 71.4,
+              "ADR": 74.4,
+              "KPR": 0.71,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "lucky",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.1,
+              "ADR": 76.6,
+              "KPR": 0.68,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "ex3rcice",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 70.7,
+              "ADR": 71.1,
+              "KPR": 0.66,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "graviti",
+            "statistics": {
+              "DPR": 0.71,
+              "KAST": 69.8,
+              "ADR": 71.6,
+              "KPR": 0.64,
+              "RATING": 1.01
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "lan",
+        "scraped_date": "2025-10-16T14:31:22.566160Z",
+        "hltv_url": "https://www.hltv.org/matches/2386834/virtuspro-vs-3dmax-cs-asia-championships-2025"
+      }
+    }
+  ]
+}

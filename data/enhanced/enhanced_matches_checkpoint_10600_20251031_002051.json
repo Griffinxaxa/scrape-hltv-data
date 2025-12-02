@@ -1,0 +1,3209 @@
+{
+  "enhanced_scraping_session": {
+    "target_match_id": 0,
+    "num_matches_requested": 10000,
+    "matches_found": 18,
+    "checkpoint": "checkpoint_10600",
+    "scraped_date": "2025-10-31T00:20:51.007612Z"
+  },
+  "matches": [
+    {
+      "match_id": "hltv_match_2375427",
+      "hltv_match_id": 2375427,
+      "date": "2024-09-21T13:30:00Z",
+      "tournament": "ESL Pro League Season 20",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
+      "map_veto": {
+        "winner_map": "Nuke",
+        "loser_map": "Inferno",
+        "decider": "Ancient"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 13,
+        "loser_head2head_freq": 4,
+        "winner_head2head_percentage": 76.47,
+        "loser_head2head_percentage": 23.53
+      },
+      "past_3_months": {
+        "winner_past3": 88.24,
+        "loser_past3": 81.25
+      },
+      "map_winrates": {
+        "winner_mirage": 63.9,
+        "loser_mirage": 51.9,
+        "winner_inferno": 55.8,
+        "loser_inferno": 60.8,
+        "winner_nuke": 57.4,
+        "loser_nuke": 59.4,
+        "winner_dust2": 60.0,
+        "loser_dust2": 60.2,
+        "winner_overpass": 61.1,
+        "loser_overpass": 48.8,
+        "winner_train": 66.1,
+        "loser_train": 51.2,
+        "winner_ancient": 62.5,
+        "loser_ancient": 56.9,
+        "winner_cache": 21.4,
+        "loser_cache": 56.3,
+        "winner_vertigo": 0.0,
+        "loser_vertigo": 53.1,
+        "winner_anubis": 59.1,
+        "loser_anubis": 57.9,
+        "winner_cobblestone": 53.6,
+        "loser_cobblestone": 55.7
+      },
+      "team1": {
+        "name": "Natus Vincere",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 72.56,
+          "ADR": 77.54,
+          "KPR": 0.71,
+          "RATING": 1.1
+        },
+        "players": [
+          {
+            "name": "aleksib",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 71.2,
+              "ADR": 71.4,
+              "KPR": 0.61,
+              "RATING": 0.93
+            }
+          },
+          {
+            "name": "im",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 70.4,
+              "ADR": 81.2,
+              "KPR": 0.73,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "b1t",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.7,
+              "ADR": 76.0,
+              "KPR": 0.7,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "w0nderful",
+            "statistics": {
+              "DPR": 0.58,
+              "KAST": 74.7,
+              "ADR": 75.6,
+              "KPR": 0.75,
+              "RATING": 1.18
+            }
+          },
+          {
+            "name": "makazze",
+            "statistics": {
+              "DPR": 0.71,
+              "KAST": 73.8,
+              "ADR": 83.5,
+              "KPR": 0.74,
+              "RATING": 1.17
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "G2",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 72.14,
+          "ADR": 79.58,
+          "KPR": 0.74,
+          "RATING": 1.13
+        },
+        "players": [
+          {
+            "name": "hunter",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 72.3,
+              "ADR": 82.2,
+              "KPR": 0.75,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "malbsmd",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 71.0,
+              "ADR": 81.3,
+              "KPR": 0.75,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "sunpayus",
+            "statistics": {
+              "DPR": 0.59,
+              "KAST": 73.4,
+              "ADR": 73.1,
+              "KPR": 0.71,
+              "RATING": 1.15
+            }
+          },
+          {
+            "name": "heavygod",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.5,
+              "ADR": 79.0,
+              "KPR": 0.72,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "matys",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 71.5,
+              "ADR": 82.3,
+              "KPR": 0.76,
+              "RATING": 1.15
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "LAN",
+        "scraped_date": "2025-10-31T00:12:07.844622Z",
+        "hltv_url": "https://www.hltv.org/matches/2375427/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375762",
+      "hltv_match_id": 2375762,
+      "date": "2024-09-21T12:45:00Z",
+      "tournament": "Tipsport Fall Cup 2024 Finals",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
+      "map_veto": {
+        "winner_map": "Ancient",
+        "loser_map": "Nuke",
+        "decider": "Mirage"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 14,
+        "loser_head2head_freq": 10,
+        "winner_head2head_percentage": 58.33,
+        "loser_head2head_percentage": 41.67
+      },
+      "past_3_months": {
+        "winner_past3": 46.67,
+        "loser_past3": 60.71
+      },
+      "map_winrates": {
+        "winner_mirage": 44.3,
+        "loser_mirage": 50.5,
+        "winner_inferno": 37.5,
+        "loser_inferno": 54.8,
+        "winner_nuke": 30.6,
+        "loser_nuke": 55.8,
+        "winner_dust2": 21.4,
+        "loser_dust2": 55.1,
+        "winner_overpass": 52.9,
+        "loser_overpass": 59.6,
+        "winner_train": 42.1,
+        "loser_train": 45.1,
+        "winner_ancient": 48.9,
+        "loser_ancient": 54.7,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 25.0,
+        "loser_vertigo": 61.5,
+        "winner_anubis": 50.8,
+        "loser_anubis": 53.3,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "UNiTY",
+        "team_averages": {
+          "DPR": 0.68,
+          "KAST": 69.62,
+          "ADR": 74.8,
+          "KPR": 0.67,
+          "RATING": 1.05
+        },
+        "players": [
+          {
+            "name": "k1-fida",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 69.7,
+              "ADR": 67.1,
+              "KPR": 0.58,
+              "RATING": 0.95
+            }
+          },
+          {
+            "name": "neofrag",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 70.9,
+              "ADR": 83.2,
+              "KPR": 0.73,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "moriisko",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 69.0,
+              "ADR": 74.9,
+              "KPR": 0.66,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "m1key",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 70.1,
+              "ADR": 80.8,
+              "KPR": 0.71,
+              "RATING": 1.11
+            }
+          },
+          {
+            "name": "woozzzi",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 68.4,
+              "ADR": 68.0,
+              "KPR": 0.68,
+              "RATING": 1.02
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "SINNERS",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.74,
+          "ADR": 74.12,
+          "KPR": 0.68,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "beastik",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 69.9,
+              "ADR": 69.6,
+              "KPR": 0.62,
+              "RATING": 0.99
+            }
+          },
+          {
+            "name": "shock",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 70.9,
+              "ADR": 73.8,
+              "KPR": 0.68,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "kisserek",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.6,
+              "ADR": 77.4,
+              "KPR": 0.69,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "stressarn",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 74.1,
+              "ADR": 79.3,
+              "KPR": 0.75,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "pepo",
+            "statistics": {
+              "DPR": 0.61,
+              "KAST": 72.2,
+              "ADR": 70.5,
+              "KPR": 0.67,
+              "RATING": 1.03
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "LAN",
+        "scraped_date": "2025-10-31T00:12:35.468689Z",
+        "hltv_url": "https://www.hltv.org/matches/2375762/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2376049",
+      "hltv_match_id": 2376049,
+      "date": "2024-09-21T11:00:00Z",
+      "tournament": "FASTCUP CSGORUN Cup Season 1",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
+      "map_veto": {
+        "winner_map": "Dust2",
+        "loser_map": "Anubis",
+        "decider": "Ancient"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 4,
+        "loser_head2head_freq": 1,
+        "winner_head2head_percentage": 80.0,
+        "loser_head2head_percentage": 20.0
+      },
+      "past_3_months": {
+        "winner_past3": 67.74,
+        "loser_past3": 61.9
+      },
+      "map_winrates": {
+        "winner_mirage": 51.0,
+        "loser_mirage": 60.7,
+        "winner_inferno": 56.4,
+        "loser_inferno": 32.1,
+        "winner_nuke": 52.9,
+        "loser_nuke": 26.7,
+        "winner_dust2": 52.1,
+        "loser_dust2": 45.1,
+        "winner_overpass": 47.8,
+        "loser_overpass": 50.0,
+        "winner_train": 44.2,
+        "loser_train": 46.2,
+        "winner_ancient": 58.0,
+        "loser_ancient": 55.2,
+        "winner_cache": 33.3,
+        "loser_cache": 50.0,
+        "winner_vertigo": 50.0,
+        "loser_vertigo": 30.8,
+        "winner_anubis": 57.3,
+        "loser_anubis": 61.7,
+        "winner_cobblestone": 43.2,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "Nemiga",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.66,
+          "ADR": 73.12,
+          "KPR": 0.66,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "xant3r",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.0,
+              "ADR": 76.8,
+              "KPR": 0.67,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "1eer",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 70.9,
+              "ADR": 68.3,
+              "KPR": 0.6,
+              "RATING": 0.98
+            }
+          },
+          {
+            "name": "sowalio",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 72.4,
+              "ADR": 74.7,
+              "KPR": 0.68,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "riskyb0b",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 72.0,
+              "ADR": 75.3,
+              "KPR": 0.65,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "khan",
+            "statistics": {
+              "DPR": 0.61,
+              "KAST": 72.0,
+              "ADR": 70.5,
+              "KPR": 0.71,
+              "RATING": 1.1
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "CYBERSHOKE",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 72.44,
+          "ADR": 73.34,
+          "KPR": 0.67,
+          "RATING": 1.07
+        },
+        "players": [
+          {
+            "name": "glowiing",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.0,
+              "ADR": 80.4,
+              "KPR": 0.71,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "alpha",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 70.6,
+              "ADR": 71.4,
+              "KPR": 0.64,
+              "RATING": 1.0
+            }
+          },
+          {
+            "name": "notineki",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 73.8,
+              "ADR": 70.7,
+              "KPR": 0.65,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "bl1x1",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 72.7,
+              "ADR": 73.2,
+              "KPR": 0.67,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "fenomen",
+            "statistics": {
+              "DPR": 0.58,
+              "KAST": 74.1,
+              "ADR": 71.0,
+              "KPR": 0.69,
+              "RATING": 1.12
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:13:06.537414Z",
+        "hltv_url": "https://www.hltv.org/matches/2376049/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375925",
+      "hltv_match_id": 2375925,
+      "date": "2024-09-21T11:00:00Z",
+      "tournament": "CCT Season 2 Europe Series 13 Closed Qualifier",
+      "winner": "team2",
+      "season": 7,
+      "score": {
+        "team1": 0,
+        "team2": 2
+      },
+      "map_veto": {
+        "winner_map": "Ancient",
+        "loser_map": "Anubis",
+        "decider": "Nuke"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 2,
+        "loser_head2head_freq": 0,
+        "winner_head2head_percentage": 100.0,
+        "loser_head2head_percentage": 0.0
+      },
+      "past_3_months": {
+        "winner_past3": 50.0,
+        "loser_past3": 30.0
+      },
+      "map_winrates": {
+        "winner_mirage": 60.3,
+        "loser_mirage": 30.8,
+        "winner_inferno": 0.0,
+        "loser_inferno": 56.2,
+        "winner_nuke": 44.4,
+        "loser_nuke": 50.0,
+        "winner_dust2": 45.9,
+        "loser_dust2": 59.4,
+        "winner_overpass": 57.1,
+        "loser_overpass": 57.1,
+        "winner_train": 44.4,
+        "loser_train": 40.0,
+        "winner_ancient": 68.7,
+        "loser_ancient": 34.9,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 20.0,
+        "loser_vertigo": 28.6,
+        "winner_anubis": 48.4,
+        "loser_anubis": 48.2,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "GenOne",
+        "team_averages": {
+          "DPR": 0.67,
+          "KAST": 71.2,
+          "ADR": 74.18,
+          "KPR": 0.68,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "nbk",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 69.0,
+              "ADR": 76.1,
+              "KPR": 0.68,
+              "RATING": 1.0
+            }
+          },
+          {
+            "name": "misutaaa",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 72.1,
+              "ADR": 72.4,
+              "KPR": 0.66,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "djoko",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 70.1,
+              "ADR": 74.8,
+              "KPR": 0.68,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "brooxsy",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 70.3,
+              "ADR": 71.4,
+              "KPR": 0.65,
+              "RATING": 1.01
+            }
+          },
+          {
+            "name": "chucky",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 74.5,
+              "ADR": 76.2,
+              "KPR": 0.75,
+              "RATING": 1.17
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "HOTU",
+        "team_averages": {
+          "DPR": 0.68,
+          "KAST": 70.58,
+          "ADR": 75.22,
+          "KPR": 0.7,
+          "RATING": 1.07
+        },
+        "players": [
+          {
+            "name": "dukefissura",
+            "statistics": {
+              "DPR": 0.72,
+              "KAST": 68.8,
+              "ADR": 77.5,
+              "KPR": 0.71,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "mizu",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.4,
+              "ADR": 80.0,
+              "KPR": 0.71,
+              "RATING": 1.11
+            }
+          },
+          {
+            "name": "lampada",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 72.2,
+              "ADR": 72.2,
+              "KPR": 0.65,
+              "RATING": 1.04
+            }
+          },
+          {
+            "name": "kalash",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 69.0,
+              "ADR": 73.1,
+              "KPR": 0.68,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "frontales",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 71.5,
+              "ADR": 73.3,
+              "KPR": 0.73,
+              "RATING": 1.11
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:13:38.653330Z",
+        "hltv_url": "https://www.hltv.org/matches/2375925/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375426",
+      "hltv_match_id": 2375426,
+      "date": "2024-09-21T10:15:00Z",
+      "tournament": "ESL Pro League Season 20",
+      "winner": "team2",
+      "season": 7,
+      "score": {
+        "team1": 0,
+        "team2": 2
+      },
+      "map_veto": {
+        "winner_map": "Inferno",
+        "loser_map": "Nuke",
+        "decider": "Anubis"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 6,
+        "loser_head2head_freq": 1,
+        "winner_head2head_percentage": 85.71,
+        "loser_head2head_percentage": 14.29
+      },
+      "past_3_months": {
+        "winner_past3": 66.67,
+        "loser_past3": 52.63
+      },
+      "map_winrates": {
+        "winner_mirage": 50.8,
+        "loser_mirage": 51.7,
+        "winner_inferno": 56.5,
+        "loser_inferno": 54.1,
+        "winner_nuke": 60.4,
+        "loser_nuke": 58.9,
+        "winner_dust2": 57.4,
+        "loser_dust2": 58.5,
+        "winner_overpass": 58.2,
+        "loser_overpass": 52.6,
+        "winner_train": 36.0,
+        "loser_train": 55.0,
+        "winner_ancient": 33.3,
+        "loser_ancient": 61.4,
+        "winner_cache": 50.0,
+        "loser_cache": 58.3,
+        "winner_vertigo": 62.0,
+        "loser_vertigo": 57.1,
+        "winner_anubis": 65.9,
+        "loser_anubis": 61.2,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "MIBR",
+        "team_averages": {
+          "DPR": 0.64,
+          "KAST": 73.48,
+          "ADR": 78.02,
+          "KPR": 0.72,
+          "RATING": 1.15
+        },
+        "players": [
+          {
+            "name": "exit",
+            "statistics": {
+              "DPR": 0.59,
+              "KAST": 74.9,
+              "ADR": 74.6,
+              "KPR": 0.68,
+              "RATING": 1.11
+            }
+          },
+          {
+            "name": "qikert",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.2,
+              "ADR": 74.9,
+              "KPR": 0.68,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "brnz4n",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 71.9,
+              "ADR": 74.6,
+              "KPR": 0.68,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "insani",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 72.7,
+              "ADR": 82.1,
+              "KPR": 0.74,
+              "RATING": 1.17
+            }
+          },
+          {
+            "name": "kl1m",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 75.7,
+              "ADR": 83.9,
+              "KPR": 0.84,
+              "RATING": 1.28
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Eternal Fire",
+        "team_averages": {
+          "DPR": 0.67,
+          "KAST": 71.5,
+          "ADR": 74.34,
+          "KPR": 0.68,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "calyx",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 72.6,
+              "ADR": 75.6,
+              "KPR": 0.71,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "imorr",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 69.3,
+              "ADR": 78.1,
+              "KPR": 0.72,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "jresy",
+            "statistics": {
+              "DPR": 0.72,
+              "KAST": 69.3,
+              "ADR": 74.6,
+              "KPR": 0.66,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "lugsen",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 73.2,
+              "ADR": 67.2,
+              "KPR": 0.65,
+              "RATING": 1.04
+            }
+          },
+          {
+            "name": "rim3",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 73.1,
+              "ADR": 76.2,
+              "KPR": 0.68,
+              "RATING": 1.05
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "LAN",
+        "scraped_date": "2025-10-31T00:14:06.368817Z",
+        "hltv_url": "https://www.hltv.org/matches/2375426/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375924",
+      "hltv_match_id": 2375924,
+      "date": "2024-09-21T08:00:00Z",
+      "tournament": "CCT Season 2 Europe Series 13 Closed Qualifier",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
+      "map_veto": {
+        "winner_map": "Inferno",
+        "loser_map": "Anubis",
+        "decider": "Nuke"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 1,
+        "loser_head2head_freq": 2,
+        "winner_head2head_percentage": 33.33,
+        "loser_head2head_percentage": 66.67
+      },
+      "past_3_months": {
+        "winner_past3": 29.17,
+        "loser_past3": 46.15
+      },
+      "map_winrates": {
+        "winner_mirage": 47.6,
+        "loser_mirage": 63.0,
+        "winner_inferno": 53.0,
+        "loser_inferno": 18.2,
+        "winner_nuke": 33.3,
+        "loser_nuke": 41.7,
+        "winner_dust2": 59.6,
+        "loser_dust2": 54.1,
+        "winner_overpass": 54.1,
+        "loser_overpass": 76.9,
+        "winner_train": 66.7,
+        "loser_train": 50.0,
+        "winner_ancient": 40.1,
+        "loser_ancient": 62.5,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 42.6,
+        "loser_vertigo": 50.0,
+        "winner_anubis": 43.3,
+        "loser_anubis": 68.2,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "EYEBALLERS",
+        "team_averages": {
+          "DPR": 0.67,
+          "KAST": 70.44,
+          "ADR": 73.06,
+          "KPR": 0.66,
+          "RATING": 1.03
+        },
+        "players": [
+          {
+            "name": "jw",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 67.7,
+              "ADR": 75.3,
+              "KPR": 0.72,
+              "RATING": 1.04
+            }
+          },
+          {
+            "name": "maxster",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 73.0,
+              "ADR": 74.0,
+              "KPR": 0.68,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "ro1f",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 71.3,
+              "ADR": 68.7,
+              "KPR": 0.61,
+              "RATING": 0.99
+            }
+          },
+          {
+            "name": "bobeksde",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 69.2,
+              "ADR": 76.0,
+              "KPR": 0.68,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "dex",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.0,
+              "ADR": 71.3,
+              "KPR": 0.63,
+              "RATING": 1.01
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "K27",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 72.76,
+          "ADR": 75.64,
+          "KPR": 0.7,
+          "RATING": 1.09
+        },
+        "players": [
+          {
+            "name": "x5g7v",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 69.9,
+              "ADR": 73.1,
+              "KPR": 0.65,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "xeedo",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 73.3,
+              "ADR": 78.1,
+              "KPR": 0.72,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "relaxxie",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 72.3,
+              "ADR": 80.7,
+              "KPR": 0.72,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "kashl1d",
+            "statistics": {
+              "DPR": 0.6,
+              "KAST": 75.3,
+              "ADR": 74.2,
+              "KPR": 0.73,
+              "RATING": 1.16
+            }
+          },
+          {
+            "name": "qw1nk1",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 73.0,
+              "ADR": 72.1,
+              "KPR": 0.66,
+              "RATING": 1.06
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:14:37.501421Z",
+        "hltv_url": "https://www.hltv.org/matches/2375924/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375956",
+      "hltv_match_id": 2375956,
+      "date": "2024-09-21T07:00:00Z",
+      "tournament": "European Pro League Season 19",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
+      "map_veto": {
+        "winner_map": "Inferno",
+        "loser_map": "Dust2",
+        "decider": "Vertigo"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 1,
+        "loser_head2head_freq": 2,
+        "winner_head2head_percentage": 33.33,
+        "loser_head2head_percentage": 66.67
+      },
+      "past_3_months": {
+        "winner_past3": 52.17,
+        "loser_past3": 46.88
+      },
+      "map_winrates": {
+        "winner_mirage": 55.6,
+        "loser_mirage": 48.1,
+        "winner_inferno": 61.6,
+        "loser_inferno": 64.5,
+        "winner_nuke": 50.0,
+        "loser_nuke": 62.1,
+        "winner_dust2": 47.1,
+        "loser_dust2": 53.5,
+        "winner_overpass": 56.5,
+        "loser_overpass": 46.7,
+        "winner_train": 42.9,
+        "loser_train": 55.0,
+        "winner_ancient": 58.1,
+        "loser_ancient": 53.8,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 33.3,
+        "loser_vertigo": 50.0,
+        "winner_anubis": 41.7,
+        "loser_anubis": 50.0,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "Gaimin Gladiators",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 71.54,
+          "ADR": 74.3,
+          "KPR": 0.69,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "nekiz",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 69.9,
+              "ADR": 73.7,
+              "KPR": 0.66,
+              "RATING": 0.96
+            }
+          },
+          {
+            "name": "shz",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 71.6,
+              "ADR": 75.9,
+              "KPR": 0.7,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "b4rtin",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 73.0,
+              "ADR": 72.2,
+              "KPR": 0.68,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "jota",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 73.2,
+              "ADR": 80.6,
+              "KPR": 0.71,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "bsd",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 70.0,
+              "ADR": 69.1,
+              "KPR": 0.68,
+              "RATING": 1.06
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "kONO",
+        "team_averages": {
+          "DPR": 0.68,
+          "KAST": 70.58,
+          "ADR": 73.3,
+          "KPR": 0.66,
+          "RATING": 1.03
+        },
+        "players": [
+          {
+            "name": "b0rup",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 70.1,
+              "ADR": 72.4,
+              "KPR": 0.67,
+              "RATING": 1.0
+            }
+          },
+          {
+            "name": "birdfromsky",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 70.1,
+              "ADR": 71.4,
+              "KPR": 0.58,
+              "RATING": 0.97
+            }
+          },
+          {
+            "name": "keoz",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 68.8,
+              "ADR": 73.3,
+              "KPR": 0.66,
+              "RATING": 1.01
+            }
+          },
+          {
+            "name": "cptkurtka023",
+            "statistics": {
+              "DPR": 0.71,
+              "KAST": 71.3,
+              "ADR": 76.4,
+              "KPR": 0.69,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "burmylov",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 72.6,
+              "ADR": 73.0,
+              "KPR": 0.72,
+              "RATING": 1.12
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:15:08.040897Z",
+        "hltv_url": "https://www.hltv.org/matches/2375956/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2376031",
+      "hltv_match_id": 2376031,
+      "date": "2024-09-20T18:00:00Z",
+      "tournament": "ESL Challenger League Season 48 South America",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 19,
+        "team2": 17
+      },
+      "map_veto": {
+        "winner_map": null,
+        "loser_map": null,
+        "decider": "Anubis"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 5,
+        "loser_head2head_freq": 3,
+        "winner_head2head_percentage": 62.5,
+        "loser_head2head_percentage": 37.5
+      },
+      "past_3_months": {
+        "winner_past3": 73.17,
+        "loser_past3": 30.43
+      },
+      "map_winrates": {
+        "winner_mirage": 53.8,
+        "loser_mirage": 38.9,
+        "winner_inferno": 41.3,
+        "loser_inferno": 56.9,
+        "winner_nuke": 59.2,
+        "loser_nuke": 50.0,
+        "winner_dust2": 48.8,
+        "loser_dust2": 44.0,
+        "winner_overpass": 51.9,
+        "loser_overpass": 80.0,
+        "winner_train": 57.7,
+        "loser_train": 66.7,
+        "winner_ancient": 59.1,
+        "loser_ancient": 39.4,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 36.5,
+        "loser_vertigo": 30.4,
+        "winner_anubis": 65.5,
+        "loser_anubis": 42.9,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "ODDIK",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.1,
+          "ADR": 74.77,
+          "KPR": 0.68,
+          "RATING": 1.08
+        },
+        "players": [
+          {
+            "name": "wood7",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 71.1,
+              "ADR": 69.1,
+              "KPR": 0.63,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "naitte",
+            "statistics": {
+              "DPR": 0.72,
+              "KAST": 69.8,
+              "ADR": 79.5,
+              "KPR": 0.7,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "ksloks",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 72.4,
+              "ADR": 75.7,
+              "KPR": 0.7,
+              "RATING": 1.11
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Galorys",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 72.06,
+          "ADR": 74.42,
+          "KPR": 0.7,
+          "RATING": 1.08
+        },
+        "players": [
+          {
+            "name": "destiny",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.3,
+              "ADR": 77.5,
+              "KPR": 0.71,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "nython",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 71.3,
+              "ADR": 70.7,
+              "KPR": 0.69,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "card",
+            "statistics": {
+              "DPR": 0.61,
+              "KAST": 70.6,
+              "ADR": 68.9,
+              "KPR": 0.68,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "gbb",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 73.1,
+              "ADR": 78.6,
+              "KPR": 0.71,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "tomate",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 74.0,
+              "ADR": 76.4,
+              "KPR": 0.7,
+              "RATING": 1.12
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:15:50.168202Z",
+        "hltv_url": "https://www.hltv.org/matches/2376031/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2376030",
+      "hltv_match_id": 2376030,
+      "date": "2024-09-20T17:00:00Z",
+      "tournament": "ESL Challenger League Season 48 South America",
+      "winner": "team2",
+      "season": 7,
+      "score": {
+        "team1": 5,
+        "team2": 13
+      },
+      "map_veto": {
+        "winner_map": null,
+        "loser_map": null,
+        "decider": "Vertigo"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 4,
+        "loser_head2head_freq": 3,
+        "winner_head2head_percentage": 57.14,
+        "loser_head2head_percentage": 42.86
+      },
+      "past_3_months": {
+        "winner_past3": 73.17,
+        "loser_past3": 30.43
+      },
+      "map_winrates": {
+        "winner_mirage": 53.8,
+        "loser_mirage": 38.9,
+        "winner_inferno": 41.3,
+        "loser_inferno": 56.9,
+        "winner_nuke": 59.2,
+        "loser_nuke": 50.0,
+        "winner_dust2": 48.8,
+        "loser_dust2": 44.0,
+        "winner_overpass": 51.9,
+        "loser_overpass": 80.0,
+        "winner_train": 57.7,
+        "loser_train": 66.7,
+        "winner_ancient": 59.1,
+        "loser_ancient": 39.4,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 36.5,
+        "loser_vertigo": 30.4,
+        "winner_anubis": 65.5,
+        "loser_anubis": 42.9,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "Galorys",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 72.06,
+          "ADR": 74.42,
+          "KPR": 0.7,
+          "RATING": 1.08
+        },
+        "players": [
+          {
+            "name": "destiny",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.3,
+              "ADR": 77.5,
+              "KPR": 0.71,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "nython",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 71.3,
+              "ADR": 70.7,
+              "KPR": 0.69,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "card",
+            "statistics": {
+              "DPR": 0.61,
+              "KAST": 70.6,
+              "ADR": 68.9,
+              "KPR": 0.68,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "gbb",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 73.1,
+              "ADR": 78.6,
+              "KPR": 0.71,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "tomate",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 74.0,
+              "ADR": 76.4,
+              "KPR": 0.7,
+              "RATING": 1.12
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "ODDIK",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.1,
+          "ADR": 74.77,
+          "KPR": 0.68,
+          "RATING": 1.08
+        },
+        "players": [
+          {
+            "name": "wood7",
+            "statistics": {
+              "DPR": 0.62,
+              "KAST": 71.1,
+              "ADR": 69.1,
+              "KPR": 0.63,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "naitte",
+            "statistics": {
+              "DPR": 0.72,
+              "KAST": 69.8,
+              "ADR": 79.5,
+              "KPR": 0.7,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "ksloks",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 72.4,
+              "ADR": 75.7,
+              "KPR": 0.7,
+              "RATING": 1.11
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:16:02.293958Z",
+        "hltv_url": "https://www.hltv.org/matches/2376030/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375922",
+      "hltv_match_id": 2375922,
+      "date": "2024-09-20T14:00:00Z",
+      "tournament": "CCT Season 2 Europe Series 13 Closed Qualifier",
+      "winner": "team2",
+      "season": 7,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
+      "map_veto": {
+        "winner_map": "Nuke",
+        "loser_map": "Ancient",
+        "decider": "Anubis"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": null,
+        "loser_head2head_freq": null,
+        "winner_head2head_percentage": 0.0,
+        "loser_head2head_percentage": 0.0
+      },
+      "past_3_months": {
+        "winner_past3": 38.89,
+        "loser_past3": 52.5
+      },
+      "map_winrates": {
+        "winner_mirage": 56.8,
+        "loser_mirage": 51.6,
+        "winner_inferno": 0.0,
+        "loser_inferno": 50.4,
+        "winner_nuke": 53.5,
+        "loser_nuke": 45.0,
+        "winner_dust2": 60.7,
+        "loser_dust2": 47.2,
+        "winner_overpass": 41.7,
+        "loser_overpass": 53.3,
+        "winner_train": 46.7,
+        "loser_train": 55.6,
+        "winner_ancient": 50.6,
+        "loser_ancient": 53.2,
+        "winner_cache": 50.0,
+        "loser_cache": 39.3,
+        "winner_vertigo": 35.3,
+        "loser_vertigo": 47.4,
+        "winner_anubis": 49.1,
+        "loser_anubis": 54.2,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 52.6
+      },
+      "team1": {
+        "name": "CPH Wolves",
+        "team_averages": {
+          "DPR": 0.69,
+          "KAST": 70.54,
+          "ADR": 73.46,
+          "KPR": 0.68,
+          "RATING": 1.04
+        },
+        "players": [
+          {
+            "name": "kristou",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 68.2,
+              "ADR": 69.0,
+              "KPR": 0.66,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "n1xen",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 72.3,
+              "ADR": 73.8,
+              "KPR": 0.7,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "b1elany",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 71.4,
+              "ADR": 75.5,
+              "KPR": 0.68,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "tapewaare",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 69.7,
+              "ADR": 70.0,
+              "KPR": 0.63,
+              "RATING": 0.98
+            }
+          },
+          {
+            "name": "matheos",
+            "statistics": {
+              "DPR": 0.73,
+              "KAST": 71.1,
+              "ADR": 79.0,
+              "KPR": 0.71,
+              "RATING": 1.07
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "RUBY",
+        "team_averages": {
+          "DPR": 0.67,
+          "KAST": 71.82,
+          "ADR": 75.22,
+          "KPR": 0.69,
+          "RATING": 1.07
+        },
+        "players": [
+          {
+            "name": "fozil",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 70.3,
+              "ADR": 73.5,
+              "KPR": 0.66,
+              "RATING": 1.03
+            }
+          },
+          {
+            "name": "truniq",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 73.0,
+              "ADR": 77.7,
+              "KPR": 0.7,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "h4san4tor",
+            "statistics": {
+              "DPR": 0.71,
+              "KAST": 71.4,
+              "ADR": 75.6,
+              "KPR": 0.66,
+              "RATING": 1.04
+            }
+          },
+          {
+            "name": "kaide",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 72.2,
+              "ADR": 82.8,
+              "KPR": 0.75,
+              "RATING": 1.15
+            }
+          },
+          {
+            "name": "maquein",
+            "statistics": {
+              "DPR": 0.59,
+              "KAST": 72.2,
+              "ADR": 66.5,
+              "KPR": 0.68,
+              "RATING": 1.01
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:16:28.565238Z",
+        "hltv_url": "https://www.hltv.org/matches/2375922/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375425",
+      "hltv_match_id": 2375425,
+      "date": "2024-09-20T13:30:00Z",
+      "tournament": "ESL Pro League Season 20",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
+      "map_veto": {
+        "winner_map": "Mirage",
+        "loser_map": "Inferno",
+        "decider": "Nuke"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 5,
+        "loser_head2head_freq": 3,
+        "winner_head2head_percentage": 62.5,
+        "loser_head2head_percentage": 37.5
+      },
+      "past_3_months": {
+        "winner_past3": 80.0,
+        "loser_past3": 76.47
+      },
+      "map_winrates": {
+        "winner_mirage": 51.9,
+        "loser_mirage": 59.2,
+        "winner_inferno": 60.8,
+        "loser_inferno": 60.3,
+        "winner_nuke": 59.4,
+        "loser_nuke": 47.6,
+        "winner_dust2": 60.2,
+        "loser_dust2": 52.7,
+        "winner_overpass": 48.8,
+        "loser_overpass": 61.1,
+        "winner_train": 51.2,
+        "loser_train": 54.3,
+        "winner_ancient": 56.9,
+        "loser_ancient": 64.7,
+        "winner_cache": 56.3,
+        "loser_cache": 66.7,
+        "winner_vertigo": 53.1,
+        "loser_vertigo": 57.7,
+        "winner_anubis": 57.9,
+        "loser_anubis": 64.3,
+        "winner_cobblestone": 55.7,
+        "loser_cobblestone": 64.0
+      },
+      "team1": {
+        "name": "G2",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 72.14,
+          "ADR": 79.58,
+          "KPR": 0.74,
+          "RATING": 1.13
+        },
+        "players": [
+          {
+            "name": "hunter",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 72.3,
+              "ADR": 82.2,
+              "KPR": 0.75,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "malbsmd",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 71.0,
+              "ADR": 81.3,
+              "KPR": 0.75,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "sunpayus",
+            "statistics": {
+              "DPR": 0.59,
+              "KAST": 73.4,
+              "ADR": 73.1,
+              "KPR": 0.71,
+              "RATING": 1.15
+            }
+          },
+          {
+            "name": "heavygod",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.5,
+              "ADR": 79.0,
+              "KPR": 0.72,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "matys",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 71.5,
+              "ADR": 82.3,
+              "KPR": 0.76,
+              "RATING": 1.15
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Liquid",
+        "team_averages": {
+          "DPR": 0.67,
+          "KAST": 71.0,
+          "ADR": 78.14,
+          "KPR": 0.71,
+          "RATING": 1.07
+        },
+        "players": [
+          {
+            "name": "naf",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 73.7,
+              "ADR": 80.4,
+              "KPR": 0.72,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "elige",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 71.5,
+              "ADR": 83.2,
+              "KPR": 0.75,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "nertz",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 70.4,
+              "ADR": 81.8,
+              "KPR": 0.74,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "siuhy",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 68.9,
+              "ADR": 74.2,
+              "KPR": 0.66,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "ultimate",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 70.5,
+              "ADR": 71.1,
+              "KPR": 0.7,
+              "RATING": 1.08
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "LAN",
+        "scraped_date": "2025-10-31T00:16:51.753198Z",
+        "hltv_url": "https://www.hltv.org/matches/2375425/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375759",
+      "hltv_match_id": 2375759,
+      "date": "2024-09-20T11:40:00Z",
+      "tournament": "Tipsport Fall Cup 2024 Finals",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
+      "map_veto": {
+        "winner_map": "Nuke",
+        "loser_map": "Mirage",
+        "decider": "Ancient"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 2,
+        "loser_head2head_freq": 8,
+        "winner_head2head_percentage": 20.0,
+        "loser_head2head_percentage": 80.0
+      },
+      "past_3_months": {
+        "winner_past3": 60.0,
+        "loser_past3": 53.12
+      },
+      "map_winrates": {
+        "winner_mirage": 50.5,
+        "loser_mirage": 54.5,
+        "winner_inferno": 54.8,
+        "loser_inferno": 55.1,
+        "winner_nuke": 55.8,
+        "loser_nuke": 44.7,
+        "winner_dust2": 55.1,
+        "loser_dust2": 51.6,
+        "winner_overpass": 59.6,
+        "loser_overpass": 47.2,
+        "winner_train": 45.1,
+        "loser_train": 30.4,
+        "winner_ancient": 54.7,
+        "loser_ancient": 56.4,
+        "winner_cache": 50.0,
+        "loser_cache": 25.0,
+        "winner_vertigo": 61.5,
+        "loser_vertigo": 53.4,
+        "winner_anubis": 53.3,
+        "loser_anubis": 54.6,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "SINNERS",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.74,
+          "ADR": 74.12,
+          "KPR": 0.68,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "beastik",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 69.9,
+              "ADR": 69.6,
+              "KPR": 0.62,
+              "RATING": 0.99
+            }
+          },
+          {
+            "name": "shock",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 70.9,
+              "ADR": 73.8,
+              "KPR": 0.68,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "kisserek",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.6,
+              "ADR": 77.4,
+              "KPR": 0.69,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "stressarn",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 74.1,
+              "ADR": 79.3,
+              "KPR": 0.75,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "pepo",
+            "statistics": {
+              "DPR": 0.61,
+              "KAST": 72.2,
+              "ADR": 70.5,
+              "KPR": 0.67,
+              "RATING": 1.03
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "ECLOT",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.86,
+          "ADR": 75.38,
+          "KPR": 0.69,
+          "RATING": 1.07
+        },
+        "players": [
+          {
+            "name": "kreaz",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 71.3,
+              "ADR": 75.2,
+              "KPR": 0.66,
+              "RATING": 0.98
+            }
+          },
+          {
+            "name": "forsyy",
+            "statistics": {
+              "DPR": 0.58,
+              "KAST": 73.8,
+              "ADR": 74.0,
+              "KPR": 0.72,
+              "RATING": 1.15
+            }
+          },
+          {
+            "name": "nbqq",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 71.3,
+              "ADR": 75.4,
+              "KPR": 0.69,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "dytor",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 70.9,
+              "ADR": 77.9,
+              "KPR": 0.7,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "spardaus",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 72.0,
+              "ADR": 74.4,
+              "KPR": 0.67,
+              "RATING": 1.05
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "LAN",
+        "scraped_date": "2025-10-31T00:17:28.433496Z",
+        "hltv_url": "https://www.hltv.org/matches/2375759/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2376048",
+      "hltv_match_id": 2376048,
+      "date": "2024-09-20T11:00:00Z",
+      "tournament": "FASTCUP CSGORUN Cup Season 1",
+      "winner": "team2",
+      "season": 7,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
+      "map_veto": {
+        "winner_map": "Vertigo",
+        "loser_map": "Ancient",
+        "decider": "Anubis"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": null,
+        "loser_head2head_freq": null,
+        "winner_head2head_percentage": 0.0,
+        "loser_head2head_percentage": 0.0
+      },
+      "past_3_months": {
+        "winner_past3": 53.19,
+        "loser_past3": 70.0
+      },
+      "map_winrates": {
+        "winner_mirage": 39.6,
+        "loser_mirage": 51.0,
+        "winner_inferno": 53.3,
+        "loser_inferno": 56.4,
+        "winner_nuke": 57.7,
+        "loser_nuke": 52.9,
+        "winner_dust2": 44.4,
+        "loser_dust2": 52.1,
+        "winner_overpass": 54.7,
+        "loser_overpass": 47.8,
+        "winner_train": 56.9,
+        "loser_train": 44.2,
+        "winner_ancient": 51.0,
+        "loser_ancient": 58.0,
+        "winner_cache": 50.0,
+        "loser_cache": 33.3,
+        "winner_vertigo": 63.8,
+        "loser_vertigo": 50.0,
+        "winner_anubis": 52.2,
+        "loser_anubis": 57.3,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 43.2
+      },
+      "team1": {
+        "name": "Nemiga",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.66,
+          "ADR": 73.12,
+          "KPR": 0.66,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "xant3r",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.0,
+              "ADR": 76.8,
+              "KPR": 0.67,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "1eer",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 70.9,
+              "ADR": 68.3,
+              "KPR": 0.6,
+              "RATING": 0.98
+            }
+          },
+          {
+            "name": "sowalio",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 72.4,
+              "ADR": 74.7,
+              "KPR": 0.68,
+              "RATING": 1.08
+            }
+          },
+          {
+            "name": "riskyb0b",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 72.0,
+              "ADR": 75.3,
+              "KPR": 0.65,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "khan",
+            "statistics": {
+              "DPR": 0.61,
+              "KAST": 72.0,
+              "ADR": 70.5,
+              "KPR": 0.71,
+              "RATING": 1.1
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "9INE",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.6,
+          "ADR": 74.26,
+          "KPR": 0.68,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "raalz",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 70.9,
+              "ADR": 70.5,
+              "KPR": 0.65,
+              "RATING": 0.96
+            }
+          },
+          {
+            "name": "faven",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 72.6,
+              "ADR": 77.4,
+              "KPR": 0.73,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "kraghen",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.4,
+              "ADR": 76.8,
+              "KPR": 0.67,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "modo",
+            "statistics": {
+              "DPR": 0.6,
+              "KAST": 72.4,
+              "ADR": 69.3,
+              "KPR": 0.69,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "cej0t",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 70.7,
+              "ADR": 77.3,
+              "KPR": 0.68,
+              "RATING": 1.06
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:17:51.131709Z",
+        "hltv_url": "https://www.hltv.org/matches/2376048/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2376022",
+      "hltv_match_id": 2376022,
+      "date": "2024-09-20T10:00:00Z",
+      "tournament": "Winline Insight Season 5",
+      "winner": "team2",
+      "season": 7,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
+      "map_veto": {
+        "winner_map": "Inferno",
+        "loser_map": "Dust2",
+        "decider": "Ancient"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": null,
+        "loser_head2head_freq": null,
+        "winner_head2head_percentage": 0.0,
+        "loser_head2head_percentage": 0.0
+      },
+      "past_3_months": {
+        "winner_past3": 66.67,
+        "loser_past3": 51.28
+      },
+      "map_winrates": {
+        "winner_mirage": 42.7,
+        "loser_mirage": 60.7,
+        "winner_inferno": 61.9,
+        "loser_inferno": 50.8,
+        "winner_nuke": 43.8,
+        "loser_nuke": 25.0,
+        "winner_dust2": 52.8,
+        "loser_dust2": 55.9,
+        "winner_overpass": 50.0,
+        "loser_overpass": 43.8,
+        "winner_train": 0.0,
+        "loser_train": 0.0,
+        "winner_ancient": 52.6,
+        "loser_ancient": 44.9,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 53.8,
+        "loser_vertigo": 48.9,
+        "winner_anubis": 53.2,
+        "loser_anubis": 46.9,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "Aurora Young Blud",
+        "team_averages": {
+          "DPR": 0.71,
+          "KAST": 71.0,
+          "ADR": 73.6,
+          "KPR": 0.68,
+          "RATING": 1.03
+        },
+        "players": [
+          {
+            "name": "redzed",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.9,
+              "ADR": 71.4,
+              "KPR": 0.66,
+              "RATING": 1.01
+            }
+          },
+          {
+            "name": "starmie",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 74.0,
+              "ADR": 80.1,
+              "KPR": 0.73,
+              "RATING": 1.13
+            }
+          },
+          {
+            "name": "r1pa4",
+            "statistics": {
+              "DPR": 0.75,
+              "KAST": 69.7,
+              "ADR": 68.6,
+              "KPR": 0.59,
+              "RATING": 0.94
+            }
+          },
+          {
+            "name": "meetyoxanaji",
+            "statistics": {
+              "DPR": 0.75,
+              "KAST": 69.2,
+              "ADR": 75.1,
+              "KPR": 0.69,
+              "RATING": 1.01
+            }
+          },
+          {
+            "name": "k1nco",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 70.2,
+              "ADR": 72.8,
+              "KPR": 0.75,
+              "RATING": 1.06
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Partizan",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 70.9,
+          "ADR": 71.03,
+          "KPR": 0.66,
+          "RATING": 1.04
+        },
+        "players": [
+          {
+            "name": "aidkit",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 69.6,
+              "ADR": 70.5,
+              "KPR": 0.68,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "kind0",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 71.1,
+              "ADR": 72.5,
+              "KPR": 0.66,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "vldn",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 72.8,
+              "ADR": 75.4,
+              "KPR": 0.68,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "nopzy",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 70.1,
+              "ADR": 65.7,
+              "KPR": 0.61,
+              "RATING": 0.95
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:18:26.902783Z",
+        "hltv_url": "https://www.hltv.org/matches/2376022/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375902",
+      "hltv_match_id": 2375902,
+      "date": "2024-09-20T10:00:00Z",
+      "tournament": "ESEA Advanced Season 50 Europe",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
+      "map_veto": {
+        "winner_map": "Vertigo",
+        "loser_map": "Anubis",
+        "decider": "Dust2"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 1,
+        "loser_head2head_freq": 2,
+        "winner_head2head_percentage": 33.33,
+        "loser_head2head_percentage": 66.67
+      },
+      "past_3_months": {
+        "winner_past3": 64.71,
+        "loser_past3": 54.55
+      },
+      "map_winrates": {
+        "winner_mirage": 63.0,
+        "loser_mirage": 0.0,
+        "winner_inferno": 52.5,
+        "loser_inferno": 61.6,
+        "winner_nuke": 56.5,
+        "loser_nuke": 48.1,
+        "winner_dust2": 56.8,
+        "loser_dust2": 50.0,
+        "winner_overpass": 54.4,
+        "loser_overpass": 37.5,
+        "winner_train": 50.0,
+        "loser_train": 59.4,
+        "winner_ancient": 58.7,
+        "loser_ancient": 49.5,
+        "winner_cache": 33.3,
+        "loser_cache": 50.0,
+        "winner_vertigo": 64.6,
+        "loser_vertigo": 50.0,
+        "winner_anubis": 50.7,
+        "loser_anubis": 61.7,
+        "winner_cobblestone": 33.3,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "Spirit Academy",
+        "team_averages": {
+          "DPR": 0.67,
+          "KAST": 70.34,
+          "ADR": 71.04,
+          "KPR": 0.65,
+          "RATING": 1.0
+        },
+        "players": [
+          {
+            "name": "robo",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 69.6,
+              "ADR": 72.9,
+              "KPR": 0.64,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "syph0",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 71.7,
+              "ADR": 72.0,
+              "KPR": 0.67,
+              "RATING": 1.04
+            }
+          },
+          {
+            "name": "mokuj1n",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 73.3,
+              "ADR": 73.5,
+              "KPR": 0.66,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "kurosse",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 69.4,
+              "ADR": 68.8,
+              "KPR": 0.61,
+              "RATING": 0.93
+            }
+          },
+          {
+            "name": "kiryasoo",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 67.7,
+              "ADR": 68.0,
+              "KPR": 0.65,
+              "RATING": 0.95
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "FAVBET",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.46,
+          "ADR": 74.16,
+          "KPR": 0.69,
+          "RATING": 1.06
+        },
+        "players": [
+          {
+            "name": "bondik",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.3,
+              "ADR": 74.0,
+              "KPR": 0.68,
+              "RATING": 1.01
+            }
+          },
+          {
+            "name": "smash",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 71.7,
+              "ADR": 73.8,
+              "KPR": 0.66,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "s4ltovsk1yy",
+            "statistics": {
+              "DPR": 0.61,
+              "KAST": 72.3,
+              "ADR": 70.0,
+              "KPR": 0.69,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "marix",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.3,
+              "ADR": 76.4,
+              "KPR": 0.7,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "j3kie",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 69.7,
+              "ADR": 76.6,
+              "KPR": 0.71,
+              "RATING": 1.08
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:18:52.438916Z",
+        "hltv_url": "https://www.hltv.org/matches/2375902/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375588",
+      "hltv_match_id": 2375588,
+      "date": "2024-09-20T09:00:00Z",
+      "tournament": "ESL Challenger League Season 48 Europe",
+      "winner": "team2",
+      "season": 7,
+      "score": {
+        "team1": 1,
+        "team2": 2
+      },
+      "map_veto": {
+        "winner_map": "Nuke",
+        "loser_map": "Anubis",
+        "decider": "Ancient"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 2,
+        "loser_head2head_freq": 0,
+        "winner_head2head_percentage": 100.0,
+        "loser_head2head_percentage": 0.0
+      },
+      "past_3_months": {
+        "winner_past3": 61.29,
+        "loser_past3": 52.17
+      },
+      "map_winrates": {
+        "winner_mirage": 38.6,
+        "loser_mirage": 40.3,
+        "winner_inferno": 16.7,
+        "loser_inferno": 0.0,
+        "winner_nuke": 52.9,
+        "loser_nuke": 49.5,
+        "winner_dust2": 50.0,
+        "loser_dust2": 61.7,
+        "winner_overpass": 50.0,
+        "loser_overpass": 44.0,
+        "winner_train": 33.3,
+        "loser_train": 43.8,
+        "winner_ancient": 47.8,
+        "loser_ancient": 46.5,
+        "winner_cache": 50.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 59.4,
+        "loser_vertigo": 53.6,
+        "winner_anubis": 52.4,
+        "loser_anubis": 61.0,
+        "winner_cobblestone": 50.0,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "Insilio",
+        "team_averages": {
+          "DPR": 0.68,
+          "KAST": 70.75,
+          "ADR": 72.88,
+          "KPR": 0.65,
+          "RATING": 1.03
+        },
+        "players": [
+          {
+            "name": "sugar",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 70.6,
+              "ADR": 74.9,
+              "KPR": 0.67,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "faydett",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 70.9,
+              "ADR": 73.5,
+              "KPR": 0.63,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "dwushka",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 70.9,
+              "ADR": 72.7,
+              "KPR": 0.66,
+              "RATING": 1.04
+            }
+          },
+          {
+            "name": "kelien",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 70.6,
+              "ADR": 70.4,
+              "KPR": 0.64,
+              "RATING": 1.01
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Rebels",
+        "team_averages": {
+          "DPR": 0.68,
+          "KAST": 69.76,
+          "ADR": 73.08,
+          "KPR": 0.66,
+          "RATING": 1.03
+        },
+        "players": [
+          {
+            "name": "stadodo",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 70.9,
+              "ADR": 71.0,
+              "KPR": 0.66,
+              "RATING": 1.07
+            }
+          },
+          {
+            "name": "nopeej",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 71.8,
+              "ADR": 75.0,
+              "KPR": 0.68,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "snapy",
+            "statistics": {
+              "DPR": 0.75,
+              "KAST": 65.6,
+              "ADR": 73.2,
+              "KPR": 0.65,
+              "RATING": 0.97
+            }
+          },
+          {
+            "name": "icarus",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 69.3,
+              "ADR": 72.4,
+              "KPR": 0.65,
+              "RATING": 0.99
+            }
+          },
+          {
+            "name": "tmkj",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 71.2,
+              "ADR": 73.8,
+              "KPR": 0.66,
+              "RATING": 1.04
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:19:36.450660Z",
+        "hltv_url": "https://www.hltv.org/matches/2375588/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375424",
+      "hltv_match_id": 2375424,
+      "date": "2024-09-20T10:15:00Z",
+      "tournament": "ESL Pro League Season 20",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 0
+      },
+      "map_veto": {
+        "winner_map": "Mirage",
+        "loser_map": "Dust2",
+        "decider": "Ancient"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": 3,
+        "loser_head2head_freq": 9,
+        "winner_head2head_percentage": 25.0,
+        "loser_head2head_percentage": 75.0
+      },
+      "past_3_months": {
+        "winner_past3": 87.5,
+        "loser_past3": 75.0
+      },
+      "map_winrates": {
+        "winner_mirage": 63.9,
+        "loser_mirage": 58.4,
+        "winner_inferno": 55.8,
+        "loser_inferno": 53.3,
+        "winner_nuke": 57.4,
+        "loser_nuke": 58.8,
+        "winner_dust2": 60.0,
+        "loser_dust2": 67.7,
+        "winner_overpass": 61.1,
+        "loser_overpass": 57.3,
+        "winner_train": 66.1,
+        "loser_train": 59.8,
+        "winner_ancient": 62.5,
+        "loser_ancient": 69.4,
+        "winner_cache": 21.4,
+        "loser_cache": 51.8,
+        "winner_vertigo": 0.0,
+        "loser_vertigo": 54.5,
+        "winner_anubis": 59.1,
+        "loser_anubis": 67.1,
+        "winner_cobblestone": 53.6,
+        "loser_cobblestone": 62.8
+      },
+      "team1": {
+        "name": "Natus Vincere",
+        "team_averages": {
+          "DPR": 0.65,
+          "KAST": 72.56,
+          "ADR": 77.54,
+          "KPR": 0.71,
+          "RATING": 1.1
+        },
+        "players": [
+          {
+            "name": "aleksib",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 71.2,
+              "ADR": 71.4,
+              "KPR": 0.61,
+              "RATING": 0.93
+            }
+          },
+          {
+            "name": "im",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 70.4,
+              "ADR": 81.2,
+              "KPR": 0.73,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "b1t",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.7,
+              "ADR": 76.0,
+              "KPR": 0.7,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "w0nderful",
+            "statistics": {
+              "DPR": 0.58,
+              "KAST": 74.7,
+              "ADR": 75.6,
+              "KPR": 0.75,
+              "RATING": 1.18
+            }
+          },
+          {
+            "name": "makazze",
+            "statistics": {
+              "DPR": 0.71,
+              "KAST": 73.8,
+              "ADR": 83.5,
+              "KPR": 0.74,
+              "RATING": 1.17
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "Spirit",
+        "team_averages": {
+          "DPR": 0.64,
+          "KAST": 73.36,
+          "ADR": 78.98,
+          "KPR": 0.74,
+          "RATING": 1.14
+        },
+        "players": [
+          {
+            "name": "chopper",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 70.2,
+              "ADR": 70.2,
+              "KPR": 0.63,
+              "RATING": 0.94
+            }
+          },
+          {
+            "name": "sh1ro",
+            "statistics": {
+              "DPR": 0.54,
+              "KAST": 76.3,
+              "ADR": 78.4,
+              "KPR": 0.77,
+              "RATING": 1.26
+            }
+          },
+          {
+            "name": "tn1r",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 72.7,
+              "ADR": 78.1,
+              "KPR": 0.72,
+              "RATING": 1.12
+            }
+          },
+          {
+            "name": "donk",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 74.9,
+              "ADR": 90.6,
+              "KPR": 0.86,
+              "RATING": 1.31
+            }
+          },
+          {
+            "name": "zweih",
+            "statistics": {
+              "DPR": 0.68,
+              "KAST": 72.7,
+              "ADR": 77.6,
+              "KPR": 0.7,
+              "RATING": 1.09
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "LAN",
+        "scraped_date": "2025-10-31T00:20:03.686164Z",
+        "hltv_url": "https://www.hltv.org/matches/2375424/-"
+      }
+    },
+    {
+      "match_id": "hltv_match_2375838",
+      "hltv_match_id": 2375838,
+      "date": "2024-09-20T07:50:00Z",
+      "tournament": "CCT Season 2 Europe Series 12",
+      "winner": "team1",
+      "season": 7,
+      "score": {
+        "team1": 2,
+        "team2": 1
+      },
+      "map_veto": {
+        "winner_map": "Anubis",
+        "loser_map": "Vertigo",
+        "decider": "Ancient"
+      },
+      "head_to_head": {
+        "winner_head2head_freq": null,
+        "loser_head2head_freq": null,
+        "winner_head2head_percentage": 0.0,
+        "loser_head2head_percentage": 0.0
+      },
+      "past_3_months": {
+        "winner_past3": 28.57,
+        "loser_past3": 55.56
+      },
+      "map_winrates": {
+        "winner_mirage": 30.0,
+        "loser_mirage": 44.8,
+        "winner_inferno": 53.0,
+        "loser_inferno": 51.3,
+        "winner_nuke": 47.7,
+        "loser_nuke": 57.3,
+        "winner_dust2": 59.2,
+        "loser_dust2": 43.2,
+        "winner_overpass": 60.9,
+        "loser_overpass": 53.3,
+        "winner_train": 59.3,
+        "loser_train": 80.0,
+        "winner_ancient": 54.4,
+        "loser_ancient": 53.0,
+        "winner_cache": 100.0,
+        "loser_cache": 50.0,
+        "winner_vertigo": 51.2,
+        "loser_vertigo": 57.8,
+        "winner_anubis": 55.4,
+        "loser_anubis": 57.9,
+        "winner_cobblestone": 33.3,
+        "loser_cobblestone": 50.0
+      },
+      "team1": {
+        "name": "Lynn Vision",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 72.24,
+          "ADR": 76.12,
+          "KPR": 0.7,
+          "RATING": 1.1
+        },
+        "players": [
+          {
+            "name": "westmelon",
+            "statistics": {
+              "DPR": 0.69,
+              "KAST": 71.5,
+              "ADR": 78.0,
+              "KPR": 0.71,
+              "RATING": 1.1
+            }
+          },
+          {
+            "name": "z4kr",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 73.0,
+              "ADR": 77.0,
+              "KPR": 0.74,
+              "RATING": 1.15
+            }
+          },
+          {
+            "name": "starry",
+            "statistics": {
+              "DPR": 0.65,
+              "KAST": 72.5,
+              "ADR": 79.9,
+              "KPR": 0.72,
+              "RATING": 1.14
+            }
+          },
+          {
+            "name": "emiliaqaq",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 71.3,
+              "ADR": 70.9,
+              "KPR": 0.65,
+              "RATING": 1.04
+            }
+          },
+          {
+            "name": "c4llm3su3",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 72.9,
+              "ADR": 74.8,
+              "KPR": 0.67,
+              "RATING": 1.08
+            }
+          }
+        ]
+      },
+      "team2": {
+        "name": "ECSTATIC",
+        "team_averages": {
+          "DPR": 0.66,
+          "KAST": 71.32,
+          "ADR": 74.6,
+          "KPR": 0.68,
+          "RATING": 1.07
+        },
+        "players": [
+          {
+            "name": "acor",
+            "statistics": {
+              "DPR": 0.63,
+              "KAST": 70.0,
+              "ADR": 72.2,
+              "KPR": 0.7,
+              "RATING": 1.06
+            }
+          },
+          {
+            "name": "tmb",
+            "statistics": {
+              "DPR": 0.7,
+              "KAST": 69.4,
+              "ADR": 74.9,
+              "KPR": 0.64,
+              "RATING": 1.02
+            }
+          },
+          {
+            "name": "anlelele",
+            "statistics": {
+              "DPR": 0.67,
+              "KAST": 72.3,
+              "ADR": 77.2,
+              "KPR": 0.69,
+              "RATING": 1.09
+            }
+          },
+          {
+            "name": "nut-nut",
+            "statistics": {
+              "DPR": 0.64,
+              "KAST": 72.7,
+              "ADR": 71.7,
+              "KPR": 0.66,
+              "RATING": 1.05
+            }
+          },
+          {
+            "name": "sirah",
+            "statistics": {
+              "DPR": 0.66,
+              "KAST": 72.2,
+              "ADR": 77.0,
+              "KPR": 0.71,
+              "RATING": 1.11
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "match_type": "bo3",
+        "event_type": "Online",
+        "scraped_date": "2025-10-31T00:20:37.407051Z",
+        "hltv_url": "https://www.hltv.org/matches/2375838/-"
+      }
+    }
+  ]
+}

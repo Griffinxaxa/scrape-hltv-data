@@ -1,315 +1,185 @@
-# HLTV Match Data Scraper
+# HLTV Enhanced Match Scraper
 
-A comprehensive Python scraper for extracting match data from HLTV.org, including team information, player statistics, and match details.
+A comprehensive, snapshot-based web scraper for collecting CS2 match statistics straight from HLTV.org's immutable **Detailed stats** pages. Every feature in the dataset is derived from what happened inside that match—no team-page aggregates, no leakage, just match-locked performance numbers.
 
-## 📁 Project Structure
+## Features
 
-```
-hltv-scraping/
-├── data/                          # All scraped data organized by type
-│   ├── blast/                     # BLAST Premier event data
-│   ├── largescale/                # Large-scale scraping results (500+ matches)
-│   ├── test/                      # Test scraping results
-│   ├── results/                   # Single match results
-│   └── sample.json               # Sample data format
-├── scripts/                       # All scraper scripts
-│   ├── hltv_BLASTscrape.py       # BLAST London 2025 event scraper
-│   ├── hltv_largescale_scraper.py # Large-scale scraper (500+ matches)
-│   ├── hltv_resultsscrape.py     # Single match scraper with forfeit detection
-│   └── test_largescale.py        # Test scraper for small batches
-├── run_scraper.py                # Main runner script
-├── requirements.txt              # Python dependencies
-└── README.md                     # This file
-```
+- **Leak-free stats**: Aggregates `Op.K-D`, `MKs`, `KAST`, clutch wins, kills, assists, deaths, ADR, swing %, and Rating 3.0 for both teams directly from `/stats/matches/*`.
+- **Cloudflare Bypass**: Uses `cloudscraper` to solve Cloudflare challenges automatically.
+- **Respectful Scraping**: Built-in delays, exponential backoff, and pause/resume controls.
+- **Snapshot-Based Scraping**: Freeze 15k+ match IDs so new HLTV results never reshuffle your queue.
+- **Progress Tracking**: Checkpoints every 100 matches plus JSON/CSV exports at each save.
+- **Large-Scale Support**: Battle-tested for 10,000 match runs with `nohup` + `caffeinate` helpers.
 
-## 🚀 Quick Start
+## Cloudflare Protection
 
-### 1. Setup Environment
+This scraper uses the **`cloudscraper`** library (version 1.2.71) to automatically bypass Cloudflare challenges. The library:
 
+- Mimics browser behavior to solve Cloudflare JavaScript challenges
+- Maintains session cookies and headers
+- Handles TLS fingerprinting
+- Automatically retries when rate-limited
+
+**No additional configuration needed** - just install the dependencies and the scraper handles Cloudflare automatically.
+
+## Installation
+
+1. Clone the repository:
 ```bash
-# Create and activate virtual environment
-python3 -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+git clone <repository-url>
+cd "NEW hltv scraping"
+```
 
-# Install dependencies
+2. Create and activate a virtual environment:
+```bash
+python3 -m venv venv
+source venv/bin/activate  # On macOS/Linux
+# or
+venv\Scripts\activate  # On Windows
+```
+
+3. Install dependencies:
+```bash
 pip install -r requirements.txt
 ```
 
-### 2. Run Scrapers
+## Usage
 
-#### Option A: Using the Runner Script (Recommended)
-
-```bash
-# Run BLAST London 2025 scraper (5 matches)
-python run_scraper.py blast
-
-# Run large-scale scraper (500 matches)
-python run_scraper.py largescale
-
-# Run test scraper (10 matches)
-python run_scraper.py test --matches 10
-
-# Run single match scraper with forfeit detection
-python run_scraper.py results
-
-# Aggregate team statistics from scraped data
-python run_scraper.py aggregate --input data/largescale/hltv_largescale_data.json --output data/largescale/hltv_team_averages.json
-
-# Convert JSON data to CSV format
-python run_scraper.py csv --input data/largescale/hltv_team_averages.json --output data/largescale/hltv_matches.csv
-
-# Update with new matches since a specific match ID
-python run_scraper.py update --target_match_id 2385148 --output_dir data/updates
-
-# Run daily update (simple script)
-python daily_update.py
-```
-
-#### Option B: Direct Script Execution
+### Quick Start - Scrape Recent Matches
 
 ```bash
-# BLAST scraper
-python scripts/hltv_BLASTscrape.py
-
-# Large-scale scraper
-python scripts/hltv_largescale_scraper.py
-
-# Test scraper
-python scripts/test_largescale.py
-
-# Results scraper
-python scripts/hltv_resultsscrape.py
+python scripts/hltv_enhanced_scraper.py --target_match_id 0 --num_matches 10
 ```
 
-## 📊 Scraper Types
+### Large-Scale Scraping (10,000 matches)
 
-### 1. BLAST Scraper (`blast`)
-- **Purpose**: Scrape all matches from BLAST Premier: London 2025
-- **Matches**: 5 matches
-- **Features**: No forfeit detection (T1 event), complete player stats
-- **Output**: `data/blast/BlastLondon_data.json`
-
-### 2. Large-Scale Scraper (`largescale`)
-- **Purpose**: Scrape 500+ matches from HLTV results page
-- **Matches**: 500 (configurable)
-- **Features**: Pagination support, forfeit detection, progress tracking
-- **Output**: `data/largescale/hltv_largescale_data.json`
-- **Time Estimate**: 3.5-4.5 hours
-
-### 3. Test Scraper (`test`)
-- **Purpose**: Test scraper for small batches
-- **Matches**: 10 (configurable)
-- **Features**: Same as large-scale but smaller dataset
-- **Output**: `data/test/hltv_test_data.json`
-
-### 4. Results Scraper (`results`)
-- **Purpose**: Single match scraper with forfeit detection
-- **Matches**: 1 match (first non-forfeited)
-- **Features**: Forfeit detection, team/player stats
-- **Output**: `data/results/match_data.json`
-
-## 📈 Data Structure
-
-All scrapers output JSON data with the following structure:
-
-### Team Statistics Aggregation
-
-The `aggregate` scraper processes scraped match data and adds team-level statistics:
-
-- **Team Averages**: Calculates average DPR, KAST, ADR, KPR, and RATING for each team
-- **Data Structure**: Adds `team_averages` object to each team in every match
-- **Usage**: Perfect for team performance analysis and comparison
-
-Example team averages structure:
-```json
-"team1": {
-  "name": "Team Name",
-  "players": [...],
-  "team_averages": {
-    "DPR": 0.72,
-    "KAST": 68.5,
-    "ADR": 75.3,
-    "KPR": 0.69,
-    "RATING": 1.05
-  }
-}
-```
-
-### CSV Export
-
-The `csv` converter transforms JSON data into a flat CSV structure perfect for data analysis:
-
-- **Format**: Each row = one match
-- **Columns**: 83 total columns including:
-  - Match information (ID, date, tournament, winner, scores)
-  - Team-level statistics (averages for DPR, KAST, ADR, KPR, RATING)
-  - Individual player statistics (all 5 players from each team)
-- **Usage**: Ideal for Excel, pandas, R, or any data analysis tool
-
-CSV Structure:
-- `match_id`, `date`, `tournament`, `winner`, `score_team1`, `score_team2`
-- `team1_name`, `team1_avg_DPR`, `team1_avg_KAST`, etc.
-- `team1_player_1_name`, `team1_player_1_DPR`, `team1_player_1_KAST`, etc.
-- `team2_name`, `team2_avg_DPR`, `team2_avg_KAST`, etc.
-- `team2_player_1_name`, `team2_player_1_DPR`, `team2_player_1_KAST`, etc.
-
-### Daily Updates
-
-The `update` scraper allows you to keep your dataset current by scraping new matches:
-
-- **Backwards Scraping**: Scrapes matches newer than a specified match ID
-- **Automatic Integration**: Appends new matches to existing CSV file
-- **Smart Filtering**: Skips forfeited matches and incomplete teams
-- **Progress Tracking**: Shows real-time progress during scraping
-
-**Daily Update Workflow:**
-1. **Set Target ID**: Update `TARGET_MATCH_ID` in `daily_update.py`
-2. **Run Update**: `python daily_update.py`
-3. **Check Results**: New matches appear at the top of your CSV
-
-**Manual Update:**
+#### Step 1: Create Match Snapshot
 ```bash
-# Scrape matches newer than match ID 2385148
-python run_scraper.py update --target_match_id 2385148
-
-# Custom output directory
-python run_scraper.py update --target_match_id 2385148 --output_dir data/updates
+python scripts/create_match_snapshot.py --num_ids 15000 --output_file data/match_snapshot.json
 ```
 
-### Raw Data Structure
-
-All scrapers output JSON data with the following structure:
-
-```json
-{
-  "scraping_session": {
-    "target_matches": 500,
-    "total_matches_scraped": 500,
-    "failed_matches": 0,
-    "failed_match_numbers": [],
-    "scraped_date": "2025-09-11T21:27:35.958425Z"
-  },
-  "matches": [
-    {
-      "match_id": "hltv_match_1",
-      "date": "",
-      "tournament": "",
-      "winner": "team2",
-      "score": {
-        "team1": 1,
-        "team2": 2
-      },
-      "team1": {
-        "name": "Team Name",
-        "players": [
-          {
-            "name": "player_name",
-            "statistics": {
-              "DPR": 0.69,
-              "KAST": 69.3,
-              "ADR": 73.1,
-              "KPR": 0.65,
-              "RATING": 1.02
-            }
-          }
-        ]
-      },
-      "team2": {
-        "name": "Team Name",
-        "players": [...]
-      },
-      "metadata": {
-        "match_type": "bo1",
-        "event_type": "lan",
-        "scraped_date": "2025-09-11T21:27:35.958425Z",
-        "hltv_url": "https://www.hltv.org/matches/...",
-        "match_number": 1
-      }
-    }
-  ]
-}
+#### Step 2: Start Scraping
+```bash
+python scripts/hltv_enhanced_scraper.py \
+    --snapshot_file data/match_snapshot.json \
+    --num_matches 10000 \
+    --output_dir data/enhanced
 ```
 
-## 🎯 Player Statistics
-
-Each player includes 5 key statistics:
-- **DPR**: Damage per Round
-- **KAST**: Kill/Assist/Survive/Trade percentage
-- **ADR**: Average Damage per Round
-- **KPR**: Kills per Round
-- **RATING**: HLTV Rating 2.0
-
-## ⚙️ Configuration
-
-### Large-Scale Scraper Settings
-
-```python
-# In hltv_largescale_scraper.py
-target_matches = 500        # Number of matches to scrape
-matches_per_page = 100      # Matches per page (HLTV limit)
+#### Step 3: Keep Mac Awake (macOS only)
+```bash
+./run_scraper_awake.sh
 ```
 
-### Rate Limiting
+### Combine Checkpoint Files
 
-- **Player stats delay**: 0.5 seconds between players
-- **Page delay**: 3 seconds between pages
-- **Cloudflare retry**: 5 seconds on challenge detection
+After scraping, combine all checkpoint files into one dataset:
+```bash
+python scripts/combine_checkpoints.py
+```
 
-## 🛠️ Troubleshooting
+Output will be saved to `data/combined/combined_matches_latest.csv`
 
-### Common Issues
+## Data Structure
 
-1. **Cloudflare Challenges**: The scraper automatically handles these with retries
-2. **Network Timeouts**: Increase timeout values in the scraper
-3. **Memory Usage**: Large datasets may require significant RAM
-4. **Interrupted Scraping**: Use Ctrl+C to stop gracefully (saves partial data)
+Every row in `combined_matches_latest.csv` contains:
 
-### Performance Tips
+### Match Metadata
+- `hltv_match_id`, sequential `match_number`, `season`
+- ISO timestamp, tournament name, LAN/Online label
+- Team names, BO3 scoreline, canonical match URL, detailed-stats URL
+- Snapshot-friendly fields: `scraped_date`, `winner`, `winner_side`
 
-1. **Run during off-peak hours** to minimize Cloudflare challenges
-2. **Monitor progress** - the scraper provides detailed status updates
-3. **Use test scraper first** to verify everything works
-4. **Check available disk space** for large datasets
+### Team Detailed Stats (per team)
+- `opening_kills`, `opening_deaths`
+- `multi_kill_rounds`
+- `kast_pct` (average Kill/Assist/Survive/Trade)
+- `clutches_won`
+- `kills`, `assists`, `deaths`
+- `adr`
+- `swing_pct` (average round-to-round swing)
+- `rating_3`
 
-## 📝 Dependencies
+Team fields are prefixed with `team1_` and `team2_`, making feature engineering
+(e.g., differences, ratios) straightforward in downstream notebooks or Kaggle
+kernels.
 
-- `cloudscraper==1.2.71` - Cloudflare bypass
-- `beautifulsoup4==4.12.2` - HTML parsing
-- `requests==2.31.0` - HTTP requests
-- `playwright==1.40.0` - Browser automation (optional)
+## Output Files
 
-## 🔧 Development
+### Checkpoint Files
+- Saved every 100 matches: `data/enhanced/enhanced_matches_checkpoint_N_*.csv`
+- Includes both CSV and JSON formats
 
-### Adding New Scrapers
+### Progress File
+- `data/enhanced/scraper_progress.json`: Tracks current progress for resume capability
 
-1. Create new script in `scripts/` directory
-2. Follow existing naming convention: `hltv_[name]_scraper.py`
-3. Update `run_scraper.py` to include new scraper
-4. Add appropriate data directory in `data/`
+### Combined Dataset
+- `data/combined/combined_matches_latest.csv`: All matches combined with duplicates removed
+- `data/combined/combined_matches_latest.json`: JSON version
 
-### Modifying Data Structure
+## Architecture
 
-1. Update the JSON structure in scraper files
-2. Update this README with new structure
-3. Test with small datasets first
+See `SCRAPING_ARCHITECTURE.txt` for detailed information about:
+- Data extraction methods
+- Column groups and descriptions
+- Scraping pipeline flow
+- Technical implementation details
 
-## 📊 Expected Performance
+## Command Line Arguments
 
-| Scraper Type | Matches | Estimated Time | Output Size |
-|-------------|---------|----------------|-------------|
-| BLAST       | 5       | 5-10 minutes   | ~50KB       |
-| Test        | 10      | 3-5 minutes    | ~100KB      |
-| Large-Scale | 500     | 3.5-4.5 hours  | ~25MB       |
-| Results     | 1       | 1-2 minutes    | ~10KB       |
+### Main Scraper (`hltv_enhanced_scraper.py`)
+- `--target_match_id`: Starting match ID (default: 0)
+- `--num_matches`: Number of valid matches to scrape (default: 3)
+- `--snapshot_file`: Path to snapshot JSON file (optional)
+- `--output_dir`: Output directory (default: data/enhanced)
 
-## 🎉 Success!
+### Snapshot Creator (`create_match_snapshot.py`)
+- `--num_ids`: Number of match IDs to collect (default: 15000)
+- `--output_file`: Output JSON file path (default: data/match_snapshot.json)
 
-The scraper successfully extracts comprehensive match data including:
-- ✅ Team names and scores
-- ✅ Player rosters and statistics
-- ✅ Match metadata and URLs
-- ✅ Forfeit detection (where applicable)
-- ✅ Pagination support for large datasets
-- ✅ Error handling and progress tracking
+### Checkpoint Combiner (`combine_checkpoints.py`)
+- Automatically finds all checkpoint files and combines them
+- Removes duplicates based on match_id
+- Outputs to `data/combined/`
 
-Happy scraping! 🚀
+## Performance
+
+- **Average time per match**: ~12-15 seconds (with optimized delays)
+- **Rate limiting**: Automatic retry with exponential backoff
+- **Checkpoint frequency**: Every 100 matches
+- **Progress save frequency**: Every 10 matches
+
+## Error Handling
+
+- Automatic retry on rate limiting (3 attempts with increasing delays)
+- Graceful handling of missing data (defaults to safe values)
+- Progress saving prevents data loss on interruption
+- Checkpoint files allow resuming from any point
+
+## Requirements
+
+- Python 3.8+
+- `cloudscraper==1.2.71` (Cloudflare bypass)
+- `beautifulsoup4==4.12.2` (HTML parsing)
+- `requests==2.31.0` (HTTP requests)
+- `pandas` (data manipulation, installed automatically)
+
+## Notes
+
+- The scraper is respectful of HLTV servers with built-in delays
+- Avoid browsing HLTV.org while scraping to prevent rate limiting
+- On macOS, use `run_scraper_awake.sh` to prevent system sleep
+- Large-scale scraping may take 2-3 days for 10,000 matches
+
+## License
+
+[Add your license here]
+
+## Contributing
+
+[Add contribution guidelines here]
+
+## Acknowledgments
+
+- Uses `cloudscraper` by VeNoMouS for Cloudflare bypass
+- Data source: HLTV.org
