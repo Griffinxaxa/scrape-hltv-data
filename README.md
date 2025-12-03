@@ -173,11 +173,11 @@ See `SCRAPING_ARCHITECTURE.txt` for detailed information about:
 
 ## License
 
-[Add your license here]
+None, free use
 
 ## Contributing
 
-[Add contribution guidelines here]
+Just clone it
 
 ## Acknowledgments
 
