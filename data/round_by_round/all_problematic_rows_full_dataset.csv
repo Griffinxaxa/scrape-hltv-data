@@ -1,0 +1,1764 @@
+row,map,team1,team2,match_url,first_half_score,first_half_total,first_half_missing_count,first_half_missing_rounds,second_half_score,second_half_total,second_half_missing_count,second_half_missing_rounds,issue_types
+11,1,FaZe,B8,https://www.hltv.org/matches/2386836/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+11,2,FaZe,B8,https://www.hltv.org/matches/2386836/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+11,3,FaZe,B8,https://www.hltv.org/matches/2386836/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+12,1,paiN,Fluxo,https://www.hltv.org/matches/2386835/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+12,2,paiN,Fluxo,https://www.hltv.org/matches/2386835/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+12,3,paiN,Fluxo,https://www.hltv.org/matches/2386835/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+23,1,Gaimin Gladiators,Yawara,https://www.hltv.org/matches/2386706/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+23,2,Gaimin Gladiators,Yawara,https://www.hltv.org/matches/2386706/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+46,1,Wildcard,regain,https://www.hltv.org/matches/2386631/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+46,2,Wildcard,regain,https://www.hltv.org/matches/2386631/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+51,1,ODDIK,ShindeN,https://www.hltv.org/matches/2386602/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+51,2,ODDIK,ShindeN,https://www.hltv.org/matches/2386602/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+51,3,ODDIK,ShindeN,https://www.hltv.org/matches/2386602/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+95,1,Partizan,TPuDCATb TPu,https://www.hltv.org/matches/2386564/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+95,2,Partizan,TPuDCATb TPu,https://www.hltv.org/matches/2386564/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+95,3,Partizan,TPuDCATb TPu,https://www.hltv.org/matches/2386564/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+138,1,9z,BESTIA,https://www.hltv.org/matches/2386781/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+138,2,9z,BESTIA,https://www.hltv.org/matches/2386781/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+138,3,9z,BESTIA,https://www.hltv.org/matches/2386781/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+180,1,Mousquetaires,BIG Academy,https://www.hltv.org/matches/2386787/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+180,2,Mousquetaires,BIG Academy,https://www.hltv.org/matches/2386787/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+181,1,Spirit Academy,EYEBALLERS,https://www.hltv.org/matches/2386424/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+181,2,Spirit Academy,EYEBALLERS,https://www.hltv.org/matches/2386424/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+181,3,Spirit Academy,EYEBALLERS,https://www.hltv.org/matches/2386424/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+188,1,BESTIA,ShindeN,https://www.hltv.org/matches/2386776/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+220,1,9INE,TPuDCATb TPu,https://www.hltv.org/matches/2386421/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+220,2,9INE,TPuDCATb TPu,https://www.hltv.org/matches/2386421/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+239,1,MANA,Phantom,https://www.hltv.org/matches/2386766/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+239,2,MANA,Phantom,https://www.hltv.org/matches/2386766/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+239,3,MANA,Phantom,https://www.hltv.org/matches/2386766/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+242,1,Yawara,MIBR Academy,https://www.hltv.org/matches/2386682/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+242,2,Yawara,MIBR Academy,https://www.hltv.org/matches/2386682/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+276,1,SkinRave,regain,https://www.hltv.org/matches/2386619/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+276,2,SkinRave,regain,https://www.hltv.org/matches/2386619/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+284,1,Bounty Hunters,VEXA,https://www.hltv.org/matches/2386679/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+284,2,Bounty Hunters,VEXA,https://www.hltv.org/matches/2386679/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+285,1,Gaimin Gladiators,ODDIK,https://www.hltv.org/matches/2386589/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+285,2,Gaimin Gladiators,ODDIK,https://www.hltv.org/matches/2386589/-,4-7,11,1,[1],0-12,12,0,[],first_half_missing
+375,1,TPuDCATb TPu,EYEBALLERS,https://www.hltv.org/matches/2386412/-,9-2,11,1,[1],0-12,12,0,[],first_half_missing
+375,2,TPuDCATb TPu,EYEBALLERS,https://www.hltv.org/matches/2386412/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+375,3,TPuDCATb TPu,EYEBALLERS,https://www.hltv.org/matches/2386412/-,1-10,11,1,[1],5-7,12,0,[],first_half_missing
+438,1,ARCRED,EYEBALLERS,https://www.hltv.org/matches/2386407/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+438,2,ARCRED,EYEBALLERS,https://www.hltv.org/matches/2386407/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+438,3,ARCRED,EYEBALLERS,https://www.hltv.org/matches/2386407/-,7-4,11,1,[1],1-11,12,0,[],first_half_missing
+443,1,Vitality,HOTU,https://www.hltv.org/matches/2385946/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+443,2,Vitality,HOTU,https://www.hltv.org/matches/2385946/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+456,1,Yawara,MIBR Academy,https://www.hltv.org/matches/2386466/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+456,2,Yawara,MIBR Academy,https://www.hltv.org/matches/2386466/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+456,3,Yawara,MIBR Academy,https://www.hltv.org/matches/2386466/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+478,1,ShindeN,Fluxo,https://www.hltv.org/matches/2386401/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+478,2,ShindeN,Fluxo,https://www.hltv.org/matches/2386401/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+484,1,Spirit,HOTU,https://www.hltv.org/matches/2385942/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+484,2,Spirit,HOTU,https://www.hltv.org/matches/2385942/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+508,1,MIBR,Fluxo,https://www.hltv.org/matches/2386399/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+508,2,MIBR,Fluxo,https://www.hltv.org/matches/2386399/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+508,3,MIBR,Fluxo,https://www.hltv.org/matches/2386399/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+509,1,SAW,9INE,https://www.hltv.org/matches/2386663/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+509,2,SAW,9INE,https://www.hltv.org/matches/2386663/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+509,3,SAW,9INE,https://www.hltv.org/matches/2386663/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+516,1,9INE,9z,https://www.hltv.org/matches/2386658/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+516,2,9INE,9z,https://www.hltv.org/matches/2386658/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+516,3,9INE,9z,https://www.hltv.org/matches/2386658/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+517,1,MIBR,ODDIK,https://www.hltv.org/matches/2386398/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+517,2,MIBR,ODDIK,https://www.hltv.org/matches/2386398/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+519,1,Zero Tenacity,Mousquetaires,https://www.hltv.org/matches/2386318/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+519,2,Zero Tenacity,Mousquetaires,https://www.hltv.org/matches/2386318/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+555,1,Fluxo,Yawara,https://www.hltv.org/matches/2386391/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+555,2,Fluxo,Yawara,https://www.hltv.org/matches/2386391/-,1-10,11,1,[1],2-10,12,0,[],first_half_missing
+555,3,Fluxo,Yawara,https://www.hltv.org/matches/2386391/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+592,1,MIBR,ShindeN,https://www.hltv.org/matches/2386384/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+592,2,MIBR,ShindeN,https://www.hltv.org/matches/2386384/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+602,1,MIBR,X7,https://www.hltv.org/matches/2386369/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+602,2,MIBR,X7,https://www.hltv.org/matches/2386369/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+629,1,Atrix,Curralzinho,https://www.hltv.org/matches/2386161/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+629,2,Atrix,Curralzinho,https://www.hltv.org/matches/2386161/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+660,1,Gaimin Gladiators,ODDIK,https://www.hltv.org/matches/2386111/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+660,2,Gaimin Gladiators,ODDIK,https://www.hltv.org/matches/2386111/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+662,1,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2386258/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+662,2,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2386258/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+662,3,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2386258/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+667,1,BIG,EYEBALLERS,https://www.hltv.org/matches/2386257/-,3-8,11,1,[1],5-7,12,0,[],first_half_missing
+667,2,BIG,EYEBALLERS,https://www.hltv.org/matches/2386257/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+671,1,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2386253/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+671,2,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2386253/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+671,3,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2386253/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+687,1,Passion UA,BIG,https://www.hltv.org/matches/2386250/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+687,2,Passion UA,BIG,https://www.hltv.org/matches/2386250/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+687,3,Passion UA,BIG,https://www.hltv.org/matches/2386250/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+701,1,MIBR,ODDIK,https://www.hltv.org/matches/2386109/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+701,2,MIBR,ODDIK,https://www.hltv.org/matches/2386109/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+701,3,MIBR,ODDIK,https://www.hltv.org/matches/2386109/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+707,1,BESTIA,MIBR,https://www.hltv.org/matches/2386106/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+707,2,BESTIA,MIBR,https://www.hltv.org/matches/2386106/-,1-10,11,1,[1],4-8,12,0,[],first_half_missing
+729,1,B8,HOTU,https://www.hltv.org/matches/2385905/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+729,2,B8,HOTU,https://www.hltv.org/matches/2385905/-,2-9,11,1,[1],8-4,12,0,[],first_half_missing
+729,3,B8,HOTU,https://www.hltv.org/matches/2385905/-,1-10,11,1,[1],1-11,12,0,[],first_half_missing
+735,1,9z,Gaimin Gladiators,https://www.hltv.org/matches/2386103/-,6-5,11,1,[1],1-11,12,0,[],first_half_missing
+735,2,9z,Gaimin Gladiators,https://www.hltv.org/matches/2386103/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+735,3,9z,Gaimin Gladiators,https://www.hltv.org/matches/2386103/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+736,1,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2386104/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+736,2,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2386104/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+738,1,Yawara,Gaimin Gladiators,https://www.hltv.org/matches/2386099/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+738,2,Yawara,Gaimin Gladiators,https://www.hltv.org/matches/2386099/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+739,1,BESTIA,ODDIK,https://www.hltv.org/matches/2386096/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+739,2,BESTIA,ODDIK,https://www.hltv.org/matches/2386096/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+784,1,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2386091/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+784,2,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2386091/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+792,1,9z,Yawara,https://www.hltv.org/matches/2386089/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+792,2,9z,Yawara,https://www.hltv.org/matches/2386089/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+795,1,KS,The Suspect,https://www.hltv.org/matches/2386275/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+795,2,KS,The Suspect,https://www.hltv.org/matches/2386275/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+799,1,Zero Tenacity,Passion UA,https://www.hltv.org/matches/2386034/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+799,2,Zero Tenacity,Passion UA,https://www.hltv.org/matches/2386034/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+799,3,Zero Tenacity,Passion UA,https://www.hltv.org/matches/2386034/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+810,1,PARIVISION,TPuDCATb TPu,https://www.hltv.org/matches/2385791/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+810,2,PARIVISION,TPuDCATb TPu,https://www.hltv.org/matches/2385791/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+815,1,BIG,Phantom,https://www.hltv.org/matches/2386069/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+815,2,BIG,Phantom,https://www.hltv.org/matches/2386069/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+819,1,Mousquetaires,ARCRED,https://www.hltv.org/matches/2386173/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+819,2,Mousquetaires,ARCRED,https://www.hltv.org/matches/2386173/-,7-4,11,1,[1],2-10,12,0,[],first_half_missing
+819,3,Mousquetaires,ARCRED,https://www.hltv.org/matches/2386173/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+851,1,ARCRED,THE,https://www.hltv.org/matches/2385896/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+851,2,ARCRED,THE,https://www.hltv.org/matches/2385896/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+865,1,BIG Academy,Zero Tenacity,https://www.hltv.org/matches/2386025/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+865,2,BIG Academy,Zero Tenacity,https://www.hltv.org/matches/2386025/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+865,3,BIG Academy,Zero Tenacity,https://www.hltv.org/matches/2386025/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+866,1,Phantom,Wildcard,https://www.hltv.org/matches/2386046/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+879,1,Zero Tenacity,Passion UA,https://www.hltv.org/matches/2386020/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+879,2,Zero Tenacity,Passion UA,https://www.hltv.org/matches/2386020/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+894,1,MIBR fe,Curralzinho,https://www.hltv.org/matches/2385978/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+894,2,MIBR fe,Curralzinho,https://www.hltv.org/matches/2385978/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+901,1,PARIVISION,Nuclear TigeRES,https://www.hltv.org/matches/2385787/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+901,2,PARIVISION,Nuclear TigeRES,https://www.hltv.org/matches/2385787/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+925,1,Passion UA,MANA,https://www.hltv.org/matches/2386009/-,2-9,11,1,[1],10-2,12,0,[],first_half_missing
+925,2,Passion UA,MANA,https://www.hltv.org/matches/2386009/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+928,1,TPuDCATb TPu,Spirit Academy,https://www.hltv.org/matches/2385781/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+928,2,TPuDCATb TPu,Spirit Academy,https://www.hltv.org/matches/2385781/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+931,1,9z,BESTIA,https://www.hltv.org/matches/2385609/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+931,2,9z,BESTIA,https://www.hltv.org/matches/2385609/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+1014,1,Partizan,KHAN,https://www.hltv.org/matches/2385543/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1014,2,Partizan,KHAN,https://www.hltv.org/matches/2385543/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1015,1,Ninjas in Pyjamas,B8,https://www.hltv.org/matches/2385406/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+1015,2,Ninjas in Pyjamas,B8,https://www.hltv.org/matches/2385406/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+1033,1,NuTorious,LAG,https://www.hltv.org/matches/2385794/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+1033,2,NuTorious,LAG,https://www.hltv.org/matches/2385794/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+1054,1,B8,Passion UA,https://www.hltv.org/matches/2385403/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1054,2,B8,Passion UA,https://www.hltv.org/matches/2385403/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+1065,1,SkinRave,Wildcard,https://www.hltv.org/matches/2385811/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+1065,2,SkinRave,Wildcard,https://www.hltv.org/matches/2385811/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+1072,1,9INE,HOTU,https://www.hltv.org/matches/2385797/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+1072,2,9INE,HOTU,https://www.hltv.org/matches/2385797/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+1087,1,PARIVISION,Ninjas in Pyjamas,https://www.hltv.org/matches/2385400/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+1087,2,PARIVISION,Ninjas in Pyjamas,https://www.hltv.org/matches/2385400/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+1106,1,Yawara,BESTIA,https://www.hltv.org/matches/2385649/-,1-10,11,1,[1],11-1,12,0,[],first_half_missing
+1106,2,Yawara,BESTIA,https://www.hltv.org/matches/2385649/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+1106,3,Yawara,BESTIA,https://www.hltv.org/matches/2385649/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+1127,1,Mousquetaires,KHAN,https://www.hltv.org/matches/2385570/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+1127,2,Mousquetaires,KHAN,https://www.hltv.org/matches/2385570/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+1134,1,B8,PARIVISION,https://www.hltv.org/matches/2385394/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+1134,2,B8,PARIVISION,https://www.hltv.org/matches/2385394/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+1138,1,Wanted Goons,LAG,https://www.hltv.org/matches/2385518/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+1138,2,Wanted Goons,LAG,https://www.hltv.org/matches/2385518/-,6-5,11,1,[1],0-12,12,0,[],first_half_missing
+1138,3,Wanted Goons,LAG,https://www.hltv.org/matches/2385518/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+1145,1,BESTIA,ODDIK,https://www.hltv.org/matches/2385510/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1145,2,BESTIA,ODDIK,https://www.hltv.org/matches/2385510/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+1151,1,EYEBALLERS,KHAN,https://www.hltv.org/matches/2385540/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1151,2,EYEBALLERS,KHAN,https://www.hltv.org/matches/2385540/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+1151,3,EYEBALLERS,KHAN,https://www.hltv.org/matches/2385540/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+1200,1,Fluxo,BESTIA,https://www.hltv.org/matches/2385599/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+1200,2,Fluxo,BESTIA,https://www.hltv.org/matches/2385599/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+1212,1,KHAN,Wildcard Academy,https://www.hltv.org/matches/2385555/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1212,2,KHAN,Wildcard Academy,https://www.hltv.org/matches/2385555/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+1212,3,KHAN,Wildcard Academy,https://www.hltv.org/matches/2385555/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+1213,1,Partizan,ARCRED,https://www.hltv.org/matches/2385618/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+1213,2,Partizan,ARCRED,https://www.hltv.org/matches/2385618/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+1237,1,EYEBALLERS,KHAN,https://www.hltv.org/matches/2385415/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1237,2,EYEBALLERS,KHAN,https://www.hltv.org/matches/2385415/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+1237,3,EYEBALLERS,KHAN,https://www.hltv.org/matches/2385415/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1245,1,Insilio,Nuclear TigeRES,https://www.hltv.org/matches/2385612/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+1245,2,Insilio,Nuclear TigeRES,https://www.hltv.org/matches/2385612/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1250,1,9z,ShindeN,https://www.hltv.org/matches/2385592/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+1250,2,9z,ShindeN,https://www.hltv.org/matches/2385592/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1250,3,9z,ShindeN,https://www.hltv.org/matches/2385592/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+1261,1,EYEBALLERS,ARCRED,https://www.hltv.org/matches/2385260/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+1261,2,EYEBALLERS,ARCRED,https://www.hltv.org/matches/2385260/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+1310,1,Insilio,RUSTEC,https://www.hltv.org/matches/2385480/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+1310,2,Insilio,RUSTEC,https://www.hltv.org/matches/2385480/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+1354,1,Phantom,Nuclear TigeRES,https://www.hltv.org/matches/2385531/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+1354,2,Phantom,Nuclear TigeRES,https://www.hltv.org/matches/2385531/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+1387,1,BESTIA,Fluxo,https://www.hltv.org/matches/2385374/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+1387,2,BESTIA,Fluxo,https://www.hltv.org/matches/2385374/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+1392,1,Bounty Hunters,ShindeN,https://www.hltv.org/matches/2385435/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+1392,2,Bounty Hunters,ShindeN,https://www.hltv.org/matches/2385435/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+1397,1,TPuDCATb TPu,9INE,https://www.hltv.org/matches/2385358/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+1397,2,TPuDCATb TPu,9INE,https://www.hltv.org/matches/2385358/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1397,3,TPuDCATb TPu,9INE,https://www.hltv.org/matches/2385358/-,2-9,11,1,[1],8-4,12,0,[],first_half_missing
+1420,1,9z,PARIVISION,https://www.hltv.org/matches/2385168/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1420,2,9z,PARIVISION,https://www.hltv.org/matches/2385168/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+1440,1,MIBR fe,Atrix,https://www.hltv.org/matches/2385142/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1440,2,MIBR fe,Atrix,https://www.hltv.org/matches/2385142/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+1454,1,Phantom,SKYFURY,https://www.hltv.org/matches/2385330/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+1454,2,Phantom,SKYFURY,https://www.hltv.org/matches/2385330/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+1462,1,HOTU,Insilio,https://www.hltv.org/matches/2385346/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1462,2,HOTU,Insilio,https://www.hltv.org/matches/2385346/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1486,1,SkinRave,Wanted Goons,https://www.hltv.org/matches/2385238/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+1486,2,SkinRave,Wanted Goons,https://www.hltv.org/matches/2385238/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1493,1,BESTIA,Yawara,https://www.hltv.org/matches/2385221/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+1493,2,BESTIA,Yawara,https://www.hltv.org/matches/2385221/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1493,3,BESTIA,Yawara,https://www.hltv.org/matches/2385221/-,10-1,11,1,[1],2-10,12,0,[],first_half_missing
+1498,1,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2385218/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1498,2,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2385218/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+1523,1,SAW,BIG,https://www.hltv.org/matches/2385160/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+1523,2,SAW,BIG,https://www.hltv.org/matches/2385160/-,7-4,11,1,[1],0-12,12,0,[],first_half_missing
+1523,3,SAW,BIG,https://www.hltv.org/matches/2385160/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+1532,1,Zero Tenacity,ARCRED,https://www.hltv.org/matches/2385106/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+1563,1,HOTU,Zero Tenacity,https://www.hltv.org/matches/2385180/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+1563,2,HOTU,Zero Tenacity,https://www.hltv.org/matches/2385180/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+1563,3,HOTU,Zero Tenacity,https://www.hltv.org/matches/2385180/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+1580,1,Eruption,True Thunder,https://www.hltv.org/matches/2385201/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1580,2,Eruption,True Thunder,https://www.hltv.org/matches/2385201/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1597,1,ODDIK,Wildcard,https://www.hltv.org/matches/2385288/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+1597,2,ODDIK,Wildcard,https://www.hltv.org/matches/2385288/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+1597,3,ODDIK,Wildcard,https://www.hltv.org/matches/2385288/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+1602,1,Ninjas in Pyjamas,Wildcard,https://www.hltv.org/matches/2385287/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1602,2,Ninjas in Pyjamas,Wildcard,https://www.hltv.org/matches/2385287/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1610,1,NIP Impact,ARCRED,https://www.hltv.org/matches/2385098/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+1610,2,NIP Impact,ARCRED,https://www.hltv.org/matches/2385098/-,1-10,11,1,[1],0-12,12,0,[],first_half_missing
+1622,1,Wildcard,Fluxo,https://www.hltv.org/matches/2385283/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+1622,2,Wildcard,Fluxo,https://www.hltv.org/matches/2385283/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+1622,3,Wildcard,Fluxo,https://www.hltv.org/matches/2385283/-,2-9,11,1,[1],11-1,12,0,[],first_half_missing
+1623,1,SkinRave,ODDIK,https://www.hltv.org/matches/2385285/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+1623,2,SkinRave,ODDIK,https://www.hltv.org/matches/2385285/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+1623,3,SkinRave,ODDIK,https://www.hltv.org/matches/2385285/-,1-10,11,1,[1],4-8,12,0,[],first_half_missing
+1653,1,EYEBALLERS,ARCRED,https://www.hltv.org/matches/2385094/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1653,2,EYEBALLERS,ARCRED,https://www.hltv.org/matches/2385094/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+1690,1,EYEBALLERS,NIP Impact,https://www.hltv.org/matches/2385056/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+1690,2,EYEBALLERS,NIP Impact,https://www.hltv.org/matches/2385056/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+1703,1,Hesta,Phantom,https://www.hltv.org/matches/2385039/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+1703,2,Hesta,Phantom,https://www.hltv.org/matches/2385039/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+1703,3,Hesta,Phantom,https://www.hltv.org/matches/2385039/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+1742,1,Phantom,TPuDCATb TPu,https://www.hltv.org/matches/2385004/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+1742,2,Phantom,TPuDCATb TPu,https://www.hltv.org/matches/2385004/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+1756,1,9z,BESTIA,https://www.hltv.org/matches/2384945/-,0-11,11,1,[1],0-12,12,0,[],first_half_missing
+1756,2,9z,BESTIA,https://www.hltv.org/matches/2384945/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1756,3,9z,BESTIA,https://www.hltv.org/matches/2384945/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+1759,1,PARIVISION,9INE,https://www.hltv.org/matches/2384956/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+1759,2,PARIVISION,9INE,https://www.hltv.org/matches/2384956/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1768,1,RUSTEC,Phantom,https://www.hltv.org/matches/2384999/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1768,2,RUSTEC,Phantom,https://www.hltv.org/matches/2384999/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+1768,3,RUSTEC,Phantom,https://www.hltv.org/matches/2384999/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+1794,1,ARCRED,Spirit Academy,https://www.hltv.org/matches/2384885/-,5-6,11,1,[1],0-12,12,0,[],first_half_missing
+1794,2,ARCRED,Spirit Academy,https://www.hltv.org/matches/2384885/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+1796,1,EYEBALLERS,9INE,https://www.hltv.org/matches/2384761/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1796,2,EYEBALLERS,9INE,https://www.hltv.org/matches/2384761/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+1796,3,EYEBALLERS,9INE,https://www.hltv.org/matches/2384761/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+1807,1,Passion UA,9INE,https://www.hltv.org/matches/2384759/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+1807,2,Passion UA,9INE,https://www.hltv.org/matches/2384759/-,2-9,11,1,[1],6-6,12,0,[],first_half_missing
+1829,1,Zero Tenacity,PARIVISION,https://www.hltv.org/matches/2384954/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+1829,2,Zero Tenacity,PARIVISION,https://www.hltv.org/matches/2384954/-,1-10,11,1,[1],6-6,12,0,[],first_half_missing
+1833,1,Ninjas in Pyjamas,EYEBALLERS,https://www.hltv.org/matches/2384752/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+1833,2,Ninjas in Pyjamas,EYEBALLERS,https://www.hltv.org/matches/2384752/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1833,3,Ninjas in Pyjamas,EYEBALLERS,https://www.hltv.org/matches/2384752/-,0-11,11,1,[1],3-9,12,0,[],first_half_missing
+1835,1,Spirit Academy,Partizan,https://www.hltv.org/matches/2384881/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1835,2,Spirit Academy,Partizan,https://www.hltv.org/matches/2384881/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1850,1,TPuDCATb TPu,KHAN,https://www.hltv.org/matches/2384826/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1850,2,TPuDCATb TPu,KHAN,https://www.hltv.org/matches/2384826/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+1850,3,TPuDCATb TPu,KHAN,https://www.hltv.org/matches/2384826/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1861,1,MANA,Insiders,https://www.hltv.org/matches/2384750/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1866,1,Fluxo,BESTIA,https://www.hltv.org/matches/2384942/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+1866,2,Fluxo,BESTIA,https://www.hltv.org/matches/2384942/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+1866,3,Fluxo,BESTIA,https://www.hltv.org/matches/2384942/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+1874,1,CYBERSHOKE,Nuclear TigeRES,https://www.hltv.org/matches/2384825/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1874,2,CYBERSHOKE,Nuclear TigeRES,https://www.hltv.org/matches/2384825/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+1874,3,CYBERSHOKE,Nuclear TigeRES,https://www.hltv.org/matches/2384825/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+1898,1,PARIVISION,9INE,https://www.hltv.org/matches/2384693/-,7-4,11,1,[1],1-11,12,0,[],first_half_missing
+1898,2,PARIVISION,9INE,https://www.hltv.org/matches/2384693/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+1898,3,PARIVISION,9INE,https://www.hltv.org/matches/2384693/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+1910,1,CYBERSHOKE,KHAN,https://www.hltv.org/matches/2384820/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1910,2,CYBERSHOKE,KHAN,https://www.hltv.org/matches/2384820/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+1923,1,BESTIA,9z,https://www.hltv.org/matches/2384579/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+1923,2,BESTIA,9z,https://www.hltv.org/matches/2384579/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+1923,3,BESTIA,9z,https://www.hltv.org/matches/2384579/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+1924,1,Fluxo,ShindeN,https://www.hltv.org/matches/2384581/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1924,2,Fluxo,ShindeN,https://www.hltv.org/matches/2384581/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1947,1,Wildcard Academy,EYEBALLERS,https://www.hltv.org/matches/2384668/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+1947,2,Wildcard Academy,EYEBALLERS,https://www.hltv.org/matches/2384668/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+1947,3,Wildcard Academy,EYEBALLERS,https://www.hltv.org/matches/2384668/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+1958,1,Zero Tenacity,Metizport,https://www.hltv.org/matches/2384802/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1958,2,Zero Tenacity,Metizport,https://www.hltv.org/matches/2384802/-,2-9,11,1,[1],3-9,12,0,[],first_half_missing
+1958,3,Zero Tenacity,Metizport,https://www.hltv.org/matches/2384802/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+1960,1,SENZA,KHAN,https://www.hltv.org/matches/2384727/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+1960,2,SENZA,KHAN,https://www.hltv.org/matches/2384727/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+1960,3,SENZA,KHAN,https://www.hltv.org/matches/2384727/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+1963,1,TPuDCATb TPu,Hesta,https://www.hltv.org/matches/2384899/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+1963,2,TPuDCATb TPu,Hesta,https://www.hltv.org/matches/2384899/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+1963,3,TPuDCATb TPu,Hesta,https://www.hltv.org/matches/2384899/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1977,1,Partizan,ARCRED,https://www.hltv.org/matches/2384798/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1977,2,Partizan,ARCRED,https://www.hltv.org/matches/2384798/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+1994,1,Partizan,Zero Tenacity,https://www.hltv.org/matches/2384548/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+1994,2,Partizan,Zero Tenacity,https://www.hltv.org/matches/2384548/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+1994,3,Partizan,Zero Tenacity,https://www.hltv.org/matches/2384548/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+1999,1,CYBERSHOKE,Metizport,https://www.hltv.org/matches/2384546/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+1999,2,CYBERSHOKE,Metizport,https://www.hltv.org/matches/2384546/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+1999,3,CYBERSHOKE,Metizport,https://www.hltv.org/matches/2384546/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+2002,1,EYEBALLERS,BIG Academy,https://www.hltv.org/matches/2384667/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+2002,2,EYEBALLERS,BIG Academy,https://www.hltv.org/matches/2384667/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2032,1,Wildcard Academy,EYEBALLERS,https://www.hltv.org/matches/2384665/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+2032,2,Wildcard Academy,EYEBALLERS,https://www.hltv.org/matches/2384665/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2047,1,BIG,Spirit Academy,https://www.hltv.org/matches/2384679/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2047,2,BIG,Spirit Academy,https://www.hltv.org/matches/2384679/-,1-10,11,1,[1],4-8,12,0,[],first_half_missing
+2047,3,BIG,Spirit Academy,https://www.hltv.org/matches/2384679/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+2061,1,TPuDCATb TPu,Nuclear TigeRES,https://www.hltv.org/matches/2384713/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2061,2,TPuDCATb TPu,Nuclear TigeRES,https://www.hltv.org/matches/2384713/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+2061,3,TPuDCATb TPu,Nuclear TigeRES,https://www.hltv.org/matches/2384713/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+2069,1,Fluxo,9z,https://www.hltv.org/matches/2384630/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2069,2,Fluxo,9z,https://www.hltv.org/matches/2384630/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2083,1,Wildcard Academy,BIG Academy,https://www.hltv.org/matches/2384661/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2083,2,Wildcard Academy,BIG Academy,https://www.hltv.org/matches/2384661/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2085,1,BESTIA,Fluxo,https://www.hltv.org/matches/2384627/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2085,2,BESTIA,Fluxo,https://www.hltv.org/matches/2384627/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+2085,3,BESTIA,Fluxo,https://www.hltv.org/matches/2384627/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+2095,1,ARCRED,HOTU,https://www.hltv.org/matches/2384646/-,1-10,11,1,[1],1-11,12,0,[],first_half_missing
+2095,2,ARCRED,HOTU,https://www.hltv.org/matches/2384646/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+2097,1,9z,ODDIK,https://www.hltv.org/matches/2384624/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+2097,2,9z,ODDIK,https://www.hltv.org/matches/2384624/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+2135,1,9INE,BIG,https://www.hltv.org/matches/2384497/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+2135,2,9INE,BIG,https://www.hltv.org/matches/2384497/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+2135,3,9INE,BIG,https://www.hltv.org/matches/2384497/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2183,1,X7,ShindeN,https://www.hltv.org/matches/2384699/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+2186,1,9INE,CYBERSHOKE,https://www.hltv.org/matches/2384640/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+2186,2,9INE,CYBERSHOKE,https://www.hltv.org/matches/2384640/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+2212,1,HOTU,9INE,https://www.hltv.org/matches/2384508/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+2212,2,HOTU,9INE,https://www.hltv.org/matches/2384508/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+2229,1,ShindeN,Yawara,https://www.hltv.org/matches/2384423/-,1-10,11,1,[1],1-11,12,0,[],first_half_missing
+2229,2,ShindeN,Yawara,https://www.hltv.org/matches/2384423/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+2229,3,ShindeN,Yawara,https://www.hltv.org/matches/2384423/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+2262,1,Zero Tenacity,Partizan,https://www.hltv.org/matches/2384438/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+2262,2,Zero Tenacity,Partizan,https://www.hltv.org/matches/2384438/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+2262,3,Zero Tenacity,Partizan,https://www.hltv.org/matches/2384438/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2293,1,LAG,Marca Registrada,https://www.hltv.org/matches/2384634/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2293,2,LAG,Marca Registrada,https://www.hltv.org/matches/2384634/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+2317,1,BIG,9INE,https://www.hltv.org/matches/2384485/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+2317,2,BIG,9INE,https://www.hltv.org/matches/2384485/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+2317,3,BIG,9INE,https://www.hltv.org/matches/2384485/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+2331,1,Ninjas in Pyjamas,9INE,https://www.hltv.org/matches/2384478/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2331,2,Ninjas in Pyjamas,9INE,https://www.hltv.org/matches/2384478/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+2331,3,Ninjas in Pyjamas,9INE,https://www.hltv.org/matches/2384478/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+2343,1,BIG,Passion UA,https://www.hltv.org/matches/2384477/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+2343,2,BIG,Passion UA,https://www.hltv.org/matches/2384477/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2376,1,HOTU,ARCRED,https://www.hltv.org/matches/2384208/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+2376,2,HOTU,ARCRED,https://www.hltv.org/matches/2384208/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+2382,1,ARCRED,Partizan,https://www.hltv.org/matches/2384317/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+2382,2,ARCRED,Partizan,https://www.hltv.org/matches/2384317/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+2382,3,ARCRED,Partizan,https://www.hltv.org/matches/2384317/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+2430,1,Zero Tenacity,Spirit Academy,https://www.hltv.org/matches/2384272/-,2-9,11,1,[1],7-5,12,0,[],first_half_missing
+2430,2,Zero Tenacity,Spirit Academy,https://www.hltv.org/matches/2384272/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2430,3,Zero Tenacity,Spirit Academy,https://www.hltv.org/matches/2384272/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2431,1,HOTU,Metizport,https://www.hltv.org/matches/2384314/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+2431,2,HOTU,Metizport,https://www.hltv.org/matches/2384314/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2476,1,BIG,EYEBALLERS,https://www.hltv.org/matches/2384393/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2481,1,HOTU,EYEBALLERS,https://www.hltv.org/matches/2384392/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+2496,1,TPuDCATb TPu,ARCRED,https://www.hltv.org/matches/2384298/-,2-9,11,1,[1],4-8,12,0,[],first_half_missing
+2496,2,TPuDCATb TPu,ARCRED,https://www.hltv.org/matches/2384298/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+2496,3,TPuDCATb TPu,ARCRED,https://www.hltv.org/matches/2384298/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2499,1,Partizan,PARIVISION,https://www.hltv.org/matches/2384177/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+2499,2,Partizan,PARIVISION,https://www.hltv.org/matches/2384177/-,0-11,11,1,[1],1-11,12,0,[],first_half_missing
+2502,1,RUSTEC,ARCRED,https://www.hltv.org/matches/2384297/-,1-10,11,1,[1],6-6,12,0,[],first_half_missing
+2502,2,RUSTEC,ARCRED,https://www.hltv.org/matches/2384297/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+2508,1,TPuDCATb TPu,EYEBALLERS,https://www.hltv.org/matches/2384296/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+2508,2,TPuDCATb TPu,EYEBALLERS,https://www.hltv.org/matches/2384296/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2508,3,TPuDCATb TPu,EYEBALLERS,https://www.hltv.org/matches/2384296/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+2526,1,BIG,Partizan,https://www.hltv.org/matches/2384172/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+2526,2,BIG,Partizan,https://www.hltv.org/matches/2384172/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+2534,1,PARIVISION,CYBERSHOKE,https://www.hltv.org/matches/2384170/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2534,2,PARIVISION,CYBERSHOKE,https://www.hltv.org/matches/2384170/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+2534,3,PARIVISION,CYBERSHOKE,https://www.hltv.org/matches/2384170/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+2545,1,Spirit Academy,9INE,https://www.hltv.org/matches/2384169/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+2545,2,Spirit Academy,9INE,https://www.hltv.org/matches/2384169/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+2546,1,Ninjas in Pyjamas,paiN,https://www.hltv.org/matches/2384127/-,2-9,11,1,[1],6-6,12,0,[],first_half_missing
+2546,2,Ninjas in Pyjamas,paiN,https://www.hltv.org/matches/2384127/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+2546,3,Ninjas in Pyjamas,paiN,https://www.hltv.org/matches/2384127/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+2549,1,ARCRED,TPuDCATb TPu,https://www.hltv.org/matches/2384193/-,5-6,11,1,[1],0-12,12,0,[],first_half_missing
+2549,2,ARCRED,TPuDCATb TPu,https://www.hltv.org/matches/2384193/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2549,3,ARCRED,TPuDCATb TPu,https://www.hltv.org/matches/2384193/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+2558,1,TPuDCATb TPu,NIP Impact,https://www.hltv.org/matches/2384191/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2558,2,TPuDCATb TPu,NIP Impact,https://www.hltv.org/matches/2384191/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2561,1,Passion UA,Spirit,https://www.hltv.org/matches/2384138/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+2561,2,Passion UA,Spirit,https://www.hltv.org/matches/2384138/-,1-10,11,1,[1],2-10,12,0,[],first_half_missing
+2561,3,Passion UA,Spirit,https://www.hltv.org/matches/2384138/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+2571,1,9z,BESTIA,https://www.hltv.org/matches/2384074/-,5-6,11,1,[1],0-12,12,0,[],first_half_missing
+2571,2,9z,BESTIA,https://www.hltv.org/matches/2384074/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+2574,1,Yawara,BESTIA,https://www.hltv.org/matches/2384073/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+2574,2,Yawara,BESTIA,https://www.hltv.org/matches/2384073/-,1-10,11,1,[1],4-8,12,0,[],first_half_missing
+2576,1,ShindeN,9z,https://www.hltv.org/matches/2384072/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+2576,2,ShindeN,9z,https://www.hltv.org/matches/2384072/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+2578,1,SAW,Partizan,https://www.hltv.org/matches/2384161/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2578,2,SAW,Partizan,https://www.hltv.org/matches/2384161/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2580,1,9INE,Zero Tenacity,https://www.hltv.org/matches/2384160/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2580,2,9INE,Zero Tenacity,https://www.hltv.org/matches/2384160/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2581,1,ARCRED,NIP Impact,https://www.hltv.org/matches/2384182/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2581,2,ARCRED,NIP Impact,https://www.hltv.org/matches/2384182/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2586,1,ODDIK,9z,https://www.hltv.org/matches/2384070/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+2586,2,ODDIK,9z,https://www.hltv.org/matches/2384070/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+2595,1,9z,Bounty Hunters,https://www.hltv.org/matches/2384067/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2595,2,9z,Bounty Hunters,https://www.hltv.org/matches/2384067/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2602,1,SAW,CYBERSHOKE,https://www.hltv.org/matches/2384110/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2602,2,SAW,CYBERSHOKE,https://www.hltv.org/matches/2384110/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+2602,3,SAW,CYBERSHOKE,https://www.hltv.org/matches/2384110/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+2617,1,Fluxo,ShindeN,https://www.hltv.org/matches/2384061/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+2617,2,Fluxo,ShindeN,https://www.hltv.org/matches/2384061/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+2617,3,Fluxo,ShindeN,https://www.hltv.org/matches/2384061/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+2623,1,Passion UA,Partizan,https://www.hltv.org/matches/2384106/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+2623,2,Passion UA,Partizan,https://www.hltv.org/matches/2384106/-,2-9,11,1,[1],6-6,12,0,[],first_half_missing
+2626,1,ARCRED,SENZA,https://www.hltv.org/matches/2384105/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+2626,2,ARCRED,SENZA,https://www.hltv.org/matches/2384105/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2653,1,SAW,Zero Tenacity,https://www.hltv.org/matches/2384080/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+2653,2,SAW,Zero Tenacity,https://www.hltv.org/matches/2384080/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2668,1,Passion UA,SENZA,https://www.hltv.org/matches/2384076/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+2668,2,Passion UA,SENZA,https://www.hltv.org/matches/2384076/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+2668,3,Passion UA,SENZA,https://www.hltv.org/matches/2384076/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2674,1,Wildcard,LAG,https://www.hltv.org/matches/2383982/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2674,2,Wildcard,LAG,https://www.hltv.org/matches/2383982/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+2674,3,Wildcard,LAG,https://www.hltv.org/matches/2383982/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2679,1,SAW,SENZA,https://www.hltv.org/matches/2383949/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+2679,2,SAW,SENZA,https://www.hltv.org/matches/2383949/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2695,1,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2383945/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+2695,2,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2383945/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+2709,1,ShindeN,MIBR Academy,https://www.hltv.org/matches/2383997/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+2709,2,ShindeN,MIBR Academy,https://www.hltv.org/matches/2383997/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2710,1,LAG,MIGHT,https://www.hltv.org/matches/2383978/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2710,2,LAG,MIGHT,https://www.hltv.org/matches/2383978/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2714,1,ShindeN,BESTIA,https://www.hltv.org/matches/2384040/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+2714,2,ShindeN,BESTIA,https://www.hltv.org/matches/2384040/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2740,1,Bounty Hunters,paiN Academy,https://www.hltv.org/matches/2384041/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2766,1,SAW,Impulse GW,https://www.hltv.org/matches/2384012/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+2766,2,SAW,Impulse GW,https://www.hltv.org/matches/2384012/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+2772,1,Wildcard,MIGHT,https://www.hltv.org/matches/2384005/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2772,2,Wildcard,MIGHT,https://www.hltv.org/matches/2384005/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2798,1,ShindeN,Yawara,https://www.hltv.org/matches/2383956/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2798,2,ShindeN,Yawara,https://www.hltv.org/matches/2383956/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2803,1,BIG,paiN,https://www.hltv.org/matches/2383779/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2803,2,BIG,paiN,https://www.hltv.org/matches/2383779/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+2803,3,BIG,paiN,https://www.hltv.org/matches/2383779/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+2845,1,EYEBALLERS,9INE,https://www.hltv.org/matches/2383915/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+2849,1,PARIVISION,Zero Tenacity,https://www.hltv.org/matches/2383911/-,6-5,11,1,[1],1-11,12,0,[],first_half_missing
+2850,1,TPuDCATb TPu,EYEBALLERS,https://www.hltv.org/matches/2383434/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2850,2,TPuDCATb TPu,EYEBALLERS,https://www.hltv.org/matches/2383434/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+2850,3,TPuDCATb TPu,EYEBALLERS,https://www.hltv.org/matches/2383434/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+2854,1,ODDIK,MIBR Academy,https://www.hltv.org/matches/2383899/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2854,2,ODDIK,MIBR Academy,https://www.hltv.org/matches/2383899/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2875,1,HOTU,Partizan,https://www.hltv.org/matches/2383743/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+2875,2,HOTU,Partizan,https://www.hltv.org/matches/2383743/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2875,3,HOTU,Partizan,https://www.hltv.org/matches/2383743/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+2929,1,Metizport,Partizan,https://www.hltv.org/matches/2383741/-,9-2,11,1,[1],1-11,12,0,[],first_half_missing
+2929,2,Metizport,Partizan,https://www.hltv.org/matches/2383741/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+2929,3,Metizport,Partizan,https://www.hltv.org/matches/2383741/-,6-5,11,1,[1],1-11,12,0,[],first_half_missing
+2931,1,Complexity,SAW,https://www.hltv.org/matches/2383602/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+2931,2,Complexity,SAW,https://www.hltv.org/matches/2383602/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2931,3,Complexity,SAW,https://www.hltv.org/matches/2383602/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+2939,1,ODDIK,9z,https://www.hltv.org/matches/2383730/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+2939,2,ODDIK,9z,https://www.hltv.org/matches/2383730/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+2939,3,ODDIK,9z,https://www.hltv.org/matches/2383730/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+2944,1,NIP Impact,Partizan,https://www.hltv.org/matches/2383740/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+2944,2,NIP Impact,Partizan,https://www.hltv.org/matches/2383740/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+2961,1,9z,Bounty Hunters,https://www.hltv.org/matches/2383726/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+2961,2,9z,Bounty Hunters,https://www.hltv.org/matches/2383726/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2962,1,Complexity,BIG,https://www.hltv.org/matches/2383599/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+2962,2,Complexity,BIG,https://www.hltv.org/matches/2383599/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+2962,3,Complexity,BIG,https://www.hltv.org/matches/2383599/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+2977,1,PARIVISION,Passion UA,https://www.hltv.org/matches/2383801/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+2977,2,PARIVISION,Passion UA,https://www.hltv.org/matches/2383801/-,8-3,11,1,[1],2-10,12,0,[],first_half_missing
+2977,3,PARIVISION,Passion UA,https://www.hltv.org/matches/2383801/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2978,1,Metizport,NIP Impact,https://www.hltv.org/matches/2383734/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+2978,2,Metizport,NIP Impact,https://www.hltv.org/matches/2383734/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+3024,1,9INE,TPuDCATb TPu,https://www.hltv.org/matches/2383737/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+3024,2,9INE,TPuDCATb TPu,https://www.hltv.org/matches/2383737/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3044,1,9z,ODDIK,https://www.hltv.org/matches/2383560/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+3044,2,9z,ODDIK,https://www.hltv.org/matches/2383560/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+3047,1,ODDIK,Fluxo,https://www.hltv.org/matches/2383559/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+3047,2,ODDIK,Fluxo,https://www.hltv.org/matches/2383559/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+3047,3,ODDIK,Fluxo,https://www.hltv.org/matches/2383559/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+3070,1,Fluxo,BESTIA,https://www.hltv.org/matches/2383557/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3070,2,Fluxo,BESTIA,https://www.hltv.org/matches/2383557/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3077,1,Metizport,Passion UA,https://www.hltv.org/matches/2383540/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+3077,2,Metizport,Passion UA,https://www.hltv.org/matches/2383540/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+3157,1,9z,Bounty Hunters,https://www.hltv.org/matches/2383547/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+3157,2,9z,Bounty Hunters,https://www.hltv.org/matches/2383547/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+3206,1,Zero Tenacity,Nuclear TigeRES,https://www.hltv.org/matches/2383646/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+3255,1,MANA,BIG Academy,https://www.hltv.org/matches/2383446/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+3255,2,MANA,BIG Academy,https://www.hltv.org/matches/2383446/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+3277,1,TPuDCATb TPu,Wildcard Academy,https://www.hltv.org/matches/2383463/-,8-3,11,1,[1],2-10,12,0,[],first_half_missing
+3277,2,TPuDCATb TPu,Wildcard Academy,https://www.hltv.org/matches/2383463/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+3277,3,TPuDCATb TPu,Wildcard Academy,https://www.hltv.org/matches/2383463/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3303,1,BESTIA,9z,https://www.hltv.org/matches/2383376/-,1-10,11,1,[1],0-12,12,0,[],first_half_missing
+3303,2,BESTIA,9z,https://www.hltv.org/matches/2383376/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+3303,3,BESTIA,9z,https://www.hltv.org/matches/2383376/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+3369,1,BESTIA,ShindeN,https://www.hltv.org/matches/2383304/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3369,2,BESTIA,ShindeN,https://www.hltv.org/matches/2383304/-,1-10,11,1,[1],5-7,12,0,[],first_half_missing
+3369,3,BESTIA,ShindeN,https://www.hltv.org/matches/2383304/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3370,1,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2383303/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+3370,2,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2383303/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+3372,1,TPuDCATb TPu,KS,https://www.hltv.org/matches/2382830/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3372,2,TPuDCATb TPu,KS,https://www.hltv.org/matches/2382830/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+3398,1,TPuDCATb TPu,RUSTEC,https://www.hltv.org/matches/2383350/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+3398,2,TPuDCATb TPu,RUSTEC,https://www.hltv.org/matches/2383350/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+3398,3,TPuDCATb TPu,RUSTEC,https://www.hltv.org/matches/2383350/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+3411,1,BIG,Ninjas in Pyjamas,https://www.hltv.org/matches/2383240/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+3411,2,BIG,Ninjas in Pyjamas,https://www.hltv.org/matches/2383240/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+3422,1,ShindeN,Bounty Hunters,https://www.hltv.org/matches/2383292/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+3422,2,ShindeN,Bounty Hunters,https://www.hltv.org/matches/2383292/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+3422,3,ShindeN,Bounty Hunters,https://www.hltv.org/matches/2383292/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+3436,1,BIG,Zero Tenacity,https://www.hltv.org/matches/2383235/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+3436,2,BIG,Zero Tenacity,https://www.hltv.org/matches/2383235/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+3436,3,BIG,Zero Tenacity,https://www.hltv.org/matches/2383235/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+3462,1,Ninjas in Pyjamas,CYBERSHOKE,https://www.hltv.org/matches/2383230/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+3462,2,Ninjas in Pyjamas,CYBERSHOKE,https://www.hltv.org/matches/2383230/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3463,1,BIG,PARIVISION,https://www.hltv.org/matches/2383146/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+3463,2,BIG,PARIVISION,https://www.hltv.org/matches/2383146/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+3479,1,Partizan,Zero Tenacity,https://www.hltv.org/matches/2383225/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+3479,2,Partizan,Zero Tenacity,https://www.hltv.org/matches/2383225/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+3485,1,LAG,MIGHT,https://www.hltv.org/matches/2383210/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+3485,2,LAG,MIGHT,https://www.hltv.org/matches/2383210/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+3485,3,LAG,MIGHT,https://www.hltv.org/matches/2383210/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+3490,1,CYBERSHOKE,Zero Tenacity,https://www.hltv.org/matches/2383224/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+3490,2,CYBERSHOKE,Zero Tenacity,https://www.hltv.org/matches/2383224/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+3508,1,9INE,Zero Tenacity,https://www.hltv.org/matches/2383136/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+3508,2,9INE,Zero Tenacity,https://www.hltv.org/matches/2383136/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+3508,3,9INE,Zero Tenacity,https://www.hltv.org/matches/2383136/-,7-4,11,1,[1],1-11,12,0,[],first_half_missing
+3533,1,TPuDCATb TPu,Insilio,https://www.hltv.org/matches/2383115/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+3533,2,TPuDCATb TPu,Insilio,https://www.hltv.org/matches/2383115/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+3536,1,9INE,Passion UA,https://www.hltv.org/matches/2383255/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+3536,2,9INE,Passion UA,https://www.hltv.org/matches/2383255/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+3536,3,9INE,Passion UA,https://www.hltv.org/matches/2383255/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+3557,1,ShindeN,Yawara,https://www.hltv.org/matches/2383174/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+3557,2,ShindeN,Yawara,https://www.hltv.org/matches/2383174/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3585,1,Ninjas in Pyjamas,Metizport,https://www.hltv.org/matches/2383195/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3585,2,Ninjas in Pyjamas,Metizport,https://www.hltv.org/matches/2383195/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+3585,3,Ninjas in Pyjamas,Metizport,https://www.hltv.org/matches/2383195/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+3599,1,Wanted Goons,MIGHT,https://www.hltv.org/matches/2383119/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+3599,2,Wanted Goons,MIGHT,https://www.hltv.org/matches/2383119/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3599,3,Wanted Goons,MIGHT,https://www.hltv.org/matches/2383119/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+3610,1,Ninjas in Pyjamas,Phantom,https://www.hltv.org/matches/2383187/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+3610,2,Ninjas in Pyjamas,Phantom,https://www.hltv.org/matches/2383187/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+3614,1,Zero Tenacity,Insilio,https://www.hltv.org/matches/2383114/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+3614,2,Zero Tenacity,Insilio,https://www.hltv.org/matches/2383114/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+3614,3,Zero Tenacity,Insilio,https://www.hltv.org/matches/2383114/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+3626,1,PARIVISION,Zero Tenacity,https://www.hltv.org/matches/2383058/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+3626,2,PARIVISION,Zero Tenacity,https://www.hltv.org/matches/2383058/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+3656,1,Spirit,paiN,https://www.hltv.org/matches/2382434/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+3663,1,9INE,Partizan,https://www.hltv.org/matches/2383053/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+3663,2,9INE,Partizan,https://www.hltv.org/matches/2383053/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+3663,3,9INE,Partizan,https://www.hltv.org/matches/2383053/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+3701,1,LAG,Wanted Goons,https://www.hltv.org/matches/2383063/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3701,2,LAG,Wanted Goons,https://www.hltv.org/matches/2383063/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3711,1,PARIVISION,Partizan,https://www.hltv.org/matches/2382991/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+3711,2,PARIVISION,Partizan,https://www.hltv.org/matches/2382991/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+3711,3,PARIVISION,Partizan,https://www.hltv.org/matches/2382991/-,7-4,11,1,[1],0-12,12,0,[],first_half_missing
+3713,1,CYBERSHOKE,9INE,https://www.hltv.org/matches/2382990/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+3713,2,CYBERSHOKE,9INE,https://www.hltv.org/matches/2382990/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+3804,1,B8,Wildcard,https://www.hltv.org/matches/2382357/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+3804,2,B8,Wildcard,https://www.hltv.org/matches/2382357/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3804,3,B8,Wildcard,https://www.hltv.org/matches/2382357/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+3818,1,Young Ninjas,Wildcard Academy,https://www.hltv.org/matches/2382958/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+3818,2,Young Ninjas,Wildcard Academy,https://www.hltv.org/matches/2382958/-,6-5,11,1,[1],0-12,12,0,[],first_half_missing
+3827,1,Complexity,Fluxo,https://www.hltv.org/matches/2382349/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3836,1,Wildcard,Metizport,https://www.hltv.org/matches/2382302/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+3854,1,Insilio,Inner Circle,https://www.hltv.org/matches/2382961/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+3854,2,Insilio,Inner Circle,https://www.hltv.org/matches/2382961/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+3854,3,Insilio,Inner Circle,https://www.hltv.org/matches/2382961/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+3878,1,Passion UA,CYBERSHOKE,https://www.hltv.org/matches/2382872/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+3878,2,Passion UA,CYBERSHOKE,https://www.hltv.org/matches/2382872/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+3878,3,Passion UA,CYBERSHOKE,https://www.hltv.org/matches/2382872/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+3886,1,Zero Tenacity,BAKS,https://www.hltv.org/matches/2382933/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+3886,2,Zero Tenacity,BAKS,https://www.hltv.org/matches/2382933/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+3912,1,PERPLEXITY,8Sins,https://www.hltv.org/matches/2382884/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+3912,2,PERPLEXITY,8Sins,https://www.hltv.org/matches/2382884/-,6-5,11,1,[1],1-11,12,0,[],first_half_missing
+3912,3,PERPLEXITY,8Sins,https://www.hltv.org/matches/2382884/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+3916,1,CENTER,Nordix,https://www.hltv.org/matches/2382946/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+3916,2,CENTER,Nordix,https://www.hltv.org/matches/2382946/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+3935,1,PARIVISION,Partizan,https://www.hltv.org/matches/2382862/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+3935,2,PARIVISION,Partizan,https://www.hltv.org/matches/2382862/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+3935,3,PARIVISION,Partizan,https://www.hltv.org/matches/2382862/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+3950,1,EYEBALLERS,8Sins,https://www.hltv.org/matches/2382825/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+3950,2,EYEBALLERS,8Sins,https://www.hltv.org/matches/2382825/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+3964,1,Partizan,Zero Tenacity,https://www.hltv.org/matches/2382858/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+3964,2,Partizan,Zero Tenacity,https://www.hltv.org/matches/2382858/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+3964,3,Partizan,Zero Tenacity,https://www.hltv.org/matches/2382858/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+3970,1,BIG,CYBERSHOKE,https://www.hltv.org/matches/2382721/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+3970,2,BIG,CYBERSHOKE,https://www.hltv.org/matches/2382721/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+3970,3,BIG,CYBERSHOKE,https://www.hltv.org/matches/2382721/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+3980,1,Passion UA,Spirit Academy,https://www.hltv.org/matches/2382756/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+3980,2,Passion UA,Spirit Academy,https://www.hltv.org/matches/2382756/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+3980,3,Passion UA,Spirit Academy,https://www.hltv.org/matches/2382756/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+3984,1,Partizan,Delta,https://www.hltv.org/matches/2382854/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+3984,2,Partizan,Delta,https://www.hltv.org/matches/2382854/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+3984,3,Partizan,Delta,https://www.hltv.org/matches/2382854/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4037,1,CYBERSHOKE,Ninjas in Pyjamas,https://www.hltv.org/matches/2382772/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+4037,2,CYBERSHOKE,Ninjas in Pyjamas,https://www.hltv.org/matches/2382772/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+4037,3,CYBERSHOKE,Ninjas in Pyjamas,https://www.hltv.org/matches/2382772/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4050,1,Passion UA,CYBERSHOKE,https://www.hltv.org/matches/2382750/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4050,2,Passion UA,CYBERSHOKE,https://www.hltv.org/matches/2382750/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4060,1,MIBR fe,NIP Impact,https://www.hltv.org/matches/2382652/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+4062,1,Delta,Zero Tenacity,https://www.hltv.org/matches/2382768/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+4062,2,Delta,Zero Tenacity,https://www.hltv.org/matches/2382768/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+4102,1,9INE,Spirit Academy,https://www.hltv.org/matches/2382743/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+4102,2,9INE,Spirit Academy,https://www.hltv.org/matches/2382743/-,6-5,11,1,[1],1-11,12,0,[],first_half_missing
+4126,1,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2382668/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+4126,2,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2382668/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+4157,1,NITRO,MIBR Academy,https://www.hltv.org/matches/2382742/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+4157,2,NITRO,MIBR Academy,https://www.hltv.org/matches/2382742/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+4157,3,NITRO,MIBR Academy,https://www.hltv.org/matches/2382742/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4162,1,Spirit Academy,Passion UA,https://www.hltv.org/matches/2382513/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+4162,2,Spirit Academy,Passion UA,https://www.hltv.org/matches/2382513/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4209,1,Spirit,Ninjas in Pyjamas,https://www.hltv.org/matches/2382247/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4209,2,Spirit,Ninjas in Pyjamas,https://www.hltv.org/matches/2382247/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+4213,1,Zero Tenacity,Partizan,https://www.hltv.org/matches/2382401/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+4213,2,Zero Tenacity,Partizan,https://www.hltv.org/matches/2382401/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+4241,1,CYBERSHOKE,Delta,https://www.hltv.org/matches/2382399/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+4241,2,CYBERSHOKE,Delta,https://www.hltv.org/matches/2382399/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+4248,1,CYBERSHOKE,Zero Tenacity,https://www.hltv.org/matches/2382483/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4248,2,CYBERSHOKE,Zero Tenacity,https://www.hltv.org/matches/2382483/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+4272,1,Inner Circle,Mousquetaires,https://www.hltv.org/matches/2382490/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+4272,2,Inner Circle,Mousquetaires,https://www.hltv.org/matches/2382490/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+4272,3,Inner Circle,Mousquetaires,https://www.hltv.org/matches/2382490/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+4292,1,MIBR Academy,ODDIK Academy,https://www.hltv.org/matches/2382570/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+4304,1,9INE,Zero Tenacity,https://www.hltv.org/matches/2382473/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+4304,2,9INE,Zero Tenacity,https://www.hltv.org/matches/2382473/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+4311,1,9INE,Passion UA,https://www.hltv.org/matches/2382461/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+4311,2,9INE,Passion UA,https://www.hltv.org/matches/2382461/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+4316,1,MIBR,paiN,https://www.hltv.org/matches/2382240/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+4316,2,MIBR,paiN,https://www.hltv.org/matches/2382240/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+4320,1,Ninjas in Pyjamas,HOTU,https://www.hltv.org/matches/2382236/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4320,2,Ninjas in Pyjamas,HOTU,https://www.hltv.org/matches/2382236/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+4340,1,Delta,Passion UA,https://www.hltv.org/matches/2382392/-,1-10,11,1,[1],0-12,12,0,[],first_half_missing
+4340,2,Delta,Passion UA,https://www.hltv.org/matches/2382392/-,5-6,11,1,[1],0-12,12,0,[],first_half_missing
+4349,1,paiN,ODDIK,https://www.hltv.org/matches/2382230/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+4349,2,paiN,ODDIK,https://www.hltv.org/matches/2382230/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+4354,1,Fluxo,Solid,https://www.hltv.org/matches/2382029/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+4354,2,Fluxo,Solid,https://www.hltv.org/matches/2382029/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4356,1,B8,PARIVISION,https://www.hltv.org/matches/2382015/-,2-9,11,1,[1],3-9,12,0,[],first_half_missing
+4356,2,B8,PARIVISION,https://www.hltv.org/matches/2382015/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+4356,3,B8,PARIVISION,https://www.hltv.org/matches/2382015/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+4360,1,9INE,CYBERSHOKE,https://www.hltv.org/matches/2382307/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+4360,2,9INE,CYBERSHOKE,https://www.hltv.org/matches/2382307/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4369,1,Partizan,Passion UA,https://www.hltv.org/matches/2382408/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+4369,2,Partizan,Passion UA,https://www.hltv.org/matches/2382408/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+4371,1,Spirit,Ninjas in Pyjamas,https://www.hltv.org/matches/2382225/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+4371,2,Spirit,Ninjas in Pyjamas,https://www.hltv.org/matches/2382225/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+4377,1,Inner Circle,Young Ninjas,https://www.hltv.org/matches/2382475/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+4377,2,Inner Circle,Young Ninjas,https://www.hltv.org/matches/2382475/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+4393,1,9INE,Zero Tenacity,https://www.hltv.org/matches/2382405/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+4393,2,9INE,Zero Tenacity,https://www.hltv.org/matches/2382405/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+4393,3,9INE,Zero Tenacity,https://www.hltv.org/matches/2382405/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+4394,1,paiN,HOTU,https://www.hltv.org/matches/2382208/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4394,2,paiN,HOTU,https://www.hltv.org/matches/2382208/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4415,1,Fluxo,Solid,https://www.hltv.org/matches/2382026/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4415,2,Fluxo,Solid,https://www.hltv.org/matches/2382026/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+4440,1,Zero Tenacity,PARIVISION,https://www.hltv.org/matches/2382012/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+4440,2,Zero Tenacity,PARIVISION,https://www.hltv.org/matches/2382012/-,3-8,11,1,[1],10-2,12,0,[],first_half_missing
+4440,3,Zero Tenacity,PARIVISION,https://www.hltv.org/matches/2382012/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+4453,1,Spirit Academy,ARCRED,https://www.hltv.org/matches/2382180/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4453,2,Spirit Academy,ARCRED,https://www.hltv.org/matches/2382180/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+4453,3,Spirit Academy,ARCRED,https://www.hltv.org/matches/2382180/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+4465,1,Yawara,Bounty Hunters,https://www.hltv.org/matches/2382022/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+4465,2,Yawara,Bounty Hunters,https://www.hltv.org/matches/2382022/-,1-10,11,1,[1],2-10,12,0,[],first_half_missing
+4465,3,Yawara,Bounty Hunters,https://www.hltv.org/matches/2382022/-,6-5,11,1,[1],0-12,12,0,[],first_half_missing
+4474,1,Spirit Academy,Zero Tenacity,https://www.hltv.org/matches/2382009/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+4474,2,Spirit Academy,Zero Tenacity,https://www.hltv.org/matches/2382009/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+4488,1,ARCRED,PARIVISION,https://www.hltv.org/matches/2382177/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+4488,2,ARCRED,PARIVISION,https://www.hltv.org/matches/2382177/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+4488,3,ARCRED,PARIVISION,https://www.hltv.org/matches/2382177/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4493,1,Partizan,Zero Tenacity,https://www.hltv.org/matches/2382155/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+4493,2,Partizan,Zero Tenacity,https://www.hltv.org/matches/2382155/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+4493,3,Partizan,Zero Tenacity,https://www.hltv.org/matches/2382155/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4505,1,Fluxo,Yawara,https://www.hltv.org/matches/2382017/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+4505,2,Fluxo,Yawara,https://www.hltv.org/matches/2382017/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+4512,1,B8,Zero Tenacity,https://www.hltv.org/matches/2382003/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+4512,2,B8,Zero Tenacity,https://www.hltv.org/matches/2382003/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4529,1,Spirit Academy,PARIVISION,https://www.hltv.org/matches/2382172/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4529,2,Spirit Academy,PARIVISION,https://www.hltv.org/matches/2382172/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4544,1,Spirit Academy,ARCRED,https://www.hltv.org/matches/2382170/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+4544,2,Spirit Academy,ARCRED,https://www.hltv.org/matches/2382170/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4591,1,Vitality,Spirit,https://www.hltv.org/matches/2381917/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+4591,2,Vitality,Spirit,https://www.hltv.org/matches/2381917/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4606,1,B8,BIG,https://www.hltv.org/matches/2382123/-,2-9,11,1,[1],7-5,12,0,[],first_half_missing
+4606,2,B8,BIG,https://www.hltv.org/matches/2382123/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4606,3,B8,BIG,https://www.hltv.org/matches/2382123/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+4620,1,BESTIA,9z,https://www.hltv.org/matches/2381950/-,7-4,11,1,[1],1-11,12,0,[],first_half_missing
+4620,2,BESTIA,9z,https://www.hltv.org/matches/2381950/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+4624,1,Wildcard,Spirit,https://www.hltv.org/matches/2381915/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+4624,2,Wildcard,Spirit,https://www.hltv.org/matches/2381915/-,1-10,11,1,[1],1-11,12,0,[],first_half_missing
+4644,1,B8,BIG,https://www.hltv.org/matches/2382120/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+4644,2,B8,BIG,https://www.hltv.org/matches/2382120/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+4660,1,paiN,Wildcard,https://www.hltv.org/matches/2381910/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+4660,2,paiN,Wildcard,https://www.hltv.org/matches/2381910/-,0-11,11,1,[1],5-7,12,0,[],first_half_missing
+4669,1,BIG,Eruption,https://www.hltv.org/matches/2382113/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+4669,2,BIG,Eruption,https://www.hltv.org/matches/2382113/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+4669,3,BIG,Eruption,https://www.hltv.org/matches/2382113/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+4672,1,Vitality,Wildcard,https://www.hltv.org/matches/2381906/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4672,2,Vitality,Wildcard,https://www.hltv.org/matches/2381906/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+4705,1,9INE,Passion UA,https://www.hltv.org/matches/2381901/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+4705,2,9INE,Passion UA,https://www.hltv.org/matches/2381901/-,1-10,11,1,[1],1-11,12,0,[],first_half_missing
+4705,3,9INE,Passion UA,https://www.hltv.org/matches/2381901/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+4714,1,CYBERSHOKE,Hesta,https://www.hltv.org/matches/2382044/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+4714,2,CYBERSHOKE,Hesta,https://www.hltv.org/matches/2382044/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+4714,3,CYBERSHOKE,Hesta,https://www.hltv.org/matches/2382044/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+4721,1,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2381967/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+4721,2,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2381967/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+4721,3,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2381967/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+4782,1,Metizport,CYBERSHOKE,https://www.hltv.org/matches/2381892/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+4782,2,Metizport,CYBERSHOKE,https://www.hltv.org/matches/2381892/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+4807,1,Partizan,BC.Game,https://www.hltv.org/matches/2381798/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+4807,2,Partizan,BC.Game,https://www.hltv.org/matches/2381798/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+4824,1,B8,Partizan,https://www.hltv.org/matches/2381794/-,1-10,11,1,[1],11-1,12,0,[],first_half_missing
+4824,2,B8,Partizan,https://www.hltv.org/matches/2381794/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+4824,3,B8,Partizan,https://www.hltv.org/matches/2381794/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+4856,1,SAW,MIBR,https://www.hltv.org/matches/2381758/-,8-3,11,1,[1],2-10,12,0,[],first_half_missing
+4856,2,SAW,MIBR,https://www.hltv.org/matches/2381758/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+4856,3,SAW,MIBR,https://www.hltv.org/matches/2381758/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+4865,1,paiN,Complexity,https://www.hltv.org/matches/2381754/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+4865,2,paiN,Complexity,https://www.hltv.org/matches/2381754/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+4928,1,Metizport,Spirit Academy,https://www.hltv.org/matches/2381686/-,7-4,11,1,[1],2-10,12,0,[],first_half_missing
+4989,1,ODDIK,Solid,https://www.hltv.org/matches/2381618/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+4989,2,ODDIK,Solid,https://www.hltv.org/matches/2381618/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+5001,1,BC.Game,B8,https://www.hltv.org/matches/2381594/-,5-6,11,1,[1],0-12,12,0,[],first_half_missing
+5001,2,BC.Game,B8,https://www.hltv.org/matches/2381594/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+5008,1,Fluxo,BESTIA,https://www.hltv.org/matches/2381605/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+5008,2,Fluxo,BESTIA,https://www.hltv.org/matches/2381605/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5022,1,BC.Game,BIG,https://www.hltv.org/matches/2381586/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+5024,1,B8,PARIVISION,https://www.hltv.org/matches/2381585/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+5024,2,B8,PARIVISION,https://www.hltv.org/matches/2381585/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5024,3,B8,PARIVISION,https://www.hltv.org/matches/2381585/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+5038,1,SAW,B8,https://www.hltv.org/matches/2381579/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+5039,1,BC.Game,Metizport,https://www.hltv.org/matches/2381578/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+5053,1,B8,Metizport,https://www.hltv.org/matches/2381570/-,1-10,11,1,[1],6-6,12,0,[],first_half_missing
+5058,1,MIGHT,Wanted Goons,https://www.hltv.org/matches/2381512/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+5058,2,MIGHT,Wanted Goons,https://www.hltv.org/matches/2381512/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+5099,1,CYBERSHOKE,PARIVISION,https://www.hltv.org/matches/2381531/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+5099,2,CYBERSHOKE,PARIVISION,https://www.hltv.org/matches/2381531/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+5099,3,CYBERSHOKE,PARIVISION,https://www.hltv.org/matches/2381531/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+5194,1,Fluxo,Solid,https://www.hltv.org/matches/2381475/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+5198,1,Solid,Fluxo,https://www.hltv.org/matches/2381471/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+5225,1,9INE,Insilio,https://www.hltv.org/matches/2381489/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+5225,2,9INE,Insilio,https://www.hltv.org/matches/2381489/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5225,3,9INE,Insilio,https://www.hltv.org/matches/2381489/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+5249,1,Wildcard Academy,Young Ninjas,https://www.hltv.org/matches/2381376/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+5249,2,Wildcard Academy,Young Ninjas,https://www.hltv.org/matches/2381376/-,2-9,11,1,[1],3-9,12,0,[],first_half_missing
+5257,1,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2381354/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5257,2,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2381354/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+5280,1,Bounty Hunters,VELOX,https://www.hltv.org/matches/2381352/-,7-4,11,1,[1],2-10,12,0,[],first_half_missing
+5280,2,Bounty Hunters,VELOX,https://www.hltv.org/matches/2381352/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+5280,3,Bounty Hunters,VELOX,https://www.hltv.org/matches/2381352/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+5282,1,ODDIK,Fluxo,https://www.hltv.org/matches/2381364/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+5282,2,ODDIK,Fluxo,https://www.hltv.org/matches/2381364/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+5282,3,ODDIK,Fluxo,https://www.hltv.org/matches/2381364/-,8-3,11,1,[1],1-11,12,0,[],first_half_missing
+5305,1,Bounty Hunters,BESTIA,https://www.hltv.org/matches/2381349/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+5305,2,Bounty Hunters,BESTIA,https://www.hltv.org/matches/2381349/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+5305,3,Bounty Hunters,BESTIA,https://www.hltv.org/matches/2381349/-,1-10,11,1,[1],1-11,12,0,[],first_half_missing
+5311,1,ShindeN,VELOX,https://www.hltv.org/matches/2381348/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+5311,2,ShindeN,VELOX,https://www.hltv.org/matches/2381348/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+5311,3,ShindeN,VELOX,https://www.hltv.org/matches/2381348/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+5328,1,Bounty Hunters fe,MIBR fe,https://www.hltv.org/matches/2381198/-,1-10,11,1,[1],3-9,12,0,[],first_half_missing
+5328,2,Bounty Hunters fe,MIBR fe,https://www.hltv.org/matches/2381198/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+5340,1,BESTIA,VELOX,https://www.hltv.org/matches/2381345/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+5340,2,BESTIA,VELOX,https://www.hltv.org/matches/2381345/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+5347,1,Complexity,Passion UA,https://www.hltv.org/matches/2381294/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5348,1,Bounty Hunters,ShindeN,https://www.hltv.org/matches/2381344/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5348,2,Bounty Hunters,ShindeN,https://www.hltv.org/matches/2381344/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+5348,3,Bounty Hunters,ShindeN,https://www.hltv.org/matches/2381344/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+5349,1,Fluxo,ODDIK,https://www.hltv.org/matches/2381356/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+5349,2,Fluxo,ODDIK,https://www.hltv.org/matches/2381356/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+5351,1,Wildcard Academy,Insilio,https://www.hltv.org/matches/2381186/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+5351,2,Wildcard Academy,Insilio,https://www.hltv.org/matches/2381186/-,7-4,11,1,[1],2-10,12,0,[],first_half_missing
+5351,3,Wildcard Academy,Insilio,https://www.hltv.org/matches/2381186/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+5396,1,ODDIK,Fluxo,https://www.hltv.org/matches/2379550/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+5398,1,Fluxo,ODDIK,https://www.hltv.org/matches/2379545/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5401,1,Complexity,Metizport,https://www.hltv.org/matches/2381282/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+5427,1,Passion UA,Metizport,https://www.hltv.org/matches/2381272/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+5451,1,Yawara,Bounty Hunters,https://www.hltv.org/matches/2378614/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+5455,1,Bounty Hunters,Yawara,https://www.hltv.org/matches/2379817/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+5465,1,Ninjas in Pyjamas,Metizport,https://www.hltv.org/matches/2381016/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+5465,2,Ninjas in Pyjamas,Metizport,https://www.hltv.org/matches/2381016/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+5465,3,Ninjas in Pyjamas,Metizport,https://www.hltv.org/matches/2381016/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+5467,1,PARIVISION,ARCRED,https://www.hltv.org/matches/2381136/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+5467,2,PARIVISION,ARCRED,https://www.hltv.org/matches/2381136/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+5488,1,Fluxo,ODDIK,https://www.hltv.org/matches/2381128/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+5488,2,Fluxo,ODDIK,https://www.hltv.org/matches/2381128/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+5492,1,B8,Ninjas in Pyjamas,https://www.hltv.org/matches/2381014/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+5492,2,B8,Ninjas in Pyjamas,https://www.hltv.org/matches/2381014/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+5502,1,Wildcard,MIGHT,https://www.hltv.org/matches/2381083/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+5502,2,Wildcard,MIGHT,https://www.hltv.org/matches/2381083/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+5510,1,Fluxo,Solid,https://www.hltv.org/matches/2381125/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+5510,2,Fluxo,Solid,https://www.hltv.org/matches/2381125/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5510,3,Fluxo,Solid,https://www.hltv.org/matches/2381125/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5511,1,BESTIA,ODDIK,https://www.hltv.org/matches/2381126/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+5511,2,BESTIA,ODDIK,https://www.hltv.org/matches/2381126/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+5527,1,CYBERSHOKE,B8,https://www.hltv.org/matches/2380982/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+5527,2,CYBERSHOKE,B8,https://www.hltv.org/matches/2380982/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+5549,1,Prasso,Solid,https://www.hltv.org/matches/2381117/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+5549,2,Prasso,Solid,https://www.hltv.org/matches/2381117/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+5554,1,Vitality,Spirit,https://www.hltv.org/matches/2380132/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5554,2,Vitality,Spirit,https://www.hltv.org/matches/2380132/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+5554,3,Vitality,Spirit,https://www.hltv.org/matches/2380132/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+5558,1,BESTIA,ODDIK,https://www.hltv.org/matches/2381114/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+5558,2,BESTIA,ODDIK,https://www.hltv.org/matches/2381114/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+5565,1,B8,PARIVISION,https://www.hltv.org/matches/2380981/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+5565,2,B8,PARIVISION,https://www.hltv.org/matches/2380981/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+5568,1,Yawara,Solid,https://www.hltv.org/matches/2381109/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+5568,2,Yawara,Solid,https://www.hltv.org/matches/2381109/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+5568,3,Yawara,Solid,https://www.hltv.org/matches/2381109/-,4-7,11,1,[1],0-12,12,0,[],first_half_missing
+5573,1,BURN,9z,https://www.hltv.org/matches/2381108/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+5573,2,BURN,9z,https://www.hltv.org/matches/2381108/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+5580,1,VELOX,Prasso,https://www.hltv.org/matches/2381105/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+5580,2,VELOX,Prasso,https://www.hltv.org/matches/2381105/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+5625,1,Fluxo,Prasso,https://www.hltv.org/matches/2381097/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+5625,2,Fluxo,Prasso,https://www.hltv.org/matches/2381097/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+5626,1,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2381098/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+5626,2,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2381098/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+5640,1,B8,CYBERSHOKE,https://www.hltv.org/matches/2380976/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+5640,2,B8,CYBERSHOKE,https://www.hltv.org/matches/2380976/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+5640,3,B8,CYBERSHOKE,https://www.hltv.org/matches/2380976/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+5694,1,ODDIK,X7,https://www.hltv.org/matches/2380952/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+5694,2,ODDIK,X7,https://www.hltv.org/matches/2380952/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+5699,1,Yawara,Prasso,https://www.hltv.org/matches/2380947/-,1-10,11,1,[1],12-0,12,0,[],first_half_missing
+5699,2,Yawara,Prasso,https://www.hltv.org/matches/2380947/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+5699,3,Yawara,Prasso,https://www.hltv.org/matches/2380947/-,2-9,11,1,[1],3-9,12,0,[],first_half_missing
+5730,1,Passion UA,Ninjas in Pyjamas,https://www.hltv.org/matches/2380920/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+5730,2,Passion UA,Ninjas in Pyjamas,https://www.hltv.org/matches/2380920/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+5745,1,Eruption,HOTU,https://www.hltv.org/matches/2380926/-,2-9,11,1,[1],3-9,12,0,[],first_half_missing
+5745,2,Eruption,HOTU,https://www.hltv.org/matches/2380926/-,2-9,11,1,[1],3-9,12,0,[],first_half_missing
+5757,1,Bounty Hunters,ODDIK,https://www.hltv.org/matches/2380535/-,1-10,11,1,[1],1-11,12,0,[],first_half_missing
+5758,1,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2380527/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+5760,1,O PLANO,MIBR fe,https://www.hltv.org/matches/2380900/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+5760,2,O PLANO,MIBR fe,https://www.hltv.org/matches/2380900/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+5830,1,Ninjas in Pyjamas,Hesta,https://www.hltv.org/matches/2380880/-,3-8,11,1,[1],5-7,12,0,[],first_half_missing
+5830,2,Ninjas in Pyjamas,Hesta,https://www.hltv.org/matches/2380880/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+5830,3,Ninjas in Pyjamas,Hesta,https://www.hltv.org/matches/2380880/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+5833,1,Nuclear TigeRES,Hesta,https://www.hltv.org/matches/2380876/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+5833,2,Nuclear TigeRES,Hesta,https://www.hltv.org/matches/2380876/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+5833,3,Nuclear TigeRES,Hesta,https://www.hltv.org/matches/2380876/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+5839,1,Nuclear TigeRES,Inner Circle,https://www.hltv.org/matches/2380868/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+5841,1,Zero Tenacity,Hesta,https://www.hltv.org/matches/2380869/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+5878,1,EYEBALLERS,Hesta,https://www.hltv.org/matches/2380835/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+5878,2,EYEBALLERS,Hesta,https://www.hltv.org/matches/2380835/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+5888,1,LEON,Hesta,https://www.hltv.org/matches/2380828/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+6002,1,Fluxo,Bounty Hunters,https://www.hltv.org/matches/2380428/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+6005,1,Bounty Hunters,Fluxo,https://www.hltv.org/matches/2380422/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6015,1,B8,Zero Tenacity,https://www.hltv.org/matches/2380712/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+6015,2,B8,Zero Tenacity,https://www.hltv.org/matches/2380712/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+6096,1,PARIVISION,Zero Tenacity,https://www.hltv.org/matches/2380553/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6096,2,PARIVISION,Zero Tenacity,https://www.hltv.org/matches/2380553/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+6118,1,regain,MIGHT,https://www.hltv.org/matches/2380622/-,9-2,11,1,[1],1-11,12,0,[],first_half_missing
+6118,2,regain,MIGHT,https://www.hltv.org/matches/2380622/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+6120,1,Yawara,ODDIK,https://www.hltv.org/matches/2379560/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+6121,1,ODDIK,Yawara,https://www.hltv.org/matches/2379555/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+6126,1,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2380549/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+6126,2,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2380549/-,1-10,11,1,[1],0-12,12,0,[],first_half_missing
+6126,3,Passion UA,Zero Tenacity,https://www.hltv.org/matches/2380549/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+6135,1,BIG,PARIVISION,https://www.hltv.org/matches/2380547/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+6135,2,BIG,PARIVISION,https://www.hltv.org/matches/2380547/-,1-10,11,1,[1],10-2,12,0,[],first_half_missing
+6135,3,BIG,PARIVISION,https://www.hltv.org/matches/2380547/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+6163,1,O PLANO,Bounty Hunters fe,https://www.hltv.org/matches/2380567/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+6163,2,O PLANO,Bounty Hunters fe,https://www.hltv.org/matches/2380567/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+6173,1,Nuclear TigeRES,LEON,https://www.hltv.org/matches/2380559/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6173,2,Nuclear TigeRES,LEON,https://www.hltv.org/matches/2380559/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+6175,1,Passion UA,BIG,https://www.hltv.org/matches/2380594/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+6175,2,Passion UA,BIG,https://www.hltv.org/matches/2380594/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6175,3,Passion UA,BIG,https://www.hltv.org/matches/2380594/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+6182,1,Fluxo,ShindeN,https://www.hltv.org/matches/2380385/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+6182,2,Fluxo,ShindeN,https://www.hltv.org/matches/2380385/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+6182,3,Fluxo,ShindeN,https://www.hltv.org/matches/2380385/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6183,1,9z,Solid,https://www.hltv.org/matches/2379987/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+6183,2,9z,Solid,https://www.hltv.org/matches/2379987/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6183,3,9z,Solid,https://www.hltv.org/matches/2379987/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+6204,1,BC.Game,Metizport,https://www.hltv.org/matches/2380176/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+6204,2,BC.Game,Metizport,https://www.hltv.org/matches/2380176/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6204,3,BC.Game,Metizport,https://www.hltv.org/matches/2380176/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+6208,1,BIG,CYBERSHOKE,https://www.hltv.org/matches/2380590/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+6208,2,BIG,CYBERSHOKE,https://www.hltv.org/matches/2380590/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+6215,1,Wildcard,Complexity,https://www.hltv.org/matches/2380366/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+6215,2,Wildcard,Complexity,https://www.hltv.org/matches/2380366/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+6215,3,Wildcard,Complexity,https://www.hltv.org/matches/2380366/-,2-9,11,1,[1],6-6,12,0,[],first_half_missing
+6217,1,9z,BESTIA,https://www.hltv.org/matches/2379971/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6217,2,9z,BESTIA,https://www.hltv.org/matches/2379971/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6218,1,Fluxo,Solid,https://www.hltv.org/matches/2379957/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+6218,2,Fluxo,Solid,https://www.hltv.org/matches/2379957/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+6242,1,Fluxo,ODDIK,https://www.hltv.org/matches/2380379/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+6242,2,Fluxo,ODDIK,https://www.hltv.org/matches/2380379/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6247,1,BC.Game,Passion UA,https://www.hltv.org/matches/2380173/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6247,2,BC.Game,Passion UA,https://www.hltv.org/matches/2380173/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+6257,1,9z,BESTIA,https://www.hltv.org/matches/2379968/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+6257,2,9z,BESTIA,https://www.hltv.org/matches/2379968/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+6261,1,9z,ShindeN,https://www.hltv.org/matches/2380377/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6261,2,9z,ShindeN,https://www.hltv.org/matches/2380377/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+6261,3,9z,ShindeN,https://www.hltv.org/matches/2380377/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+6265,1,Solid,Fluxo,https://www.hltv.org/matches/2379954/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+6265,2,Solid,Fluxo,https://www.hltv.org/matches/2379954/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+6273,1,ODDIK,ShindeN,https://www.hltv.org/matches/2379939/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+6273,2,ODDIK,ShindeN,https://www.hltv.org/matches/2379939/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+6351,1,Spirit,SAW,https://www.hltv.org/matches/2380053/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+6351,2,Spirit,SAW,https://www.hltv.org/matches/2380053/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+6365,1,Fluxo,Prasso,https://www.hltv.org/matches/2380371/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+6365,2,Fluxo,Prasso,https://www.hltv.org/matches/2380371/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+6380,1,BIG,BC.Game,https://www.hltv.org/matches/2380165/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+6380,2,BIG,BC.Game,https://www.hltv.org/matches/2380165/-,2-9,11,1,[1],4-8,12,0,[],first_half_missing
+6390,1,Metizport,Partizan,https://www.hltv.org/matches/2379903/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+6390,2,Metizport,Partizan,https://www.hltv.org/matches/2379903/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+6390,3,Metizport,Partizan,https://www.hltv.org/matches/2379903/-,7-4,11,1,[1],1-11,12,0,[],first_half_missing
+6411,1,NuTorious,regain,https://www.hltv.org/matches/2380348/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+6411,2,NuTorious,regain,https://www.hltv.org/matches/2380348/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+6440,1,Solid,Bounty Hunters,https://www.hltv.org/matches/2379944/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+6440,2,Solid,Bounty Hunters,https://www.hltv.org/matches/2379944/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6449,1,Passion UA,BC.Game,https://www.hltv.org/matches/2379872/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+6449,2,Passion UA,BC.Game,https://www.hltv.org/matches/2379872/-,1-10,11,1,[1],4-8,12,0,[],first_half_missing
+6449,3,Passion UA,BC.Game,https://www.hltv.org/matches/2379872/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6454,1,Vitality,MIBR,https://www.hltv.org/matches/2380040/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+6454,2,Vitality,MIBR,https://www.hltv.org/matches/2380040/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6454,3,Vitality,MIBR,https://www.hltv.org/matches/2380040/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+6463,1,Eruption,HOTU,https://www.hltv.org/matches/2380251/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+6494,1,Spirit Academy,BC.Game,https://www.hltv.org/matches/2380163/-,6-5,11,1,[1],1-11,12,0,[],first_half_missing
+6494,2,Spirit Academy,BC.Game,https://www.hltv.org/matches/2380163/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+6496,1,Nuclear TigeRES,Insilio,https://www.hltv.org/matches/2380271/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+6496,2,Nuclear TigeRES,Insilio,https://www.hltv.org/matches/2380271/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6525,1,Yawara,paiN Academy,https://www.hltv.org/matches/2380225/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+6525,2,Yawara,paiN Academy,https://www.hltv.org/matches/2380225/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+6557,1,Partizan,BC.Game,https://www.hltv.org/matches/2380157/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+6557,2,Partizan,BC.Game,https://www.hltv.org/matches/2380157/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6557,3,Partizan,BC.Game,https://www.hltv.org/matches/2380157/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+6637,1,Wanted Goons,Amped,https://www.hltv.org/matches/2380185/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+6637,2,Wanted Goons,Amped,https://www.hltv.org/matches/2380185/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6638,1,GameAgents,Wildcard Academy,https://www.hltv.org/matches/2380179/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+6638,2,GameAgents,Wildcard Academy,https://www.hltv.org/matches/2380179/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6638,3,GameAgents,Wildcard Academy,https://www.hltv.org/matches/2380179/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+6661,1,Bounty Hunters fe,Prasso,https://www.hltv.org/matches/2379865/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+6661,2,Bounty Hunters fe,Prasso,https://www.hltv.org/matches/2379865/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+6667,1,BC.Game,PARIVISION,https://www.hltv.org/matches/2379841/-,3-8,11,1,[1],10-2,12,0,[],first_half_missing
+6667,2,BC.Game,PARIVISION,https://www.hltv.org/matches/2379841/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+6667,3,BC.Game,PARIVISION,https://www.hltv.org/matches/2379841/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+6670,1,Partizan,PARIVISION,https://www.hltv.org/matches/2379855/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+6670,2,Partizan,PARIVISION,https://www.hltv.org/matches/2379855/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6670,3,Partizan,PARIVISION,https://www.hltv.org/matches/2379855/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6676,1,ShindeN,paiN Academy,https://www.hltv.org/matches/2379816/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+6676,2,ShindeN,paiN Academy,https://www.hltv.org/matches/2379816/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+6676,3,ShindeN,paiN Academy,https://www.hltv.org/matches/2379816/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6689,1,MIBR Academy,Yawara,https://www.hltv.org/matches/2379990/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+6689,2,MIBR Academy,Yawara,https://www.hltv.org/matches/2379990/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+6697,1,Spirit Academy,Zero Tenacity,https://www.hltv.org/matches/2379638/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6697,2,Spirit Academy,Zero Tenacity,https://www.hltv.org/matches/2379638/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6714,1,Yawara,VELOX,https://www.hltv.org/matches/2379812/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+6714,2,Yawara,VELOX,https://www.hltv.org/matches/2379812/-,0-11,11,1,[1],4-8,12,0,[],first_half_missing
+6714,3,Yawara,VELOX,https://www.hltv.org/matches/2379812/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+6720,1,Bounty Hunters,Solid,https://www.hltv.org/matches/2379569/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+6723,1,Solid,Bounty Hunters,https://www.hltv.org/matches/2379564/-,3-8,11,1,[1],10-2,12,0,[],first_half_missing
+6727,1,ARCRED,Zero Tenacity,https://www.hltv.org/matches/2379797/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+6727,2,ARCRED,Zero Tenacity,https://www.hltv.org/matches/2379797/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6727,3,ARCRED,Zero Tenacity,https://www.hltv.org/matches/2379797/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+6734,1,BIG EQUIPA,NIP Impact,https://www.hltv.org/matches/2379820/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+6734,2,BIG EQUIPA,NIP Impact,https://www.hltv.org/matches/2379820/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+6740,1,BC.Game,PARIVISION,https://www.hltv.org/matches/2379724/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+6740,2,BC.Game,PARIVISION,https://www.hltv.org/matches/2379724/-,2-9,11,1,[1],4-8,12,0,[],first_half_missing
+6740,3,BC.Game,PARIVISION,https://www.hltv.org/matches/2379724/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+6813,1,Spirit Academy,ARCRED,https://www.hltv.org/matches/2379745/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+6813,2,Spirit Academy,ARCRED,https://www.hltv.org/matches/2379745/-,8-3,11,1,[1],2-10,12,0,[],first_half_missing
+6819,1,9INE,Bad News Eagles,https://www.hltv.org/matches/2379747/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6819,2,9INE,Bad News Eagles,https://www.hltv.org/matches/2379747/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+6830,1,9INE,BC.Game,https://www.hltv.org/matches/2379629/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+6830,2,9INE,BC.Game,https://www.hltv.org/matches/2379629/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+6847,1,B8,BC.Game,https://www.hltv.org/matches/2379415/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+6847,2,B8,BC.Game,https://www.hltv.org/matches/2379415/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+6847,3,B8,BC.Game,https://www.hltv.org/matches/2379415/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+6863,1,Insilio,ARCRED,https://www.hltv.org/matches/2379735/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+6885,1,CYBERSHOKE,B8,https://www.hltv.org/matches/2379411/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6885,2,CYBERSHOKE,B8,https://www.hltv.org/matches/2379411/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+6885,3,CYBERSHOKE,B8,https://www.hltv.org/matches/2379411/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+6890,1,BC.Game,Partizan,https://www.hltv.org/matches/2379410/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+6890,2,BC.Game,Partizan,https://www.hltv.org/matches/2379410/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6896,1,Fluxo,Solid,https://www.hltv.org/matches/2379426/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+6896,2,Fluxo,Solid,https://www.hltv.org/matches/2379426/-,3-8,11,1,[1],5-7,12,0,[],first_half_missing
+6896,3,Fluxo,Solid,https://www.hltv.org/matches/2379426/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+6899,1,Partizan,9INE,https://www.hltv.org/matches/2379408/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+6899,2,Partizan,9INE,https://www.hltv.org/matches/2379408/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+6899,3,Partizan,9INE,https://www.hltv.org/matches/2379408/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+6925,1,BC.Game,EYEBALLERS,https://www.hltv.org/matches/2379473/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+6925,2,BC.Game,EYEBALLERS,https://www.hltv.org/matches/2379473/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+6925,3,BC.Game,EYEBALLERS,https://www.hltv.org/matches/2379473/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+6937,1,Ninjas in Pyjamas,PARIVISION,https://www.hltv.org/matches/2379619/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+6937,2,Ninjas in Pyjamas,PARIVISION,https://www.hltv.org/matches/2379619/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+6948,1,EYEBALLERS,Zero Tenacity,https://www.hltv.org/matches/2379583/-,2-9,11,1,[1],6-6,12,0,[],first_half_missing
+6948,2,EYEBALLERS,Zero Tenacity,https://www.hltv.org/matches/2379583/-,1-10,11,1,[1],2-10,12,0,[],first_half_missing
+6970,1,9z,ODDIK,https://www.hltv.org/matches/2379417/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+6970,2,9z,ODDIK,https://www.hltv.org/matches/2379417/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+6973,1,Fluxo,Yawara,https://www.hltv.org/matches/2379416/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+6973,2,Fluxo,Yawara,https://www.hltv.org/matches/2379416/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+7025,1,ShindeN,Yawara,https://www.hltv.org/matches/2379390/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+7025,2,ShindeN,Yawara,https://www.hltv.org/matches/2379390/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+7025,3,ShindeN,Yawara,https://www.hltv.org/matches/2379390/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+7030,1,Complexity,SAW,https://www.hltv.org/matches/2379355/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+7030,2,Complexity,SAW,https://www.hltv.org/matches/2379355/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+7045,1,Hesta,Phantom,https://www.hltv.org/matches/2379605/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7051,1,Wildcard,BIG,https://www.hltv.org/matches/2379351/-,0-11,11,1,[1],2-10,12,0,[],first_half_missing
+7051,2,Wildcard,BIG,https://www.hltv.org/matches/2379351/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+7051,3,Wildcard,BIG,https://www.hltv.org/matches/2379351/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+7091,1,BAKS,Hesta,https://www.hltv.org/matches/2379440/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+7107,1,KZG,Justice For Tomorrow,https://www.hltv.org/matches/2379134/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+7107,2,KZG,Justice For Tomorrow,https://www.hltv.org/matches/2379134/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+7125,1,MIBR,Wildcard,https://www.hltv.org/matches/2379331/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+7125,2,MIBR,Wildcard,https://www.hltv.org/matches/2379331/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+7150,1,EYEBALLERS,Bad News Eagles,https://www.hltv.org/matches/2379160/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+7150,2,EYEBALLERS,Bad News Eagles,https://www.hltv.org/matches/2379160/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+7163,1,ODDIK,MIBR Academy,https://www.hltv.org/matches/2379297/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+7163,2,ODDIK,MIBR Academy,https://www.hltv.org/matches/2379297/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+7179,1,Zero Tenacity,CYBERSHOKE,https://www.hltv.org/matches/2379161/-,4-7,11,1,[1],0-12,12,0,[],first_half_missing
+7179,2,Zero Tenacity,CYBERSHOKE,https://www.hltv.org/matches/2379161/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+7183,1,BC.Game,CYBERSHOKE,https://www.hltv.org/matches/2379318/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+7183,2,BC.Game,CYBERSHOKE,https://www.hltv.org/matches/2379318/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+7206,1,ShindeN,Atrix,https://www.hltv.org/matches/2379292/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7206,2,ShindeN,Atrix,https://www.hltv.org/matches/2379292/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+7256,1,BIG,BC.Game,https://www.hltv.org/matches/2379271/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+7256,2,BIG,BC.Game,https://www.hltv.org/matches/2379271/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+7256,3,BIG,BC.Game,https://www.hltv.org/matches/2379271/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+7279,1,MIGHT,LAG,https://www.hltv.org/matches/2379235/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7279,2,MIGHT,LAG,https://www.hltv.org/matches/2379235/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+7288,1,Vitality,Spirit,https://www.hltv.org/matches/2378917/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7288,2,Vitality,Spirit,https://www.hltv.org/matches/2378917/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+7288,3,Vitality,Spirit,https://www.hltv.org/matches/2378917/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+7289,1,Solid,ShindeN,https://www.hltv.org/matches/2379195/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+7289,2,Solid,ShindeN,https://www.hltv.org/matches/2379195/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7327,1,BESTIA,ODDIK,https://www.hltv.org/matches/2379222/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7340,1,BC.Game,Zero Tenacity,https://www.hltv.org/matches/2379258/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+7348,1,Partizan,BC.Game,https://www.hltv.org/matches/2379254/-,1-10,11,1,[1],0-12,12,0,[],first_half_missing
+7391,1,ODDIK,BESTIA,https://www.hltv.org/matches/2379112/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+7391,2,ODDIK,BESTIA,https://www.hltv.org/matches/2379112/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+7402,1,B8,PARIVISION,https://www.hltv.org/matches/2379072/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+7402,2,B8,PARIVISION,https://www.hltv.org/matches/2379072/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+7402,3,B8,PARIVISION,https://www.hltv.org/matches/2379072/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+7415,1,Bounty Hunters,BESTIA,https://www.hltv.org/matches/2379108/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+7415,2,Bounty Hunters,BESTIA,https://www.hltv.org/matches/2379108/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+7442,1,Bounty Hunters,ODDIK,https://www.hltv.org/matches/2379100/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+7442,2,Bounty Hunters,ODDIK,https://www.hltv.org/matches/2379100/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+7442,3,Bounty Hunters,ODDIK,https://www.hltv.org/matches/2379100/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+7454,1,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2379093/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+7454,2,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2379093/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+7454,3,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2379093/-,4-7,11,1,[1],0-12,12,0,[],first_half_missing
+7465,1,PARIVISION,B8,https://www.hltv.org/matches/2379062/-,0-11,11,1,[1],5-7,12,0,[],first_half_missing
+7465,2,PARIVISION,B8,https://www.hltv.org/matches/2379062/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+7465,3,PARIVISION,B8,https://www.hltv.org/matches/2379062/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+7467,1,Metizport,Ninjas in Pyjamas,https://www.hltv.org/matches/2379061/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+7467,2,Metizport,Ninjas in Pyjamas,https://www.hltv.org/matches/2379061/-,7-4,11,1,[1],2-10,12,0,[],first_half_missing
+7467,3,Metizport,Ninjas in Pyjamas,https://www.hltv.org/matches/2379061/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+7478,1,SAW,BC.Game,https://www.hltv.org/matches/2379020/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+7478,2,SAW,BC.Game,https://www.hltv.org/matches/2379020/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+7480,1,Metizport,Passion UA,https://www.hltv.org/matches/2379017/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+7480,2,Metizport,Passion UA,https://www.hltv.org/matches/2379017/-,7-4,11,1,[1],2-10,12,0,[],first_half_missing
+7548,1,PARIVISION,Spirit Academy,https://www.hltv.org/matches/2378893/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+7548,2,PARIVISION,Spirit Academy,https://www.hltv.org/matches/2378893/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7568,1,Metizport,Spirit Academy,https://www.hltv.org/matches/2378889/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+7568,2,Metizport,Spirit Academy,https://www.hltv.org/matches/2378889/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+7578,1,ODDIK,Solid,https://www.hltv.org/matches/2378828/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+7578,2,ODDIK,Solid,https://www.hltv.org/matches/2378828/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+7578,3,ODDIK,Solid,https://www.hltv.org/matches/2378828/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+7583,1,Fluxo,Bounty Hunters,https://www.hltv.org/matches/2378827/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+7583,2,Fluxo,Bounty Hunters,https://www.hltv.org/matches/2378827/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+7595,1,Endpoint,Permitta,https://www.hltv.org/matches/2378722/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+7595,2,Endpoint,Permitta,https://www.hltv.org/matches/2378722/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+7610,1,Wildcard,BIG,https://www.hltv.org/matches/2378421/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+7610,2,Wildcard,BIG,https://www.hltv.org/matches/2378421/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+7621,1,regain,Alter Iron,https://www.hltv.org/matches/2378770/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+7621,2,regain,Alter Iron,https://www.hltv.org/matches/2378770/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7621,3,regain,Alter Iron,https://www.hltv.org/matches/2378770/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+7642,1,Zero Tenacity,B8,https://www.hltv.org/matches/2378878/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+7642,2,Zero Tenacity,B8,https://www.hltv.org/matches/2378878/-,3-8,11,1,[1],5-7,12,0,[],first_half_missing
+7642,3,Zero Tenacity,B8,https://www.hltv.org/matches/2378878/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+7678,1,Solid,ODDIK,https://www.hltv.org/matches/2378803/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+7680,1,ODDIK,Solid,https://www.hltv.org/matches/2378798/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+7687,1,Zero Tenacity,Adventurers,https://www.hltv.org/matches/2378743/-,3-8,11,1,[1],5-7,12,0,[],first_half_missing
+7687,2,Zero Tenacity,Adventurers,https://www.hltv.org/matches/2378743/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+7687,3,Zero Tenacity,Adventurers,https://www.hltv.org/matches/2378743/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+7740,1,Fluxo,Yawara,https://www.hltv.org/matches/2378656/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+7743,1,Yawara,Fluxo,https://www.hltv.org/matches/2378649/-,7-4,11,1,[1],2-10,12,0,[],first_half_missing
+7745,1,ARCRED,B8,https://www.hltv.org/matches/2378680/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+7745,2,ARCRED,B8,https://www.hltv.org/matches/2378680/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+7745,3,ARCRED,B8,https://www.hltv.org/matches/2378680/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+7748,1,Spirit Academy,Zero Tenacity,https://www.hltv.org/matches/2378679/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7748,2,Spirit Academy,Zero Tenacity,https://www.hltv.org/matches/2378679/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+7748,3,Spirit Academy,Zero Tenacity,https://www.hltv.org/matches/2378679/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+7775,1,9INE,PARIVISION,https://www.hltv.org/matches/2378706/-,8-3,11,1,[1],0-12,12,0,[],first_half_missing
+7775,2,9INE,PARIVISION,https://www.hltv.org/matches/2378706/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+7788,1,Yawara,Solid,https://www.hltv.org/matches/2378640/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+7790,1,Solid,Yawara,https://www.hltv.org/matches/2378634/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+7814,1,Spirit Academy,CYBERSHOKE,https://www.hltv.org/matches/2378662/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+7814,2,Spirit Academy,CYBERSHOKE,https://www.hltv.org/matches/2378662/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+7814,3,Spirit Academy,CYBERSHOKE,https://www.hltv.org/matches/2378662/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+7833,1,ShindeN,Bounty Hunters,https://www.hltv.org/matches/2378452/-,8-3,11,1,[1],2-10,12,0,[],first_half_missing
+7833,2,ShindeN,Bounty Hunters,https://www.hltv.org/matches/2378452/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+7835,1,B8,Spirit Academy,https://www.hltv.org/matches/2378667/-,1-10,11,1,[1],2-10,12,0,[],first_half_missing
+7835,2,B8,Spirit Academy,https://www.hltv.org/matches/2378667/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+7835,3,B8,Spirit Academy,https://www.hltv.org/matches/2378667/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+7883,1,Solid,Bounty Hunters,https://www.hltv.org/matches/2378448/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7883,2,Solid,Bounty Hunters,https://www.hltv.org/matches/2378448/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+7900,1,9INE,Partizan,https://www.hltv.org/matches/2378466/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+7900,2,9INE,Partizan,https://www.hltv.org/matches/2378466/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+7900,3,9INE,Partizan,https://www.hltv.org/matches/2378466/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+7903,1,Chicken Coop,Alter Iron,https://www.hltv.org/matches/2378395/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+7903,2,Chicken Coop,Alter Iron,https://www.hltv.org/matches/2378395/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+7931,1,MIBR fe,Bounty Hunters,https://www.hltv.org/matches/2378433/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+7931,2,MIBR fe,Bounty Hunters,https://www.hltv.org/matches/2378433/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+7956,1,Atrix,NITRO,https://www.hltv.org/matches/2378430/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+7956,2,Atrix,NITRO,https://www.hltv.org/matches/2378430/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+7964,1,NIP Impact,Permitta W,https://www.hltv.org/matches/2378426/-,4-7,11,1,[1],0-12,12,0,[],first_half_missing
+7964,2,NIP Impact,Permitta W,https://www.hltv.org/matches/2378426/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+7982,1,Ninjas in Pyjamas,Endpoint,https://www.hltv.org/matches/2378404/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+7982,2,Ninjas in Pyjamas,Endpoint,https://www.hltv.org/matches/2378404/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+7982,3,Ninjas in Pyjamas,Endpoint,https://www.hltv.org/matches/2378404/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+8000,1,Solid,NITRO,https://www.hltv.org/matches/2378375/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+8000,2,Solid,NITRO,https://www.hltv.org/matches/2378375/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8000,3,Solid,NITRO,https://www.hltv.org/matches/2378375/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8011,1,BIG EQUIPA,Endpoint,https://www.hltv.org/matches/2378363/-,0-11,11,1,[1],2-10,12,0,[],first_half_missing
+8011,2,BIG EQUIPA,Endpoint,https://www.hltv.org/matches/2378363/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+8024,1,EYEBALLERS,BC.Game,https://www.hltv.org/matches/2378401/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+8024,2,EYEBALLERS,BC.Game,https://www.hltv.org/matches/2378401/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8024,3,EYEBALLERS,BC.Game,https://www.hltv.org/matches/2378401/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+8025,1,Vitality,Metizport,https://www.hltv.org/matches/2378211/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+8025,2,Vitality,Metizport,https://www.hltv.org/matches/2378211/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8031,1,SAW,BIG,https://www.hltv.org/matches/2378209/-,1-10,11,1,[1],1-11,12,0,[],first_half_missing
+8031,2,SAW,BIG,https://www.hltv.org/matches/2378209/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+8049,1,MIBR fe,ShindeN,https://www.hltv.org/matches/2378367/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+8049,2,MIBR fe,ShindeN,https://www.hltv.org/matches/2378367/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+8078,1,BESTIA,Solid,https://www.hltv.org/matches/2378183/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+8078,2,BESTIA,Solid,https://www.hltv.org/matches/2378183/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+8078,3,BESTIA,Solid,https://www.hltv.org/matches/2378183/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+8086,1,Wildcard,Insilio,https://www.hltv.org/matches/2378171/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8086,2,Wildcard,Insilio,https://www.hltv.org/matches/2378171/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+8086,3,Wildcard,Insilio,https://www.hltv.org/matches/2378171/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8095,1,9INE,EYEBALLERS,https://www.hltv.org/matches/2378167/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+8095,2,9INE,EYEBALLERS,https://www.hltv.org/matches/2378167/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8095,3,9INE,EYEBALLERS,https://www.hltv.org/matches/2378167/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+8123,1,9INE,EYEBALLERS,https://www.hltv.org/matches/2378131/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+8123,2,9INE,EYEBALLERS,https://www.hltv.org/matches/2378131/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8161,1,Metizport,Zero Tenacity,https://www.hltv.org/matches/2378108/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8161,2,Metizport,Zero Tenacity,https://www.hltv.org/matches/2378108/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8206,1,Solid,9z Academy,https://www.hltv.org/matches/2378044/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8206,2,Solid,9z Academy,https://www.hltv.org/matches/2378044/-,3-8,11,1,[1],10-2,12,0,[],first_half_missing
+8211,1,Vikings KR,NITRO,https://www.hltv.org/matches/2378043/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8211,2,Vikings KR,NITRO,https://www.hltv.org/matches/2378043/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8228,1,9z Academy,ShindeN,https://www.hltv.org/matches/2378032/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+8228,2,9z Academy,ShindeN,https://www.hltv.org/matches/2378032/-,8-3,11,1,[1],2-10,12,0,[],first_half_missing
+8259,1,LAG,Alter Iron,https://www.hltv.org/matches/2378007/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+8259,2,LAG,Alter Iron,https://www.hltv.org/matches/2378007/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+8276,1,Metizport,9INE,https://www.hltv.org/matches/2377906/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+8276,2,Metizport,9INE,https://www.hltv.org/matches/2377906/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+8317,1,9INE,TSM,https://www.hltv.org/matches/2377946/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+8317,2,9INE,TSM,https://www.hltv.org/matches/2377946/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+8317,3,9INE,TSM,https://www.hltv.org/matches/2377946/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8331,1,Metizport,Insilio,https://www.hltv.org/matches/2377893/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+8331,2,Metizport,Insilio,https://www.hltv.org/matches/2377893/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8331,3,Metizport,Insilio,https://www.hltv.org/matches/2377893/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8342,1,9INE,Insilio,https://www.hltv.org/matches/2377891/-,2-9,11,1,[1],3-9,12,0,[],first_half_missing
+8342,2,9INE,Insilio,https://www.hltv.org/matches/2377891/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+8342,3,9INE,Insilio,https://www.hltv.org/matches/2377891/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+8368,1,Endpoint,Insilio,https://www.hltv.org/matches/2377884/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+8368,2,Endpoint,Insilio,https://www.hltv.org/matches/2377884/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8368,3,Endpoint,Insilio,https://www.hltv.org/matches/2377884/-,1-10,11,1,[1],4-8,12,0,[],first_half_missing
+8379,1,Wanted Goons,Alter Iron,https://www.hltv.org/matches/2377916/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+8379,2,Wanted Goons,Alter Iron,https://www.hltv.org/matches/2377916/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+8404,1,9INE,EYEBALLERS,https://www.hltv.org/matches/2377814/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8404,2,9INE,EYEBALLERS,https://www.hltv.org/matches/2377814/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8428,1,BIG,paiN,https://www.hltv.org/matches/2377719/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+8428,2,BIG,paiN,https://www.hltv.org/matches/2377719/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+8428,3,BIG,paiN,https://www.hltv.org/matches/2377719/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+8432,1,Vitality,MIBR,https://www.hltv.org/matches/2377717/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8432,2,Vitality,MIBR,https://www.hltv.org/matches/2377717/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8439,1,Sampi,Insilio,https://www.hltv.org/matches/2377797/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+8439,2,Sampi,Insilio,https://www.hltv.org/matches/2377797/-,5-6,11,1,[1],0-12,12,0,[],first_half_missing
+8453,1,Sampi,Gaimin Gladiators,https://www.hltv.org/matches/2377810/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+8453,2,Sampi,Gaimin Gladiators,https://www.hltv.org/matches/2377810/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+8456,1,Spirit,Wildcard,https://www.hltv.org/matches/2377706/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8499,1,Spirit Academy,Insilio,https://www.hltv.org/matches/2377398/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8499,2,Spirit Academy,Insilio,https://www.hltv.org/matches/2377398/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8501,1,Wildcard,Passion UA,https://www.hltv.org/matches/2377695/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+8501,2,Wildcard,Passion UA,https://www.hltv.org/matches/2377695/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+8501,3,Wildcard,Passion UA,https://www.hltv.org/matches/2377695/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+8505,1,BIG,Complexity,https://www.hltv.org/matches/2377693/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+8505,2,BIG,Complexity,https://www.hltv.org/matches/2377693/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+8505,3,BIG,Complexity,https://www.hltv.org/matches/2377693/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+8519,1,TSM,Endpoint,https://www.hltv.org/matches/2377788/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8519,2,TSM,Endpoint,https://www.hltv.org/matches/2377788/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+8545,1,MIBR,Passion UA,https://www.hltv.org/matches/2377680/-,5-6,11,1,[1],0-12,12,0,[],first_half_missing
+8546,1,Fluxo,ODDIK,https://www.hltv.org/matches/2377662/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+8546,2,Fluxo,ODDIK,https://www.hltv.org/matches/2377662/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+8546,3,Fluxo,ODDIK,https://www.hltv.org/matches/2377662/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8552,1,MIBR fe,Fluxo Demons,https://www.hltv.org/matches/2377780/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+8552,2,MIBR fe,Fluxo Demons,https://www.hltv.org/matches/2377780/-,4-7,11,1,[1],0-12,12,0,[],first_half_missing
+8557,1,Fluxo,Solid,https://www.hltv.org/matches/2377660/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+8557,2,Fluxo,Solid,https://www.hltv.org/matches/2377660/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8569,1,Complexity,Passion UA,https://www.hltv.org/matches/2377673/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+8576,1,BIG,Passion UA,https://www.hltv.org/matches/2377667/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8589,1,Solid,Dusty Roots,https://www.hltv.org/matches/2377657/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8589,2,Solid,Dusty Roots,https://www.hltv.org/matches/2377657/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+8594,1,BC.Game,Gaimin Gladiators,https://www.hltv.org/matches/2377623/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+8594,2,BC.Game,Gaimin Gladiators,https://www.hltv.org/matches/2377623/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+8597,1,GameAgents,Nuclear TigeRES,https://www.hltv.org/matches/2377751/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+8597,2,GameAgents,Nuclear TigeRES,https://www.hltv.org/matches/2377751/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8597,3,GameAgents,Nuclear TigeRES,https://www.hltv.org/matches/2377751/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+8598,1,ODDIK,VELOX,https://www.hltv.org/matches/2377654/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8598,2,ODDIK,VELOX,https://www.hltv.org/matches/2377654/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8611,1,Fluxo,Yawara,https://www.hltv.org/matches/2377651/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+8611,2,Fluxo,Yawara,https://www.hltv.org/matches/2377651/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+8611,3,Fluxo,Yawara,https://www.hltv.org/matches/2377651/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8612,1,Solid,MIBR Academy,https://www.hltv.org/matches/2377650/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+8612,2,Solid,MIBR Academy,https://www.hltv.org/matches/2377650/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8613,1,Vikings KR,NITRO,https://www.hltv.org/matches/2377649/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+8613,2,Vikings KR,NITRO,https://www.hltv.org/matches/2377649/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+8613,3,Vikings KR,NITRO,https://www.hltv.org/matches/2377649/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+8623,1,Yawara,paiN Academy,https://www.hltv.org/matches/2377609/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8623,2,Yawara,paiN Academy,https://www.hltv.org/matches/2377609/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+8644,1,9INE,Insilio,https://www.hltv.org/matches/2377628/-,7-4,11,1,[1],1-11,12,0,[],first_half_missing
+8650,1,MIBR Academy,VELOX,https://www.hltv.org/matches/2377603/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8650,2,MIBR Academy,VELOX,https://www.hltv.org/matches/2377603/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8652,1,9z Academy,paiN Academy,https://www.hltv.org/matches/2377602/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8652,2,9z Academy,paiN Academy,https://www.hltv.org/matches/2377602/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+8652,3,9z Academy,paiN Academy,https://www.hltv.org/matches/2377602/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+8654,1,Solid,Fluxo,https://www.hltv.org/matches/2377626/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+8654,2,Solid,Fluxo,https://www.hltv.org/matches/2377626/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+8654,3,Solid,Fluxo,https://www.hltv.org/matches/2377626/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+8663,1,Ninjas in Pyjamas,Spirit,https://www.hltv.org/matches/2377053/-,1-10,11,1,[1],4-8,12,0,[],first_half_missing
+8663,2,Ninjas in Pyjamas,Spirit,https://www.hltv.org/matches/2377053/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+8673,1,MIBR Academy,NITRO,https://www.hltv.org/matches/2377590/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+8673,2,MIBR Academy,NITRO,https://www.hltv.org/matches/2377590/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+8678,1,9z Academy,Yawara,https://www.hltv.org/matches/2377588/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+8678,2,9z Academy,Yawara,https://www.hltv.org/matches/2377588/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8678,3,9z Academy,Yawara,https://www.hltv.org/matches/2377588/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+8689,1,BIG EQUIPA,NIP Impact,https://www.hltv.org/matches/2377578/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+8689,2,BIG EQUIPA,NIP Impact,https://www.hltv.org/matches/2377578/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8697,1,TSM,Ninjas in Pyjamas,https://www.hltv.org/matches/2377046/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+8697,2,TSM,Ninjas in Pyjamas,https://www.hltv.org/matches/2377046/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+8703,1,Solid,ODDIK,https://www.hltv.org/matches/2377624/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+8703,2,Solid,ODDIK,https://www.hltv.org/matches/2377624/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+8703,3,Solid,ODDIK,https://www.hltv.org/matches/2377624/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+8704,1,ShindeN,VELOX,https://www.hltv.org/matches/2377585/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+8704,2,ShindeN,VELOX,https://www.hltv.org/matches/2377585/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8704,3,ShindeN,VELOX,https://www.hltv.org/matches/2377585/-,7-4,11,1,[1],2-10,12,0,[],first_half_missing
+8717,1,NIP Impact,BIG EQUIPA,https://www.hltv.org/matches/2377541/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+8725,1,TSM,PARIVISION,https://www.hltv.org/matches/2377040/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+8725,2,TSM,PARIVISION,https://www.hltv.org/matches/2377040/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8725,3,TSM,PARIVISION,https://www.hltv.org/matches/2377040/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8727,1,Passion UA,BIG,https://www.hltv.org/matches/2377039/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8727,2,Passion UA,BIG,https://www.hltv.org/matches/2377039/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+8727,3,Passion UA,BIG,https://www.hltv.org/matches/2377039/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+8732,1,MIBR Academy,Yawara,https://www.hltv.org/matches/2377559/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+8732,2,MIBR Academy,Yawara,https://www.hltv.org/matches/2377559/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+8735,1,ShindeN,NITRO,https://www.hltv.org/matches/2377557/-,3-8,11,1,[1],5-7,12,0,[],first_half_missing
+8735,2,ShindeN,NITRO,https://www.hltv.org/matches/2377557/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8735,3,ShindeN,NITRO,https://www.hltv.org/matches/2377557/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+8745,1,Ninjas in Pyjamas,PARIVISION,https://www.hltv.org/matches/2377028/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+8746,1,Spirit,Passion UA,https://www.hltv.org/matches/2377027/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+8758,1,Spirit,B8,https://www.hltv.org/matches/2376947/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+8761,1,9z Academy,BESTIA Academy,https://www.hltv.org/matches/2377554/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+8761,2,9z Academy,BESTIA Academy,https://www.hltv.org/matches/2377554/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+8763,1,VELOX,paiN Academy,https://www.hltv.org/matches/2377552/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+8763,2,VELOX,paiN Academy,https://www.hltv.org/matches/2377552/-,6-5,11,1,[1],1-11,12,0,[],first_half_missing
+8763,3,VELOX,paiN Academy,https://www.hltv.org/matches/2377552/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8774,1,MIBR Academy,BESTIA Academy,https://www.hltv.org/matches/2377549/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8774,2,MIBR Academy,BESTIA Academy,https://www.hltv.org/matches/2377549/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+8879,1,Permitta,Metizport,https://www.hltv.org/matches/2377474/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+8915,1,9z,paiN,https://www.hltv.org/matches/2376990/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+8915,2,9z,paiN,https://www.hltv.org/matches/2376990/-,0-11,11,1,[1],0-12,12,0,[],first_half_missing
+8940,1,Complexity,MIBR,https://www.hltv.org/matches/2376988/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+8940,2,Complexity,MIBR,https://www.hltv.org/matches/2376988/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+8944,1,Wildcard,9z,https://www.hltv.org/matches/2376986/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+8944,2,Wildcard,9z,https://www.hltv.org/matches/2376986/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+8972,1,Wildcard,paiN,https://www.hltv.org/matches/2376976/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+8982,1,Complexity,BESTIA,https://www.hltv.org/matches/2376932/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+8989,1,Ninjas in Pyjamas,Zero Tenacity,https://www.hltv.org/matches/2377354/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+8989,2,Ninjas in Pyjamas,Zero Tenacity,https://www.hltv.org/matches/2377354/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9013,1,Yawara,MIBR Academy,https://www.hltv.org/matches/2377372/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+9013,2,Yawara,MIBR Academy,https://www.hltv.org/matches/2377372/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+9014,1,Gaimin Gladiators,Zero Tenacity,https://www.hltv.org/matches/2377350/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+9014,2,Gaimin Gladiators,Zero Tenacity,https://www.hltv.org/matches/2377350/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+9014,3,Gaimin Gladiators,Zero Tenacity,https://www.hltv.org/matches/2377350/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+9026,1,Fluxo,ODDIK,https://www.hltv.org/matches/2377317/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9026,2,Fluxo,ODDIK,https://www.hltv.org/matches/2377317/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+9026,3,Fluxo,ODDIK,https://www.hltv.org/matches/2377317/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+9030,1,Ninjas in Pyjamas,Metizport,https://www.hltv.org/matches/2377105/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+9030,2,Ninjas in Pyjamas,Metizport,https://www.hltv.org/matches/2377105/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+9030,3,Ninjas in Pyjamas,Metizport,https://www.hltv.org/matches/2377105/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+9070,1,ODDIK,Vikings KR,https://www.hltv.org/matches/2377309/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+9070,2,ODDIK,Vikings KR,https://www.hltv.org/matches/2377309/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9070,3,ODDIK,Vikings KR,https://www.hltv.org/matches/2377309/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9077,1,9INE,Gaimin Gladiators,https://www.hltv.org/matches/2377223/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+9077,2,9INE,Gaimin Gladiators,https://www.hltv.org/matches/2377223/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+9077,3,9INE,Gaimin Gladiators,https://www.hltv.org/matches/2377223/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+9090,1,Fluxo,9z Academy,https://www.hltv.org/matches/2377304/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+9090,2,Fluxo,9z Academy,https://www.hltv.org/matches/2377304/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+9093,1,Zero Tenacity,HOTU,https://www.hltv.org/matches/2377339/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9093,2,Zero Tenacity,HOTU,https://www.hltv.org/matches/2377339/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+9103,1,MIBR Academy,Yawara,https://www.hltv.org/matches/2377274/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9103,2,MIBR Academy,Yawara,https://www.hltv.org/matches/2377274/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+9124,1,paiN Academy,VELOX,https://www.hltv.org/matches/2377271/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+9124,2,paiN Academy,VELOX,https://www.hltv.org/matches/2377271/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+9124,3,paiN Academy,VELOX,https://www.hltv.org/matches/2377271/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+9129,1,ARCRED,9INE,https://www.hltv.org/matches/2377130/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+9129,2,ARCRED,9INE,https://www.hltv.org/matches/2377130/-,1-10,11,1,[1],3-9,12,0,[],first_half_missing
+9133,1,ShindeN,MIBR Academy,https://www.hltv.org/matches/2377270/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+9133,2,ShindeN,MIBR Academy,https://www.hltv.org/matches/2377270/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+9133,3,ShindeN,MIBR Academy,https://www.hltv.org/matches/2377270/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+9143,1,NITRO,Yawara,https://www.hltv.org/matches/2377268/-,1-10,11,1,[1],1-11,12,0,[],first_half_missing
+9143,2,NITRO,Yawara,https://www.hltv.org/matches/2377268/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+9155,1,Sampi,Permitta,https://www.hltv.org/matches/2377238/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+9155,2,Sampi,Permitta,https://www.hltv.org/matches/2377238/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+9160,1,ShindeN,VELOX,https://www.hltv.org/matches/2377255/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9160,2,ShindeN,VELOX,https://www.hltv.org/matches/2377255/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+9160,3,ShindeN,VELOX,https://www.hltv.org/matches/2377255/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+9161,1,Bounty Hunters,Vikings KR,https://www.hltv.org/matches/2377265/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+9161,2,Bounty Hunters,Vikings KR,https://www.hltv.org/matches/2377265/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+9161,3,Bounty Hunters,Vikings KR,https://www.hltv.org/matches/2377265/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+9167,1,MIBR Academy,paiN Academy,https://www.hltv.org/matches/2377254/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+9167,2,MIBR Academy,paiN Academy,https://www.hltv.org/matches/2377254/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9168,1,Zero Tenacity,Permitta,https://www.hltv.org/matches/2377234/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+9168,2,Zero Tenacity,Permitta,https://www.hltv.org/matches/2377234/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+9168,3,Zero Tenacity,Permitta,https://www.hltv.org/matches/2377234/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+9184,1,Vikings KR,Dusty Roots,https://www.hltv.org/matches/2377263/-,7-4,11,1,[1],2-10,12,0,[],first_half_missing
+9184,2,Vikings KR,Dusty Roots,https://www.hltv.org/matches/2377263/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9184,3,Vikings KR,Dusty Roots,https://www.hltv.org/matches/2377263/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+9189,1,9z Academy,BESTIA Academy,https://www.hltv.org/matches/2377250/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9189,2,9z Academy,BESTIA Academy,https://www.hltv.org/matches/2377250/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9198,1,Gaimin Gladiators,HOTU,https://www.hltv.org/matches/2377230/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9209,1,Vikings KR,VELOX,https://www.hltv.org/matches/2377185/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9209,2,Vikings KR,VELOX,https://www.hltv.org/matches/2377185/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9219,1,ARCRED,LEON,https://www.hltv.org/matches/2377242/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9219,2,ARCRED,LEON,https://www.hltv.org/matches/2377242/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9226,1,NITRO,9z Academy,https://www.hltv.org/matches/2377183/-,8-3,11,1,[1],2-10,12,0,[],first_half_missing
+9226,2,NITRO,9z Academy,https://www.hltv.org/matches/2377183/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+9226,3,NITRO,9z Academy,https://www.hltv.org/matches/2377183/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+9231,1,MIBR Academy,BESTIA Academy,https://www.hltv.org/matches/2377181/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+9231,2,MIBR Academy,BESTIA Academy,https://www.hltv.org/matches/2377181/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9238,1,Vitality,Spirit,https://www.hltv.org/matches/2376877/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+9238,2,Vitality,Spirit,https://www.hltv.org/matches/2376877/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+9254,1,Gaimin Gladiators,Endpoint,https://www.hltv.org/matches/2377202/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9257,1,9INE,Sampi,https://www.hltv.org/matches/2377189/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+9257,2,9INE,Sampi,https://www.hltv.org/matches/2377189/-,3-8,11,1,[1],10-2,12,0,[],first_half_missing
+9260,1,Passion UA,Permitta,https://www.hltv.org/matches/2377188/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+9260,2,Passion UA,Permitta,https://www.hltv.org/matches/2377188/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+9260,3,Passion UA,Permitta,https://www.hltv.org/matches/2377188/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+9267,1,ShindeN,9z Academy,https://www.hltv.org/matches/2377173/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9267,2,ShindeN,9z Academy,https://www.hltv.org/matches/2377173/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9270,1,Vikings KR,NITRO,https://www.hltv.org/matches/2377172/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+9270,2,Vikings KR,NITRO,https://www.hltv.org/matches/2377172/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+9278,1,SAW,B8,https://www.hltv.org/matches/2376839/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+9278,2,SAW,B8,https://www.hltv.org/matches/2376839/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9282,1,paiN,B8,https://www.hltv.org/matches/2376838/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+9282,2,paiN,B8,https://www.hltv.org/matches/2376838/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9282,3,paiN,B8,https://www.hltv.org/matches/2376838/-,1-10,11,1,[1],4-8,12,0,[],first_half_missing
+9285,1,Permitta,Passion UA,https://www.hltv.org/matches/2376720/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9285,2,Permitta,Passion UA,https://www.hltv.org/matches/2376720/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+9288,1,HOTU,9INE,https://www.hltv.org/matches/2376923/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+9288,2,HOTU,9INE,https://www.hltv.org/matches/2376923/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+9333,1,B8,SAW,https://www.hltv.org/matches/2376829/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+9339,1,Sampi,Permitta,https://www.hltv.org/matches/2377107/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9339,2,Sampi,Permitta,https://www.hltv.org/matches/2377107/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+9345,1,Passion UA,9INE,https://www.hltv.org/matches/2377106/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+9345,2,Passion UA,9INE,https://www.hltv.org/matches/2377106/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+9346,1,BIG,BESTIA,https://www.hltv.org/matches/2376862/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+9346,2,BIG,BESTIA,https://www.hltv.org/matches/2376862/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+9383,1,9INE,HOTU,https://www.hltv.org/matches/2376909/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+9383,2,9INE,HOTU,https://www.hltv.org/matches/2376909/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+9383,3,9INE,HOTU,https://www.hltv.org/matches/2376909/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+9388,1,paiN,MIBR,https://www.hltv.org/matches/2376798/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+9388,2,paiN,MIBR,https://www.hltv.org/matches/2376798/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9388,3,paiN,MIBR,https://www.hltv.org/matches/2376798/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+9393,1,MIGHT,timbermen,https://www.hltv.org/matches/2377068/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+9393,2,MIGHT,timbermen,https://www.hltv.org/matches/2377068/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+9395,1,Nordix,Metizport X,https://www.hltv.org/matches/2376963/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+9395,2,Nordix,Metizport X,https://www.hltv.org/matches/2376963/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9395,3,Nordix,Metizport X,https://www.hltv.org/matches/2376963/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+9415,1,MIGHT,Amped,https://www.hltv.org/matches/2377064/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9415,2,MIGHT,Amped,https://www.hltv.org/matches/2377064/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9416,1,MIBR,BESTIA,https://www.hltv.org/matches/2376797/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+9416,2,MIBR,BESTIA,https://www.hltv.org/matches/2376797/-,0-11,11,1,[1],1-11,12,0,[],first_half_missing
+9416,3,MIBR,BESTIA,https://www.hltv.org/matches/2376797/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9423,1,Gaimin Gladiators,9INE,https://www.hltv.org/matches/2376727/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+9423,2,Gaimin Gladiators,9INE,https://www.hltv.org/matches/2376727/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9423,3,Gaimin Gladiators,9INE,https://www.hltv.org/matches/2376727/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+9429,1,Metizport X,Nordix,https://www.hltv.org/matches/2376959/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9429,2,Metizport X,Nordix,https://www.hltv.org/matches/2376959/-,2-9,11,1,[1],6-6,12,0,[],first_half_missing
+9429,3,Metizport X,Nordix,https://www.hltv.org/matches/2376959/-,6-5,11,1,[1],0-12,12,0,[],first_half_missing
+9467,1,paiN,MIBR,https://www.hltv.org/matches/2376793/-,1-10,11,1,[1],2-10,12,0,[],first_half_missing
+9467,2,paiN,MIBR,https://www.hltv.org/matches/2376793/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9467,3,paiN,MIBR,https://www.hltv.org/matches/2376793/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9482,1,TSM,HOTU,https://www.hltv.org/matches/2376722/-,1-10,11,1,[1],7-5,12,0,[],first_half_missing
+9482,2,TSM,HOTU,https://www.hltv.org/matches/2376722/-,2-9,11,1,[1],3-9,12,0,[],first_half_missing
+9488,1,Insilio,9INE,https://www.hltv.org/matches/2376825/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+9488,2,Insilio,9INE,https://www.hltv.org/matches/2376825/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+9488,3,Insilio,9INE,https://www.hltv.org/matches/2376825/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+9498,1,BESTIA,ODDIK,https://www.hltv.org/matches/2376792/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+9498,2,BESTIA,ODDIK,https://www.hltv.org/matches/2376792/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9506,1,Solid,PARIVISION,https://www.hltv.org/matches/2376810/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+9506,2,Solid,PARIVISION,https://www.hltv.org/matches/2376810/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+9513,1,Ninjas in Pyjamas,B8,https://www.hltv.org/matches/2376731/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+9573,1,Sampi,Permitta,https://www.hltv.org/matches/2376514/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9573,2,Sampi,Permitta,https://www.hltv.org/matches/2376514/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+9573,3,Sampi,Permitta,https://www.hltv.org/matches/2376514/-,7-4,11,1,[1],1-11,12,0,[],first_half_missing
+9583,1,Endpoint,ARCRED,https://www.hltv.org/matches/2376703/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+9583,2,Endpoint,ARCRED,https://www.hltv.org/matches/2376703/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+9585,1,Gaimin Gladiators,HOTU,https://www.hltv.org/matches/2376702/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+9585,2,Gaimin Gladiators,HOTU,https://www.hltv.org/matches/2376702/-,2-9,11,1,[1],6-6,12,0,[],first_half_missing
+9585,3,Gaimin Gladiators,HOTU,https://www.hltv.org/matches/2376702/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+9590,1,Permitta,Insomnia,https://www.hltv.org/matches/2376710/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9603,1,Limitless,timbermen,https://www.hltv.org/matches/2376658/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+9609,1,timbermen,Limitless,https://www.hltv.org/matches/2376651/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+9617,1,ODDIK,Dusty Roots,https://www.hltv.org/matches/2376688/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+9622,1,Dusty Roots,ODDIK,https://www.hltv.org/matches/2376680/-,0-11,11,1,[1],3-9,12,0,[],first_half_missing
+9670,1,paiN,MIBR,https://www.hltv.org/matches/2374438/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+9673,1,MIBR,paiN,https://www.hltv.org/matches/2374434/-,1-10,11,1,[1],0-12,12,0,[],first_half_missing
+9710,1,Vitality,9z,https://www.hltv.org/matches/2376223/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9727,1,BIG,SAW,https://www.hltv.org/matches/2376310/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+9727,2,BIG,SAW,https://www.hltv.org/matches/2376310/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9727,3,BIG,SAW,https://www.hltv.org/matches/2376310/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9767,1,Zero Tenacity,Spirit Academy,https://www.hltv.org/matches/2376481/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+9767,2,Zero Tenacity,Spirit Academy,https://www.hltv.org/matches/2376481/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+9768,1,Permitta,Passion UA,https://www.hltv.org/matches/2376262/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+9768,2,Permitta,Passion UA,https://www.hltv.org/matches/2376262/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+9768,3,Permitta,Passion UA,https://www.hltv.org/matches/2376262/-,0-11,11,1,[1],1-11,12,0,[],first_half_missing
+9778,1,Passion UA,TSM,https://www.hltv.org/matches/2376412/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9778,2,Passion UA,TSM,https://www.hltv.org/matches/2376412/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9778,3,Passion UA,TSM,https://www.hltv.org/matches/2376412/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+9787,1,ODDIK,Wildcard,https://www.hltv.org/matches/2376306/-,5-6,11,1,[1],0-12,12,0,[],first_half_missing
+9787,2,ODDIK,Wildcard,https://www.hltv.org/matches/2376306/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+9788,1,Fluxo,MIBR,https://www.hltv.org/matches/2373690/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+9790,1,MIBR,Fluxo,https://www.hltv.org/matches/2373682/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9798,1,paiN,BESTIA,https://www.hltv.org/matches/2375788/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+9798,2,paiN,BESTIA,https://www.hltv.org/matches/2375788/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+9801,1,BIG,ODDIK,https://www.hltv.org/matches/2376302/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+9847,1,Zero Tenacity,Metizport,https://www.hltv.org/matches/2376472/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+9847,2,Zero Tenacity,Metizport,https://www.hltv.org/matches/2376472/-,3-8,11,1,[1],5-7,12,0,[],first_half_missing
+9847,3,Zero Tenacity,Metizport,https://www.hltv.org/matches/2376472/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+9852,1,PARIVISION,Spirit Academy,https://www.hltv.org/matches/2376253/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+9852,2,PARIVISION,Spirit Academy,https://www.hltv.org/matches/2376253/-,2-9,11,1,[1],7-5,12,0,[],first_half_missing
+9852,3,PARIVISION,Spirit Academy,https://www.hltv.org/matches/2376253/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+9863,1,paiN,Fluxo,https://www.hltv.org/matches/2376462/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+9867,1,Fluxo,paiN,https://www.hltv.org/matches/2376455/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+9870,1,Fluxo Demons,PEAK fe,https://www.hltv.org/matches/2376357/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+9870,2,Fluxo Demons,PEAK fe,https://www.hltv.org/matches/2376357/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+9891,1,Partizan,Insilio,https://www.hltv.org/matches/2376061/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+9891,2,Partizan,Insilio,https://www.hltv.org/matches/2376061/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+9900,1,Gaimin Gladiators,HOTU,https://www.hltv.org/matches/2376380/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+9900,2,Gaimin Gladiators,HOTU,https://www.hltv.org/matches/2376380/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+9929,1,BESTIA,Solid,https://www.hltv.org/matches/2376452/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+9933,1,Solid,BESTIA,https://www.hltv.org/matches/2376445/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+9982,1,Fluxo,paiN,https://www.hltv.org/matches/2376338/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+9982,2,Fluxo,paiN,https://www.hltv.org/matches/2376338/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+9982,3,Fluxo,paiN,https://www.hltv.org/matches/2376338/-,2-9,11,1,[1],4-8,12,0,[],first_half_missing
+9986,1,Solid,paiN,https://www.hltv.org/matches/2376337/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+9986,2,Solid,paiN,https://www.hltv.org/matches/2376337/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+9995,1,Spirit Academy,EYEBALLERS,https://www.hltv.org/matches/2376191/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+9995,2,Spirit Academy,EYEBALLERS,https://www.hltv.org/matches/2376191/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10011,1,Solid,Fluxo,https://www.hltv.org/matches/2376335/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+10011,2,Solid,Fluxo,https://www.hltv.org/matches/2376335/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+10018,1,paiN,Solid,https://www.hltv.org/matches/2376333/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+10018,2,paiN,Solid,https://www.hltv.org/matches/2376333/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+10018,3,paiN,Solid,https://www.hltv.org/matches/2376333/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+10023,1,9z,SAW,https://www.hltv.org/matches/2376279/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10023,2,9z,SAW,https://www.hltv.org/matches/2376279/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+10041,1,Passion UA,Gaimin Gladiators,https://www.hltv.org/matches/2376345/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10041,2,Passion UA,Gaimin Gladiators,https://www.hltv.org/matches/2376345/-,2-9,11,1,[1],2-10,12,0,[],first_half_missing
+10041,3,Passion UA,Gaimin Gladiators,https://www.hltv.org/matches/2376345/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+10044,1,Fluxo,Dusty Roots,https://www.hltv.org/matches/2376331/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+10044,2,Fluxo,Dusty Roots,https://www.hltv.org/matches/2376331/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10044,3,Fluxo,Dusty Roots,https://www.hltv.org/matches/2376331/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10048,1,Fluxo Demons,Atrix,https://www.hltv.org/matches/2376041/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+10048,2,Fluxo Demons,Atrix,https://www.hltv.org/matches/2376041/-,3-8,11,1,[1],6-6,12,0,[],first_half_missing
+10048,3,Fluxo Demons,Atrix,https://www.hltv.org/matches/2376041/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10051,1,Solid,ODDIK,https://www.hltv.org/matches/2376321/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10059,1,ODDIK,NITRO,https://www.hltv.org/matches/2376319/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10060,1,Bounty Hunters,Dusty Roots,https://www.hltv.org/matches/2376317/-,2-9,11,1,[1],4-8,12,0,[],first_half_missing
+10066,1,SAW,B8,https://www.hltv.org/matches/2376272/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+10066,2,SAW,B8,https://www.hltv.org/matches/2376272/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+10099,1,Solid,ShindeN,https://www.hltv.org/matches/2376314/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+10104,1,MIBR,BESTIA,https://www.hltv.org/matches/2375786/-,2-9,11,1,[1],3-9,12,0,[],first_half_missing
+10104,2,MIBR,BESTIA,https://www.hltv.org/matches/2375786/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10133,1,Permitta,Gaimin Gladiators,https://www.hltv.org/matches/2376228/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+10133,2,Permitta,Gaimin Gladiators,https://www.hltv.org/matches/2376228/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+10137,1,B8,Insilio,https://www.hltv.org/matches/2375984/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+10137,2,B8,Insilio,https://www.hltv.org/matches/2375984/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+10152,1,paiN,ODDIK,https://www.hltv.org/matches/2376143/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+10154,1,Solid,MIBR,https://www.hltv.org/matches/2376142/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+10156,1,ODDIK,paiN,https://www.hltv.org/matches/2376135/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+10160,1,MIBR,Solid,https://www.hltv.org/matches/2376134/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+10163,1,Atrix,PEAK fe,https://www.hltv.org/matches/2376152/-,11-0,11,1,[1],2-10,12,0,[],first_half_missing
+10163,2,Atrix,PEAK fe,https://www.hltv.org/matches/2376152/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10167,1,Spirit fe,NIP Impact,https://www.hltv.org/matches/2376148/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+10167,2,Spirit fe,NIP Impact,https://www.hltv.org/matches/2376148/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+10167,3,Spirit fe,NIP Impact,https://www.hltv.org/matches/2376148/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+10173,1,BIG EQUIPA,Permitta W,https://www.hltv.org/matches/2376147/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+10173,2,BIG EQUIPA,Permitta W,https://www.hltv.org/matches/2376147/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10181,1,TSM,Gaimin Gladiators,https://www.hltv.org/matches/2376080/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+10181,2,TSM,Gaimin Gladiators,https://www.hltv.org/matches/2376080/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10181,3,TSM,Gaimin Gladiators,https://www.hltv.org/matches/2376080/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+10206,1,Fluxo Demons,PEAK fe,https://www.hltv.org/matches/2376040/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10206,2,Fluxo Demons,PEAK fe,https://www.hltv.org/matches/2376040/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10210,1,Dusty Roots,Solid,https://www.hltv.org/matches/2376130/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+10218,1,Solid,Dusty Roots,https://www.hltv.org/matches/2376123/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10252,1,MIBR fe,Atrix,https://www.hltv.org/matches/2376039/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10254,1,Fluxo Demons,Atrix,https://www.hltv.org/matches/2376035/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+10255,1,Fluxo,ODDIK,https://www.hltv.org/matches/2376211/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+10256,1,ODDIK,Fluxo,https://www.hltv.org/matches/2376210/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+10258,1,MIBR fe,PEAK fe,https://www.hltv.org/matches/2376034/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10295,1,HOTU,ARCRED,https://www.hltv.org/matches/2376026/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10295,2,HOTU,ARCRED,https://www.hltv.org/matches/2376026/-,4-7,11,1,[1],0-12,12,0,[],first_half_missing
+10295,3,HOTU,ARCRED,https://www.hltv.org/matches/2376026/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10300,1,Passion UA,9INE,https://www.hltv.org/matches/2376071/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+10300,2,Passion UA,9INE,https://www.hltv.org/matches/2376071/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10331,1,TSM,Permitta,https://www.hltv.org/matches/2375955/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+10331,2,TSM,Permitta,https://www.hltv.org/matches/2375955/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10331,3,TSM,Permitta,https://www.hltv.org/matches/2375955/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10354,1,Insilio,Permitta,https://www.hltv.org/matches/2375837/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+10354,2,Insilio,Permitta,https://www.hltv.org/matches/2375837/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+10354,3,Insilio,Permitta,https://www.hltv.org/matches/2375837/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10367,1,Fluxo Demons,Atrix,https://www.hltv.org/matches/2375821/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+10367,2,Fluxo Demons,Atrix,https://www.hltv.org/matches/2375821/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10367,3,Fluxo Demons,Atrix,https://www.hltv.org/matches/2375821/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10405,1,paiN,BESTIA,https://www.hltv.org/matches/2374686/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10409,1,BESTIA,paiN,https://www.hltv.org/matches/2374682/-,3-8,11,1,[1],2-10,12,0,[],first_half_missing
+10410,1,Endpoint,Insilio,https://www.hltv.org/matches/2375832/-,2-9,11,1,[1],9-3,12,0,[],first_half_missing
+10410,2,Endpoint,Insilio,https://www.hltv.org/matches/2375832/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10472,1,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2375661/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10472,2,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2375661/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10475,1,9INE,Metizport,https://www.hltv.org/matches/2375944/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+10475,2,9INE,Metizport,https://www.hltv.org/matches/2375944/-,8-3,11,1,[1],1-11,12,0,[],first_half_missing
+10476,1,Insilio,The Suspect,https://www.hltv.org/matches/2375660/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10476,2,Insilio,The Suspect,https://www.hltv.org/matches/2375660/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+10476,3,Insilio,The Suspect,https://www.hltv.org/matches/2375660/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+10478,1,B8,Sampi,https://www.hltv.org/matches/2375943/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+10478,2,B8,Sampi,https://www.hltv.org/matches/2375943/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+10480,1,Homyno,MIGHT,https://www.hltv.org/matches/2375811/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10480,2,Homyno,MIGHT,https://www.hltv.org/matches/2375811/-,1-10,11,1,[1],0-12,12,0,[],first_half_missing
+10480,3,Homyno,MIGHT,https://www.hltv.org/matches/2375811/-,4-7,11,1,[1],3-9,12,0,[],first_half_missing
+10501,1,Permitta,Partizan,https://www.hltv.org/matches/2375800/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+10501,2,Permitta,Partizan,https://www.hltv.org/matches/2375800/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+10501,3,Permitta,Partizan,https://www.hltv.org/matches/2375800/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10517,1,ARCRED,9INE,https://www.hltv.org/matches/2375851/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+10517,2,ARCRED,9INE,https://www.hltv.org/matches/2375851/-,2-9,11,1,[1],4-8,12,0,[],first_half_missing
+10517,3,ARCRED,9INE,https://www.hltv.org/matches/2375851/-,1-10,11,1,[1],7-5,12,0,[],first_half_missing
+10545,1,ARCRED,9INE,https://www.hltv.org/matches/2375845/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+10545,2,ARCRED,9INE,https://www.hltv.org/matches/2375845/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+10560,1,BIG,Complexity,https://www.hltv.org/matches/2375403/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10560,2,BIG,Complexity,https://www.hltv.org/matches/2375403/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10560,3,BIG,Complexity,https://www.hltv.org/matches/2375403/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+10576,1,Spirit Academy,ADEPTS,https://www.hltv.org/matches/2375806/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10576,2,Spirit Academy,ADEPTS,https://www.hltv.org/matches/2375806/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10594,1,Zero Tenacity,EYEBALLERS,https://www.hltv.org/matches/2375555/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10594,2,Zero Tenacity,EYEBALLERS,https://www.hltv.org/matches/2375555/-,7-4,11,1,[1],4-8,12,0,[],first_half_missing
+10594,3,Zero Tenacity,EYEBALLERS,https://www.hltv.org/matches/2375555/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10600,1,SAW,Insilio,https://www.hltv.org/matches/2375554/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10600,2,SAW,Insilio,https://www.hltv.org/matches/2375554/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+10600,3,SAW,Insilio,https://www.hltv.org/matches/2375554/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+10614,1,Fluxo Demons,MIBR fe,https://www.hltv.org/matches/2375602/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10614,2,Fluxo Demons,MIBR fe,https://www.hltv.org/matches/2375602/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+10614,3,Fluxo Demons,MIBR fe,https://www.hltv.org/matches/2375602/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10624,1,HOTU,Passion UA,https://www.hltv.org/matches/2375736/-,1-10,11,1,[1],10-2,12,0,[],first_half_missing
+10624,2,HOTU,Passion UA,https://www.hltv.org/matches/2375736/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+10624,3,HOTU,Passion UA,https://www.hltv.org/matches/2375736/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+10632,1,Zero Tenacity,Metizport,https://www.hltv.org/matches/2375449/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10632,2,Zero Tenacity,Metizport,https://www.hltv.org/matches/2375449/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+10638,1,PARIVISION,9INE,https://www.hltv.org/matches/2375541/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10638,2,PARIVISION,9INE,https://www.hltv.org/matches/2375541/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+10649,1,Dusty Roots,BESTIA,https://www.hltv.org/matches/2374445/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+10651,1,BESTIA,Dusty Roots,https://www.hltv.org/matches/2374441/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10656,1,Insilio,Revenant,https://www.hltv.org/matches/2375552/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+10656,2,Insilio,Revenant,https://www.hltv.org/matches/2375552/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10656,3,Insilio,Revenant,https://www.hltv.org/matches/2375552/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+10665,1,SAW,TSM,https://www.hltv.org/matches/2374688/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10665,2,SAW,TSM,https://www.hltv.org/matches/2374688/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+10667,1,ADEPTS,9INE Academy,https://www.hltv.org/matches/2375678/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10667,2,ADEPTS,9INE Academy,https://www.hltv.org/matches/2375678/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10677,1,Revenant,EYEBALLERS,https://www.hltv.org/matches/2375549/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+10677,2,Revenant,EYEBALLERS,https://www.hltv.org/matches/2375549/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10677,3,Revenant,EYEBALLERS,https://www.hltv.org/matches/2375549/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+10685,1,Zero Tenacity,Metizport,https://www.hltv.org/matches/2375537/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10685,2,Zero Tenacity,Metizport,https://www.hltv.org/matches/2375537/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10685,3,Zero Tenacity,Metizport,https://www.hltv.org/matches/2375537/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10694,1,Spirit Academy,HOTU,https://www.hltv.org/matches/2375571/-,5-6,11,1,[1],0-12,12,0,[],first_half_missing
+10694,2,Spirit Academy,HOTU,https://www.hltv.org/matches/2375571/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10694,3,Spirit Academy,HOTU,https://www.hltv.org/matches/2375571/-,2-9,11,1,[1],11-1,12,0,[],first_half_missing
+10699,1,B8,Zero Tenacity,https://www.hltv.org/matches/2375342/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+10699,2,B8,Zero Tenacity,https://www.hltv.org/matches/2375342/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10706,1,LAG,Limitless,https://www.hltv.org/matches/2375664/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+10706,2,LAG,Limitless,https://www.hltv.org/matches/2375664/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+10706,3,LAG,Limitless,https://www.hltv.org/matches/2375664/-,6-5,11,1,[1],1-11,12,0,[],first_half_missing
+10716,1,Wanted Goons,Alter Iron,https://www.hltv.org/matches/2375627/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10716,2,Wanted Goons,Alter Iron,https://www.hltv.org/matches/2375627/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+10716,3,Wanted Goons,Alter Iron,https://www.hltv.org/matches/2375627/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+10718,1,LAG,NuTorious,https://www.hltv.org/matches/2375626/-,9-2,11,1,[1],3-9,12,0,[],first_half_missing
+10718,2,LAG,NuTorious,https://www.hltv.org/matches/2375626/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10723,1,Gaimin Gladiators,Spirit Academy,https://www.hltv.org/matches/2375525/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+10723,2,Gaimin Gladiators,Spirit Academy,https://www.hltv.org/matches/2375525/-,1-10,11,1,[1],2-10,12,0,[],first_half_missing
+10742,1,MIBR Academy,paiN Academy,https://www.hltv.org/matches/2375585/-,7-4,11,1,[1],0-12,12,0,[],first_half_missing
+10742,2,MIBR Academy,paiN Academy,https://www.hltv.org/matches/2375585/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+10742,3,MIBR Academy,paiN Academy,https://www.hltv.org/matches/2375585/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10750,1,Passion UA,Gaimin Gladiators,https://www.hltv.org/matches/2375336/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10750,2,Passion UA,Gaimin Gladiators,https://www.hltv.org/matches/2375336/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10761,1,Qiang,EYEBALLERS,https://www.hltv.org/matches/2375582/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10761,2,Qiang,EYEBALLERS,https://www.hltv.org/matches/2375582/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10766,1,Zero Tenacity,Young Ninjas,https://www.hltv.org/matches/2375127/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10766,2,Zero Tenacity,Young Ninjas,https://www.hltv.org/matches/2375127/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+10769,1,MIBR fe,Atrix,https://www.hltv.org/matches/2375465/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+10769,2,MIBR fe,Atrix,https://www.hltv.org/matches/2375465/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+10769,3,MIBR fe,Atrix,https://www.hltv.org/matches/2375465/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+10793,1,9z,Wildcard,https://www.hltv.org/matches/2375372/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10793,2,9z,Wildcard,https://www.hltv.org/matches/2375372/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+10795,1,Insilio,Spirit Academy,https://www.hltv.org/matches/2375500/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+10795,2,Insilio,Spirit Academy,https://www.hltv.org/matches/2375500/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+10797,1,B8,9INE,https://www.hltv.org/matches/2375332/-,4-7,11,1,[1],0-12,12,0,[],first_half_missing
+10797,2,B8,9INE,https://www.hltv.org/matches/2375332/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+10797,3,B8,9INE,https://www.hltv.org/matches/2375332/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+10798,1,MIBR,Spirit,https://www.hltv.org/matches/2375370/-,2-9,11,1,[1],0-12,12,0,[],first_half_missing
+10798,2,MIBR,Spirit,https://www.hltv.org/matches/2375370/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10798,3,MIBR,Spirit,https://www.hltv.org/matches/2375370/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+10804,1,Revenant,Gaimin Gladiators,https://www.hltv.org/matches/2375501/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+10804,2,Revenant,Gaimin Gladiators,https://www.hltv.org/matches/2375501/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+10804,3,Revenant,Gaimin Gladiators,https://www.hltv.org/matches/2375501/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+10812,1,Fluxo,ODDIK,https://www.hltv.org/matches/2375493/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10812,2,Fluxo,ODDIK,https://www.hltv.org/matches/2375493/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+10820,1,Fluxo,BESTIA,https://www.hltv.org/matches/2375491/-,2-9,11,1,[1],5-7,12,0,[],first_half_missing
+10820,2,Fluxo,BESTIA,https://www.hltv.org/matches/2375491/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10820,3,Fluxo,BESTIA,https://www.hltv.org/matches/2375491/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10828,1,Metizport,Sampi,https://www.hltv.org/matches/2375444/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+10828,2,Metizport,Sampi,https://www.hltv.org/matches/2375444/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10833,1,Spirit,Wildcard,https://www.hltv.org/matches/2375356/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+10833,2,Spirit,Wildcard,https://www.hltv.org/matches/2375356/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+10837,1,Young Ninjas,TSM,https://www.hltv.org/matches/2375123/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+10837,2,Young Ninjas,TSM,https://www.hltv.org/matches/2375123/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10843,1,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2375490/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+10843,2,BESTIA,Bounty Hunters,https://www.hltv.org/matches/2375490/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10851,1,ODDIK,Solid,https://www.hltv.org/matches/2375488/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10851,2,ODDIK,Solid,https://www.hltv.org/matches/2375488/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+10851,3,ODDIK,Solid,https://www.hltv.org/matches/2375488/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+10857,1,MIBR,9z,https://www.hltv.org/matches/2375354/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+10857,2,MIBR,9z,https://www.hltv.org/matches/2375354/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+10863,1,9INE,EYEBALLERS,https://www.hltv.org/matches/2375328/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10863,2,9INE,EYEBALLERS,https://www.hltv.org/matches/2375328/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10866,1,Young Ninjas,Spirit Academy,https://www.hltv.org/matches/2375254/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+10866,2,Young Ninjas,Spirit Academy,https://www.hltv.org/matches/2375254/-,3-8,11,1,[1],1-11,12,0,[],first_half_missing
+10867,1,B8,TSM,https://www.hltv.org/matches/2375122/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+10867,2,B8,TSM,https://www.hltv.org/matches/2375122/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+10867,3,B8,TSM,https://www.hltv.org/matches/2375122/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+10884,1,BESTIA,paiN Academy,https://www.hltv.org/matches/2375485/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10884,2,BESTIA,paiN Academy,https://www.hltv.org/matches/2375485/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+10887,1,Endpoint,9INE,https://www.hltv.org/matches/2375325/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+10887,2,Endpoint,9INE,https://www.hltv.org/matches/2375325/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+10887,3,Endpoint,9INE,https://www.hltv.org/matches/2375325/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+10888,1,ODDIK,9z Academy,https://www.hltv.org/matches/2375484/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10888,2,ODDIK,9z Academy,https://www.hltv.org/matches/2375484/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10895,1,9INE,EYEBALLERS,https://www.hltv.org/matches/2375439/-,2-9,11,1,[1],9-3,12,0,[],first_half_missing
+10895,2,9INE,EYEBALLERS,https://www.hltv.org/matches/2375439/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10895,3,9INE,EYEBALLERS,https://www.hltv.org/matches/2375439/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10911,1,9INE,Zero Tenacity,https://www.hltv.org/matches/2375118/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+10911,2,9INE,Zero Tenacity,https://www.hltv.org/matches/2375118/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+10916,1,Sampi,EYEBALLERS,https://www.hltv.org/matches/2375320/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+10916,2,Sampi,EYEBALLERS,https://www.hltv.org/matches/2375320/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+10916,3,Sampi,EYEBALLERS,https://www.hltv.org/matches/2375320/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+10924,1,Permitta,Insilio,https://www.hltv.org/matches/2375309/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10924,2,Permitta,Insilio,https://www.hltv.org/matches/2375309/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+10924,3,Permitta,Insilio,https://www.hltv.org/matches/2375309/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+10929,1,ARCRED,Revenant,https://www.hltv.org/matches/2375315/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+10929,2,ARCRED,Revenant,https://www.hltv.org/matches/2375315/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+10944,1,Sampi,Revenant,https://www.hltv.org/matches/2375304/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+10944,2,Sampi,Revenant,https://www.hltv.org/matches/2375304/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+10969,1,MIBR fe,PEAK fe,https://www.hltv.org/matches/2375292/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+10969,2,MIBR fe,PEAK fe,https://www.hltv.org/matches/2375292/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+10986,1,Sampi,Gaimin Gladiators,https://www.hltv.org/matches/2375162/-,4-7,11,1,[1],1-11,12,0,[],first_half_missing
+10986,2,Sampi,Gaimin Gladiators,https://www.hltv.org/matches/2375162/-,2-9,11,1,[1],1-11,12,0,[],first_half_missing
+10989,1,NOM,Onyx Ravens,https://www.hltv.org/matches/2375045/-,3-8,11,1,[1],7-5,12,0,[],first_half_missing
+10995,1,Permitta,Revenant,https://www.hltv.org/matches/2375161/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+10995,2,Permitta,Revenant,https://www.hltv.org/matches/2375161/-,4-7,11,1,[1],9-3,12,0,[],first_half_missing
+10999,1,True Rippers,ONi,https://www.hltv.org/matches/2375281/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+10999,2,True Rippers,ONi,https://www.hltv.org/matches/2375281/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+11001,1,B8,Revenant,https://www.hltv.org/matches/2375109/-,8-3,11,1,[1],4-8,12,0,[],first_half_missing
+11001,2,B8,Revenant,https://www.hltv.org/matches/2375109/-,2-9,11,1,[1],7-5,12,0,[],first_half_missing
+11001,3,B8,Revenant,https://www.hltv.org/matches/2375109/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+11049,1,Endpoint,EYEBALLERS,https://www.hltv.org/matches/2375157/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+11049,2,Endpoint,EYEBALLERS,https://www.hltv.org/matches/2375157/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+11091,1,B8,Endpoint,https://www.hltv.org/matches/2374775/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11091,2,B8,Endpoint,https://www.hltv.org/matches/2374775/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+11103,1,Endpoint,Revenant,https://www.hltv.org/matches/2374910/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+11103,2,Endpoint,Revenant,https://www.hltv.org/matches/2374910/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+11103,3,Endpoint,Revenant,https://www.hltv.org/matches/2374910/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+11106,1,TSM,Sampi,https://www.hltv.org/matches/2375104/-,3-8,11,1,[1],10-2,12,0,[],first_half_missing
+11106,2,TSM,Sampi,https://www.hltv.org/matches/2375104/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+11107,1,B8,9INE,https://www.hltv.org/matches/2374586/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11107,2,B8,9INE,https://www.hltv.org/matches/2374586/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+11107,3,B8,9INE,https://www.hltv.org/matches/2374586/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+11112,1,PARIVISION,Gaimin Gladiators,https://www.hltv.org/matches/2375103/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+11112,2,PARIVISION,Gaimin Gladiators,https://www.hltv.org/matches/2375103/-,3-8,11,1,[1],3-9,12,0,[],first_half_missing
+11112,3,PARIVISION,Gaimin Gladiators,https://www.hltv.org/matches/2375103/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+11141,1,ODDIK,Vikings KR,https://www.hltv.org/matches/2375176/-,6-5,11,1,[1],5-7,12,0,[],first_half_missing
+11141,2,ODDIK,Vikings KR,https://www.hltv.org/matches/2375176/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+11141,3,ODDIK,Vikings KR,https://www.hltv.org/matches/2375176/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+11144,1,Fluxo,Dusty Roots,https://www.hltv.org/matches/2375175/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+11144,2,Fluxo,Dusty Roots,https://www.hltv.org/matches/2375175/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+11152,1,Passion UA,9INE,https://www.hltv.org/matches/2375102/-,4-7,11,1,[1],4-8,12,0,[],first_half_missing
+11152,2,Passion UA,9INE,https://www.hltv.org/matches/2375102/-,5-6,11,1,[1],3-9,12,0,[],first_half_missing
+11155,1,Permitta,EYEBALLERS,https://www.hltv.org/matches/2374908/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11155,2,Permitta,EYEBALLERS,https://www.hltv.org/matches/2374908/-,6-5,11,1,[1],6-6,12,0,[],first_half_missing
+11166,1,Solid,Intense,https://www.hltv.org/matches/2374817/-,3-8,11,1,[1],9-3,12,0,[],first_half_missing
+11167,1,Passion UA,Endpoint,https://www.hltv.org/matches/2374770/-,6-5,11,1,[1],4-8,12,0,[],first_half_missing
+11167,2,Passion UA,Endpoint,https://www.hltv.org/matches/2374770/-,4-7,11,1,[1],5-7,12,0,[],first_half_missing
+11171,1,BESTIA,Vikings KR,https://www.hltv.org/matches/2374815/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11223,1,B8,Revenant,https://www.hltv.org/matches/2374765/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+11223,2,B8,Revenant,https://www.hltv.org/matches/2374765/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+11223,3,B8,Revenant,https://www.hltv.org/matches/2374765/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+11224,1,9z,paiN,https://www.hltv.org/matches/2374947/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+11224,2,9z,paiN,https://www.hltv.org/matches/2374947/-,7-4,11,1,[1],3-9,12,0,[],first_half_missing
+11227,1,Zero Tenacity,Permitta,https://www.hltv.org/matches/2374764/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11227,2,Zero Tenacity,Permitta,https://www.hltv.org/matches/2374764/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+11272,1,Permitta,BIG,https://www.hltv.org/matches/2374986/-,5-6,11,1,[1],7-5,12,0,[],first_half_missing
+11272,2,Permitta,BIG,https://www.hltv.org/matches/2374986/-,2-9,11,1,[1],9-3,12,0,[],first_half_missing
+11272,3,Permitta,BIG,https://www.hltv.org/matches/2374986/-,1-10,11,1,[1],2-10,12,0,[],first_half_missing
+11282,1,Qiang,Insilio,https://www.hltv.org/matches/2374981/-,4-7,11,1,[1],7-5,12,0,[],first_half_missing
+11282,2,Qiang,Insilio,https://www.hltv.org/matches/2374981/-,1-10,11,1,[1],5-7,12,0,[],first_half_missing
+11283,1,BC.Game,TSM,https://www.hltv.org/matches/2374975/-,4-7,11,1,[1],2-10,12,0,[],first_half_missing
+11283,2,BC.Game,TSM,https://www.hltv.org/matches/2374975/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+11297,1,Complexity,Metizport,https://www.hltv.org/matches/2374716/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11297,2,Complexity,Metizport,https://www.hltv.org/matches/2374716/-,5-6,11,1,[1],6-6,12,0,[],first_half_missing
+11306,1,SAW,Permitta,https://www.hltv.org/matches/2374971/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+11306,2,SAW,Permitta,https://www.hltv.org/matches/2374971/-,4-7,11,1,[1],8-4,12,0,[],first_half_missing
+11312,1,B8,PARIVISION,https://www.hltv.org/matches/2374962/-,4-7,11,1,[1],6-6,12,0,[],first_half_missing
+11314,1,Qiang,BIG,https://www.hltv.org/matches/2374969/-,6-5,11,1,[1],2-10,12,0,[],first_half_missing
+11316,1,Passion UA,ARCRED,https://www.hltv.org/matches/2374968/-,2-9,11,1,[1],9-3,12,0,[],first_half_missing
+11342,1,BIG,Insilio,https://www.hltv.org/matches/2374809/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+11344,1,SAW,Qiang,https://www.hltv.org/matches/2374805/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11370,1,Metizport,9INE,https://www.hltv.org/matches/2374578/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+11370,2,Metizport,9INE,https://www.hltv.org/matches/2374578/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+11370,3,Metizport,9INE,https://www.hltv.org/matches/2374578/-,3-8,11,1,[1],5-7,12,0,[],first_half_missing
+11395,1,BIG,Passion UA,https://www.hltv.org/matches/2374795/-,1-10,11,1,[1],2-10,12,0,[],first_half_missing
+11420,1,Metizport,TSM,https://www.hltv.org/matches/2374658/-,1-10,11,1,[1],0-12,12,0,[],first_half_missing
+11420,2,Metizport,TSM,https://www.hltv.org/matches/2374658/-,5-6,11,1,[1],5-7,12,0,[],first_half_missing
+11441,1,Ninjas in Pyjamas,PARIVISION,https://www.hltv.org/matches/2374917/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+11451,1,The Suspect,Grannys Knockers,https://www.hltv.org/matches/2374882/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11451,2,The Suspect,Grannys Knockers,https://www.hltv.org/matches/2374882/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+11460,1,Permitta,Endpoint,https://www.hltv.org/matches/2374753/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+11460,2,Permitta,Endpoint,https://www.hltv.org/matches/2374753/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11460,3,Permitta,Endpoint,https://www.hltv.org/matches/2374753/-,3-8,11,1,[1],4-8,12,0,[],first_half_missing
+11489,1,Insilio,Endpoint,https://www.hltv.org/matches/2374552/-,5-6,11,1,[1],1-11,12,0,[],first_half_missing
+11489,2,Insilio,Endpoint,https://www.hltv.org/matches/2374552/-,7-4,11,1,[1],5-7,12,0,[],first_half_missing
+11496,1,Vitality,SAW,https://www.hltv.org/matches/2374325/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+11496,2,Vitality,SAW,https://www.hltv.org/matches/2374325/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+11514,1,Zero Tenacity,EYEBALLERS,https://www.hltv.org/matches/2374547/-,7-4,11,1,[1],6-6,12,0,[],first_half_missing
+11514,2,Zero Tenacity,EYEBALLERS,https://www.hltv.org/matches/2374547/-,2-9,11,1,[1],10-2,12,0,[],first_half_missing
+11518,1,Sampi,Revenant,https://www.hltv.org/matches/2374702/-,5-6,11,1,[1],2-10,12,0,[],first_half_missing
+11518,2,Sampi,Revenant,https://www.hltv.org/matches/2374702/-,3-8,11,1,[1],5-7,12,0,[],first_half_missing
+11538,1,B8,Spirit Academy,https://www.hltv.org/matches/2374734/-,9-2,11,1,[1],4-8,12,0,[],first_half_missing
+11548,1,PARIVISION,9INE,https://www.hltv.org/matches/2374728/-,10-1,11,1,[1],3-9,12,0,[],first_half_missing
+11550,1,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2374573/-,3-8,11,1,[1],0-12,12,0,[],first_half_missing
+11550,2,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2374573/-,5-6,11,1,[1],8-4,12,0,[],first_half_missing
+11550,3,Passion UA,EYEBALLERS,https://www.hltv.org/matches/2374573/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+11555,1,Insilio,Permitta,https://www.hltv.org/matches/2374542/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11555,2,Insilio,Permitta,https://www.hltv.org/matches/2374542/-,8-3,11,1,[1],3-9,12,0,[],first_half_missing
+11555,3,Insilio,Permitta,https://www.hltv.org/matches/2374542/-,6-5,11,1,[1],7-5,12,0,[],first_half_missing
+11556,1,Metizport,PARIVISION,https://www.hltv.org/matches/2374572/-,5-6,11,1,[1],4-8,12,0,[],first_half_missing
+11556,2,Metizport,PARIVISION,https://www.hltv.org/matches/2374572/-,6-5,11,1,[1],3-9,12,0,[],first_half_missing
+11567,1,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2374378/-,3-8,11,1,[1],8-4,12,0,[],first_half_missing
+11567,2,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2374378/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
+11567,3,ODDIK,Bounty Hunters,https://www.hltv.org/matches/2374378/-,8-3,11,1,[1],5-7,12,0,[],first_half_missing
