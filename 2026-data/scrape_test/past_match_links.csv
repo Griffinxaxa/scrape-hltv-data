@@ -1,0 +1,794 @@
+source_hltv_match_id,view,subject_team_id,subject_team_name,opponent_team_id,opponent_team_name,recency_text,format_or_map,score_text,outcome_for_subject,prior_match_id,prior_match_url
+2400446,core,10333,Sangal,13117,Inner Circle,,bo3,2 - 0,won,2400442,https://www.hltv.org/matches/2400442/inner-circle-vs-sangal-stake-ranked-episode-6
+2400446,core,10333,Sangal,7532,BIG,,bo3,2 - 0,won,2400284,https://www.hltv.org/matches/2400284/big-vs-sangal-stake-ranked-episode-6
+2400446,core,10333,Sangal,11641,Metizport,4 weeks ago,bo3,2 - 1,won,2399785,https://www.hltv.org/matches/2399785/sangal-vs-metizport-stake-ranked-episode-6-closed-qualifier
+2400446,core,10333,Sangal,9139,BRUTE,4 weeks ago,bo3,2 - 1,won,2399782,https://www.hltv.org/matches/2399782/sangal-vs-brute-stake-ranked-episode-6-closed-qualifier
+2400446,core,10333,Sangal,12366,Aurora Young Blud,4 weeks ago,bo3,2 - 0,won,2399777,https://www.hltv.org/matches/2399777/sangal-vs-aurora-young-blud-stake-ranked-episode-6-closed-qualifier
+2400446,core,10333,Sangal,8474,100 Thieves,5 weeks ago,bo3,0 - 2,lost,2399265,https://www.hltv.org/matches/2399265/100-thieves-vs-sangal-stake-pulse-beat-iii
+2400446,core,10333,Sangal,13117,Inner Circle,5 weeks ago,bo3,2 - 0,won,2399252,https://www.hltv.org/matches/2399252/inner-circle-vs-sangal-stake-pulse-beat-iii
+2400446,core,10333,Sangal,12916,Betclic,5 weeks ago,bo3,2 - 0,won,2399251,https://www.hltv.org/matches/2399251/sangal-vs-betclic-stake-pulse-beat-iii
+2400446,core,10333,Sangal,13117,Inner Circle,5 weeks ago,bo3,0 - 2,lost,2399130,https://www.hltv.org/matches/2399130/inner-circle-vs-sangal-stake-pulse-beat-iii
+2400446,core,10333,Sangal,10371,NAVI Junior,6 weeks ago,bo3,1 - 2,lost,2399054,https://www.hltv.org/matches/2399054/sangal-vs-navi-junior-roman-imperium-cup-ix
+2400446,core,10333,Sangal,13777,PURE,6 weeks ago,bo3,2 - 1,won,2399053,https://www.hltv.org/matches/2399053/sangal-vs-pure-roman-imperium-cup-ix
+2400446,core,10333,Sangal,12889,G2 Ares,6 weeks ago,bo3,2 - 1,won,2399050,https://www.hltv.org/matches/2399050/sangal-vs-g2-ares-roman-imperium-cup-ix
+2400446,core,10333,Sangal,13838,EAC,6 weeks ago,bo3,2 - 0,won,2399046,https://www.hltv.org/matches/2399046/eac-vs-sangal-roman-imperium-cup-ix
+2400446,core,10333,Sangal,6667,FaZe,6 weeks ago,bo3,1 - 2,lost,2399044,https://www.hltv.org/matches/2399044/faze-vs-sangal-roman-imperium-cup-ix
+2400446,core,10333,Sangal,10503,OG,6 weeks ago,bo3,2 - 0,won,2399041,https://www.hltv.org/matches/2399041/og-vs-sangal-roman-imperium-cup-ix
+2400446,core,10333,Sangal,10371,NAVI Junior,6 weeks ago,anb,6 - 13,lost,2399039,https://www.hltv.org/matches/2399039/sangal-vs-navi-junior-roman-imperium-cup-ix
+2400446,core,10333,Sangal,10567,SAW,6 weeks ago,nuke,13 - 10,won,2399034,https://www.hltv.org/matches/2399034/sangal-vs-saw-roman-imperium-cup-ix
+2400446,core,10333,Sangal,12642,RBLS,6 weeks ago,nuke,13 - 6,won,2399032,https://www.hltv.org/matches/2399032/sangal-vs-rbls-roman-imperium-cup-ix
+2400446,core,10333,Sangal,12087,Lazer Cats,6 weeks ago,anb,13 - 4,won,2399030,https://www.hltv.org/matches/2399030/sangal-vs-lazer-cats-roman-imperium-cup-ix
+2400446,core,10333,Sangal,13364,Famalicão,6 weeks ago,cch,16 - 13,won,2399026,https://www.hltv.org/matches/2399026/sangal-vs-famalico-roman-imperium-cup-ix
+2400446,core,10333,Sangal,11251,Eternal Fire,7 weeks ago,bo3,0 - 2,lost,2398971,https://www.hltv.org/matches/2398971/sangal-vs-eternal-fire-rog-journey-autumn-2026
+2400446,core,10333,Sangal,7865,HAVU,7 weeks ago,mrg,12 - 16,lost,2398933,https://www.hltv.org/matches/2398933/havu-vs-sangal-rog-journey-autumn-2026
+2400446,core,10333,Sangal,14076,XEPT,7 weeks ago,mrg,13 - 7,won,2398930,https://www.hltv.org/matches/2398930/sangal-vs-xept-rog-journey-autumn-2026
+2400446,core,10333,Sangal,13375,SportsBetExpert,7 weeks ago,anb,13 - 4,won,2398926,https://www.hltv.org/matches/2398926/sangal-vs-sportsbetexpert-rog-journey-autumn-2026
+2400446,core,10333,Sangal,4411,Ninjas in Pyjamas,7 weeks ago,nuke,13 - 4,won,2398922,https://www.hltv.org/matches/2398922/ninjas-in-pyjamas-vs-sangal-rog-journey-autumn-2026
+2400446,core,10333,Sangal,13996,BBL,7 weeks ago,mrg,13 - 10,won,2398920,https://www.hltv.org/matches/2398920/bbl-vs-sangal-rog-journey-autumn-2026
+2400446,core,10333,Sangal,4869,ENCE,7 weeks ago,bo3,2 - 0,won,2398825,https://www.hltv.org/matches/2398825/sangal-vs-ence-urban-riga-open-season-7
+2400446,core,10333,Sangal,13681,Inner Circle Academy,7 weeks ago,bo3,2 - 0,won,2398822,https://www.hltv.org/matches/2398822/inner-circle-academy-vs-sangal-urban-riga-open-season-7
+2400446,core,10333,Sangal,13745,KUUSAMO,7 weeks ago,bo3,2 - 0,won,2398821,https://www.hltv.org/matches/2398821/sangal-vs-kuusamo-urban-riga-open-season-7
+2400446,core,10333,Sangal,13012,HYPERSPIRIT,7 weeks ago,anc,13 - 10,won,2398818,https://www.hltv.org/matches/2398818/sangal-vs-hyperspirit-urban-riga-open-season-7
+2400446,core,10333,Sangal,9199,Aimhaus,7 weeks ago,anb,13 - 2,won,2398816,https://www.hltv.org/matches/2398816/aimhaus-vs-sangal-urban-riga-open-season-7
+2400446,core,10333,Sangal,4869,ENCE,7 weeks ago,d2,10 - 13,lost,2398815,https://www.hltv.org/matches/2398815/ence-vs-sangal-urban-riga-open-season-7
+2400446,core,10333,Sangal,7175,HEROIC,8 weeks ago,bo3,1 - 2,lost,2398073,https://www.hltv.org/matches/2398073/heroic-vs-sangal-stake-pulse-beat-ii
+2400446,core,10333,Sangal,10245,JiJieHao,8 weeks ago,bo3,2 - 0,won,2398071,https://www.hltv.org/matches/2398071/jijiehao-vs-sangal-stake-pulse-beat-ii
+2400446,core,10333,Sangal,13679,FOKUS,8 weeks ago,bo3,2 - 1,won,2398058,https://www.hltv.org/matches/2398058/sangal-vs-fokus-stake-pulse-beat-ii
+2400446,core,10333,Sangal,11712,Sashi,8 weeks ago,bo3,2 - 0,won,2398057,https://www.hltv.org/matches/2398057/sashi-vs-sangal-stake-pulse-beat-ii
+2400446,core,10333,Sangal,6665,Astralis,8 weeks ago,bo3,1 - 2,lost,2398010,https://www.hltv.org/matches/2398010/astralis-vs-sangal-stake-pulse-beat-ii
+2400446,core,10333,Sangal,4411,Ninjas in Pyjamas,11 weeks ago,bo3,1 - 2,lost,2397414,https://www.hltv.org/matches/2397414/ninjas-in-pyjamas-vs-sangal-stake-ranked-episode-4-closed-qualifier
+2400446,core,10333,Sangal,13777,PURE,12 weeks ago,bo3,2 - 1,won,2397377,https://www.hltv.org/matches/2397377/sangal-vs-pure-stake-ranked-episode-4-open-qualifier
+2400446,core,6290,Luminosity,4411,Ninjas in Pyjamas,,bo3,2 - 0,won,2400443,https://www.hltv.org/matches/2400443/ninjas-in-pyjamas-vs-luminosity-stake-ranked-episode-6
+2400446,core,6290,Luminosity,9928,GamerLegion,,bo3,2 - 1,won,2400286,https://www.hltv.org/matches/2400286/gamerlegion-vs-luminosity-stake-ranked-episode-6
+2400446,core,6290,Luminosity,5991,Envy,3 weeks ago,bo3,1 - 2,lost,2399874,https://www.hltv.org/matches/2399874/luminosity-vs-envy-rlg-tesla-cup-2026
+2400446,core,6290,Luminosity,11581,HOTU,3 weeks ago,bo3,0 - 2,lost,2399869,https://www.hltv.org/matches/2399869/luminosity-vs-hotu-rlg-tesla-cup-2026
+2400446,core,6290,Luminosity,13996,BBL,4 weeks ago,bo3,0 - 2,lost,2399621,https://www.hltv.org/matches/2399621/bbl-vs-luminosity-digital-crusade-draculan-season-7
+2400446,core,6290,Luminosity,7187,Nexus,4 weeks ago,bo3,1 - 2,lost,2399617,https://www.hltv.org/matches/2399617/luminosity-vs-nexus-digital-crusade-draculan-season-7
+2400446,core,6290,Luminosity,6665,Astralis,7 weeks ago,bo3,1 - 2,lost,2398008,https://www.hltv.org/matches/2398008/luminosity-vs-astralis-stake-ranked-episode-4
+2400446,core,6290,Luminosity,7969,Nemiga,7 weeks ago,bo3,0 - 2,lost,2398006,https://www.hltv.org/matches/2398006/luminosity-vs-nemiga-stake-ranked-episode-4
+2400446,core,6290,Luminosity,7532,BIG,7 weeks ago,bo3,2 - 1,won,2398002,https://www.hltv.org/matches/2398002/luminosity-vs-big-stake-ranked-episode-4
+2400446,core,6290,Luminosity,11241,B8,7 weeks ago,bo3,2 - 0,won,2397938,https://www.hltv.org/matches/2397938/b8-vs-luminosity-stake-ranked-episode-4
+2400446,core,6290,Luminosity,4914,3DMAX,8 weeks ago,bo5,2 - 3,lost,2397919,https://www.hltv.org/matches/2397919/luminosity-vs-3dmax-logitech-g-play-connect-2026
+2400446,core,6290,Luminosity,11241,B8,8 weeks ago,bo3,2 - 0,won,2397917,https://www.hltv.org/matches/2397917/b8-vs-luminosity-logitech-g-play-connect-2026
+2400446,core,6290,Luminosity,13996,BBL,9 weeks ago,bo3,2 - 0,won,2397915,https://www.hltv.org/matches/2397915/luminosity-vs-bbl-logitech-g-play-connect-2026
+2400446,core,6290,Luminosity,4411,Ninjas in Pyjamas,9 weeks ago,anc,13 - 11,won,2397898,https://www.hltv.org/matches/2397898/luminosity-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400446,core,6290,Luminosity,12376,M80,9 weeks ago,anc,13 - 4,won,2397897,https://www.hltv.org/matches/2397897/luminosity-vs-m80-logitech-g-play-connect-2026
+2400446,core,6290,Luminosity,11241,B8,9 weeks ago,d2,11 - 13,lost,2397892,https://www.hltv.org/matches/2397892/luminosity-vs-b8-logitech-g-play-connect-2026
+2400446,core,6290,Luminosity,11641,Metizport,9 weeks ago,mrg,13 - 9,won,2397888,https://www.hltv.org/matches/2397888/metizport-vs-luminosity-logitech-g-play-connect-2026
+2400446,core,6290,Luminosity,9928,GamerLegion,9 weeks ago,nuke,7 - 13,lost,2397887,https://www.hltv.org/matches/2397887/gamerlegion-vs-luminosity-logitech-g-play-connect-2026
+2400446,core,6290,Luminosity,12376,M80,10 weeks ago,bo3,0 - 2,lost,2397951,https://www.hltv.org/matches/2397951/luminosity-vs-m80-radio-popular-roman-imperium-cup-viii
+2400446,core,6290,Luminosity,12376,M80,10 weeks ago,bo3,2 - 1,won,2397948,https://www.hltv.org/matches/2397948/m80-vs-luminosity-radio-popular-roman-imperium-cup-viii
+2400446,core,6290,Luminosity,10567,SAW,10 weeks ago,bo3,2 - 1,won,2397945,https://www.hltv.org/matches/2397945/luminosity-vs-saw-radio-popular-roman-imperium-cup-viii
+2400446,core,6290,Luminosity,13304,LP,10 weeks ago,bo3,2 - 1,won,2397937,https://www.hltv.org/matches/2397937/luminosity-vs-lp-radio-popular-roman-imperium-cup-viii
+2400446,team,10333,Sangal,13117,Inner Circle,,bo3,2 - 0,won,2400442,https://www.hltv.org/matches/2400442/inner-circle-vs-sangal-stake-ranked-episode-6
+2400446,team,10333,Sangal,7532,BIG,,bo3,2 - 0,won,2400284,https://www.hltv.org/matches/2400284/big-vs-sangal-stake-ranked-episode-6
+2400446,team,10333,Sangal,11641,Metizport,4 weeks ago,bo3,2 - 1,won,2399785,https://www.hltv.org/matches/2399785/sangal-vs-metizport-stake-ranked-episode-6-closed-qualifier
+2400446,team,10333,Sangal,9139,BRUTE,4 weeks ago,bo3,2 - 1,won,2399782,https://www.hltv.org/matches/2399782/sangal-vs-brute-stake-ranked-episode-6-closed-qualifier
+2400446,team,10333,Sangal,12366,Aurora Young Blud,4 weeks ago,bo3,2 - 0,won,2399777,https://www.hltv.org/matches/2399777/sangal-vs-aurora-young-blud-stake-ranked-episode-6-closed-qualifier
+2400446,team,10333,Sangal,8474,100 Thieves,5 weeks ago,bo3,0 - 2,lost,2399265,https://www.hltv.org/matches/2399265/100-thieves-vs-sangal-stake-pulse-beat-iii
+2400446,team,10333,Sangal,13117,Inner Circle,5 weeks ago,bo3,2 - 0,won,2399252,https://www.hltv.org/matches/2399252/inner-circle-vs-sangal-stake-pulse-beat-iii
+2400446,team,10333,Sangal,12916,Betclic,5 weeks ago,bo3,2 - 0,won,2399251,https://www.hltv.org/matches/2399251/sangal-vs-betclic-stake-pulse-beat-iii
+2400446,team,10333,Sangal,13117,Inner Circle,5 weeks ago,bo3,0 - 2,lost,2399130,https://www.hltv.org/matches/2399130/inner-circle-vs-sangal-stake-pulse-beat-iii
+2400446,team,10333,Sangal,10371,NAVI Junior,6 weeks ago,bo3,1 - 2,lost,2399054,https://www.hltv.org/matches/2399054/sangal-vs-navi-junior-roman-imperium-cup-ix
+2400446,team,10333,Sangal,13777,PURE,6 weeks ago,bo3,2 - 1,won,2399053,https://www.hltv.org/matches/2399053/sangal-vs-pure-roman-imperium-cup-ix
+2400446,team,10333,Sangal,12889,G2 Ares,6 weeks ago,bo3,2 - 1,won,2399050,https://www.hltv.org/matches/2399050/sangal-vs-g2-ares-roman-imperium-cup-ix
+2400446,team,10333,Sangal,13838,EAC,6 weeks ago,bo3,2 - 0,won,2399046,https://www.hltv.org/matches/2399046/eac-vs-sangal-roman-imperium-cup-ix
+2400446,team,10333,Sangal,6667,FaZe,6 weeks ago,bo3,1 - 2,lost,2399044,https://www.hltv.org/matches/2399044/faze-vs-sangal-roman-imperium-cup-ix
+2400446,team,10333,Sangal,10503,OG,6 weeks ago,bo3,2 - 0,won,2399041,https://www.hltv.org/matches/2399041/og-vs-sangal-roman-imperium-cup-ix
+2400446,team,10333,Sangal,10371,NAVI Junior,6 weeks ago,anb,6 - 13,lost,2399039,https://www.hltv.org/matches/2399039/sangal-vs-navi-junior-roman-imperium-cup-ix
+2400446,team,10333,Sangal,10567,SAW,6 weeks ago,nuke,13 - 10,won,2399034,https://www.hltv.org/matches/2399034/sangal-vs-saw-roman-imperium-cup-ix
+2400446,team,10333,Sangal,12642,RBLS,6 weeks ago,nuke,13 - 6,won,2399032,https://www.hltv.org/matches/2399032/sangal-vs-rbls-roman-imperium-cup-ix
+2400446,team,10333,Sangal,12087,Lazer Cats,6 weeks ago,anb,13 - 4,won,2399030,https://www.hltv.org/matches/2399030/sangal-vs-lazer-cats-roman-imperium-cup-ix
+2400446,team,10333,Sangal,13364,Famalicão,6 weeks ago,cch,16 - 13,won,2399026,https://www.hltv.org/matches/2399026/sangal-vs-famalico-roman-imperium-cup-ix
+2400446,team,10333,Sangal,11251,Eternal Fire,7 weeks ago,bo3,0 - 2,lost,2398971,https://www.hltv.org/matches/2398971/sangal-vs-eternal-fire-rog-journey-autumn-2026
+2400446,team,10333,Sangal,7865,HAVU,7 weeks ago,mrg,12 - 16,lost,2398933,https://www.hltv.org/matches/2398933/havu-vs-sangal-rog-journey-autumn-2026
+2400446,team,10333,Sangal,14076,XEPT,7 weeks ago,mrg,13 - 7,won,2398930,https://www.hltv.org/matches/2398930/sangal-vs-xept-rog-journey-autumn-2026
+2400446,team,10333,Sangal,13375,SportsBetExpert,7 weeks ago,anb,13 - 4,won,2398926,https://www.hltv.org/matches/2398926/sangal-vs-sportsbetexpert-rog-journey-autumn-2026
+2400446,team,10333,Sangal,4411,Ninjas in Pyjamas,7 weeks ago,nuke,13 - 4,won,2398922,https://www.hltv.org/matches/2398922/ninjas-in-pyjamas-vs-sangal-rog-journey-autumn-2026
+2400446,team,10333,Sangal,13996,BBL,7 weeks ago,mrg,13 - 10,won,2398920,https://www.hltv.org/matches/2398920/bbl-vs-sangal-rog-journey-autumn-2026
+2400446,team,10333,Sangal,4869,ENCE,7 weeks ago,bo3,2 - 0,won,2398825,https://www.hltv.org/matches/2398825/sangal-vs-ence-urban-riga-open-season-7
+2400446,team,10333,Sangal,13681,Inner Circle Academy,7 weeks ago,bo3,2 - 0,won,2398822,https://www.hltv.org/matches/2398822/inner-circle-academy-vs-sangal-urban-riga-open-season-7
+2400446,team,10333,Sangal,13745,KUUSAMO,7 weeks ago,bo3,2 - 0,won,2398821,https://www.hltv.org/matches/2398821/sangal-vs-kuusamo-urban-riga-open-season-7
+2400446,team,10333,Sangal,13012,HYPERSPIRIT,7 weeks ago,anc,13 - 10,won,2398818,https://www.hltv.org/matches/2398818/sangal-vs-hyperspirit-urban-riga-open-season-7
+2400446,team,10333,Sangal,9199,Aimhaus,7 weeks ago,anb,13 - 2,won,2398816,https://www.hltv.org/matches/2398816/aimhaus-vs-sangal-urban-riga-open-season-7
+2400446,team,10333,Sangal,4869,ENCE,7 weeks ago,d2,10 - 13,lost,2398815,https://www.hltv.org/matches/2398815/ence-vs-sangal-urban-riga-open-season-7
+2400446,team,10333,Sangal,7175,HEROIC,8 weeks ago,bo3,1 - 2,lost,2398073,https://www.hltv.org/matches/2398073/heroic-vs-sangal-stake-pulse-beat-ii
+2400446,team,10333,Sangal,10245,JiJieHao,8 weeks ago,bo3,2 - 0,won,2398071,https://www.hltv.org/matches/2398071/jijiehao-vs-sangal-stake-pulse-beat-ii
+2400446,team,10333,Sangal,13679,FOKUS,8 weeks ago,bo3,2 - 1,won,2398058,https://www.hltv.org/matches/2398058/sangal-vs-fokus-stake-pulse-beat-ii
+2400446,team,10333,Sangal,11712,Sashi,8 weeks ago,bo3,2 - 0,won,2398057,https://www.hltv.org/matches/2398057/sashi-vs-sangal-stake-pulse-beat-ii
+2400446,team,10333,Sangal,6665,Astralis,8 weeks ago,bo3,1 - 2,lost,2398010,https://www.hltv.org/matches/2398010/astralis-vs-sangal-stake-pulse-beat-ii
+2400446,team,10333,Sangal,4411,Ninjas in Pyjamas,11 weeks ago,bo3,1 - 2,lost,2397414,https://www.hltv.org/matches/2397414/ninjas-in-pyjamas-vs-sangal-stake-ranked-episode-4-closed-qualifier
+2400446,team,10333,Sangal,13777,PURE,12 weeks ago,bo3,2 - 1,won,2397377,https://www.hltv.org/matches/2397377/sangal-vs-pure-stake-ranked-episode-4-open-qualifier
+2400446,team,6290,Luminosity,4411,Ninjas in Pyjamas,,bo3,2 - 0,won,2400443,https://www.hltv.org/matches/2400443/ninjas-in-pyjamas-vs-luminosity-stake-ranked-episode-6
+2400446,team,6290,Luminosity,9928,GamerLegion,,bo3,2 - 1,won,2400286,https://www.hltv.org/matches/2400286/gamerlegion-vs-luminosity-stake-ranked-episode-6
+2400446,team,6290,Luminosity,5991,Envy,3 weeks ago,bo3,1 - 2,lost,2399874,https://www.hltv.org/matches/2399874/luminosity-vs-envy-rlg-tesla-cup-2026
+2400446,team,6290,Luminosity,11581,HOTU,3 weeks ago,bo3,0 - 2,lost,2399869,https://www.hltv.org/matches/2399869/luminosity-vs-hotu-rlg-tesla-cup-2026
+2400446,team,6290,Luminosity,13996,BBL,4 weeks ago,bo3,0 - 2,lost,2399621,https://www.hltv.org/matches/2399621/bbl-vs-luminosity-digital-crusade-draculan-season-7
+2400446,team,6290,Luminosity,7187,Nexus,4 weeks ago,bo3,1 - 2,lost,2399617,https://www.hltv.org/matches/2399617/luminosity-vs-nexus-digital-crusade-draculan-season-7
+2400446,team,6290,Luminosity,6665,Astralis,7 weeks ago,bo3,1 - 2,lost,2398008,https://www.hltv.org/matches/2398008/luminosity-vs-astralis-stake-ranked-episode-4
+2400446,team,6290,Luminosity,7969,Nemiga,7 weeks ago,bo3,0 - 2,lost,2398006,https://www.hltv.org/matches/2398006/luminosity-vs-nemiga-stake-ranked-episode-4
+2400446,team,6290,Luminosity,7532,BIG,7 weeks ago,bo3,2 - 1,won,2398002,https://www.hltv.org/matches/2398002/luminosity-vs-big-stake-ranked-episode-4
+2400446,team,6290,Luminosity,11241,B8,7 weeks ago,bo3,2 - 0,won,2397938,https://www.hltv.org/matches/2397938/b8-vs-luminosity-stake-ranked-episode-4
+2400446,team,6290,Luminosity,4914,3DMAX,8 weeks ago,bo5,2 - 3,lost,2397919,https://www.hltv.org/matches/2397919/luminosity-vs-3dmax-logitech-g-play-connect-2026
+2400446,team,6290,Luminosity,11241,B8,8 weeks ago,bo3,2 - 0,won,2397917,https://www.hltv.org/matches/2397917/b8-vs-luminosity-logitech-g-play-connect-2026
+2400446,team,6290,Luminosity,13996,BBL,9 weeks ago,bo3,2 - 0,won,2397915,https://www.hltv.org/matches/2397915/luminosity-vs-bbl-logitech-g-play-connect-2026
+2400446,team,6290,Luminosity,4411,Ninjas in Pyjamas,9 weeks ago,anc,13 - 11,won,2397898,https://www.hltv.org/matches/2397898/luminosity-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400446,team,6290,Luminosity,12376,M80,9 weeks ago,anc,13 - 4,won,2397897,https://www.hltv.org/matches/2397897/luminosity-vs-m80-logitech-g-play-connect-2026
+2400446,team,6290,Luminosity,11241,B8,9 weeks ago,d2,11 - 13,lost,2397892,https://www.hltv.org/matches/2397892/luminosity-vs-b8-logitech-g-play-connect-2026
+2400446,team,6290,Luminosity,11641,Metizport,9 weeks ago,mrg,13 - 9,won,2397888,https://www.hltv.org/matches/2397888/metizport-vs-luminosity-logitech-g-play-connect-2026
+2400446,team,6290,Luminosity,9928,GamerLegion,9 weeks ago,nuke,7 - 13,lost,2397887,https://www.hltv.org/matches/2397887/gamerlegion-vs-luminosity-logitech-g-play-connect-2026
+2400446,team,6290,Luminosity,12376,M80,10 weeks ago,bo3,0 - 2,lost,2397951,https://www.hltv.org/matches/2397951/luminosity-vs-m80-radio-popular-roman-imperium-cup-viii
+2400446,team,6290,Luminosity,12376,M80,10 weeks ago,bo3,2 - 1,won,2397948,https://www.hltv.org/matches/2397948/m80-vs-luminosity-radio-popular-roman-imperium-cup-viii
+2400446,team,6290,Luminosity,10567,SAW,10 weeks ago,bo3,2 - 1,won,2397945,https://www.hltv.org/matches/2397945/luminosity-vs-saw-radio-popular-roman-imperium-cup-viii
+2400446,team,6290,Luminosity,13304,LP,10 weeks ago,bo3,2 - 1,won,2397937,https://www.hltv.org/matches/2397937/luminosity-vs-lp-radio-popular-roman-imperium-cup-viii
+2400445,core,7532,BIG,12916,Betclic,,bo3,2 - 0,won,2400440,https://www.hltv.org/matches/2400440/betclic-vs-big-stake-ranked-episode-6
+2400445,core,7532,BIG,10333,Sangal,,bo3,0 - 2,lost,2400284,https://www.hltv.org/matches/2400284/big-vs-sangal-stake-ranked-episode-6
+2400445,core,7532,BIG,11251,Eternal Fire,3 weeks ago,bo3,0 - 2,lost,2399714,https://www.hltv.org/matches/2399714/eternal-fire-vs-big-stake-ranked-episode-5
+2400445,core,7532,BIG,4991,fnatic,3 weeks ago,bo3,0 - 2,lost,2399711,https://www.hltv.org/matches/2399711/big-vs-fnatic-stake-ranked-episode-5
+2400445,core,7532,BIG,13592,magic,3 weeks ago,bo3,2 - 1,won,2399705,https://www.hltv.org/matches/2399705/magic-vs-big-stake-ranked-episode-5
+2400445,core,7532,BIG,6248,The MongolZ,4 weeks ago,bo3,1 - 2,lost,2399001,https://www.hltv.org/matches/2399001/big-vs-the-mongolz-1win-private-club-season-2
+2400445,core,7532,BIG,12467,PARIVISION,4 weeks ago,bo3,0 - 2,lost,2398999,https://www.hltv.org/matches/2398999/big-vs-parivision-1win-private-club-season-2
+2400445,core,7532,BIG,6248,The MongolZ,4 weeks ago,bo3,2 - 0,won,2398995,https://www.hltv.org/matches/2398995/the-mongolz-vs-big-1win-private-club-season-2
+2400445,core,7532,BIG,14030,PRIVATE,4 weeks ago,bo3,2 - 0,won,2398989,https://www.hltv.org/matches/2398989/big-vs-private-1win-private-club-season-2
+2400445,core,7532,BIG,6665,Astralis,7 weeks ago,bo3,1 - 2,lost,2398004,https://www.hltv.org/matches/2398004/astralis-vs-big-stake-ranked-episode-4
+2400445,core,7532,BIG,6290,Luminosity,7 weeks ago,bo3,1 - 2,lost,2398002,https://www.hltv.org/matches/2398002/luminosity-vs-big-stake-ranked-episode-4
+2400445,core,7532,BIG,4991,fnatic,7 weeks ago,bo3,2 - 1,won,2397939,https://www.hltv.org/matches/2397939/big-vs-fnatic-stake-ranked-episode-4
+2400445,core,7532,BIG,5995,G2,10 weeks ago,bo3,1 - 2,lost,2397605,https://www.hltv.org/matches/2397605/big-vs-g2-fissure-playground-3
+2400445,core,7532,BIG,12394,BETBOOM,10 weeks ago,bo3,0 - 2,lost,2397601,https://www.hltv.org/matches/2397601/betboom-vs-big-fissure-playground-3
+2400445,core,7532,BIG,13592,magic,11 weeks ago,bo3,0 - 2,lost,2397325,https://www.hltv.org/matches/2397325/magic-vs-big-iem-beijing-2026-closed-qualifier
+2400445,core,7532,BIG,4773,paiN,11 weeks ago,bo3,2 - 0,won,2397321,https://www.hltv.org/matches/2397321/pain-vs-big-iem-beijing-2026-closed-qualifier
+2400445,core,7532,BIG,7969,Nemiga,11 weeks ago,bo3,1 - 2,lost,2397311,https://www.hltv.org/matches/2397311/big-vs-nemiga-iem-beijing-2026-closed-qualifier
+2400445,core,4411,Ninjas in Pyjamas,6290,Luminosity,,bo3,0 - 2,lost,2400443,https://www.hltv.org/matches/2400443/ninjas-in-pyjamas-vs-luminosity-stake-ranked-episode-6
+2400445,core,4411,Ninjas in Pyjamas,12267,UNiTY,,bo3,2 - 0,won,2400285,https://www.hltv.org/matches/2400285/ninjas-in-pyjamas-vs-unity-stake-ranked-episode-6
+2400445,core,4411,Ninjas in Pyjamas,9215,MIBR,5 weeks ago,bo3,2 - 1,won,2399269,https://www.hltv.org/matches/2399269/ninjas-in-pyjamas-vs-mibr-stake-pulse-beat-iii
+2400445,core,4411,Ninjas in Pyjamas,7175,HEROIC,5 weeks ago,bo3,2 - 1,won,2399266,https://www.hltv.org/matches/2399266/ninjas-in-pyjamas-vs-heroic-stake-pulse-beat-iii
+2400445,core,4411,Ninjas in Pyjamas,5973,Liquid,5 weeks ago,bo3,2 - 1,won,2399262,https://www.hltv.org/matches/2399262/ninjas-in-pyjamas-vs-liquid-stake-pulse-beat-iii
+2400445,core,4411,Ninjas in Pyjamas,11861,Aurora,5 weeks ago,bo3,0 - 2,lost,2399408,https://www.hltv.org/matches/2399408/aurora-vs-ninjas-in-pyjamas-thunderpick-world-championship-2026
+2400445,core,4411,Ninjas in Pyjamas,11283,Falcons,5 weeks ago,bo3,0 - 2,lost,2399385,https://www.hltv.org/matches/2399385/falcons-vs-ninjas-in-pyjamas-thunderpick-world-championship-2026
+2400445,core,4411,Ninjas in Pyjamas,13117,Inner Circle,5 weeks ago,bo3,2 - 0,won,2399250,https://www.hltv.org/matches/2399250/inner-circle-vs-ninjas-in-pyjamas-stake-pulse-beat-iii
+2400445,core,4411,Ninjas in Pyjamas,12916,Betclic,5 weeks ago,bo3,2 - 1,won,2399131,https://www.hltv.org/matches/2399131/ninjas-in-pyjamas-vs-betclic-stake-pulse-beat-iii
+2400445,core,4411,Ninjas in Pyjamas,11251,Eternal Fire,7 weeks ago,bo3,2 - 0,won,2398974,https://www.hltv.org/matches/2398974/ninjas-in-pyjamas-vs-eternal-fire-rog-journey-autumn-2026
+2400445,core,4411,Ninjas in Pyjamas,13996,BBL,7 weeks ago,bo3,2 - 0,won,2398972,https://www.hltv.org/matches/2398972/ninjas-in-pyjamas-vs-bbl-rog-journey-autumn-2026
+2400445,core,4411,Ninjas in Pyjamas,10577,SINNERS,7 weeks ago,bo3,2 - 1,won,2398968,https://www.hltv.org/matches/2398968/sinners-vs-ninjas-in-pyjamas-rog-journey-autumn-2026
+2400445,core,4411,Ninjas in Pyjamas,12604,Johnny Speeds,7 weeks ago,bo3,2 - 0,won,2398964,https://www.hltv.org/matches/2398964/ninjas-in-pyjamas-vs-johnny-speeds-rog-journey-autumn-2026
+2400445,core,4411,Ninjas in Pyjamas,13996,BBL,7 weeks ago,inf,16 - 12,won,2398931,https://www.hltv.org/matches/2398931/ninjas-in-pyjamas-vs-bbl-rog-journey-autumn-2026
+2400445,core,4411,Ninjas in Pyjamas,13375,SportsBetExpert,7 weeks ago,cch,13 - 1,won,2398928,https://www.hltv.org/matches/2398928/ninjas-in-pyjamas-vs-sportsbetexpert-rog-journey-autumn-2026
+2400445,core,4411,Ninjas in Pyjamas,7865,HAVU,7 weeks ago,inf,13 - 10,won,2398925,https://www.hltv.org/matches/2398925/ninjas-in-pyjamas-vs-havu-rog-journey-autumn-2026
+2400445,core,4411,Ninjas in Pyjamas,10333,Sangal,7 weeks ago,nuke,4 - 13,lost,2398922,https://www.hltv.org/matches/2398922/ninjas-in-pyjamas-vs-sangal-rog-journey-autumn-2026
+2400445,core,4411,Ninjas in Pyjamas,14076,XEPT,7 weeks ago,inf,13 - 2,won,2398919,https://www.hltv.org/matches/2398919/ninjas-in-pyjamas-vs-xept-rog-journey-autumn-2026
+2400445,core,4411,Ninjas in Pyjamas,9928,GamerLegion,7 weeks ago,bo5,3 - 1,won,2398245,https://www.hltv.org/matches/2398245/ninjas-in-pyjamas-vs-gamerlegion-1win-private-club-season-1
+2400445,core,4411,Ninjas in Pyjamas,13592,magic,8 weeks ago,bo3,2 - 1,won,2398242,https://www.hltv.org/matches/2398242/ninjas-in-pyjamas-vs-magic-1win-private-club-season-1
+2400445,core,4411,Ninjas in Pyjamas,10577,SINNERS,8 weeks ago,bo3,2 - 1,won,2398238,https://www.hltv.org/matches/2398238/sinners-vs-ninjas-in-pyjamas-1win-private-club-season-1
+2400445,core,4411,Ninjas in Pyjamas,4914,3DMAX,8 weeks ago,bo3,2 - 0,won,2398094,https://www.hltv.org/matches/2398094/ninjas-in-pyjamas-vs-3dmax-1win-private-club-season-1
+2400445,core,4411,Ninjas in Pyjamas,6290,Luminosity,9 weeks ago,anc,11 - 13,lost,2397898,https://www.hltv.org/matches/2397898/luminosity-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400445,core,4411,Ninjas in Pyjamas,9928,GamerLegion,9 weeks ago,d2,8 - 13,lost,2397894,https://www.hltv.org/matches/2397894/gamerlegion-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400445,core,4411,Ninjas in Pyjamas,11641,Metizport,9 weeks ago,nuke,13 - 8,won,2397893,https://www.hltv.org/matches/2397893/metizport-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400445,core,4411,Ninjas in Pyjamas,11241,B8,9 weeks ago,anc,9 - 13,lost,2397891,https://www.hltv.org/matches/2397891/ninjas-in-pyjamas-vs-b8-logitech-g-play-connect-2026
+2400445,core,4411,Ninjas in Pyjamas,12376,M80,9 weeks ago,mrg,14 - 16,lost,2397886,https://www.hltv.org/matches/2397886/ninjas-in-pyjamas-vs-m80-logitech-g-play-connect-2026
+2400445,core,4411,Ninjas in Pyjamas,10621,1win,10 weeks ago,bo3,1 - 2,lost,2397875,https://www.hltv.org/matches/2397875/1win-vs-ninjas-in-pyjamas-thunderpick-world-championship-2026-closed-qualifier
+2400445,core,4411,Ninjas in Pyjamas,10823,INFINITE,10 weeks ago,bo3,2 - 0,won,2397869,https://www.hltv.org/matches/2397869/ninjas-in-pyjamas-vs-infinite-thunderpick-world-championship-2026-closed-qualifier
+2400445,core,4411,Ninjas in Pyjamas,13117,Inner Circle,10 weeks ago,bo3,1 - 2,lost,2397769,https://www.hltv.org/matches/2397769/ninjas-in-pyjamas-vs-inner-circle-pgl-masters-bucharest-2026-europe-closed-qualifier
+2400445,core,4411,Ninjas in Pyjamas,13679,FOKUS,10 weeks ago,bo3,0 - 2,lost,2397862,https://www.hltv.org/matches/2397862/ninjas-in-pyjamas-vs-fokus-thunderpick-world-championship-2026-closed-qualifier
+2400445,core,4411,Ninjas in Pyjamas,10577,SINNERS,10 weeks ago,bo3,1 - 2,lost,2397722,https://www.hltv.org/matches/2397722/ninjas-in-pyjamas-vs-sinners-pgl-masters-bucharest-2026-europe-closed-qualifier
+2400445,core,4411,Ninjas in Pyjamas,4991,fnatic,11 weeks ago,bo3,1 - 2,lost,2397424,https://www.hltv.org/matches/2397424/ninjas-in-pyjamas-vs-fnatic-stake-ranked-episode-4-closed-qualifier
+2400445,core,4411,Ninjas in Pyjamas,13027,Nuclear TigeRES,11 weeks ago,bo3,2 - 0,won,2397422,https://www.hltv.org/matches/2397422/ninjas-in-pyjamas-vs-nuclear-tigeres-stake-ranked-episode-4-closed-qualifier
+2400445,core,4411,Ninjas in Pyjamas,10333,Sangal,11 weeks ago,bo3,2 - 1,won,2397414,https://www.hltv.org/matches/2397414/ninjas-in-pyjamas-vs-sangal-stake-ranked-episode-4-closed-qualifier
+2400445,team,7532,BIG,12916,Betclic,,bo3,2 - 0,won,2400440,https://www.hltv.org/matches/2400440/betclic-vs-big-stake-ranked-episode-6
+2400445,team,7532,BIG,10333,Sangal,,bo3,0 - 2,lost,2400284,https://www.hltv.org/matches/2400284/big-vs-sangal-stake-ranked-episode-6
+2400445,team,7532,BIG,11251,Eternal Fire,3 weeks ago,bo3,0 - 2,lost,2399714,https://www.hltv.org/matches/2399714/eternal-fire-vs-big-stake-ranked-episode-5
+2400445,team,7532,BIG,4991,fnatic,3 weeks ago,bo3,0 - 2,lost,2399711,https://www.hltv.org/matches/2399711/big-vs-fnatic-stake-ranked-episode-5
+2400445,team,7532,BIG,13592,magic,3 weeks ago,bo3,2 - 1,won,2399705,https://www.hltv.org/matches/2399705/magic-vs-big-stake-ranked-episode-5
+2400445,team,7532,BIG,6248,The MongolZ,4 weeks ago,bo3,1 - 2,lost,2399001,https://www.hltv.org/matches/2399001/big-vs-the-mongolz-1win-private-club-season-2
+2400445,team,7532,BIG,12467,PARIVISION,4 weeks ago,bo3,0 - 2,lost,2398999,https://www.hltv.org/matches/2398999/big-vs-parivision-1win-private-club-season-2
+2400445,team,7532,BIG,6248,The MongolZ,4 weeks ago,bo3,2 - 0,won,2398995,https://www.hltv.org/matches/2398995/the-mongolz-vs-big-1win-private-club-season-2
+2400445,team,7532,BIG,14030,PRIVATE,4 weeks ago,bo3,2 - 0,won,2398989,https://www.hltv.org/matches/2398989/big-vs-private-1win-private-club-season-2
+2400445,team,7532,BIG,6665,Astralis,7 weeks ago,bo3,1 - 2,lost,2398004,https://www.hltv.org/matches/2398004/astralis-vs-big-stake-ranked-episode-4
+2400445,team,7532,BIG,6290,Luminosity,7 weeks ago,bo3,1 - 2,lost,2398002,https://www.hltv.org/matches/2398002/luminosity-vs-big-stake-ranked-episode-4
+2400445,team,7532,BIG,4991,fnatic,7 weeks ago,bo3,2 - 1,won,2397939,https://www.hltv.org/matches/2397939/big-vs-fnatic-stake-ranked-episode-4
+2400445,team,7532,BIG,5995,G2,10 weeks ago,bo3,1 - 2,lost,2397605,https://www.hltv.org/matches/2397605/big-vs-g2-fissure-playground-3
+2400445,team,7532,BIG,12394,BETBOOM,10 weeks ago,bo3,0 - 2,lost,2397601,https://www.hltv.org/matches/2397601/betboom-vs-big-fissure-playground-3
+2400445,team,7532,BIG,13592,magic,11 weeks ago,bo3,0 - 2,lost,2397325,https://www.hltv.org/matches/2397325/magic-vs-big-iem-beijing-2026-closed-qualifier
+2400445,team,7532,BIG,4773,paiN,11 weeks ago,bo3,2 - 0,won,2397321,https://www.hltv.org/matches/2397321/pain-vs-big-iem-beijing-2026-closed-qualifier
+2400445,team,7532,BIG,7969,Nemiga,11 weeks ago,bo3,1 - 2,lost,2397311,https://www.hltv.org/matches/2397311/big-vs-nemiga-iem-beijing-2026-closed-qualifier
+2400445,team,4411,Ninjas in Pyjamas,6290,Luminosity,,bo3,0 - 2,lost,2400443,https://www.hltv.org/matches/2400443/ninjas-in-pyjamas-vs-luminosity-stake-ranked-episode-6
+2400445,team,4411,Ninjas in Pyjamas,12267,UNiTY,,bo3,2 - 0,won,2400285,https://www.hltv.org/matches/2400285/ninjas-in-pyjamas-vs-unity-stake-ranked-episode-6
+2400445,team,4411,Ninjas in Pyjamas,9215,MIBR,5 weeks ago,bo3,2 - 1,won,2399269,https://www.hltv.org/matches/2399269/ninjas-in-pyjamas-vs-mibr-stake-pulse-beat-iii
+2400445,team,4411,Ninjas in Pyjamas,7175,HEROIC,5 weeks ago,bo3,2 - 1,won,2399266,https://www.hltv.org/matches/2399266/ninjas-in-pyjamas-vs-heroic-stake-pulse-beat-iii
+2400445,team,4411,Ninjas in Pyjamas,5973,Liquid,5 weeks ago,bo3,2 - 1,won,2399262,https://www.hltv.org/matches/2399262/ninjas-in-pyjamas-vs-liquid-stake-pulse-beat-iii
+2400445,team,4411,Ninjas in Pyjamas,11861,Aurora,5 weeks ago,bo3,0 - 2,lost,2399408,https://www.hltv.org/matches/2399408/aurora-vs-ninjas-in-pyjamas-thunderpick-world-championship-2026
+2400445,team,4411,Ninjas in Pyjamas,11283,Falcons,5 weeks ago,bo3,0 - 2,lost,2399385,https://www.hltv.org/matches/2399385/falcons-vs-ninjas-in-pyjamas-thunderpick-world-championship-2026
+2400445,team,4411,Ninjas in Pyjamas,13117,Inner Circle,5 weeks ago,bo3,2 - 0,won,2399250,https://www.hltv.org/matches/2399250/inner-circle-vs-ninjas-in-pyjamas-stake-pulse-beat-iii
+2400445,team,4411,Ninjas in Pyjamas,12916,Betclic,5 weeks ago,bo3,2 - 1,won,2399131,https://www.hltv.org/matches/2399131/ninjas-in-pyjamas-vs-betclic-stake-pulse-beat-iii
+2400445,team,4411,Ninjas in Pyjamas,11251,Eternal Fire,7 weeks ago,bo3,2 - 0,won,2398974,https://www.hltv.org/matches/2398974/ninjas-in-pyjamas-vs-eternal-fire-rog-journey-autumn-2026
+2400445,team,4411,Ninjas in Pyjamas,13996,BBL,7 weeks ago,bo3,2 - 0,won,2398972,https://www.hltv.org/matches/2398972/ninjas-in-pyjamas-vs-bbl-rog-journey-autumn-2026
+2400445,team,4411,Ninjas in Pyjamas,10577,SINNERS,7 weeks ago,bo3,2 - 1,won,2398968,https://www.hltv.org/matches/2398968/sinners-vs-ninjas-in-pyjamas-rog-journey-autumn-2026
+2400445,team,4411,Ninjas in Pyjamas,12604,Johnny Speeds,7 weeks ago,bo3,2 - 0,won,2398964,https://www.hltv.org/matches/2398964/ninjas-in-pyjamas-vs-johnny-speeds-rog-journey-autumn-2026
+2400445,team,4411,Ninjas in Pyjamas,13996,BBL,7 weeks ago,inf,16 - 12,won,2398931,https://www.hltv.org/matches/2398931/ninjas-in-pyjamas-vs-bbl-rog-journey-autumn-2026
+2400445,team,4411,Ninjas in Pyjamas,13375,SportsBetExpert,7 weeks ago,cch,13 - 1,won,2398928,https://www.hltv.org/matches/2398928/ninjas-in-pyjamas-vs-sportsbetexpert-rog-journey-autumn-2026
+2400445,team,4411,Ninjas in Pyjamas,7865,HAVU,7 weeks ago,inf,13 - 10,won,2398925,https://www.hltv.org/matches/2398925/ninjas-in-pyjamas-vs-havu-rog-journey-autumn-2026
+2400445,team,4411,Ninjas in Pyjamas,10333,Sangal,7 weeks ago,nuke,4 - 13,lost,2398922,https://www.hltv.org/matches/2398922/ninjas-in-pyjamas-vs-sangal-rog-journey-autumn-2026
+2400445,team,4411,Ninjas in Pyjamas,14076,XEPT,7 weeks ago,inf,13 - 2,won,2398919,https://www.hltv.org/matches/2398919/ninjas-in-pyjamas-vs-xept-rog-journey-autumn-2026
+2400445,team,4411,Ninjas in Pyjamas,9928,GamerLegion,7 weeks ago,bo5,3 - 1,won,2398245,https://www.hltv.org/matches/2398245/ninjas-in-pyjamas-vs-gamerlegion-1win-private-club-season-1
+2400445,team,4411,Ninjas in Pyjamas,13592,magic,8 weeks ago,bo3,2 - 1,won,2398242,https://www.hltv.org/matches/2398242/ninjas-in-pyjamas-vs-magic-1win-private-club-season-1
+2400445,team,4411,Ninjas in Pyjamas,10577,SINNERS,8 weeks ago,bo3,2 - 1,won,2398238,https://www.hltv.org/matches/2398238/sinners-vs-ninjas-in-pyjamas-1win-private-club-season-1
+2400445,team,4411,Ninjas in Pyjamas,4914,3DMAX,8 weeks ago,bo3,2 - 0,won,2398094,https://www.hltv.org/matches/2398094/ninjas-in-pyjamas-vs-3dmax-1win-private-club-season-1
+2400445,team,4411,Ninjas in Pyjamas,6290,Luminosity,9 weeks ago,anc,11 - 13,lost,2397898,https://www.hltv.org/matches/2397898/luminosity-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400445,team,4411,Ninjas in Pyjamas,9928,GamerLegion,9 weeks ago,d2,8 - 13,lost,2397894,https://www.hltv.org/matches/2397894/gamerlegion-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400445,team,4411,Ninjas in Pyjamas,11641,Metizport,9 weeks ago,nuke,13 - 8,won,2397893,https://www.hltv.org/matches/2397893/metizport-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400445,team,4411,Ninjas in Pyjamas,11241,B8,9 weeks ago,anc,9 - 13,lost,2397891,https://www.hltv.org/matches/2397891/ninjas-in-pyjamas-vs-b8-logitech-g-play-connect-2026
+2400445,team,4411,Ninjas in Pyjamas,12376,M80,9 weeks ago,mrg,14 - 16,lost,2397886,https://www.hltv.org/matches/2397886/ninjas-in-pyjamas-vs-m80-logitech-g-play-connect-2026
+2400445,team,4411,Ninjas in Pyjamas,10621,1win,10 weeks ago,bo3,1 - 2,lost,2397875,https://www.hltv.org/matches/2397875/1win-vs-ninjas-in-pyjamas-thunderpick-world-championship-2026-closed-qualifier
+2400445,team,4411,Ninjas in Pyjamas,10823,INFINITE,10 weeks ago,bo3,2 - 0,won,2397869,https://www.hltv.org/matches/2397869/ninjas-in-pyjamas-vs-infinite-thunderpick-world-championship-2026-closed-qualifier
+2400445,team,4411,Ninjas in Pyjamas,13117,Inner Circle,10 weeks ago,bo3,1 - 2,lost,2397769,https://www.hltv.org/matches/2397769/ninjas-in-pyjamas-vs-inner-circle-pgl-masters-bucharest-2026-europe-closed-qualifier
+2400445,team,4411,Ninjas in Pyjamas,13679,FOKUS,10 weeks ago,bo3,0 - 2,lost,2397862,https://www.hltv.org/matches/2397862/ninjas-in-pyjamas-vs-fokus-thunderpick-world-championship-2026-closed-qualifier
+2400445,team,4411,Ninjas in Pyjamas,10577,SINNERS,10 weeks ago,bo3,1 - 2,lost,2397722,https://www.hltv.org/matches/2397722/ninjas-in-pyjamas-vs-sinners-pgl-masters-bucharest-2026-europe-closed-qualifier
+2400445,team,4411,Ninjas in Pyjamas,4991,fnatic,11 weeks ago,bo3,1 - 2,lost,2397424,https://www.hltv.org/matches/2397424/ninjas-in-pyjamas-vs-fnatic-stake-ranked-episode-4-closed-qualifier
+2400445,team,4411,Ninjas in Pyjamas,13027,Nuclear TigeRES,11 weeks ago,bo3,2 - 0,won,2397422,https://www.hltv.org/matches/2397422/ninjas-in-pyjamas-vs-nuclear-tigeres-stake-ranked-episode-4-closed-qualifier
+2400445,team,4411,Ninjas in Pyjamas,10333,Sangal,11 weeks ago,bo3,2 - 1,won,2397414,https://www.hltv.org/matches/2397414/ninjas-in-pyjamas-vs-sangal-stake-ranked-episode-4-closed-qualifier
+2400631,core,12889,G2 Ares,12857,FORZE Reload,,bo3,1 - 2,lost,2400404,https://www.hltv.org/matches/2400404/forze-reload-vs-g2-ares-european-pro-league-series-10
+2400631,core,12889,G2 Ares,12967,WW,1 week ago,bo3,2 - 1,won,2400398,https://www.hltv.org/matches/2400398/ww-vs-g2-ares-european-pro-league-series-10
+2400631,core,12889,G2 Ares,14124,Lunacy,1 week ago,bo3,2 - 0,won,2400390,https://www.hltv.org/matches/2400390/g2-ares-vs-lunacy-european-pro-league-series-10
+2400631,core,12889,G2 Ares,13945,MAYBE,1 week ago,bo3,0 - 2,lost,2400145,https://www.hltv.org/matches/2400145/g2-ares-vs-maybe-cct-2026-europe-series-13
+2400631,core,12889,G2 Ares,14030,PRIVATE,2 weeks ago,bo3,0 - 2,lost,2400315,https://www.hltv.org/matches/2400315/g2-ares-vs-private-esl-challenger-league-season-52-europe-cup-11
+2400631,core,12889,G2 Ares,13681,Inner Circle Academy,2 weeks ago,bo3,1 - 2,lost,2400136,https://www.hltv.org/matches/2400136/g2-ares-vs-inner-circle-academy-cct-2026-europe-series-13
+2400631,core,12889,G2 Ares,14054,Optibet,2 weeks ago,bo3,2 - 0,won,2400308,https://www.hltv.org/matches/2400308/g2-ares-vs-optibet-esl-challenger-league-season-52-europe-cup-11
+2400631,core,12889,G2 Ares,10503,OG,2 weeks ago,bo3,0 - 2,lost,2400300,https://www.hltv.org/matches/2400300/og-vs-g2-ares-esl-challenger-league-season-52-europe-cup-11
+2400631,core,12889,G2 Ares,6089,The Last Resort,2 weeks ago,bo3,2 - 0,won,2400128,https://www.hltv.org/matches/2400128/g2-ares-vs-the-last-resort-cct-2026-europe-series-13
+2400631,core,12889,G2 Ares,12857,FORZE Reload,2 weeks ago,bo3,0 - 2,lost,2400126,https://www.hltv.org/matches/2400126/forze-reload-vs-g2-ares-cct-2026-europe-series-13
+2400631,core,12889,G2 Ares,13623,STATE,4 weeks ago,bo3,0 - 2,lost,2398701,https://www.hltv.org/matches/2398701/state-vs-g2-ares-hotspawn-showdown-2026-finals
+2400631,core,12889,G2 Ares,14058,overTIME,4 weeks ago,bo3,2 - 0,won,2398700,https://www.hltv.org/matches/2398700/overtime-vs-g2-ares-hotspawn-showdown-2026-finals
+2400631,core,12889,G2 Ares,6089,The Last Resort,4 weeks ago,bo3,1 - 2,lost,2398698,https://www.hltv.org/matches/2398698/the-last-resort-vs-g2-ares-hotspawn-showdown-2026-finals
+2400631,core,12889,G2 Ares,11719,Illyrians,4 weeks ago,bo3,1 - 2,lost,2399325,https://www.hltv.org/matches/2399325/g2-ares-vs-illyrians-cct-2026-europe-series-11
+2400631,core,12889,G2 Ares,13759,mellren,4 weeks ago,bo3,2 - 1,won,2399319,https://www.hltv.org/matches/2399319/g2-ares-vs-mellren-cct-2026-europe-series-11
+2400631,core,12889,G2 Ares,14100,ex-6666,5 weeks ago,bo3,0 - 2,lost,2399310,https://www.hltv.org/matches/2399310/g2-ares-vs-ex-6666-cct-2026-europe-series-11
+2400631,core,12889,G2 Ares,11699,BAKS,5 weeks ago,bo3,1 - 2,lost,2399309,https://www.hltv.org/matches/2399309/baks-vs-g2-ares-cct-2026-europe-series-11
+2400631,core,12889,G2 Ares,6089,The Last Resort,5 weeks ago,bo3,2 - 1,won,2399300,https://www.hltv.org/matches/2399300/g2-ares-vs-the-last-resort-cct-2026-europe-series-11
+2400631,core,12889,G2 Ares,10333,Sangal,6 weeks ago,bo3,1 - 2,lost,2399050,https://www.hltv.org/matches/2399050/sangal-vs-g2-ares-roman-imperium-cup-ix
+2400631,core,12889,G2 Ares,10371,NAVI Junior,6 weeks ago,bo3,1 - 2,lost,2399049,https://www.hltv.org/matches/2399049/navi-junior-vs-g2-ares-roman-imperium-cup-ix
+2400631,core,12889,G2 Ares,10823,INFINITE,6 weeks ago,bo3,2 - 0,won,2399045,https://www.hltv.org/matches/2399045/infinite-vs-g2-ares-roman-imperium-cup-ix
+2400631,core,12889,G2 Ares,12642,RBLS,6 weeks ago,bo3,2 - 1,won,2399040,https://www.hltv.org/matches/2399040/g2-ares-vs-rbls-roman-imperium-cup-ix
+2400631,core,12889,G2 Ares,10503,OG,6 weeks ago,inf,7 - 13,lost,2399022,https://www.hltv.org/matches/2399022/g2-ares-vs-og-roman-imperium-cup-ix
+2400631,core,12889,G2 Ares,13777,PURE,6 weeks ago,anc,3 - 13,lost,2399019,https://www.hltv.org/matches/2399019/g2-ares-vs-pure-roman-imperium-cup-ix
+2400631,core,12889,G2 Ares,13571,SINQU,6 weeks ago,anc,13 - 5,won,2399016,https://www.hltv.org/matches/2399016/g2-ares-vs-sinqu-roman-imperium-cup-ix
+2400631,core,12889,G2 Ares,13321,Falcons Force,6 weeks ago,mrg,13 - 7,won,2399013,https://www.hltv.org/matches/2399013/g2-ares-vs-falcons-force-roman-imperium-cup-ix
+2400631,core,12889,G2 Ares,13963,Orion Wanderers,6 weeks ago,cch,13 - 2,won,2399010,https://www.hltv.org/matches/2399010/g2-ares-vs-orion-wanderers-roman-imperium-cup-ix
+2400631,core,12889,G2 Ares,13364,Famalicão,8 weeks ago,bo3,2 - 1,won,2398695,https://www.hltv.org/matches/2398695/g2-ares-vs-famalico-hotspawn-showdown-2026
+2400631,core,12889,G2 Ares,13623,STATE,8 weeks ago,bo3,1 - 2,lost,2398692,https://www.hltv.org/matches/2398692/g2-ares-vs-state-hotspawn-showdown-2026
+2400631,core,12889,G2 Ares,6089,The Last Resort,8 weeks ago,bo3,2 - 0,won,2398688,https://www.hltv.org/matches/2398688/the-last-resort-vs-g2-ares-hotspawn-showdown-2026
+2400631,core,12889,G2 Ares,10371,NAVI Junior,8 weeks ago,bo3,1 - 2,lost,2397838,https://www.hltv.org/matches/2397838/g2-ares-vs-navi-junior-cct-2026-europe-series-9
+2400631,core,12889,G2 Ares,13814,INOX Division,8 weeks ago,bo3,0 - 2,lost,2397697,https://www.hltv.org/matches/2397697/inox-division-vs-g2-ares-nodwin-clutch-series-12
+2400631,core,12889,G2 Ares,13924,Black Phoenix,8 weeks ago,bo3,0 - 2,lost,2397836,https://www.hltv.org/matches/2397836/black-phoenix-vs-g2-ares-cct-2026-europe-series-9
+2400631,core,12889,G2 Ares,11446,Leo,8 weeks ago,bo3,2 - 1,won,2397693,https://www.hltv.org/matches/2397693/leo-vs-g2-ares-nodwin-clutch-series-12
+2400631,core,12889,G2 Ares,11312,QUAZAR,9 weeks ago,bo3,1 - 2,lost,2397830,https://www.hltv.org/matches/2397830/quazar-vs-g2-ares-cct-2026-europe-series-9
+2400631,core,12889,G2 Ares,11110,Honvéd,9 weeks ago,bo3,2 - 0,won,2397687,https://www.hltv.org/matches/2397687/g2-ares-vs-honvd-nodwin-clutch-series-12
+2400631,core,12889,G2 Ares,11446,Leo,9 weeks ago,bo3,1 - 0,won,2397820,https://www.hltv.org/matches/2397820/leo-vs-g2-ares-cct-2026-europe-series-9
+2400631,core,12889,G2 Ares,11699,BAKS,9 weeks ago,bo3,1 - 2,lost,2397678,https://www.hltv.org/matches/2397678/baks-vs-g2-ares-nodwin-clutch-series-12
+2400631,core,12889,G2 Ares,13528,Misa,9 weeks ago,bo3,1 - 2,lost,2398026,https://www.hltv.org/matches/2398026/g2-ares-vs-misa-european-pro-league-series-9
+2400631,core,12889,G2 Ares,13991,Azuolas,9 weeks ago,bo3,2 - 0,won,2397811,https://www.hltv.org/matches/2397811/g2-ares-vs-azuolas-cct-2026-europe-series-9
+2400631,core,12889,G2 Ares,13173,Phantom,9 weeks ago,bo3,0 - 2,lost,2398272,https://www.hltv.org/matches/2398272/phantom-vs-g2-ares-stake-ranked-episode-5-open-qualifier
+2400631,core,12889,G2 Ares,9139,BRUTE,9 weeks ago,bo3,1 - 2,lost,2397667,https://www.hltv.org/matches/2397667/brute-vs-g2-ares-nodwin-clutch-series-12
+2400631,core,12889,G2 Ares,13999,WBT Academy,10 weeks ago,bo3,2 - 0,won,2398112,https://www.hltv.org/matches/2398112/g2-ares-vs-wbt-academy-nodwin-clutch-series-12-closed-qualifier
+2400631,core,12889,G2 Ares,11110,Honvéd,10 weeks ago,bo3,1 - 2,lost,2398023,https://www.hltv.org/matches/2398023/g2-ares-vs-honvd-european-pro-league-series-9
+2400631,core,12889,G2 Ares,13991,Azuolas,10 weeks ago,bo3,2 - 0,won,2397739,https://www.hltv.org/matches/2397739/azuolas-vs-g2-ares-nodwin-clutch-series-12-closed-qualifier
+2400631,core,12889,G2 Ares,13573,ex-Zero Tenacity,10 weeks ago,bo3,1 - 2,lost,2397270,https://www.hltv.org/matches/2397270/g2-ares-vs-ex-zero-tenacity-cct-2026-europe-series-8
+2400631,core,12889,G2 Ares,13575,WAZABI,10 weeks ago,bo3,2 - 0,won,2397662,https://www.hltv.org/matches/2397662/g2-ares-vs-wazabi-nodwin-clutch-series-12-closed-qualifier
+2400631,core,12889,G2 Ares,13281,Bushido Wildcats,11 weeks ago,bo3,2 - 1,won,2397261,https://www.hltv.org/matches/2397261/g2-ares-vs-bushido-wildcats-cct-2026-europe-series-8
+2400631,core,12889,G2 Ares,6089,The Last Resort,11 weeks ago,bo3,0 - 2,lost,2397254,https://www.hltv.org/matches/2397254/g2-ares-vs-the-last-resort-cct-2026-europe-series-8
+2400631,core,12889,G2 Ares,13799,PsychoFace,11 weeks ago,bo3,1 - 2,lost,2397249,https://www.hltv.org/matches/2397249/g2-ares-vs-psychoface-cct-2026-europe-series-8
+2400631,core,12889,G2 Ares,10278,9INE,12 weeks ago,bo3,0 - 2,lost,2397196,https://www.hltv.org/matches/2397196/g2-ares-vs-9ine-logitech-g-play-connect-2026-closed-qualifier
+2400631,core,12889,G2 Ares,12194,Rune Eaters,12 weeks ago,bo3,1 - 2,lost,2397192,https://www.hltv.org/matches/2397192/g2-ares-vs-rune-eaters-logitech-g-play-connect-2026-closed-qualifier
+2400631,core,12889,G2 Ares,13623,STATE,12 weeks ago,bo3,2 - 0,won,2397190,https://www.hltv.org/matches/2397190/state-vs-g2-ares-logitech-g-play-connect-2026-closed-qualifier
+2400631,core,12889,G2 Ares,13281,Bushido Wildcats,12 weeks ago,bo3,0 - 2,lost,2396673,https://www.hltv.org/matches/2396673/g2-ares-vs-bushido-wildcats-cct-2026-europe-series-7
+2400631,core,12889,G2 Ares,13901,ex-RUSTEC,12 weeks ago,bo3,0 - 2,lost,2396671,https://www.hltv.org/matches/2396671/g2-ares-vs-ex-rustec-cct-2026-europe-series-7
+2400631,core,12889,G2 Ares,13012,HYPERSPIRIT,13 weeks ago,bo3,2 - 1,won,2396663,https://www.hltv.org/matches/2396663/g2-ares-vs-hyperspirit-cct-2026-europe-series-7
+2400631,core,12889,G2 Ares,13613,Bebop,13 weeks ago,bo3,2 - 0,won,2396651,https://www.hltv.org/matches/2396651/g2-ares-vs-bebop-cct-2026-europe-series-7
+2400631,core,13945,MAYBE,14116,ex-INOX,,bo3,0 - 2,lost,2400405,https://www.hltv.org/matches/2400405/maybe-vs-ex-inox-european-pro-league-series-10
+2400631,core,13945,MAYBE,12916,Betclic,,bo3,2 - 1,won,2400399,https://www.hltv.org/matches/2400399/betclic-vs-maybe-european-pro-league-series-10
+2400631,core,13945,MAYBE,14116,ex-INOX,1 week ago,bo3,0 - 2,lost,2400492,https://www.hltv.org/matches/2400492/ex-inox-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400631,core,13945,MAYBE,13877,Noir Verse,1 week ago,bo3,1 - 2,lost,2400490,https://www.hltv.org/matches/2400490/noir-verse-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400631,core,13945,MAYBE,13745,KUUSAMO,1 week ago,bo3,2 - 1,won,2400487,https://www.hltv.org/matches/2400487/kuusamo-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400631,core,13945,MAYBE,14143,LVLT,1 week ago,bo3,2 - 1,won,2400483,https://www.hltv.org/matches/2400483/maybe-vs-lvlt-esl-challenger-league-season-52-europe-cup-12
+2400631,core,13945,MAYBE,14116,ex-INOX,1 week ago,bo3,0 - 2,lost,2400475,https://www.hltv.org/matches/2400475/ex-inox-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400631,core,13945,MAYBE,13279,LPH,1 week ago,bo3,1 - 0,won,2400469,https://www.hltv.org/matches/2400469/maybe-vs-lph-esl-challenger-league-season-52-europe-cup-12
+2400631,core,13945,MAYBE,14124,Lunacy,1 week ago,bo3,2 - 0,won,2400392,https://www.hltv.org/matches/2400392/lunacy-vs-maybe-european-pro-league-series-10
+2400631,core,13945,MAYBE,12889,G2 Ares,1 week ago,bo3,2 - 0,won,2400145,https://www.hltv.org/matches/2400145/g2-ares-vs-maybe-cct-2026-europe-series-13
+2400631,core,13945,MAYBE,10867,MASONIC,1 week ago,bo3,1 - 2,lost,2400230,https://www.hltv.org/matches/2400230/maybe-vs-masonic-cct-2026-europe-series-14-closed-qualifier
+2400631,core,13945,MAYBE,14079,6yuBoJlbl,2 weeks ago,bo3,0 - 2,lost,2400312,https://www.hltv.org/matches/2400312/maybe-vs-6yubojlbl-esl-challenger-league-season-52-europe-cup-11
+2400631,core,13945,MAYBE,12474,Alliance,2 weeks ago,bo3,1 - 2,lost,2400303,https://www.hltv.org/matches/2400303/alliance-vs-maybe-esl-challenger-league-season-52-europe-cup-11
+2400631,core,13945,MAYBE,14124,Lunacy,2 weeks ago,bo3,0 - 2,lost,2400294,https://www.hltv.org/matches/2400294/lunacy-vs-maybe-european-pro-league-series-10
+2400631,core,13945,MAYBE,13908,Butterfly,2 weeks ago,bo3,0 - 2,lost,2400132,https://www.hltv.org/matches/2400132/butterfly-vs-maybe-cct-2026-europe-series-13
+2400631,core,13945,MAYBE,13745,KUUSAMO,2 weeks ago,bo3,2 - 1,won,2400218,https://www.hltv.org/matches/2400218/kuusamo-vs-maybe-cct-2026-europe-series-14-closed-qualifier
+2400631,core,13945,MAYBE,11609,GenOne,2 weeks ago,bo3,2 - 1,won,2400124,https://www.hltv.org/matches/2400124/genone-vs-maybe-cct-2026-europe-series-13
+2400631,core,13945,MAYBE,13159,Prestige,2 weeks ago,bo3,2 - 1,won,2400212,https://www.hltv.org/matches/2400212/prestige-vs-maybe-cct-2026-europe-series-14-closed-qualifier
+2400631,core,13945,MAYBE,13054,PCIFIC,2 weeks ago,bo3,1 - 2,lost,2400186,https://www.hltv.org/matches/2400186/pcific-vs-maybe-esl-challenger-league-season-52-europe-cup-10
+2400631,core,13945,MAYBE,13321,Falcons Force,2 weeks ago,bo3,2 - 1,won,2400181,https://www.hltv.org/matches/2400181/maybe-vs-falcons-force-esl-challenger-league-season-52-europe-cup-10
+2400631,core,13945,MAYBE,12642,RBLS,2 weeks ago,bo3,0 - 1,lost,2400172,https://www.hltv.org/matches/2400172/rbls-vs-maybe-esl-challenger-league-season-52-europe-cup-10
+2400631,core,13945,MAYBE,13991,Azuolas,2 weeks ago,bo3,2 - 1,won,2400068,https://www.hltv.org/matches/2400068/azuolas-vs-maybe-cct-2026-europe-series-13-closed-qualifier
+2400631,core,13945,MAYBE,11446,Leo,3 weeks ago,bo3,1 - 2,lost,2400012,https://www.hltv.org/matches/2400012/leo-vs-maybe-cct-2026-europe-series-13-closed-qualifier
+2400631,core,13945,MAYBE,13279,LPH,4 weeks ago,bo3,2 - 0,won,2399886,https://www.hltv.org/matches/2399886/maybe-vs-lph-esl-challenger-league-season-52-europe-cup-9
+2400631,core,13945,MAYBE,14084,LFO 10,4 weeks ago,bo3,1 - 2,lost,2399884,https://www.hltv.org/matches/2399884/maybe-vs-lfo-10-esl-challenger-league-season-52-europe-cup-9
+2400631,core,13945,MAYBE,13599,benched gods,4 weeks ago,bo3,2 - 0,won,2399880,https://www.hltv.org/matches/2399880/benched-gods-vs-maybe-esl-challenger-league-season-52-europe-cup-9
+2400631,core,13945,MAYBE,13599,benched gods,4 weeks ago,bo3,0 - 2,lost,2399687,https://www.hltv.org/matches/2399687/benched-gods-vs-maybe-cct-2026-challengers-europe-series-8
+2400631,core,13945,MAYBE,13998,Saint Sinners,5 weeks ago,bo3,0 - 2,lost,2399478,https://www.hltv.org/matches/2399478/saint-sinners-vs-maybe-cct-2026-europe-series-12-closed-qualifier
+2400631,core,13945,MAYBE,13321,Falcons Force,5 weeks ago,bo3,1 - 2,lost,2399680,https://www.hltv.org/matches/2399680/falcons-force-vs-maybe-cct-2026-challengers-europe-series-8
+2400631,core,13945,MAYBE,13974,Ryvex,5 weeks ago,bo3,2 - 0,won,2399466,https://www.hltv.org/matches/2399466/ryvex-vs-maybe-cct-2026-europe-series-12-closed-qualifier
+2400631,core,13945,MAYBE,13998,Saint Sinners,5 weeks ago,bo3,1 - 2,lost,2399464,https://www.hltv.org/matches/2399464/saint-sinners-vs-maybe-cct-2026-europe-series-12-closed-qualifier
+2400631,core,13945,MAYBE,4869,ENCE,6 weeks ago,bo3,0 - 2,lost,2399357,https://www.hltv.org/matches/2399357/maybe-vs-ence-esl-challenger-league-season-52-europe-cup-8
+2400631,core,13945,MAYBE,14084,LFO 10,6 weeks ago,bo3,0 - 2,lost,2399348,https://www.hltv.org/matches/2399348/lfo-10-vs-maybe-esl-challenger-league-season-52-europe-cup-8
+2400631,core,13945,MAYBE,13599,benched gods,6 weeks ago,bo3,0 - 2,lost,2399371,https://www.hltv.org/matches/2399371/benched-gods-vs-maybe-nodwin-clutch-series-13-closed-qualifier
+2400631,core,13945,MAYBE,13877,Noir Verse,6 weeks ago,bo3,2 - 0,won,2399139,https://www.hltv.org/matches/2399139/maybe-vs-noir-verse-nodwin-clutch-series-13-closed-qualifier
+2400631,core,13945,MAYBE,13776,Just Players,6 weeks ago,bo3,0 - 2,lost,2399128,https://www.hltv.org/matches/2399128/just-players-vs-maybe-nodwin-clutch-series-13-closed-qualifier
+2400631,core,13945,MAYBE,7900,Spirit Academy,7 weeks ago,bo3,0 - 2,lost,2399058,https://www.hltv.org/matches/2399058/spirit-academy-vs-maybe-cct-2026-challengers-europe-series-7
+2400631,core,13945,MAYBE,13161,eternal premium,7 weeks ago,bo3,2 - 1,won,2399004,https://www.hltv.org/matches/2399004/maybe-vs-eternal-premium-cct-2026-challengers-europe-series-7
+2400631,core,13945,MAYBE,10254,BIG Academy,7 weeks ago,bo3,2 - 0,won,2398900,https://www.hltv.org/matches/2398900/big-academy-vs-maybe-cct-2026-challengers-europe-series-7
+2400631,core,13945,MAYBE,11719,Illyrians,7 weeks ago,bo3,2 - 1,won,2398836,https://www.hltv.org/matches/2398836/maybe-vs-illyrians-cct-2026-challengers-europe-series-7
+2400631,core,13945,MAYBE,7900,Spirit Academy,8 weeks ago,bo3,0 - 2,lost,2398801,https://www.hltv.org/matches/2398801/spirit-academy-vs-maybe-cct-2026-challengers-europe-series-7
+2400631,core,13945,MAYBE,13974,Ryvex,8 weeks ago,bo3,1 - 2,lost,2398436,https://www.hltv.org/matches/2398436/ryvex-vs-maybe-esl-challenger-league-season-52-europe-cup-7
+2400631,core,13945,MAYBE,13599,benched gods,8 weeks ago,bo3,2 - 0,won,2398432,https://www.hltv.org/matches/2398432/benched-gods-vs-maybe-esl-challenger-league-season-52-europe-cup-7
+2400631,core,13945,MAYBE,13877,Noir Verse,8 weeks ago,bo3,0 - 2,lost,2398424,https://www.hltv.org/matches/2398424/maybe-vs-noir-verse-esl-challenger-league-season-52-europe-cup-7
+2400631,core,13945,MAYBE,12642,RBLS,9 weeks ago,bo3,0 - 2,lost,2398151,https://www.hltv.org/matches/2398151/rbls-vs-maybe-hyperx-retake-season-12
+2400631,core,13945,MAYBE,14029,WIMOK,9 weeks ago,bo3,2 - 1,won,2398149,https://www.hltv.org/matches/2398149/wimok-vs-maybe-hyperx-retake-season-12
+2400631,core,13945,MAYBE,12642,RBLS,9 weeks ago,bo3,0 - 2,lost,2398147,https://www.hltv.org/matches/2398147/maybe-vs-rbls-hyperx-retake-season-12
+2400631,core,13945,MAYBE,12857,FORZE Reload,13 weeks ago,bo3,0 - 2,lost,2397083,https://www.hltv.org/matches/2397083/maybe-vs-forze-reload-cct-2026-contenders-europe-series-8
+2400631,core,13945,MAYBE,13975,Nordic Valor,13 weeks ago,bo3,2 - 0,won,2396961,https://www.hltv.org/matches/2396961/nordic-valor-vs-maybe-cct-2026-contenders-europe-series-8
+2400631,team,12889,G2 Ares,12857,FORZE Reload,,bo3,1 - 2,lost,2400404,https://www.hltv.org/matches/2400404/forze-reload-vs-g2-ares-european-pro-league-series-10
+2400631,team,12889,G2 Ares,12967,WW,1 week ago,bo3,2 - 1,won,2400398,https://www.hltv.org/matches/2400398/ww-vs-g2-ares-european-pro-league-series-10
+2400631,team,12889,G2 Ares,14124,Lunacy,1 week ago,bo3,2 - 0,won,2400390,https://www.hltv.org/matches/2400390/g2-ares-vs-lunacy-european-pro-league-series-10
+2400631,team,12889,G2 Ares,13945,MAYBE,1 week ago,bo3,0 - 2,lost,2400145,https://www.hltv.org/matches/2400145/g2-ares-vs-maybe-cct-2026-europe-series-13
+2400631,team,12889,G2 Ares,14030,PRIVATE,2 weeks ago,bo3,0 - 2,lost,2400315,https://www.hltv.org/matches/2400315/g2-ares-vs-private-esl-challenger-league-season-52-europe-cup-11
+2400631,team,12889,G2 Ares,13681,Inner Circle Academy,2 weeks ago,bo3,1 - 2,lost,2400136,https://www.hltv.org/matches/2400136/g2-ares-vs-inner-circle-academy-cct-2026-europe-series-13
+2400631,team,12889,G2 Ares,14054,Optibet,2 weeks ago,bo3,2 - 0,won,2400308,https://www.hltv.org/matches/2400308/g2-ares-vs-optibet-esl-challenger-league-season-52-europe-cup-11
+2400631,team,12889,G2 Ares,10503,OG,2 weeks ago,bo3,0 - 2,lost,2400300,https://www.hltv.org/matches/2400300/og-vs-g2-ares-esl-challenger-league-season-52-europe-cup-11
+2400631,team,12889,G2 Ares,6089,The Last Resort,2 weeks ago,bo3,2 - 0,won,2400128,https://www.hltv.org/matches/2400128/g2-ares-vs-the-last-resort-cct-2026-europe-series-13
+2400631,team,12889,G2 Ares,12857,FORZE Reload,2 weeks ago,bo3,0 - 2,lost,2400126,https://www.hltv.org/matches/2400126/forze-reload-vs-g2-ares-cct-2026-europe-series-13
+2400631,team,12889,G2 Ares,13623,STATE,4 weeks ago,bo3,0 - 2,lost,2398701,https://www.hltv.org/matches/2398701/state-vs-g2-ares-hotspawn-showdown-2026-finals
+2400631,team,12889,G2 Ares,14058,overTIME,4 weeks ago,bo3,2 - 0,won,2398700,https://www.hltv.org/matches/2398700/overtime-vs-g2-ares-hotspawn-showdown-2026-finals
+2400631,team,12889,G2 Ares,6089,The Last Resort,4 weeks ago,bo3,1 - 2,lost,2398698,https://www.hltv.org/matches/2398698/the-last-resort-vs-g2-ares-hotspawn-showdown-2026-finals
+2400631,team,12889,G2 Ares,11719,Illyrians,4 weeks ago,bo3,1 - 2,lost,2399325,https://www.hltv.org/matches/2399325/g2-ares-vs-illyrians-cct-2026-europe-series-11
+2400631,team,12889,G2 Ares,13759,mellren,4 weeks ago,bo3,2 - 1,won,2399319,https://www.hltv.org/matches/2399319/g2-ares-vs-mellren-cct-2026-europe-series-11
+2400631,team,12889,G2 Ares,14100,ex-6666,5 weeks ago,bo3,0 - 2,lost,2399310,https://www.hltv.org/matches/2399310/g2-ares-vs-ex-6666-cct-2026-europe-series-11
+2400631,team,12889,G2 Ares,11699,BAKS,5 weeks ago,bo3,1 - 2,lost,2399309,https://www.hltv.org/matches/2399309/baks-vs-g2-ares-cct-2026-europe-series-11
+2400631,team,12889,G2 Ares,6089,The Last Resort,5 weeks ago,bo3,2 - 1,won,2399300,https://www.hltv.org/matches/2399300/g2-ares-vs-the-last-resort-cct-2026-europe-series-11
+2400631,team,12889,G2 Ares,10333,Sangal,6 weeks ago,bo3,1 - 2,lost,2399050,https://www.hltv.org/matches/2399050/sangal-vs-g2-ares-roman-imperium-cup-ix
+2400631,team,12889,G2 Ares,10371,NAVI Junior,6 weeks ago,bo3,1 - 2,lost,2399049,https://www.hltv.org/matches/2399049/navi-junior-vs-g2-ares-roman-imperium-cup-ix
+2400631,team,12889,G2 Ares,10823,INFINITE,6 weeks ago,bo3,2 - 0,won,2399045,https://www.hltv.org/matches/2399045/infinite-vs-g2-ares-roman-imperium-cup-ix
+2400631,team,12889,G2 Ares,12642,RBLS,6 weeks ago,bo3,2 - 1,won,2399040,https://www.hltv.org/matches/2399040/g2-ares-vs-rbls-roman-imperium-cup-ix
+2400631,team,12889,G2 Ares,10503,OG,6 weeks ago,inf,7 - 13,lost,2399022,https://www.hltv.org/matches/2399022/g2-ares-vs-og-roman-imperium-cup-ix
+2400631,team,12889,G2 Ares,13777,PURE,6 weeks ago,anc,3 - 13,lost,2399019,https://www.hltv.org/matches/2399019/g2-ares-vs-pure-roman-imperium-cup-ix
+2400631,team,12889,G2 Ares,13571,SINQU,6 weeks ago,anc,13 - 5,won,2399016,https://www.hltv.org/matches/2399016/g2-ares-vs-sinqu-roman-imperium-cup-ix
+2400631,team,12889,G2 Ares,13321,Falcons Force,6 weeks ago,mrg,13 - 7,won,2399013,https://www.hltv.org/matches/2399013/g2-ares-vs-falcons-force-roman-imperium-cup-ix
+2400631,team,12889,G2 Ares,13963,Orion Wanderers,6 weeks ago,cch,13 - 2,won,2399010,https://www.hltv.org/matches/2399010/g2-ares-vs-orion-wanderers-roman-imperium-cup-ix
+2400631,team,12889,G2 Ares,13364,Famalicão,8 weeks ago,bo3,2 - 1,won,2398695,https://www.hltv.org/matches/2398695/g2-ares-vs-famalico-hotspawn-showdown-2026
+2400631,team,12889,G2 Ares,13623,STATE,8 weeks ago,bo3,1 - 2,lost,2398692,https://www.hltv.org/matches/2398692/g2-ares-vs-state-hotspawn-showdown-2026
+2400631,team,12889,G2 Ares,6089,The Last Resort,8 weeks ago,bo3,2 - 0,won,2398688,https://www.hltv.org/matches/2398688/the-last-resort-vs-g2-ares-hotspawn-showdown-2026
+2400631,team,12889,G2 Ares,10371,NAVI Junior,8 weeks ago,bo3,1 - 2,lost,2397838,https://www.hltv.org/matches/2397838/g2-ares-vs-navi-junior-cct-2026-europe-series-9
+2400631,team,12889,G2 Ares,13814,INOX Division,8 weeks ago,bo3,0 - 2,lost,2397697,https://www.hltv.org/matches/2397697/inox-division-vs-g2-ares-nodwin-clutch-series-12
+2400631,team,12889,G2 Ares,13924,Black Phoenix,8 weeks ago,bo3,0 - 2,lost,2397836,https://www.hltv.org/matches/2397836/black-phoenix-vs-g2-ares-cct-2026-europe-series-9
+2400631,team,12889,G2 Ares,11446,Leo,8 weeks ago,bo3,2 - 1,won,2397693,https://www.hltv.org/matches/2397693/leo-vs-g2-ares-nodwin-clutch-series-12
+2400631,team,12889,G2 Ares,11312,QUAZAR,9 weeks ago,bo3,1 - 2,lost,2397830,https://www.hltv.org/matches/2397830/quazar-vs-g2-ares-cct-2026-europe-series-9
+2400631,team,12889,G2 Ares,11110,Honvéd,9 weeks ago,bo3,2 - 0,won,2397687,https://www.hltv.org/matches/2397687/g2-ares-vs-honvd-nodwin-clutch-series-12
+2400631,team,12889,G2 Ares,11446,Leo,9 weeks ago,bo3,1 - 0,won,2397820,https://www.hltv.org/matches/2397820/leo-vs-g2-ares-cct-2026-europe-series-9
+2400631,team,12889,G2 Ares,11699,BAKS,9 weeks ago,bo3,1 - 2,lost,2397678,https://www.hltv.org/matches/2397678/baks-vs-g2-ares-nodwin-clutch-series-12
+2400631,team,12889,G2 Ares,13528,Misa,9 weeks ago,bo3,1 - 2,lost,2398026,https://www.hltv.org/matches/2398026/g2-ares-vs-misa-european-pro-league-series-9
+2400631,team,12889,G2 Ares,13991,Azuolas,9 weeks ago,bo3,2 - 0,won,2397811,https://www.hltv.org/matches/2397811/g2-ares-vs-azuolas-cct-2026-europe-series-9
+2400631,team,12889,G2 Ares,13173,Phantom,9 weeks ago,bo3,0 - 2,lost,2398272,https://www.hltv.org/matches/2398272/phantom-vs-g2-ares-stake-ranked-episode-5-open-qualifier
+2400631,team,12889,G2 Ares,9139,BRUTE,9 weeks ago,bo3,1 - 2,lost,2397667,https://www.hltv.org/matches/2397667/brute-vs-g2-ares-nodwin-clutch-series-12
+2400631,team,12889,G2 Ares,13999,WBT Academy,10 weeks ago,bo3,2 - 0,won,2398112,https://www.hltv.org/matches/2398112/g2-ares-vs-wbt-academy-nodwin-clutch-series-12-closed-qualifier
+2400631,team,12889,G2 Ares,11110,Honvéd,10 weeks ago,bo3,1 - 2,lost,2398023,https://www.hltv.org/matches/2398023/g2-ares-vs-honvd-european-pro-league-series-9
+2400631,team,12889,G2 Ares,13991,Azuolas,10 weeks ago,bo3,2 - 0,won,2397739,https://www.hltv.org/matches/2397739/azuolas-vs-g2-ares-nodwin-clutch-series-12-closed-qualifier
+2400631,team,12889,G2 Ares,13573,ex-Zero Tenacity,10 weeks ago,bo3,1 - 2,lost,2397270,https://www.hltv.org/matches/2397270/g2-ares-vs-ex-zero-tenacity-cct-2026-europe-series-8
+2400631,team,12889,G2 Ares,13575,WAZABI,10 weeks ago,bo3,2 - 0,won,2397662,https://www.hltv.org/matches/2397662/g2-ares-vs-wazabi-nodwin-clutch-series-12-closed-qualifier
+2400631,team,12889,G2 Ares,13281,Bushido Wildcats,11 weeks ago,bo3,2 - 1,won,2397261,https://www.hltv.org/matches/2397261/g2-ares-vs-bushido-wildcats-cct-2026-europe-series-8
+2400631,team,12889,G2 Ares,6089,The Last Resort,11 weeks ago,bo3,0 - 2,lost,2397254,https://www.hltv.org/matches/2397254/g2-ares-vs-the-last-resort-cct-2026-europe-series-8
+2400631,team,12889,G2 Ares,13799,PsychoFace,11 weeks ago,bo3,1 - 2,lost,2397249,https://www.hltv.org/matches/2397249/g2-ares-vs-psychoface-cct-2026-europe-series-8
+2400631,team,12889,G2 Ares,10278,9INE,12 weeks ago,bo3,0 - 2,lost,2397196,https://www.hltv.org/matches/2397196/g2-ares-vs-9ine-logitech-g-play-connect-2026-closed-qualifier
+2400631,team,12889,G2 Ares,12194,Rune Eaters,12 weeks ago,bo3,1 - 2,lost,2397192,https://www.hltv.org/matches/2397192/g2-ares-vs-rune-eaters-logitech-g-play-connect-2026-closed-qualifier
+2400631,team,12889,G2 Ares,13623,STATE,12 weeks ago,bo3,2 - 0,won,2397190,https://www.hltv.org/matches/2397190/state-vs-g2-ares-logitech-g-play-connect-2026-closed-qualifier
+2400631,team,12889,G2 Ares,13281,Bushido Wildcats,12 weeks ago,bo3,0 - 2,lost,2396673,https://www.hltv.org/matches/2396673/g2-ares-vs-bushido-wildcats-cct-2026-europe-series-7
+2400631,team,12889,G2 Ares,13901,ex-RUSTEC,12 weeks ago,bo3,0 - 2,lost,2396671,https://www.hltv.org/matches/2396671/g2-ares-vs-ex-rustec-cct-2026-europe-series-7
+2400631,team,12889,G2 Ares,13012,HYPERSPIRIT,13 weeks ago,bo3,2 - 1,won,2396663,https://www.hltv.org/matches/2396663/g2-ares-vs-hyperspirit-cct-2026-europe-series-7
+2400631,team,12889,G2 Ares,13613,Bebop,13 weeks ago,bo3,2 - 0,won,2396651,https://www.hltv.org/matches/2396651/g2-ares-vs-bebop-cct-2026-europe-series-7
+2400631,team,13945,MAYBE,14116,ex-INOX,,bo3,0 - 2,lost,2400405,https://www.hltv.org/matches/2400405/maybe-vs-ex-inox-european-pro-league-series-10
+2400631,team,13945,MAYBE,12916,Betclic,,bo3,2 - 1,won,2400399,https://www.hltv.org/matches/2400399/betclic-vs-maybe-european-pro-league-series-10
+2400631,team,13945,MAYBE,14116,ex-INOX,1 week ago,bo3,0 - 2,lost,2400492,https://www.hltv.org/matches/2400492/ex-inox-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400631,team,13945,MAYBE,13877,Noir Verse,1 week ago,bo3,1 - 2,lost,2400490,https://www.hltv.org/matches/2400490/noir-verse-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400631,team,13945,MAYBE,13745,KUUSAMO,1 week ago,bo3,2 - 1,won,2400487,https://www.hltv.org/matches/2400487/kuusamo-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400631,team,13945,MAYBE,14143,LVLT,1 week ago,bo3,2 - 1,won,2400483,https://www.hltv.org/matches/2400483/maybe-vs-lvlt-esl-challenger-league-season-52-europe-cup-12
+2400631,team,13945,MAYBE,14116,ex-INOX,1 week ago,bo3,0 - 2,lost,2400475,https://www.hltv.org/matches/2400475/ex-inox-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400631,team,13945,MAYBE,13279,LPH,1 week ago,bo3,1 - 0,won,2400469,https://www.hltv.org/matches/2400469/maybe-vs-lph-esl-challenger-league-season-52-europe-cup-12
+2400631,team,13945,MAYBE,14124,Lunacy,1 week ago,bo3,2 - 0,won,2400392,https://www.hltv.org/matches/2400392/lunacy-vs-maybe-european-pro-league-series-10
+2400631,team,13945,MAYBE,12889,G2 Ares,1 week ago,bo3,2 - 0,won,2400145,https://www.hltv.org/matches/2400145/g2-ares-vs-maybe-cct-2026-europe-series-13
+2400631,team,13945,MAYBE,10867,MASONIC,1 week ago,bo3,1 - 2,lost,2400230,https://www.hltv.org/matches/2400230/maybe-vs-masonic-cct-2026-europe-series-14-closed-qualifier
+2400631,team,13945,MAYBE,14079,6yuBoJlbl,2 weeks ago,bo3,0 - 2,lost,2400312,https://www.hltv.org/matches/2400312/maybe-vs-6yubojlbl-esl-challenger-league-season-52-europe-cup-11
+2400631,team,13945,MAYBE,12474,Alliance,2 weeks ago,bo3,1 - 2,lost,2400303,https://www.hltv.org/matches/2400303/alliance-vs-maybe-esl-challenger-league-season-52-europe-cup-11
+2400631,team,13945,MAYBE,14124,Lunacy,2 weeks ago,bo3,0 - 2,lost,2400294,https://www.hltv.org/matches/2400294/lunacy-vs-maybe-european-pro-league-series-10
+2400631,team,13945,MAYBE,13908,Butterfly,2 weeks ago,bo3,0 - 2,lost,2400132,https://www.hltv.org/matches/2400132/butterfly-vs-maybe-cct-2026-europe-series-13
+2400631,team,13945,MAYBE,13745,KUUSAMO,2 weeks ago,bo3,2 - 1,won,2400218,https://www.hltv.org/matches/2400218/kuusamo-vs-maybe-cct-2026-europe-series-14-closed-qualifier
+2400631,team,13945,MAYBE,11609,GenOne,2 weeks ago,bo3,2 - 1,won,2400124,https://www.hltv.org/matches/2400124/genone-vs-maybe-cct-2026-europe-series-13
+2400631,team,13945,MAYBE,13159,Prestige,2 weeks ago,bo3,2 - 1,won,2400212,https://www.hltv.org/matches/2400212/prestige-vs-maybe-cct-2026-europe-series-14-closed-qualifier
+2400631,team,13945,MAYBE,13054,PCIFIC,2 weeks ago,bo3,1 - 2,lost,2400186,https://www.hltv.org/matches/2400186/pcific-vs-maybe-esl-challenger-league-season-52-europe-cup-10
+2400631,team,13945,MAYBE,13321,Falcons Force,2 weeks ago,bo3,2 - 1,won,2400181,https://www.hltv.org/matches/2400181/maybe-vs-falcons-force-esl-challenger-league-season-52-europe-cup-10
+2400631,team,13945,MAYBE,12642,RBLS,2 weeks ago,bo3,0 - 1,lost,2400172,https://www.hltv.org/matches/2400172/rbls-vs-maybe-esl-challenger-league-season-52-europe-cup-10
+2400631,team,13945,MAYBE,13991,Azuolas,2 weeks ago,bo3,2 - 1,won,2400068,https://www.hltv.org/matches/2400068/azuolas-vs-maybe-cct-2026-europe-series-13-closed-qualifier
+2400631,team,13945,MAYBE,11446,Leo,3 weeks ago,bo3,1 - 2,lost,2400012,https://www.hltv.org/matches/2400012/leo-vs-maybe-cct-2026-europe-series-13-closed-qualifier
+2400631,team,13945,MAYBE,13279,LPH,4 weeks ago,bo3,2 - 0,won,2399886,https://www.hltv.org/matches/2399886/maybe-vs-lph-esl-challenger-league-season-52-europe-cup-9
+2400631,team,13945,MAYBE,14084,LFO 10,4 weeks ago,bo3,1 - 2,lost,2399884,https://www.hltv.org/matches/2399884/maybe-vs-lfo-10-esl-challenger-league-season-52-europe-cup-9
+2400631,team,13945,MAYBE,13599,benched gods,4 weeks ago,bo3,2 - 0,won,2399880,https://www.hltv.org/matches/2399880/benched-gods-vs-maybe-esl-challenger-league-season-52-europe-cup-9
+2400631,team,13945,MAYBE,13599,benched gods,4 weeks ago,bo3,0 - 2,lost,2399687,https://www.hltv.org/matches/2399687/benched-gods-vs-maybe-cct-2026-challengers-europe-series-8
+2400631,team,13945,MAYBE,13998,Saint Sinners,5 weeks ago,bo3,0 - 2,lost,2399478,https://www.hltv.org/matches/2399478/saint-sinners-vs-maybe-cct-2026-europe-series-12-closed-qualifier
+2400631,team,13945,MAYBE,13321,Falcons Force,5 weeks ago,bo3,1 - 2,lost,2399680,https://www.hltv.org/matches/2399680/falcons-force-vs-maybe-cct-2026-challengers-europe-series-8
+2400631,team,13945,MAYBE,13974,Ryvex,5 weeks ago,bo3,2 - 0,won,2399466,https://www.hltv.org/matches/2399466/ryvex-vs-maybe-cct-2026-europe-series-12-closed-qualifier
+2400631,team,13945,MAYBE,13998,Saint Sinners,5 weeks ago,bo3,1 - 2,lost,2399464,https://www.hltv.org/matches/2399464/saint-sinners-vs-maybe-cct-2026-europe-series-12-closed-qualifier
+2400631,team,13945,MAYBE,4869,ENCE,6 weeks ago,bo3,0 - 2,lost,2399357,https://www.hltv.org/matches/2399357/maybe-vs-ence-esl-challenger-league-season-52-europe-cup-8
+2400631,team,13945,MAYBE,14084,LFO 10,6 weeks ago,bo3,0 - 2,lost,2399348,https://www.hltv.org/matches/2399348/lfo-10-vs-maybe-esl-challenger-league-season-52-europe-cup-8
+2400631,team,13945,MAYBE,13599,benched gods,6 weeks ago,bo3,0 - 2,lost,2399371,https://www.hltv.org/matches/2399371/benched-gods-vs-maybe-nodwin-clutch-series-13-closed-qualifier
+2400631,team,13945,MAYBE,13877,Noir Verse,6 weeks ago,bo3,2 - 0,won,2399139,https://www.hltv.org/matches/2399139/maybe-vs-noir-verse-nodwin-clutch-series-13-closed-qualifier
+2400631,team,13945,MAYBE,13776,Just Players,6 weeks ago,bo3,0 - 2,lost,2399128,https://www.hltv.org/matches/2399128/just-players-vs-maybe-nodwin-clutch-series-13-closed-qualifier
+2400631,team,13945,MAYBE,7900,Spirit Academy,7 weeks ago,bo3,0 - 2,lost,2399058,https://www.hltv.org/matches/2399058/spirit-academy-vs-maybe-cct-2026-challengers-europe-series-7
+2400631,team,13945,MAYBE,13161,eternal premium,7 weeks ago,bo3,2 - 1,won,2399004,https://www.hltv.org/matches/2399004/maybe-vs-eternal-premium-cct-2026-challengers-europe-series-7
+2400631,team,13945,MAYBE,10254,BIG Academy,7 weeks ago,bo3,2 - 0,won,2398900,https://www.hltv.org/matches/2398900/big-academy-vs-maybe-cct-2026-challengers-europe-series-7
+2400631,team,13945,MAYBE,11719,Illyrians,7 weeks ago,bo3,2 - 1,won,2398836,https://www.hltv.org/matches/2398836/maybe-vs-illyrians-cct-2026-challengers-europe-series-7
+2400631,team,13945,MAYBE,7900,Spirit Academy,8 weeks ago,bo3,0 - 2,lost,2398801,https://www.hltv.org/matches/2398801/spirit-academy-vs-maybe-cct-2026-challengers-europe-series-7
+2400631,team,13945,MAYBE,13974,Ryvex,8 weeks ago,bo3,1 - 2,lost,2398436,https://www.hltv.org/matches/2398436/ryvex-vs-maybe-esl-challenger-league-season-52-europe-cup-7
+2400631,team,13945,MAYBE,13599,benched gods,8 weeks ago,bo3,2 - 0,won,2398432,https://www.hltv.org/matches/2398432/benched-gods-vs-maybe-esl-challenger-league-season-52-europe-cup-7
+2400631,team,13945,MAYBE,13877,Noir Verse,8 weeks ago,bo3,0 - 2,lost,2398424,https://www.hltv.org/matches/2398424/maybe-vs-noir-verse-esl-challenger-league-season-52-europe-cup-7
+2400631,team,13945,MAYBE,12642,RBLS,9 weeks ago,bo3,0 - 2,lost,2398151,https://www.hltv.org/matches/2398151/rbls-vs-maybe-hyperx-retake-season-12
+2400631,team,13945,MAYBE,14029,WIMOK,9 weeks ago,bo3,2 - 1,won,2398149,https://www.hltv.org/matches/2398149/wimok-vs-maybe-hyperx-retake-season-12
+2400631,team,13945,MAYBE,12642,RBLS,9 weeks ago,bo3,0 - 2,lost,2398147,https://www.hltv.org/matches/2398147/maybe-vs-rbls-hyperx-retake-season-12
+2400631,team,13945,MAYBE,12857,FORZE Reload,13 weeks ago,bo3,0 - 2,lost,2397083,https://www.hltv.org/matches/2397083/maybe-vs-forze-reload-cct-2026-contenders-europe-series-8
+2400631,team,13945,MAYBE,13975,Nordic Valor,13 weeks ago,bo3,2 - 0,won,2396961,https://www.hltv.org/matches/2396961/nordic-valor-vs-maybe-cct-2026-contenders-europe-series-8
+2400406,core,13683,WBT,13749,ex-ENCE,,bo3,2 - 0,won,2400401,https://www.hltv.org/matches/2400401/wbt-vs-ex-ence-european-pro-league-series-10
+2400406,core,13683,WBT,7187,Nexus,4 weeks ago,bo3,1 - 2,lost,2399607,https://www.hltv.org/matches/2399607/wbt-vs-nexus-digital-crusade-draculan-season-7
+2400406,core,13683,WBT,12878,BC.Game,4 weeks ago,d2,10 - 13,lost,2399599,https://www.hltv.org/matches/2399599/bcgame-vs-wbt-digital-crusade-draculan-season-7
+2400406,core,13683,WBT,7187,Nexus,4 weeks ago,anb,13 - 8,won,2399593,https://www.hltv.org/matches/2399593/wbt-vs-nexus-digital-crusade-draculan-season-7
+2400406,core,13683,WBT,7865,HAVU,5 weeks ago,bo3,1 - 2,lost,2399430,https://www.hltv.org/matches/2399430/wbt-vs-havu-elisa-breakout-series-2
+2400406,core,13683,WBT,13795,BOJONG,5 weeks ago,nuke,13 - 0,won,2399422,https://www.hltv.org/matches/2399422/wbt-vs-bojong-elisa-breakout-series-2
+2400406,core,13683,WBT,4869,ENCE,5 weeks ago,mrg,16 - 14,won,2399420,https://www.hltv.org/matches/2399420/wbt-vs-ence-elisa-breakout-series-2
+2400406,core,13683,WBT,13838,EAC,5 weeks ago,mrg,13 - 5,won,2399418,https://www.hltv.org/matches/2399418/wbt-vs-eac-elisa-breakout-series-2
+2400406,core,13683,WBT,13777,PURE,6 weeks ago,bo3,0 - 2,lost,2399051,https://www.hltv.org/matches/2399051/wbt-vs-pure-roman-imperium-cup-ix
+2400406,core,13683,WBT,10823,INFINITE,6 weeks ago,bo3,2 - 0,won,2399047,https://www.hltv.org/matches/2399047/wbt-vs-infinite-roman-imperium-cup-ix
+2400406,core,13683,WBT,10371,NAVI Junior,6 weeks ago,bo3,0 - 2,lost,2399043,https://www.hltv.org/matches/2399043/wbt-vs-navi-junior-roman-imperium-cup-ix
+2400406,core,13683,WBT,11251,Eternal Fire,8 weeks ago,bo3,0 - 2,lost,2398672,https://www.hltv.org/matches/2398672/wbt-vs-eternal-fire-stake-ranked-episode-5-closed-qualifier
+2400406,core,13683,WBT,11251,Eternal Fire,9 weeks ago,bo3,0 - 2,lost,2398169,https://www.hltv.org/matches/2398169/wbt-vs-eternal-fire-hyperx-retake-season-12
+2400406,core,13683,WBT,11248,SAW Youngsters,9 weeks ago,bo3,2 - 1,won,2398166,https://www.hltv.org/matches/2398166/wbt-vs-saw-youngsters-hyperx-retake-season-12
+2400406,core,13683,WBT,12642,RBLS,9 weeks ago,bo3,2 - 1,won,2398162,https://www.hltv.org/matches/2398162/wbt-vs-rbls-hyperx-retake-season-12
+2400406,core,13683,WBT,14007,NT,9 weeks ago,bo3,2 - 1,won,2398144,https://www.hltv.org/matches/2398144/wbt-vs-nt-hyperx-retake-season-12
+2400406,core,13683,WBT,14028,7o7,9 weeks ago,bo3,2 - 0,won,2398142,https://www.hltv.org/matches/2398142/wbt-vs-7o7-hyperx-retake-season-12
+2400406,core,13683,WBT,13304,LP,10 weeks ago,bo3,1 - 2,lost,2397943,https://www.hltv.org/matches/2397943/lp-vs-wbt-radio-popular-roman-imperium-cup-viii
+2400406,core,13683,WBT,10567,SAW,10 weeks ago,bo3,0 - 2,lost,2397935,https://www.hltv.org/matches/2397935/wbt-vs-saw-radio-popular-roman-imperium-cup-viii
+2400406,core,11176,MOUZ NXT,13901,ex-RUSTEC,,bo3,0 - 2,lost,2400263,https://www.hltv.org/matches/2400263/ex-rustec-vs-mouz-nxt-cct-2026-europe-series-14
+2400406,core,11176,MOUZ NXT,10823,INFINITE,,bo3,2 - 1,won,2400402,https://www.hltv.org/matches/2400402/infinite-vs-mouz-nxt-european-pro-league-series-10
+2400406,core,11176,MOUZ NXT,13991,Azuolas,,bo3,2 - 0,won,2400257,https://www.hltv.org/matches/2400257/mouz-nxt-vs-azuolas-cct-2026-europe-series-14
+2400406,core,11176,MOUZ NXT,13808,Walczaki,1 week ago,bo3,1 - 2,lost,2400253,https://www.hltv.org/matches/2400253/walczaki-vs-mouz-nxt-cct-2026-europe-series-14
+2400406,core,11176,MOUZ NXT,10371,NAVI Junior,1 week ago,bo3,2 - 1,won,2400391,https://www.hltv.org/matches/2400391/navi-junior-vs-mouz-nxt-european-pro-league-series-10
+2400406,core,11176,MOUZ NXT,7187,Nexus,1 week ago,bo3,0 - 2,lost,2400238,https://www.hltv.org/matches/2400238/nexus-vs-mouz-nxt-cct-2026-europe-series-14
+2400406,core,11176,MOUZ NXT,12857,FORZE Reload,1 week ago,bo3,0 - 2,lost,2400388,https://www.hltv.org/matches/2400388/forze-reload-vs-mouz-nxt-european-pro-league-series-10
+2400406,core,11176,MOUZ NXT,14084,LFO 10,1 week ago,bo3,2 - 1,won,2400292,https://www.hltv.org/matches/2400292/lfo-10-vs-mouz-nxt-european-pro-league-series-10
+2400406,core,11176,MOUZ NXT,13759,mellren,2 weeks ago,bo3,0 - 2,lost,2400183,https://www.hltv.org/matches/2400183/mellren-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-10
+2400406,core,11176,MOUZ NXT,13900,Banda Chuya,2 weeks ago,bo3,0 - 2,lost,2400175,https://www.hltv.org/matches/2400175/banda-chuya-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-10
+2400406,core,11176,MOUZ NXT,13012,HYPERSPIRIT,4 weeks ago,bo3,0 - 2,lost,2399604,https://www.hltv.org/matches/2399604/hyperspirit-vs-mouz-nxt-digital-crusade-draculan-season-7
+2400406,core,11176,MOUZ NXT,11712,Sashi,4 weeks ago,nuke,9 - 13,lost,2399595,https://www.hltv.org/matches/2399595/sashi-vs-mouz-nxt-digital-crusade-draculan-season-7
+2400406,core,11176,MOUZ NXT,11446,Leo,6 weeks ago,bo3,2 - 1,won,2399368,https://www.hltv.org/matches/2399368/mouz-nxt-vs-leo-esl-challenger-league-season-52-europe-cup-8
+2400406,core,11176,MOUZ NXT,13998,Saint Sinners,6 weeks ago,bo3,1 - 2,lost,2399366,https://www.hltv.org/matches/2399366/saint-sinners-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-8
+2400406,core,11176,MOUZ NXT,13012,HYPERSPIRIT,6 weeks ago,bo3,2 - 1,won,2399363,https://www.hltv.org/matches/2399363/mouz-nxt-vs-hyperspirit-esl-challenger-league-season-52-europe-cup-8
+2400406,core,11176,MOUZ NXT,14084,LFO 10,6 weeks ago,bo3,2 - 1,won,2399356,https://www.hltv.org/matches/2399356/lfo-10-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-8
+2400406,core,11176,MOUZ NXT,4869,ENCE,6 weeks ago,bo3,2 - 1,won,2399349,https://www.hltv.org/matches/2399349/mouz-nxt-vs-ence-esl-challenger-league-season-52-europe-cup-8
+2400406,core,11176,MOUZ NXT,13279,LPH,6 weeks ago,bo3,0 - 2,lost,2399140,https://www.hltv.org/matches/2399140/mouz-nxt-vs-lph-nodwin-clutch-series-13-closed-qualifier
+2400406,core,11176,MOUZ NXT,14014,Gothic,6 weeks ago,bo3,0 - 2,lost,2399069,https://www.hltv.org/matches/2399069/gothic-vs-mouz-nxt-nodwin-clutch-series-13-closed-qualifier
+2400406,core,11176,MOUZ NXT,10567,SAW,8 weeks ago,bo3,0 - 2,lost,2398665,https://www.hltv.org/matches/2398665/saw-vs-mouz-nxt-leonbet-masters-season-1
+2400406,core,11176,MOUZ NXT,13872,FaZe Up Next,8 weeks ago,bo3,2 - 1,won,2398661,https://www.hltv.org/matches/2398661/mouz-nxt-vs-faze-up-next-leonbet-masters-season-1
+2400406,core,11176,MOUZ NXT,13872,FaZe Up Next,8 weeks ago,nuke,11 - 13,lost,2398648,https://www.hltv.org/matches/2398648/mouz-nxt-vs-faze-up-next-leonbet-masters-season-1
+2400406,core,11176,MOUZ NXT,13181,BASEMENT BOYS,10 weeks ago,bo3,0 - 2,lost,2397594,https://www.hltv.org/matches/2397594/mouz-nxt-vs-basement-boys-esl-challenger-league-season-52-europe-cup-6
+2400406,core,11176,MOUZ NXT,13845,Dark Moon,10 weeks ago,bo3,2 - 0,won,2397591,https://www.hltv.org/matches/2397591/mouz-nxt-vs-dark-moon-esl-challenger-league-season-52-europe-cup-6
+2400406,core,11176,MOUZ NXT,12267,UNiTY,10 weeks ago,bo3,0 - 2,lost,2397269,https://www.hltv.org/matches/2397269/mouz-nxt-vs-unity-cct-2026-europe-series-8
+2400406,core,11176,MOUZ NXT,12009,Permitta,10 weeks ago,bo3,2 - 0,won,2397587,https://www.hltv.org/matches/2397587/permitta-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-6
+2400406,core,11176,MOUZ NXT,13745,KUUSAMO,10 weeks ago,bo3,2 - 0,won,2397585,https://www.hltv.org/matches/2397585/mouz-nxt-vs-kuusamo-esl-challenger-league-season-52-europe-cup-6
+2400406,core,11176,MOUZ NXT,6089,The Last Resort,10 weeks ago,bo3,0 - 2,lost,2397265,https://www.hltv.org/matches/2397265/mouz-nxt-vs-the-last-resort-cct-2026-europe-series-8
+2400406,core,11176,MOUZ NXT,13054,PCIFIC,11 weeks ago,bo3,0 - 2,lost,2397579,https://www.hltv.org/matches/2397579/pcific-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-6
+2400406,core,11176,MOUZ NXT,13528,Misa,11 weeks ago,bo3,2 - 1,won,2397572,https://www.hltv.org/matches/2397572/misa-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-6
+2400406,core,11176,MOUZ NXT,13281,Bushido Wildcats,11 weeks ago,bo3,2 - 1,won,2397253,https://www.hltv.org/matches/2397253/mouz-nxt-vs-bushido-wildcats-cct-2026-europe-series-8
+2400406,core,11176,MOUZ NXT,13054,PCIFIC,11 weeks ago,bo3,1 - 2,lost,2397252,https://www.hltv.org/matches/2397252/mouz-nxt-vs-pcific-cct-2026-europe-series-8
+2400406,core,11176,MOUZ NXT,11699,BAKS,12 weeks ago,bo3,0 - 2,lost,2397355,https://www.hltv.org/matches/2397355/mouz-nxt-vs-baks-esl-challenger-league-season-52-europe-cup-5
+2400406,core,11176,MOUZ NXT,7120,Entropy,12 weeks ago,bo3,1 - 2,lost,2397347,https://www.hltv.org/matches/2397347/mouz-nxt-vs-entropy-esl-challenger-league-season-52-europe-cup-5
+2400406,core,11176,MOUZ NXT,13214,SPARTA,13 weeks ago,bo3,0 - 2,lost,2396913,https://www.hltv.org/matches/2396913/mouz-nxt-vs-sparta-esl-challenger-league-season-52-europe-cup-4
+2400406,team,13683,WBT,13749,ex-ENCE,,bo3,2 - 0,won,2400401,https://www.hltv.org/matches/2400401/wbt-vs-ex-ence-european-pro-league-series-10
+2400406,team,13683,WBT,7187,Nexus,4 weeks ago,bo3,1 - 2,lost,2399607,https://www.hltv.org/matches/2399607/wbt-vs-nexus-digital-crusade-draculan-season-7
+2400406,team,13683,WBT,12878,BC.Game,4 weeks ago,d2,10 - 13,lost,2399599,https://www.hltv.org/matches/2399599/bcgame-vs-wbt-digital-crusade-draculan-season-7
+2400406,team,13683,WBT,7187,Nexus,4 weeks ago,anb,13 - 8,won,2399593,https://www.hltv.org/matches/2399593/wbt-vs-nexus-digital-crusade-draculan-season-7
+2400406,team,13683,WBT,7865,HAVU,5 weeks ago,bo3,1 - 2,lost,2399430,https://www.hltv.org/matches/2399430/wbt-vs-havu-elisa-breakout-series-2
+2400406,team,13683,WBT,13795,BOJONG,5 weeks ago,nuke,13 - 0,won,2399422,https://www.hltv.org/matches/2399422/wbt-vs-bojong-elisa-breakout-series-2
+2400406,team,13683,WBT,4869,ENCE,5 weeks ago,mrg,16 - 14,won,2399420,https://www.hltv.org/matches/2399420/wbt-vs-ence-elisa-breakout-series-2
+2400406,team,13683,WBT,13838,EAC,5 weeks ago,mrg,13 - 5,won,2399418,https://www.hltv.org/matches/2399418/wbt-vs-eac-elisa-breakout-series-2
+2400406,team,13683,WBT,13777,PURE,6 weeks ago,bo3,0 - 2,lost,2399051,https://www.hltv.org/matches/2399051/wbt-vs-pure-roman-imperium-cup-ix
+2400406,team,13683,WBT,10823,INFINITE,6 weeks ago,bo3,2 - 0,won,2399047,https://www.hltv.org/matches/2399047/wbt-vs-infinite-roman-imperium-cup-ix
+2400406,team,13683,WBT,10371,NAVI Junior,6 weeks ago,bo3,0 - 2,lost,2399043,https://www.hltv.org/matches/2399043/wbt-vs-navi-junior-roman-imperium-cup-ix
+2400406,team,13683,WBT,11251,Eternal Fire,8 weeks ago,bo3,0 - 2,lost,2398672,https://www.hltv.org/matches/2398672/wbt-vs-eternal-fire-stake-ranked-episode-5-closed-qualifier
+2400406,team,13683,WBT,11251,Eternal Fire,9 weeks ago,bo3,0 - 2,lost,2398169,https://www.hltv.org/matches/2398169/wbt-vs-eternal-fire-hyperx-retake-season-12
+2400406,team,13683,WBT,11248,SAW Youngsters,9 weeks ago,bo3,2 - 1,won,2398166,https://www.hltv.org/matches/2398166/wbt-vs-saw-youngsters-hyperx-retake-season-12
+2400406,team,13683,WBT,12642,RBLS,9 weeks ago,bo3,2 - 1,won,2398162,https://www.hltv.org/matches/2398162/wbt-vs-rbls-hyperx-retake-season-12
+2400406,team,13683,WBT,14007,NT,9 weeks ago,bo3,2 - 1,won,2398144,https://www.hltv.org/matches/2398144/wbt-vs-nt-hyperx-retake-season-12
+2400406,team,13683,WBT,14028,7o7,9 weeks ago,bo3,2 - 0,won,2398142,https://www.hltv.org/matches/2398142/wbt-vs-7o7-hyperx-retake-season-12
+2400406,team,13683,WBT,13304,LP,10 weeks ago,bo3,1 - 2,lost,2397943,https://www.hltv.org/matches/2397943/lp-vs-wbt-radio-popular-roman-imperium-cup-viii
+2400406,team,13683,WBT,10567,SAW,10 weeks ago,bo3,0 - 2,lost,2397935,https://www.hltv.org/matches/2397935/wbt-vs-saw-radio-popular-roman-imperium-cup-viii
+2400406,team,13683,WBT,13681,Inner Circle Academy,11 weeks ago,bo3,1 - 2,lost,2397370,https://www.hltv.org/matches/2397370/inner-circle-academy-vs-wbt-esl-challenger-league-season-52-europe-cup-5
+2400406,team,13683,WBT,5378,Virtus.pro,11 weeks ago,bo3,1 - 2,lost,2397368,https://www.hltv.org/matches/2397368/virtuspro-vs-wbt-esl-challenger-league-season-52-europe-cup-5
+2400406,team,13683,WBT,11699,BAKS,11 weeks ago,bo3,2 - 1,won,2397365,https://www.hltv.org/matches/2397365/wbt-vs-baks-esl-challenger-league-season-52-europe-cup-5
+2400406,team,13683,WBT,12009,Permitta,12 weeks ago,bo3,2 - 0,won,2397358,https://www.hltv.org/matches/2397358/permitta-vs-wbt-esl-challenger-league-season-52-europe-cup-5
+2400406,team,13683,WBT,13747,BERG,12 weeks ago,bo3,2 - 1,won,2397351,https://www.hltv.org/matches/2397351/wbt-vs-berg-esl-challenger-league-season-52-europe-cup-5
+2400406,team,13683,WBT,13552,Endless Journey,12 weeks ago,bo3,1 - 2,lost,2397225,https://www.hltv.org/matches/2397225/wbt-vs-endless-journey-cct-2026-europe-series-8-closed-qualifier
+2400406,team,13683,WBT,13573,ex-Zero Tenacity,12 weeks ago,bo3,0 - 2,lost,2397221,https://www.hltv.org/matches/2397221/ex-zero-tenacity-vs-wbt-cct-2026-europe-series-8-closed-qualifier
+2400406,team,13683,WBT,13759,mellren,13 weeks ago,bo3,1 - 2,lost,2396872,https://www.hltv.org/matches/2396872/mellren-vs-wbt-cct-2026-challengers-europe-series-5
+2400406,team,13683,WBT,13877,Noir Verse,13 weeks ago,bo3,2 - 1,won,2396871,https://www.hltv.org/matches/2396871/wbt-vs-noir-verse-cct-2026-challengers-europe-series-5
+2400406,team,13683,WBT,13759,mellren,13 weeks ago,bo3,0 - 2,lost,2396869,https://www.hltv.org/matches/2396869/wbt-vs-mellren-cct-2026-challengers-europe-series-5
+2400406,team,13683,WBT,13279,LPH,13 weeks ago,bo3,2 - 0,won,2396865,https://www.hltv.org/matches/2396865/lph-vs-wbt-cct-2026-challengers-europe-series-5
+2400406,team,11176,MOUZ NXT,13901,ex-RUSTEC,,bo3,0 - 2,lost,2400263,https://www.hltv.org/matches/2400263/ex-rustec-vs-mouz-nxt-cct-2026-europe-series-14
+2400406,team,11176,MOUZ NXT,10823,INFINITE,,bo3,2 - 1,won,2400402,https://www.hltv.org/matches/2400402/infinite-vs-mouz-nxt-european-pro-league-series-10
+2400406,team,11176,MOUZ NXT,13991,Azuolas,,bo3,2 - 0,won,2400257,https://www.hltv.org/matches/2400257/mouz-nxt-vs-azuolas-cct-2026-europe-series-14
+2400406,team,11176,MOUZ NXT,13808,Walczaki,1 week ago,bo3,1 - 2,lost,2400253,https://www.hltv.org/matches/2400253/walczaki-vs-mouz-nxt-cct-2026-europe-series-14
+2400406,team,11176,MOUZ NXT,10371,NAVI Junior,1 week ago,bo3,2 - 1,won,2400391,https://www.hltv.org/matches/2400391/navi-junior-vs-mouz-nxt-european-pro-league-series-10
+2400406,team,11176,MOUZ NXT,7187,Nexus,1 week ago,bo3,0 - 2,lost,2400238,https://www.hltv.org/matches/2400238/nexus-vs-mouz-nxt-cct-2026-europe-series-14
+2400406,team,11176,MOUZ NXT,12857,FORZE Reload,1 week ago,bo3,0 - 2,lost,2400388,https://www.hltv.org/matches/2400388/forze-reload-vs-mouz-nxt-european-pro-league-series-10
+2400406,team,11176,MOUZ NXT,14084,LFO 10,1 week ago,bo3,2 - 1,won,2400292,https://www.hltv.org/matches/2400292/lfo-10-vs-mouz-nxt-european-pro-league-series-10
+2400406,team,11176,MOUZ NXT,13759,mellren,2 weeks ago,bo3,0 - 2,lost,2400183,https://www.hltv.org/matches/2400183/mellren-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-10
+2400406,team,11176,MOUZ NXT,13900,Banda Chuya,2 weeks ago,bo3,0 - 2,lost,2400175,https://www.hltv.org/matches/2400175/banda-chuya-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-10
+2400406,team,11176,MOUZ NXT,13012,HYPERSPIRIT,4 weeks ago,bo3,0 - 2,lost,2399604,https://www.hltv.org/matches/2399604/hyperspirit-vs-mouz-nxt-digital-crusade-draculan-season-7
+2400406,team,11176,MOUZ NXT,11712,Sashi,4 weeks ago,nuke,9 - 13,lost,2399595,https://www.hltv.org/matches/2399595/sashi-vs-mouz-nxt-digital-crusade-draculan-season-7
+2400406,team,11176,MOUZ NXT,11446,Leo,6 weeks ago,bo3,2 - 1,won,2399368,https://www.hltv.org/matches/2399368/mouz-nxt-vs-leo-esl-challenger-league-season-52-europe-cup-8
+2400406,team,11176,MOUZ NXT,13998,Saint Sinners,6 weeks ago,bo3,1 - 2,lost,2399366,https://www.hltv.org/matches/2399366/saint-sinners-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-8
+2400406,team,11176,MOUZ NXT,13012,HYPERSPIRIT,6 weeks ago,bo3,2 - 1,won,2399363,https://www.hltv.org/matches/2399363/mouz-nxt-vs-hyperspirit-esl-challenger-league-season-52-europe-cup-8
+2400406,team,11176,MOUZ NXT,14084,LFO 10,6 weeks ago,bo3,2 - 1,won,2399356,https://www.hltv.org/matches/2399356/lfo-10-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-8
+2400406,team,11176,MOUZ NXT,4869,ENCE,6 weeks ago,bo3,2 - 1,won,2399349,https://www.hltv.org/matches/2399349/mouz-nxt-vs-ence-esl-challenger-league-season-52-europe-cup-8
+2400406,team,11176,MOUZ NXT,13279,LPH,6 weeks ago,bo3,0 - 2,lost,2399140,https://www.hltv.org/matches/2399140/mouz-nxt-vs-lph-nodwin-clutch-series-13-closed-qualifier
+2400406,team,11176,MOUZ NXT,14014,Gothic,6 weeks ago,bo3,0 - 2,lost,2399069,https://www.hltv.org/matches/2399069/gothic-vs-mouz-nxt-nodwin-clutch-series-13-closed-qualifier
+2400406,team,11176,MOUZ NXT,10567,SAW,8 weeks ago,bo3,0 - 2,lost,2398665,https://www.hltv.org/matches/2398665/saw-vs-mouz-nxt-leonbet-masters-season-1
+2400406,team,11176,MOUZ NXT,13872,FaZe Up Next,8 weeks ago,bo3,2 - 1,won,2398661,https://www.hltv.org/matches/2398661/mouz-nxt-vs-faze-up-next-leonbet-masters-season-1
+2400406,team,11176,MOUZ NXT,13872,FaZe Up Next,8 weeks ago,nuke,11 - 13,lost,2398648,https://www.hltv.org/matches/2398648/mouz-nxt-vs-faze-up-next-leonbet-masters-season-1
+2400406,team,11176,MOUZ NXT,13181,BASEMENT BOYS,10 weeks ago,bo3,0 - 2,lost,2397594,https://www.hltv.org/matches/2397594/mouz-nxt-vs-basement-boys-esl-challenger-league-season-52-europe-cup-6
+2400406,team,11176,MOUZ NXT,13845,Dark Moon,10 weeks ago,bo3,2 - 0,won,2397591,https://www.hltv.org/matches/2397591/mouz-nxt-vs-dark-moon-esl-challenger-league-season-52-europe-cup-6
+2400406,team,11176,MOUZ NXT,12267,UNiTY,10 weeks ago,bo3,0 - 2,lost,2397269,https://www.hltv.org/matches/2397269/mouz-nxt-vs-unity-cct-2026-europe-series-8
+2400406,team,11176,MOUZ NXT,12009,Permitta,10 weeks ago,bo3,2 - 0,won,2397587,https://www.hltv.org/matches/2397587/permitta-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-6
+2400406,team,11176,MOUZ NXT,13745,KUUSAMO,10 weeks ago,bo3,2 - 0,won,2397585,https://www.hltv.org/matches/2397585/mouz-nxt-vs-kuusamo-esl-challenger-league-season-52-europe-cup-6
+2400406,team,11176,MOUZ NXT,6089,The Last Resort,10 weeks ago,bo3,0 - 2,lost,2397265,https://www.hltv.org/matches/2397265/mouz-nxt-vs-the-last-resort-cct-2026-europe-series-8
+2400406,team,11176,MOUZ NXT,13054,PCIFIC,11 weeks ago,bo3,0 - 2,lost,2397579,https://www.hltv.org/matches/2397579/pcific-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-6
+2400406,team,11176,MOUZ NXT,13528,Misa,11 weeks ago,bo3,2 - 1,won,2397572,https://www.hltv.org/matches/2397572/misa-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-6
+2400406,team,11176,MOUZ NXT,13281,Bushido Wildcats,11 weeks ago,bo3,2 - 1,won,2397253,https://www.hltv.org/matches/2397253/mouz-nxt-vs-bushido-wildcats-cct-2026-europe-series-8
+2400406,team,11176,MOUZ NXT,13054,PCIFIC,11 weeks ago,bo3,1 - 2,lost,2397252,https://www.hltv.org/matches/2397252/mouz-nxt-vs-pcific-cct-2026-europe-series-8
+2400406,team,11176,MOUZ NXT,11699,BAKS,12 weeks ago,bo3,0 - 2,lost,2397355,https://www.hltv.org/matches/2397355/mouz-nxt-vs-baks-esl-challenger-league-season-52-europe-cup-5
+2400406,team,11176,MOUZ NXT,7120,Entropy,12 weeks ago,bo3,1 - 2,lost,2397347,https://www.hltv.org/matches/2397347/mouz-nxt-vs-entropy-esl-challenger-league-season-52-europe-cup-5
+2400406,team,11176,MOUZ NXT,13214,SPARTA,13 weeks ago,bo3,0 - 2,lost,2396913,https://www.hltv.org/matches/2396913/mouz-nxt-vs-sparta-esl-challenger-league-season-52-europe-cup-4
+2400630,core,13877,Noir Verse,12474,Alliance,1 week ago,bo3,2 - 0,won,2400493,https://www.hltv.org/matches/2400493/alliance-vs-noir-verse-esl-challenger-league-season-52-europe-cup-12
+2400630,core,13877,Noir Verse,13945,MAYBE,1 week ago,bo3,2 - 1,won,2400490,https://www.hltv.org/matches/2400490/noir-verse-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400630,core,13877,Noir Verse,14079,6yuBoJlbl,1 week ago,bo3,2 - 0,won,2400486,https://www.hltv.org/matches/2400486/noir-verse-vs-6yubojlbl-esl-challenger-league-season-52-europe-cup-12
+2400630,core,13877,Noir Verse,13749,ex-ENCE,1 week ago,bo3,1 - 2,lost,2400394,https://www.hltv.org/matches/2400394/ex-ence-vs-noir-verse-european-pro-league-series-10
+2400630,core,13877,Noir Verse,12474,Alliance,1 week ago,bo3,2 - 1,won,2400474,https://www.hltv.org/matches/2400474/alliance-vs-noir-verse-esl-challenger-league-season-52-europe-cup-12
+2400630,core,13877,Noir Verse,13599,benched gods,1 week ago,bo3,2 - 1,won,2400467,https://www.hltv.org/matches/2400467/benched-gods-vs-noir-verse-esl-challenger-league-season-52-europe-cup-12
+2400630,core,13877,Noir Verse,13808,Walczaki,1 week ago,bo3,2 - 1,won,2400385,https://www.hltv.org/matches/2400385/walczaki-vs-noir-verse-european-pro-league-series-10
+2400630,core,13877,Noir Verse,13704,Drama,2 weeks ago,bo3,0 - 2,lost,2400437,https://www.hltv.org/matches/2400437/noir-verse-vs-drama-nodwin-clutch-series-14-closed-qualifier
+2400630,core,13877,Noir Verse,13159,Prestige,2 weeks ago,bo3,0 - 2,lost,2400222,https://www.hltv.org/matches/2400222/noir-verse-vs-prestige-cct-2026-europe-series-14-closed-qualifier
+2400630,core,13877,Noir Verse,13745,KUUSAMO,2 weeks ago,bo3,1 - 2,lost,2400211,https://www.hltv.org/matches/2400211/noir-verse-vs-kuusamo-cct-2026-europe-series-14-closed-qualifier
+2400630,core,13877,Noir Verse,11446,Leo,2 weeks ago,bo3,2 - 0,won,2400197,https://www.hltv.org/matches/2400197/leo-vs-noir-verse-nodwin-clutch-series-14-closed-qualifier
+2400630,core,13877,Noir Verse,7900,Spirit Academy,2 weeks ago,bo3,2 - 1,won,2400058,https://www.hltv.org/matches/2400058/spirit-academy-vs-noir-verse-nodwin-clutch-series-14-closed-qualifier
+2400630,core,13877,Noir Verse,14021,TitanFlow,4 weeks ago,bo3,0 - 2,lost,2399692,https://www.hltv.org/matches/2399692/titanflow-vs-noir-verse-cct-2026-challengers-europe-series-8
+2400630,core,13877,Noir Verse,14085,antidaun,4 weeks ago,bo3,2 - 1,won,2399684,https://www.hltv.org/matches/2399684/noir-verse-vs-antidaun-cct-2026-challengers-europe-series-8
+2400630,core,13877,Noir Verse,13974,Ryvex,5 weeks ago,bo3,1 - 2,lost,2399678,https://www.hltv.org/matches/2399678/noir-verse-vs-ryvex-cct-2026-challengers-europe-series-8
+2400630,core,13877,Noir Verse,13914,Privateer,5 weeks ago,bo3,0 - 2,lost,2399474,https://www.hltv.org/matches/2399474/privateer-vs-noir-verse-cct-2026-europe-series-12-closed-qualifier
+2400630,core,13877,Noir Verse,14085,antidaun,5 weeks ago,bo3,0 - 2,lost,2399472,https://www.hltv.org/matches/2399472/noir-verse-vs-antidaun-cct-2026-europe-series-12-closed-qualifier
+2400630,core,13877,Noir Verse,11018,megoshort,6 weeks ago,bo3,1 - 2,lost,2399287,https://www.hltv.org/matches/2399287/megoshort-vs-noir-verse-cct-2026-europe-series-11-closed-qualifier
+2400630,core,13877,Noir Verse,13104,Iberian Soul,6 weeks ago,bo3,0 - 2,lost,2398410,https://www.hltv.org/matches/2398410/iberian-soul-vs-noir-verse-cct-2026-europe-series-10
+2400630,core,13877,Noir Verse,13991,Azuolas,6 weeks ago,bo3,2 - 0,won,2399275,https://www.hltv.org/matches/2399275/azuolas-vs-noir-verse-cct-2026-europe-series-11-closed-qualifier
+2400630,core,13877,Noir Verse,12960,Fire Flux,6 weeks ago,bo3,1 - 2,lost,2399273,https://www.hltv.org/matches/2399273/noir-verse-vs-fire-flux-cct-2026-europe-series-11-closed-qualifier
+2400630,core,13877,Noir Verse,13479,Omega,6 weeks ago,bo3,2 - 1,won,2398401,https://www.hltv.org/matches/2398401/omega-vs-noir-verse-cct-2026-europe-series-10
+2400630,core,13877,Noir Verse,13945,MAYBE,6 weeks ago,bo3,0 - 2,lost,2399139,https://www.hltv.org/matches/2399139/maybe-vs-noir-verse-nodwin-clutch-series-13-closed-qualifier
+2400630,core,13877,Noir Verse,13599,benched gods,6 weeks ago,bo3,0 - 1,lost,2399129,https://www.hltv.org/matches/2399129/benched-gods-vs-noir-verse-nodwin-clutch-series-13-closed-qualifier
+2400630,core,13877,Noir Verse,13908,Butterfly,7 weeks ago,bo3,2 - 1,won,2398380,https://www.hltv.org/matches/2398380/butterfly-vs-noir-verse-cct-2026-europe-series-10
+2400630,core,13877,Noir Verse,11446,Leo,7 weeks ago,bo3,2 - 0,won,2398368,https://www.hltv.org/matches/2398368/leo-vs-noir-verse-cct-2026-europe-series-10
+2400630,core,13877,Noir Verse,13745,KUUSAMO,8 weeks ago,bo3,2 - 0,won,2398365,https://www.hltv.org/matches/2398365/kuusamo-vs-noir-verse-cct-2026-europe-series-10-closed-qualifier
+2400630,core,13877,Noir Verse,11719,Illyrians,8 weeks ago,bo3,2 - 0,won,2398361,https://www.hltv.org/matches/2398361/noir-verse-vs-illyrians-cct-2026-europe-series-10-closed-qualifier
+2400630,core,13877,Noir Verse,10254,BIG Academy,8 weeks ago,bo3,2 - 1,won,2398355,https://www.hltv.org/matches/2398355/big-academy-vs-noir-verse-cct-2026-europe-series-10-closed-qualifier
+2400630,core,13877,Noir Verse,11719,Illyrians,8 weeks ago,bo3,0 - 2,lost,2398353,https://www.hltv.org/matches/2398353/noir-verse-vs-illyrians-cct-2026-europe-series-10-closed-qualifier
+2400630,core,13877,Noir Verse,12009,Permitta,8 weeks ago,bo3,1 - 2,lost,2398438,https://www.hltv.org/matches/2398438/permitta-vs-noir-verse-esl-challenger-league-season-52-europe-cup-7
+2400630,core,13877,Noir Verse,13974,Ryvex,8 weeks ago,bo3,2 - 0,won,2398431,https://www.hltv.org/matches/2398431/noir-verse-vs-ryvex-esl-challenger-league-season-52-europe-cup-7
+2400630,core,13877,Noir Verse,13945,MAYBE,8 weeks ago,bo3,2 - 0,won,2398424,https://www.hltv.org/matches/2398424/maybe-vs-noir-verse-esl-challenger-league-season-52-europe-cup-7
+2400630,core,13877,Noir Verse,13613,Bebop,10 weeks ago,bo3,1 - 2,lost,2397802,https://www.hltv.org/matches/2397802/bebop-vs-noir-verse-cct-2026-europe-series-9-closed-qualifier
+2400630,core,13877,Noir Verse,13766,Phantom Academy,10 weeks ago,bo3,2 - 1,won,2397796,https://www.hltv.org/matches/2397796/noir-verse-vs-phantom-academy-cct-2026-europe-series-9-closed-qualifier
+2400630,core,13877,Noir Verse,13613,Bebop,10 weeks ago,bo3,1 - 2,lost,2397792,https://www.hltv.org/matches/2397792/bebop-vs-noir-verse-cct-2026-europe-series-9-closed-qualifier
+2400630,core,13877,Noir Verse,13573,ex-Zero Tenacity,10 weeks ago,bo3,1 - 2,lost,2397527,https://www.hltv.org/matches/2397527/noir-verse-vs-ex-zero-tenacity-cct-2026-challengers-europe-series-6
+2400630,core,13877,Noir Verse,7900,Spirit Academy,10 weeks ago,bo3,2 - 1,won,2397523,https://www.hltv.org/matches/2397523/noir-verse-vs-spirit-academy-cct-2026-challengers-europe-series-6
+2400630,core,13877,Noir Verse,11018,megoshort,10 weeks ago,bo3,0 - 2,lost,2397517,https://www.hltv.org/matches/2397517/megoshort-vs-noir-verse-cct-2026-challengers-europe-series-6
+2400630,core,13877,Noir Verse,13845,Dark Moon,11 weeks ago,bo3,0 - 2,lost,2397578,https://www.hltv.org/matches/2397578/noir-verse-vs-dark-moon-esl-challenger-league-season-52-europe-cup-6
+2400630,core,13877,Noir Verse,12960,Fire Flux,11 weeks ago,bo3,2 - 1,won,2397514,https://www.hltv.org/matches/2397514/noir-verse-vs-fire-flux-cct-2026-challengers-europe-series-6
+2400630,core,13877,Noir Verse,7865,HAVU,11 weeks ago,bo3,0 - 2,lost,2397244,https://www.hltv.org/matches/2397244/noir-verse-vs-havu-cct-2026-europe-series-8-closed-qualifier
+2400630,core,13877,Noir Verse,13668,Atreides,11 weeks ago,bo3,1 - 2,lost,2397362,https://www.hltv.org/matches/2397362/noir-verse-vs-atreides-esl-challenger-league-season-52-europe-cup-5
+2400630,core,13877,Noir Verse,11248,SAW Youngsters,12 weeks ago,bo3,2 - 0,won,2397236,https://www.hltv.org/matches/2397236/saw-youngsters-vs-noir-verse-cct-2026-europe-series-8-closed-qualifier
+2400630,core,13877,Noir Verse,13668,Atreides,12 weeks ago,bo3,2 - 0,won,2397349,https://www.hltv.org/matches/2397349/noir-verse-vs-atreides-esl-challenger-league-season-52-europe-cup-5
+2400630,core,13877,Noir Verse,11110,Honvéd,12 weeks ago,bo3,2 - 0,won,2397232,https://www.hltv.org/matches/2397232/honvd-vs-noir-verse-cct-2026-europe-series-8-closed-qualifier
+2400630,core,13877,Noir Verse,13683,WBT,13 weeks ago,bo3,1 - 2,lost,2396871,https://www.hltv.org/matches/2396871/wbt-vs-noir-verse-cct-2026-challengers-europe-series-5
+2400630,core,13877,Noir Verse,13281,Bushido Wildcats,13 weeks ago,bo3,2 - 1,won,2396870,https://www.hltv.org/matches/2396870/noir-verse-vs-bushido-wildcats-cct-2026-challengers-europe-series-5
+2400630,core,13877,Noir Verse,13971,Revise,13 weeks ago,bo3,0 - 2,lost,2396764,https://www.hltv.org/matches/2396764/noir-verse-vs-revise-exort-fiesta-series-1
+2400630,core,13877,Noir Verse,13279,LPH,13 weeks ago,bo3,2 - 0,won,2396867,https://www.hltv.org/matches/2396867/noir-verse-vs-lph-cct-2026-challengers-europe-series-5
+2400630,core,13877,Noir Verse,13893,ex-Sashi Academy,13 weeks ago,bo3,2 - 0,won,2396863,https://www.hltv.org/matches/2396863/ex-sashi-academy-vs-noir-verse-cct-2026-challengers-europe-series-5
+2400630,core,13877,Noir Verse,4869,ENCE,13 weeks ago,bo3,2 - 1,won,2396862,https://www.hltv.org/matches/2396862/noir-verse-vs-ence-cct-2026-challengers-europe-series-5
+2400630,core,14084,LFO 10,11176,MOUZ NXT,1 week ago,bo3,1 - 2,lost,2400292,https://www.hltv.org/matches/2400292/lfo-10-vs-mouz-nxt-european-pro-league-series-10
+2400630,core,14084,LFO 10,13159,Prestige,1 week ago,bo3,2 - 0,won,2400229,https://www.hltv.org/matches/2400229/lfo-10-vs-prestige-cct-2026-europe-series-14-closed-qualifier
+2400630,core,14084,LFO 10,11248,SAW Youngsters,2 weeks ago,bo3,2 - 0,won,2400219,https://www.hltv.org/matches/2400219/saw-youngsters-vs-lfo-10-cct-2026-europe-series-14-closed-qualifier
+2400630,core,14084,LFO 10,10867,MASONIC,2 weeks ago,bo3,2 - 1,won,2400214,https://www.hltv.org/matches/2400214/lfo-10-vs-masonic-cct-2026-europe-series-14-closed-qualifier
+2400630,core,14084,LFO 10,13520,Four Magic,2 weeks ago,bo3,1 - 2,lost,2400177,https://www.hltv.org/matches/2400177/four-magic-vs-lfo-10-esl-challenger-league-season-52-europe-cup-10
+2400630,core,14084,LFO 10,13679,FOKUS,3 weeks ago,bo3,0 - 2,lost,2399523,https://www.hltv.org/matches/2399523/fokus-vs-lfo-10-cct-2026-europe-series-12
+2400630,core,14084,LFO 10,14079,6yuBoJlbl,3 weeks ago,bo3,2 - 0,won,2399516,https://www.hltv.org/matches/2399516/6yubojlbl-vs-lfo-10-cct-2026-europe-series-12
+2400630,core,14084,LFO 10,14100,ex-6666,3 weeks ago,bo3,2 - 0,won,2399509,https://www.hltv.org/matches/2399509/lfo-10-vs-ex-6666-cct-2026-europe-series-12
+2400630,core,14084,LFO 10,7187,Nexus,9 weeks ago,bo3,0 - 2,lost,2398035,https://www.hltv.org/matches/2398035/nexus-vs-entropy-european-pro-league-series-9
+2400630,core,14084,LFO 10,13761,Vexar,9 weeks ago,bo3,2 - 0,won,2398034,https://www.hltv.org/matches/2398034/entropy-vs-vexar-european-pro-league-series-9
+2400630,core,14084,LFO 10,10371,NAVI Junior,10 weeks ago,bo3,0 - 2,lost,2397803,https://www.hltv.org/matches/2397803/entropy-vs-navi-junior-cct-2026-europe-series-9-closed-qualifier
+2400630,core,14084,LFO 10,13281,Bushido Wildcats,10 weeks ago,bo3,1 - 2,lost,2397795,https://www.hltv.org/matches/2397795/bushido-wildcats-vs-entropy-cct-2026-europe-series-9-closed-qualifier
+2400630,core,14084,LFO 10,13901,ex-RUSTEC,10 weeks ago,bo3,0 - 2,lost,2397738,https://www.hltv.org/matches/2397738/ex-rustec-vs-entropy-nodwin-clutch-series-12-closed-qualifier
+2400630,core,14084,LFO 10,11248,SAW Youngsters,10 weeks ago,bo3,1 - 2,lost,2397519,https://www.hltv.org/matches/2397519/entropy-vs-saw-youngsters-cct-2026-challengers-europe-series-6
+2400630,core,14084,LFO 10,4869,ENCE,10 weeks ago,bo3,2 - 1,won,2397661,https://www.hltv.org/matches/2397661/ence-vs-entropy-nodwin-clutch-series-12-closed-qualifier
+2400630,core,14084,LFO 10,5378,Virtus.pro,11 weeks ago,bo3,2 - 0,won,2397371,https://www.hltv.org/matches/2397371/entropy-vs-virtuspro-esl-challenger-league-season-52-europe-cup-5
+2400630,core,14084,LFO 10,13681,Inner Circle Academy,11 weeks ago,bo3,2 - 0,won,2397369,https://www.hltv.org/matches/2397369/inner-circle-academy-vs-entropy-esl-challenger-league-season-52-europe-cup-5
+2400630,core,14084,LFO 10,13991,Azuolas,11 weeks ago,bo3,2 - 1,won,2397367,https://www.hltv.org/matches/2397367/entropy-vs-azuolas-esl-challenger-league-season-52-europe-cup-5
+2400630,core,14084,LFO 10,13528,Misa,12 weeks ago,bo3,2 - 1,won,2397354,https://www.hltv.org/matches/2397354/entropy-vs-misa-esl-challenger-league-season-52-europe-cup-5
+2400630,core,14084,LFO 10,11176,MOUZ NXT,12 weeks ago,bo3,2 - 1,won,2397347,https://www.hltv.org/matches/2397347/mouz-nxt-vs-entropy-esl-challenger-league-season-52-europe-cup-5
+2400630,core,14084,LFO 10,12960,Fire Flux,13 weeks ago,bo3,1 - 2,lost,2396911,https://www.hltv.org/matches/2396911/entropy-vs-fire-flux-esl-challenger-league-season-52-europe-cup-4
+2400630,team,13877,Noir Verse,12474,Alliance,1 week ago,bo3,2 - 0,won,2400493,https://www.hltv.org/matches/2400493/alliance-vs-noir-verse-esl-challenger-league-season-52-europe-cup-12
+2400630,team,13877,Noir Verse,13945,MAYBE,1 week ago,bo3,2 - 1,won,2400490,https://www.hltv.org/matches/2400490/noir-verse-vs-maybe-esl-challenger-league-season-52-europe-cup-12
+2400630,team,13877,Noir Verse,14079,6yuBoJlbl,1 week ago,bo3,2 - 0,won,2400486,https://www.hltv.org/matches/2400486/noir-verse-vs-6yubojlbl-esl-challenger-league-season-52-europe-cup-12
+2400630,team,13877,Noir Verse,13749,ex-ENCE,1 week ago,bo3,1 - 2,lost,2400394,https://www.hltv.org/matches/2400394/ex-ence-vs-noir-verse-european-pro-league-series-10
+2400630,team,13877,Noir Verse,12474,Alliance,1 week ago,bo3,2 - 1,won,2400474,https://www.hltv.org/matches/2400474/alliance-vs-noir-verse-esl-challenger-league-season-52-europe-cup-12
+2400630,team,13877,Noir Verse,13599,benched gods,1 week ago,bo3,2 - 1,won,2400467,https://www.hltv.org/matches/2400467/benched-gods-vs-noir-verse-esl-challenger-league-season-52-europe-cup-12
+2400630,team,13877,Noir Verse,13808,Walczaki,1 week ago,bo3,2 - 1,won,2400385,https://www.hltv.org/matches/2400385/walczaki-vs-noir-verse-european-pro-league-series-10
+2400630,team,13877,Noir Verse,13704,Drama,2 weeks ago,bo3,0 - 2,lost,2400437,https://www.hltv.org/matches/2400437/noir-verse-vs-drama-nodwin-clutch-series-14-closed-qualifier
+2400630,team,13877,Noir Verse,13159,Prestige,2 weeks ago,bo3,0 - 2,lost,2400222,https://www.hltv.org/matches/2400222/noir-verse-vs-prestige-cct-2026-europe-series-14-closed-qualifier
+2400630,team,13877,Noir Verse,13745,KUUSAMO,2 weeks ago,bo3,1 - 2,lost,2400211,https://www.hltv.org/matches/2400211/noir-verse-vs-kuusamo-cct-2026-europe-series-14-closed-qualifier
+2400630,team,13877,Noir Verse,11446,Leo,2 weeks ago,bo3,2 - 0,won,2400197,https://www.hltv.org/matches/2400197/leo-vs-noir-verse-nodwin-clutch-series-14-closed-qualifier
+2400630,team,13877,Noir Verse,7900,Spirit Academy,2 weeks ago,bo3,2 - 1,won,2400058,https://www.hltv.org/matches/2400058/spirit-academy-vs-noir-verse-nodwin-clutch-series-14-closed-qualifier
+2400630,team,13877,Noir Verse,14021,TitanFlow,4 weeks ago,bo3,0 - 2,lost,2399692,https://www.hltv.org/matches/2399692/titanflow-vs-noir-verse-cct-2026-challengers-europe-series-8
+2400630,team,13877,Noir Verse,14085,antidaun,4 weeks ago,bo3,2 - 1,won,2399684,https://www.hltv.org/matches/2399684/noir-verse-vs-antidaun-cct-2026-challengers-europe-series-8
+2400630,team,13877,Noir Verse,13974,Ryvex,5 weeks ago,bo3,1 - 2,lost,2399678,https://www.hltv.org/matches/2399678/noir-verse-vs-ryvex-cct-2026-challengers-europe-series-8
+2400630,team,13877,Noir Verse,13914,Privateer,5 weeks ago,bo3,0 - 2,lost,2399474,https://www.hltv.org/matches/2399474/privateer-vs-noir-verse-cct-2026-europe-series-12-closed-qualifier
+2400630,team,13877,Noir Verse,14085,antidaun,5 weeks ago,bo3,0 - 2,lost,2399472,https://www.hltv.org/matches/2399472/noir-verse-vs-antidaun-cct-2026-europe-series-12-closed-qualifier
+2400630,team,13877,Noir Verse,11018,megoshort,6 weeks ago,bo3,1 - 2,lost,2399287,https://www.hltv.org/matches/2399287/megoshort-vs-noir-verse-cct-2026-europe-series-11-closed-qualifier
+2400630,team,13877,Noir Verse,13104,Iberian Soul,6 weeks ago,bo3,0 - 2,lost,2398410,https://www.hltv.org/matches/2398410/iberian-soul-vs-noir-verse-cct-2026-europe-series-10
+2400630,team,13877,Noir Verse,13991,Azuolas,6 weeks ago,bo3,2 - 0,won,2399275,https://www.hltv.org/matches/2399275/azuolas-vs-noir-verse-cct-2026-europe-series-11-closed-qualifier
+2400630,team,13877,Noir Verse,12960,Fire Flux,6 weeks ago,bo3,1 - 2,lost,2399273,https://www.hltv.org/matches/2399273/noir-verse-vs-fire-flux-cct-2026-europe-series-11-closed-qualifier
+2400630,team,13877,Noir Verse,13479,Omega,6 weeks ago,bo3,2 - 1,won,2398401,https://www.hltv.org/matches/2398401/omega-vs-noir-verse-cct-2026-europe-series-10
+2400630,team,13877,Noir Verse,13945,MAYBE,6 weeks ago,bo3,0 - 2,lost,2399139,https://www.hltv.org/matches/2399139/maybe-vs-noir-verse-nodwin-clutch-series-13-closed-qualifier
+2400630,team,13877,Noir Verse,13599,benched gods,6 weeks ago,bo3,0 - 1,lost,2399129,https://www.hltv.org/matches/2399129/benched-gods-vs-noir-verse-nodwin-clutch-series-13-closed-qualifier
+2400630,team,13877,Noir Verse,13908,Butterfly,7 weeks ago,bo3,2 - 1,won,2398380,https://www.hltv.org/matches/2398380/butterfly-vs-noir-verse-cct-2026-europe-series-10
+2400630,team,13877,Noir Verse,11446,Leo,7 weeks ago,bo3,2 - 0,won,2398368,https://www.hltv.org/matches/2398368/leo-vs-noir-verse-cct-2026-europe-series-10
+2400630,team,13877,Noir Verse,13745,KUUSAMO,8 weeks ago,bo3,2 - 0,won,2398365,https://www.hltv.org/matches/2398365/kuusamo-vs-noir-verse-cct-2026-europe-series-10-closed-qualifier
+2400630,team,13877,Noir Verse,11719,Illyrians,8 weeks ago,bo3,2 - 0,won,2398361,https://www.hltv.org/matches/2398361/noir-verse-vs-illyrians-cct-2026-europe-series-10-closed-qualifier
+2400630,team,13877,Noir Verse,10254,BIG Academy,8 weeks ago,bo3,2 - 1,won,2398355,https://www.hltv.org/matches/2398355/big-academy-vs-noir-verse-cct-2026-europe-series-10-closed-qualifier
+2400630,team,13877,Noir Verse,11719,Illyrians,8 weeks ago,bo3,0 - 2,lost,2398353,https://www.hltv.org/matches/2398353/noir-verse-vs-illyrians-cct-2026-europe-series-10-closed-qualifier
+2400630,team,13877,Noir Verse,12009,Permitta,8 weeks ago,bo3,1 - 2,lost,2398438,https://www.hltv.org/matches/2398438/permitta-vs-noir-verse-esl-challenger-league-season-52-europe-cup-7
+2400630,team,13877,Noir Verse,13974,Ryvex,8 weeks ago,bo3,2 - 0,won,2398431,https://www.hltv.org/matches/2398431/noir-verse-vs-ryvex-esl-challenger-league-season-52-europe-cup-7
+2400630,team,13877,Noir Verse,13945,MAYBE,8 weeks ago,bo3,2 - 0,won,2398424,https://www.hltv.org/matches/2398424/maybe-vs-noir-verse-esl-challenger-league-season-52-europe-cup-7
+2400630,team,13877,Noir Verse,13613,Bebop,10 weeks ago,bo3,1 - 2,lost,2397802,https://www.hltv.org/matches/2397802/bebop-vs-noir-verse-cct-2026-europe-series-9-closed-qualifier
+2400630,team,13877,Noir Verse,13766,Phantom Academy,10 weeks ago,bo3,2 - 1,won,2397796,https://www.hltv.org/matches/2397796/noir-verse-vs-phantom-academy-cct-2026-europe-series-9-closed-qualifier
+2400630,team,13877,Noir Verse,13613,Bebop,10 weeks ago,bo3,1 - 2,lost,2397792,https://www.hltv.org/matches/2397792/bebop-vs-noir-verse-cct-2026-europe-series-9-closed-qualifier
+2400630,team,13877,Noir Verse,13573,ex-Zero Tenacity,10 weeks ago,bo3,1 - 2,lost,2397527,https://www.hltv.org/matches/2397527/noir-verse-vs-ex-zero-tenacity-cct-2026-challengers-europe-series-6
+2400630,team,13877,Noir Verse,7900,Spirit Academy,10 weeks ago,bo3,2 - 1,won,2397523,https://www.hltv.org/matches/2397523/noir-verse-vs-spirit-academy-cct-2026-challengers-europe-series-6
+2400630,team,13877,Noir Verse,11018,megoshort,10 weeks ago,bo3,0 - 2,lost,2397517,https://www.hltv.org/matches/2397517/megoshort-vs-noir-verse-cct-2026-challengers-europe-series-6
+2400630,team,13877,Noir Verse,13845,Dark Moon,11 weeks ago,bo3,0 - 2,lost,2397578,https://www.hltv.org/matches/2397578/noir-verse-vs-dark-moon-esl-challenger-league-season-52-europe-cup-6
+2400630,team,13877,Noir Verse,12960,Fire Flux,11 weeks ago,bo3,2 - 1,won,2397514,https://www.hltv.org/matches/2397514/noir-verse-vs-fire-flux-cct-2026-challengers-europe-series-6
+2400630,team,13877,Noir Verse,7865,HAVU,11 weeks ago,bo3,0 - 2,lost,2397244,https://www.hltv.org/matches/2397244/noir-verse-vs-havu-cct-2026-europe-series-8-closed-qualifier
+2400630,team,13877,Noir Verse,13668,Atreides,11 weeks ago,bo3,1 - 2,lost,2397362,https://www.hltv.org/matches/2397362/noir-verse-vs-atreides-esl-challenger-league-season-52-europe-cup-5
+2400630,team,13877,Noir Verse,11248,SAW Youngsters,12 weeks ago,bo3,2 - 0,won,2397236,https://www.hltv.org/matches/2397236/saw-youngsters-vs-noir-verse-cct-2026-europe-series-8-closed-qualifier
+2400630,team,13877,Noir Verse,13668,Atreides,12 weeks ago,bo3,2 - 0,won,2397349,https://www.hltv.org/matches/2397349/noir-verse-vs-atreides-esl-challenger-league-season-52-europe-cup-5
+2400630,team,13877,Noir Verse,11110,Honvéd,12 weeks ago,bo3,2 - 0,won,2397232,https://www.hltv.org/matches/2397232/honvd-vs-noir-verse-cct-2026-europe-series-8-closed-qualifier
+2400630,team,13877,Noir Verse,13683,WBT,13 weeks ago,bo3,1 - 2,lost,2396871,https://www.hltv.org/matches/2396871/wbt-vs-noir-verse-cct-2026-challengers-europe-series-5
+2400630,team,13877,Noir Verse,13281,Bushido Wildcats,13 weeks ago,bo3,2 - 1,won,2396870,https://www.hltv.org/matches/2396870/noir-verse-vs-bushido-wildcats-cct-2026-challengers-europe-series-5
+2400630,team,13877,Noir Verse,13971,Revise,13 weeks ago,bo3,0 - 2,lost,2396764,https://www.hltv.org/matches/2396764/noir-verse-vs-revise-exort-fiesta-series-1
+2400630,team,13877,Noir Verse,13279,LPH,13 weeks ago,bo3,2 - 0,won,2396867,https://www.hltv.org/matches/2396867/noir-verse-vs-lph-cct-2026-challengers-europe-series-5
+2400630,team,13877,Noir Verse,13893,ex-Sashi Academy,13 weeks ago,bo3,2 - 0,won,2396863,https://www.hltv.org/matches/2396863/ex-sashi-academy-vs-noir-verse-cct-2026-challengers-europe-series-5
+2400630,team,13877,Noir Verse,4869,ENCE,13 weeks ago,bo3,2 - 1,won,2396862,https://www.hltv.org/matches/2396862/noir-verse-vs-ence-cct-2026-challengers-europe-series-5
+2400630,team,14084,LFO 10,11176,MOUZ NXT,1 week ago,bo3,1 - 2,lost,2400292,https://www.hltv.org/matches/2400292/lfo-10-vs-mouz-nxt-european-pro-league-series-10
+2400630,team,14084,LFO 10,13159,Prestige,1 week ago,bo3,2 - 0,won,2400229,https://www.hltv.org/matches/2400229/lfo-10-vs-prestige-cct-2026-europe-series-14-closed-qualifier
+2400630,team,14084,LFO 10,11248,SAW Youngsters,2 weeks ago,bo3,2 - 0,won,2400219,https://www.hltv.org/matches/2400219/saw-youngsters-vs-lfo-10-cct-2026-europe-series-14-closed-qualifier
+2400630,team,14084,LFO 10,10867,MASONIC,2 weeks ago,bo3,2 - 1,won,2400214,https://www.hltv.org/matches/2400214/lfo-10-vs-masonic-cct-2026-europe-series-14-closed-qualifier
+2400630,team,14084,LFO 10,13520,Four Magic,2 weeks ago,bo3,1 - 2,lost,2400177,https://www.hltv.org/matches/2400177/four-magic-vs-lfo-10-esl-challenger-league-season-52-europe-cup-10
+2400630,team,14084,LFO 10,13991,Azuolas,3 weeks ago,bo3,1 - 2,lost,2400053,https://www.hltv.org/matches/2400053/lfo-10-vs-azuolas-cct-2026-europe-series-13-closed-qualifier
+2400630,team,14084,LFO 10,13646,Fortress,3 weeks ago,bo3,2 - 0,won,2400018,https://www.hltv.org/matches/2400018/lfo-10-vs-fortress-cct-2026-europe-series-13-closed-qualifier
+2400630,team,14084,LFO 10,13679,FOKUS,3 weeks ago,bo3,0 - 2,lost,2399523,https://www.hltv.org/matches/2399523/fokus-vs-lfo-10-cct-2026-europe-series-12
+2400630,team,14084,LFO 10,14079,6yuBoJlbl,3 weeks ago,bo3,2 - 0,won,2399516,https://www.hltv.org/matches/2399516/6yubojlbl-vs-lfo-10-cct-2026-europe-series-12
+2400630,team,14084,LFO 10,14100,ex-6666,3 weeks ago,bo3,2 - 0,won,2399509,https://www.hltv.org/matches/2399509/lfo-10-vs-ex-6666-cct-2026-europe-series-12
+2400630,team,14084,LFO 10,7900,Spirit Academy,4 weeks ago,bo3,0 - 2,lost,2399506,https://www.hltv.org/matches/2399506/spirit-academy-vs-lfo-10-cct-2026-europe-series-12
+2400630,team,14084,LFO 10,13999,WBT Academy,4 weeks ago,bo3,0 - 2,lost,2399887,https://www.hltv.org/matches/2399887/lfo-10-vs-wbt-academy-esl-challenger-league-season-52-europe-cup-9
+2400630,team,14084,LFO 10,13945,MAYBE,4 weeks ago,bo3,2 - 1,won,2399884,https://www.hltv.org/matches/2399884/maybe-vs-lfo-10-esl-challenger-league-season-52-europe-cup-9
+2400630,team,14084,LFO 10,12857,FORZE Reload,4 weeks ago,bo3,0 - 2,lost,2399499,https://www.hltv.org/matches/2399499/forze-reload-vs-lfo-10-cct-2026-europe-series-12
+2400630,team,14084,LFO 10,11699,BAKS,4 weeks ago,bo3,2 - 1,won,2399489,https://www.hltv.org/matches/2399489/baks-vs-lfo-10-cct-2026-europe-series-12
+2400630,team,14084,LFO 10,6089,The Last Resort,4 weeks ago,bo3,0 - 2,lost,2399320,https://www.hltv.org/matches/2399320/the-last-resort-vs-lfo-10-cct-2026-europe-series-11
+2400630,team,14084,LFO 10,12609,Lavked,5 weeks ago,bo3,0 - 2,lost,2399311,https://www.hltv.org/matches/2399311/lavked-vs-lfo-10-cct-2026-europe-series-11
+2400630,team,14084,LFO 10,12857,FORZE Reload,5 weeks ago,bo3,0 - 2,lost,2399301,https://www.hltv.org/matches/2399301/forze-reload-vs-lfo-10-cct-2026-europe-series-11
+2400630,team,14084,LFO 10,4869,ENCE,6 weeks ago,bo3,0 - 2,lost,2399361,https://www.hltv.org/matches/2399361/ence-vs-lfo-10-esl-challenger-league-season-52-europe-cup-8
+2400630,team,14084,LFO 10,11176,MOUZ NXT,6 weeks ago,bo3,1 - 2,lost,2399356,https://www.hltv.org/matches/2399356/lfo-10-vs-mouz-nxt-esl-challenger-league-season-52-europe-cup-8
+2400630,team,14084,LFO 10,13945,MAYBE,6 weeks ago,bo3,2 - 0,won,2399348,https://www.hltv.org/matches/2399348/lfo-10-vs-maybe-esl-challenger-league-season-52-europe-cup-8
+2400286,core,9928,GamerLegion,11581,HOTU,3 weeks ago,bo3,0 - 2,lost,2399879,https://www.hltv.org/matches/2399879/hotu-vs-gamerlegion-rlg-tesla-cup-2026
+2400286,core,9928,GamerLegion,6667,FaZe,3 weeks ago,bo3,2 - 1,won,2399877,https://www.hltv.org/matches/2399877/faze-vs-gamerlegion-rlg-tesla-cup-2026
+2400286,core,9928,GamerLegion,5991,Envy,3 weeks ago,bo3,2 - 0,won,2399875,https://www.hltv.org/matches/2399875/gamerlegion-vs-envy-rlg-tesla-cup-2026
+2400286,core,9928,GamerLegion,11581,HOTU,3 weeks ago,bo3,0 - 2,lost,2399873,https://www.hltv.org/matches/2399873/hotu-vs-gamerlegion-rlg-tesla-cup-2026
+2400286,core,9928,GamerLegion,5991,Envy,3 weeks ago,bo3,2 - 1,won,2399870,https://www.hltv.org/matches/2399870/envy-vs-gamerlegion-rlg-tesla-cup-2026
+2400286,core,9928,GamerLegion,11737,EYEBALLERS,5 weeks ago,bo3,1 - 2,lost,2399659,https://www.hltv.org/matches/2399659/eyeballers-vs-gamerlegion-pgl-bucharest-2027-closed-qualifier
+2400286,core,9928,GamerLegion,13901,ex-RUSTEC,5 weeks ago,bo3,0 - 2,lost,2399657,https://www.hltv.org/matches/2399657/gamerlegion-vs-ex-rustec-pgl-bucharest-2027-closed-qualifier
+2400286,core,9928,GamerLegion,14030,PRIVATE,6 weeks ago,bo3,1 - 2,lost,2398988,https://www.hltv.org/matches/2398988/gamerlegion-vs-private-1win-private-club-season-2-closed-qualifier
+2400286,core,9928,GamerLegion,10577,SINNERS,6 weeks ago,bo3,2 - 0,won,2398984,https://www.hltv.org/matches/2398984/gamerlegion-vs-sinners-1win-private-club-season-2-closed-qualifier
+2400286,core,9928,GamerLegion,13619,BET-M,6 weeks ago,bo3,2 - 0,won,2398979,https://www.hltv.org/matches/2398979/gamerlegion-vs-bet-m-1win-private-club-season-2-closed-qualifier
+2400286,core,9928,GamerLegion,4411,Ninjas in Pyjamas,7 weeks ago,bo5,1 - 3,lost,2398245,https://www.hltv.org/matches/2398245/ninjas-in-pyjamas-vs-gamerlegion-1win-private-club-season-1
+2400286,core,9928,GamerLegion,13592,magic,7 weeks ago,bo3,2 - 0,won,2398244,https://www.hltv.org/matches/2398244/magic-vs-gamerlegion-1win-private-club-season-1
+2400286,core,9928,GamerLegion,10577,SINNERS,8 weeks ago,bo3,2 - 0,won,2398243,https://www.hltv.org/matches/2398243/sinners-vs-gamerlegion-1win-private-club-season-1
+2400286,core,9928,GamerLegion,4914,3DMAX,8 weeks ago,bo3,2 - 1,won,2398240,https://www.hltv.org/matches/2398240/3dmax-vs-gamerlegion-1win-private-club-season-1
+2400286,core,9928,GamerLegion,13592,magic,8 weeks ago,bo3,1 - 2,lost,2398239,https://www.hltv.org/matches/2398239/magic-vs-gamerlegion-1win-private-club-season-1
+2400286,core,9928,GamerLegion,12895,K27,8 weeks ago,bo3,2 - 0,won,2398096,https://www.hltv.org/matches/2398096/gamerlegion-vs-k27-1win-private-club-season-1
+2400286,core,9928,GamerLegion,11641,Metizport,9 weeks ago,nuke,5 - 13,lost,2397896,https://www.hltv.org/matches/2397896/metizport-vs-gamerlegion-logitech-g-play-connect-2026
+2400286,core,9928,GamerLegion,4411,Ninjas in Pyjamas,9 weeks ago,d2,13 - 8,won,2397894,https://www.hltv.org/matches/2397894/gamerlegion-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400286,core,9928,GamerLegion,12376,M80,9 weeks ago,mrg,9 - 13,lost,2397890,https://www.hltv.org/matches/2397890/m80-vs-gamerlegion-logitech-g-play-connect-2026
+2400286,core,9928,GamerLegion,11241,B8,9 weeks ago,anc,6 - 13,lost,2397889,https://www.hltv.org/matches/2397889/b8-vs-gamerlegion-logitech-g-play-connect-2026
+2400286,core,9928,GamerLegion,6290,Luminosity,9 weeks ago,nuke,13 - 7,won,2397887,https://www.hltv.org/matches/2397887/gamerlegion-vs-luminosity-logitech-g-play-connect-2026
+2400286,core,9928,GamerLegion,4863,TYLOO,10 weeks ago,bo3,0 - 2,lost,2397609,https://www.hltv.org/matches/2397609/tyloo-vs-gamerlegion-fissure-playground-3
+2400286,core,9928,GamerLegion,8297,FURIA,10 weeks ago,bo3,1 - 2,lost,2397602,https://www.hltv.org/matches/2397602/furia-vs-gamerlegion-fissure-playground-3
+2400286,core,9928,GamerLegion,12895,K27,11 weeks ago,bo3,1 - 2,lost,2397318,https://www.hltv.org/matches/2397318/gamerlegion-vs-k27-iem-beijing-2026-closed-qualifier
+2400286,core,9928,GamerLegion,4494,MOUZ,13 weeks ago,bo3,1 - 2,lost,2396602,https://www.hltv.org/matches/2396602/gamerlegion-vs-mouz-esports-world-cup-2026
+2400286,core,6290,Luminosity,5991,Envy,3 weeks ago,bo3,1 - 2,lost,2399874,https://www.hltv.org/matches/2399874/luminosity-vs-envy-rlg-tesla-cup-2026
+2400286,core,6290,Luminosity,11581,HOTU,3 weeks ago,bo3,0 - 2,lost,2399869,https://www.hltv.org/matches/2399869/luminosity-vs-hotu-rlg-tesla-cup-2026
+2400286,core,6290,Luminosity,13996,BBL,4 weeks ago,bo3,0 - 2,lost,2399621,https://www.hltv.org/matches/2399621/bbl-vs-luminosity-digital-crusade-draculan-season-7
+2400286,core,6290,Luminosity,7187,Nexus,4 weeks ago,bo3,1 - 2,lost,2399617,https://www.hltv.org/matches/2399617/luminosity-vs-nexus-digital-crusade-draculan-season-7
+2400286,core,6290,Luminosity,6665,Astralis,7 weeks ago,bo3,1 - 2,lost,2398008,https://www.hltv.org/matches/2398008/luminosity-vs-astralis-stake-ranked-episode-4
+2400286,core,6290,Luminosity,7969,Nemiga,7 weeks ago,bo3,0 - 2,lost,2398006,https://www.hltv.org/matches/2398006/luminosity-vs-nemiga-stake-ranked-episode-4
+2400286,core,6290,Luminosity,7532,BIG,7 weeks ago,bo3,2 - 1,won,2398002,https://www.hltv.org/matches/2398002/luminosity-vs-big-stake-ranked-episode-4
+2400286,core,6290,Luminosity,11241,B8,7 weeks ago,bo3,2 - 0,won,2397938,https://www.hltv.org/matches/2397938/b8-vs-luminosity-stake-ranked-episode-4
+2400286,core,6290,Luminosity,4914,3DMAX,8 weeks ago,bo5,2 - 3,lost,2397919,https://www.hltv.org/matches/2397919/luminosity-vs-3dmax-logitech-g-play-connect-2026
+2400286,core,6290,Luminosity,11241,B8,8 weeks ago,bo3,2 - 0,won,2397917,https://www.hltv.org/matches/2397917/b8-vs-luminosity-logitech-g-play-connect-2026
+2400286,core,6290,Luminosity,13996,BBL,9 weeks ago,bo3,2 - 0,won,2397915,https://www.hltv.org/matches/2397915/luminosity-vs-bbl-logitech-g-play-connect-2026
+2400286,core,6290,Luminosity,4411,Ninjas in Pyjamas,9 weeks ago,anc,13 - 11,won,2397898,https://www.hltv.org/matches/2397898/luminosity-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400286,core,6290,Luminosity,12376,M80,9 weeks ago,anc,13 - 4,won,2397897,https://www.hltv.org/matches/2397897/luminosity-vs-m80-logitech-g-play-connect-2026
+2400286,core,6290,Luminosity,11241,B8,9 weeks ago,d2,11 - 13,lost,2397892,https://www.hltv.org/matches/2397892/luminosity-vs-b8-logitech-g-play-connect-2026
+2400286,core,6290,Luminosity,11641,Metizport,9 weeks ago,mrg,13 - 9,won,2397888,https://www.hltv.org/matches/2397888/metizport-vs-luminosity-logitech-g-play-connect-2026
+2400286,core,6290,Luminosity,9928,GamerLegion,9 weeks ago,nuke,7 - 13,lost,2397887,https://www.hltv.org/matches/2397887/gamerlegion-vs-luminosity-logitech-g-play-connect-2026
+2400286,core,6290,Luminosity,12376,M80,10 weeks ago,bo3,0 - 2,lost,2397951,https://www.hltv.org/matches/2397951/luminosity-vs-m80-radio-popular-roman-imperium-cup-viii
+2400286,core,6290,Luminosity,12376,M80,10 weeks ago,bo3,2 - 1,won,2397948,https://www.hltv.org/matches/2397948/m80-vs-luminosity-radio-popular-roman-imperium-cup-viii
+2400286,core,6290,Luminosity,10567,SAW,10 weeks ago,bo3,2 - 1,won,2397945,https://www.hltv.org/matches/2397945/luminosity-vs-saw-radio-popular-roman-imperium-cup-viii
+2400286,core,6290,Luminosity,13304,LP,10 weeks ago,bo3,2 - 1,won,2397937,https://www.hltv.org/matches/2397937/luminosity-vs-lp-radio-popular-roman-imperium-cup-viii
+2400286,team,9928,GamerLegion,11581,HOTU,3 weeks ago,bo3,0 - 2,lost,2399879,https://www.hltv.org/matches/2399879/hotu-vs-gamerlegion-rlg-tesla-cup-2026
+2400286,team,9928,GamerLegion,6667,FaZe,3 weeks ago,bo3,2 - 1,won,2399877,https://www.hltv.org/matches/2399877/faze-vs-gamerlegion-rlg-tesla-cup-2026
+2400286,team,9928,GamerLegion,5991,Envy,3 weeks ago,bo3,2 - 0,won,2399875,https://www.hltv.org/matches/2399875/gamerlegion-vs-envy-rlg-tesla-cup-2026
+2400286,team,9928,GamerLegion,11581,HOTU,3 weeks ago,bo3,0 - 2,lost,2399873,https://www.hltv.org/matches/2399873/hotu-vs-gamerlegion-rlg-tesla-cup-2026
+2400286,team,9928,GamerLegion,5991,Envy,3 weeks ago,bo3,2 - 1,won,2399870,https://www.hltv.org/matches/2399870/envy-vs-gamerlegion-rlg-tesla-cup-2026
+2400286,team,9928,GamerLegion,11737,EYEBALLERS,5 weeks ago,bo3,1 - 2,lost,2399659,https://www.hltv.org/matches/2399659/eyeballers-vs-gamerlegion-pgl-bucharest-2027-closed-qualifier
+2400286,team,9928,GamerLegion,13901,ex-RUSTEC,5 weeks ago,bo3,0 - 2,lost,2399657,https://www.hltv.org/matches/2399657/gamerlegion-vs-ex-rustec-pgl-bucharest-2027-closed-qualifier
+2400286,team,9928,GamerLegion,14030,PRIVATE,6 weeks ago,bo3,1 - 2,lost,2398988,https://www.hltv.org/matches/2398988/gamerlegion-vs-private-1win-private-club-season-2-closed-qualifier
+2400286,team,9928,GamerLegion,10577,SINNERS,6 weeks ago,bo3,2 - 0,won,2398984,https://www.hltv.org/matches/2398984/gamerlegion-vs-sinners-1win-private-club-season-2-closed-qualifier
+2400286,team,9928,GamerLegion,13619,BET-M,6 weeks ago,bo3,2 - 0,won,2398979,https://www.hltv.org/matches/2398979/gamerlegion-vs-bet-m-1win-private-club-season-2-closed-qualifier
+2400286,team,9928,GamerLegion,4411,Ninjas in Pyjamas,7 weeks ago,bo5,1 - 3,lost,2398245,https://www.hltv.org/matches/2398245/ninjas-in-pyjamas-vs-gamerlegion-1win-private-club-season-1
+2400286,team,9928,GamerLegion,13592,magic,7 weeks ago,bo3,2 - 0,won,2398244,https://www.hltv.org/matches/2398244/magic-vs-gamerlegion-1win-private-club-season-1
+2400286,team,9928,GamerLegion,10577,SINNERS,8 weeks ago,bo3,2 - 0,won,2398243,https://www.hltv.org/matches/2398243/sinners-vs-gamerlegion-1win-private-club-season-1
+2400286,team,9928,GamerLegion,4914,3DMAX,8 weeks ago,bo3,2 - 1,won,2398240,https://www.hltv.org/matches/2398240/3dmax-vs-gamerlegion-1win-private-club-season-1
+2400286,team,9928,GamerLegion,13592,magic,8 weeks ago,bo3,1 - 2,lost,2398239,https://www.hltv.org/matches/2398239/magic-vs-gamerlegion-1win-private-club-season-1
+2400286,team,9928,GamerLegion,12895,K27,8 weeks ago,bo3,2 - 0,won,2398096,https://www.hltv.org/matches/2398096/gamerlegion-vs-k27-1win-private-club-season-1
+2400286,team,9928,GamerLegion,11641,Metizport,9 weeks ago,nuke,5 - 13,lost,2397896,https://www.hltv.org/matches/2397896/metizport-vs-gamerlegion-logitech-g-play-connect-2026
+2400286,team,9928,GamerLegion,4411,Ninjas in Pyjamas,9 weeks ago,d2,13 - 8,won,2397894,https://www.hltv.org/matches/2397894/gamerlegion-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400286,team,9928,GamerLegion,12376,M80,9 weeks ago,mrg,9 - 13,lost,2397890,https://www.hltv.org/matches/2397890/m80-vs-gamerlegion-logitech-g-play-connect-2026
+2400286,team,9928,GamerLegion,11241,B8,9 weeks ago,anc,6 - 13,lost,2397889,https://www.hltv.org/matches/2397889/b8-vs-gamerlegion-logitech-g-play-connect-2026
+2400286,team,9928,GamerLegion,6290,Luminosity,9 weeks ago,nuke,13 - 7,won,2397887,https://www.hltv.org/matches/2397887/gamerlegion-vs-luminosity-logitech-g-play-connect-2026
+2400286,team,9928,GamerLegion,4863,TYLOO,10 weeks ago,bo3,0 - 2,lost,2397609,https://www.hltv.org/matches/2397609/tyloo-vs-gamerlegion-fissure-playground-3
+2400286,team,9928,GamerLegion,8297,FURIA,10 weeks ago,bo3,1 - 2,lost,2397602,https://www.hltv.org/matches/2397602/furia-vs-gamerlegion-fissure-playground-3
+2400286,team,9928,GamerLegion,12895,K27,11 weeks ago,bo3,1 - 2,lost,2397318,https://www.hltv.org/matches/2397318/gamerlegion-vs-k27-iem-beijing-2026-closed-qualifier
+2400286,team,9928,GamerLegion,4494,MOUZ,13 weeks ago,bo3,1 - 2,lost,2396602,https://www.hltv.org/matches/2396602/gamerlegion-vs-mouz-esports-world-cup-2026
+2400286,team,6290,Luminosity,5991,Envy,3 weeks ago,bo3,1 - 2,lost,2399874,https://www.hltv.org/matches/2399874/luminosity-vs-envy-rlg-tesla-cup-2026
+2400286,team,6290,Luminosity,11581,HOTU,3 weeks ago,bo3,0 - 2,lost,2399869,https://www.hltv.org/matches/2399869/luminosity-vs-hotu-rlg-tesla-cup-2026
+2400286,team,6290,Luminosity,13996,BBL,4 weeks ago,bo3,0 - 2,lost,2399621,https://www.hltv.org/matches/2399621/bbl-vs-luminosity-digital-crusade-draculan-season-7
+2400286,team,6290,Luminosity,7187,Nexus,4 weeks ago,bo3,1 - 2,lost,2399617,https://www.hltv.org/matches/2399617/luminosity-vs-nexus-digital-crusade-draculan-season-7
+2400286,team,6290,Luminosity,6665,Astralis,7 weeks ago,bo3,1 - 2,lost,2398008,https://www.hltv.org/matches/2398008/luminosity-vs-astralis-stake-ranked-episode-4
+2400286,team,6290,Luminosity,7969,Nemiga,7 weeks ago,bo3,0 - 2,lost,2398006,https://www.hltv.org/matches/2398006/luminosity-vs-nemiga-stake-ranked-episode-4
+2400286,team,6290,Luminosity,7532,BIG,7 weeks ago,bo3,2 - 1,won,2398002,https://www.hltv.org/matches/2398002/luminosity-vs-big-stake-ranked-episode-4
+2400286,team,6290,Luminosity,11241,B8,7 weeks ago,bo3,2 - 0,won,2397938,https://www.hltv.org/matches/2397938/b8-vs-luminosity-stake-ranked-episode-4
+2400286,team,6290,Luminosity,4914,3DMAX,8 weeks ago,bo5,2 - 3,lost,2397919,https://www.hltv.org/matches/2397919/luminosity-vs-3dmax-logitech-g-play-connect-2026
+2400286,team,6290,Luminosity,11241,B8,8 weeks ago,bo3,2 - 0,won,2397917,https://www.hltv.org/matches/2397917/b8-vs-luminosity-logitech-g-play-connect-2026
+2400286,team,6290,Luminosity,13996,BBL,9 weeks ago,bo3,2 - 0,won,2397915,https://www.hltv.org/matches/2397915/luminosity-vs-bbl-logitech-g-play-connect-2026
+2400286,team,6290,Luminosity,4411,Ninjas in Pyjamas,9 weeks ago,anc,13 - 11,won,2397898,https://www.hltv.org/matches/2397898/luminosity-vs-ninjas-in-pyjamas-logitech-g-play-connect-2026
+2400286,team,6290,Luminosity,12376,M80,9 weeks ago,anc,13 - 4,won,2397897,https://www.hltv.org/matches/2397897/luminosity-vs-m80-logitech-g-play-connect-2026
+2400286,team,6290,Luminosity,11241,B8,9 weeks ago,d2,11 - 13,lost,2397892,https://www.hltv.org/matches/2397892/luminosity-vs-b8-logitech-g-play-connect-2026
+2400286,team,6290,Luminosity,11641,Metizport,9 weeks ago,mrg,13 - 9,won,2397888,https://www.hltv.org/matches/2397888/metizport-vs-luminosity-logitech-g-play-connect-2026
+2400286,team,6290,Luminosity,9928,GamerLegion,9 weeks ago,nuke,7 - 13,lost,2397887,https://www.hltv.org/matches/2397887/gamerlegion-vs-luminosity-logitech-g-play-connect-2026
+2400286,team,6290,Luminosity,12376,M80,10 weeks ago,bo3,0 - 2,lost,2397951,https://www.hltv.org/matches/2397951/luminosity-vs-m80-radio-popular-roman-imperium-cup-viii
+2400286,team,6290,Luminosity,12376,M80,10 weeks ago,bo3,2 - 1,won,2397948,https://www.hltv.org/matches/2397948/m80-vs-luminosity-radio-popular-roman-imperium-cup-viii
+2400286,team,6290,Luminosity,10567,SAW,10 weeks ago,bo3,2 - 1,won,2397945,https://www.hltv.org/matches/2397945/luminosity-vs-saw-radio-popular-roman-imperium-cup-viii
+2400286,team,6290,Luminosity,13304,LP,10 weeks ago,bo3,2 - 1,won,2397937,https://www.hltv.org/matches/2397937/luminosity-vs-lp-radio-popular-roman-imperium-cup-viii

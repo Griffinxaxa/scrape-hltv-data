@@ -1,0 +1,104 @@
+{
+  "fixture_id": 2400286,
+  "passed": 19,
+  "failed": 0,
+  "total": 19,
+  "checks": [
+    {
+      "name": "series_row_present",
+      "ok": true,
+      "detail": "count=1"
+    },
+    {
+      "name": "event_id_9258",
+      "ok": true,
+      "detail": "got=9258"
+    },
+    {
+      "name": "team1_id_9928",
+      "ok": true,
+      "detail": "got=9928"
+    },
+    {
+      "name": "team2_id_6290",
+      "ok": true,
+      "detail": "got=6290"
+    },
+    {
+      "name": "winner_6290",
+      "ok": true,
+      "detail": "got=6290"
+    },
+    {
+      "name": "score_1_2",
+      "ok": true,
+      "detail": "1-2"
+    },
+    {
+      "name": "best_of_3",
+      "ok": true,
+      "detail": "got=3"
+    },
+    {
+      "name": "environment_LAN",
+      "ok": true,
+      "detail": "got=LAN"
+    },
+    {
+      "name": "scheduled_start",
+      "ok": true,
+      "detail": "got=2026-11-17T17:30:00Z"
+    },
+    {
+      "name": "played_maps_3",
+      "ok": true,
+      "detail": "count=3"
+    },
+    {
+      "name": "veto_steps_7",
+      "ok": true,
+      "detail": "count=7"
+    },
+    {
+      "name": "distinct_lineup_players_10",
+      "ok": true,
+      "detail": "count=10"
+    },
+    {
+      "name": "player_stat_rows_120",
+      "ok": true,
+      "detail": "count=120"
+    },
+    {
+      "name": "mirage_14_16",
+      "ok": true,
+      "detail": "14-16"
+    },
+    {
+      "name": "mirage_ot_2_4",
+      "ok": true,
+      "detail": "2-4"
+    },
+    {
+      "name": "mirage_ot_sides_null",
+      "ok": true,
+      "detail": "/"
+    },
+    {
+      "name": "mirage_map_stats_id",
+      "ok": true,
+      "detail": "got=244584"
+    },
+    {
+      "name": "series_both_10",
+      "ok": true,
+      "detail": "count=10"
+    },
+    {
+      "name": "series_both_player_values",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "failed_names": []
+}

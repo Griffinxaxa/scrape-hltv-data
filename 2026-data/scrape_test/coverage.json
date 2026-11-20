@@ -1,0 +1,230 @@
+[
+  {
+    "capture_time_utc": "2026-11-20T02:04:07Z",
+    "sections": {
+      "series": {
+        "ok": true,
+        "errors": []
+      },
+      "maps": {
+        "ok": true,
+        "count": 3
+      },
+      "veto_steps": {
+        "ok": true,
+        "count": 7
+      },
+      "lineups": {
+        "ok": true,
+        "count": 10
+      },
+      "player_stats": {
+        "ok": true,
+        "count": 90
+      },
+      "h2h_maps": {
+        "ok": true,
+        "count": 0
+      },
+      "past_match_links": {
+        "ok": true,
+        "count": 122
+      },
+      "vrs_forecast": {
+        "ok": true,
+        "count": 2
+      }
+    },
+    "hltv_match_id": 2400446
+  },
+  {
+    "capture_time_utc": "2026-11-20T02:04:40Z",
+    "sections": {
+      "series": {
+        "ok": true,
+        "errors": []
+      },
+      "maps": {
+        "ok": true,
+        "count": 3
+      },
+      "veto_steps": {
+        "ok": true,
+        "count": 7
+      },
+      "lineups": {
+        "ok": true,
+        "count": 10
+      },
+      "player_stats": {
+        "ok": true,
+        "count": 120
+      },
+      "h2h_maps": {
+        "ok": true,
+        "count": 6
+      },
+      "past_match_links": {
+        "ok": true,
+        "count": 104
+      },
+      "vrs_forecast": {
+        "ok": true,
+        "count": 2
+      }
+    },
+    "hltv_match_id": 2400445
+  },
+  {
+    "capture_time_utc": "2026-11-20T02:04:56Z",
+    "sections": {
+      "series": {
+        "ok": true,
+        "errors": []
+      },
+      "maps": {
+        "ok": true,
+        "count": 3
+      },
+      "veto_steps": {
+        "ok": true,
+        "count": 7
+      },
+      "lineups": {
+        "ok": true,
+        "count": 10
+      },
+      "player_stats": {
+        "ok": true,
+        "count": 90
+      },
+      "h2h_maps": {
+        "ok": true,
+        "count": 2
+      },
+      "past_match_links": {
+        "ok": true,
+        "count": 212
+      },
+      "vrs_forecast": {
+        "ok": true,
+        "count": 2
+      }
+    },
+    "hltv_match_id": 2400631
+  },
+  {
+    "capture_time_utc": "2026-11-20T02:04:57Z",
+    "sections": {
+      "series": {
+        "ok": true,
+        "errors": []
+      },
+      "maps": {
+        "ok": true,
+        "count": 3
+      },
+      "veto_steps": {
+        "ok": true,
+        "count": 7
+      },
+      "lineups": {
+        "ok": true,
+        "count": 10
+      },
+      "player_stats": {
+        "ok": true,
+        "count": 120
+      },
+      "h2h_maps": {
+        "ok": true,
+        "count": 0
+      },
+      "past_match_links": {
+        "ok": true,
+        "count": 119
+      },
+      "vrs_forecast": {
+        "ok": true,
+        "count": 2
+      }
+    },
+    "hltv_match_id": 2400406
+  },
+  {
+    "capture_time_utc": "2026-11-20T02:05:14Z",
+    "sections": {
+      "series": {
+        "ok": true,
+        "errors": []
+      },
+      "maps": {
+        "ok": true,
+        "count": 3
+      },
+      "veto_steps": {
+        "ok": true,
+        "count": 7
+      },
+      "lineups": {
+        "ok": true,
+        "count": 10
+      },
+      "player_stats": {
+        "ok": true,
+        "count": 90
+      },
+      "h2h_maps": {
+        "ok": true,
+        "count": 0
+      },
+      "past_match_links": {
+        "ok": true,
+        "count": 146
+      },
+      "vrs_forecast": {
+        "ok": true,
+        "count": 2
+      }
+    },
+    "hltv_match_id": 2400630
+  },
+  {
+    "capture_time_utc": "2026-11-20T02:10:16Z",
+    "sections": {
+      "series": {
+        "ok": true,
+        "errors": []
+      },
+      "maps": {
+        "ok": true,
+        "count": 3
+      },
+      "veto_steps": {
+        "ok": true,
+        "count": 7
+      },
+      "lineups": {
+        "ok": true,
+        "count": 10
+      },
+      "player_stats": {
+        "ok": true,
+        "count": 120
+      },
+      "h2h_maps": {
+        "ok": true,
+        "count": 2
+      },
+      "past_match_links": {
+        "ok": true,
+        "count": 90
+      },
+      "vrs_forecast": {
+        "ok": true,
+        "count": 2
+      }
+    },
+    "hltv_match_id": 2400286
+  }
+]

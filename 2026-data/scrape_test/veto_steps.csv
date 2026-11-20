@@ -1,0 +1,43 @@
+hltv_match_id,step_order,actor_team_id,action,map_name,raw_text
+2400446,1,10333,removed,Inferno,1. Sangal removed Inferno
+2400446,2,6290,removed,Anubis,2. Luminosity removed Anubis
+2400446,3,10333,picked,Nuke,3. Sangal picked Nuke
+2400446,4,6290,picked,Ancient,4. Luminosity picked Ancient
+2400446,5,6290,removed,Cache,5. Luminosity removed Cache
+2400446,6,10333,removed,Mirage,6. Sangal removed Mirage
+2400446,7,,left_over,Dust2,7. Dust2 was left over
+2400445,1,7532,removed,Nuke,1. BIG removed Nuke
+2400445,2,4411,removed,Anubis,2. Ninjas in Pyjamas removed Anubis
+2400445,3,7532,picked,Inferno,3. BIG picked Inferno
+2400445,4,4411,picked,Ancient,4. Ninjas in Pyjamas picked Ancient
+2400445,5,4411,removed,Mirage,5. Ninjas in Pyjamas removed Mirage
+2400445,6,7532,removed,Dust2,6. BIG removed Dust2
+2400445,7,,left_over,Cache,7. Cache was left over
+2400631,1,13945,removed,Inferno,1. MAYBE removed Inferno
+2400631,2,12889,removed,Nuke,2. G2 Ares removed Nuke
+2400631,3,13945,picked,Mirage,3. MAYBE picked Mirage
+2400631,4,12889,picked,Cache,4. G2 Ares picked Cache
+2400631,5,13945,removed,Dust2,5. MAYBE removed Dust2
+2400631,6,12889,removed,Ancient,6. G2 Ares removed Ancient
+2400631,7,,left_over,Anubis,7. Anubis was left over
+2400406,1,11176,removed,Inferno,1. MOUZ NXT removed Inferno
+2400406,2,13683,removed,Nuke,2. WBT removed Nuke
+2400406,3,11176,picked,Ancient,3. MOUZ NXT picked Ancient
+2400406,4,13683,picked,Anubis,4. WBT picked Anubis
+2400406,5,11176,removed,Dust2,5. MOUZ NXT removed Dust2
+2400406,6,13683,removed,Cache,6. WBT removed Cache
+2400406,7,,left_over,Mirage,7. Mirage was left over
+2400630,1,13877,removed,Inferno,1. Noir Verse removed Inferno
+2400630,2,14084,removed,Nuke,2. LFO 10 removed Nuke
+2400630,3,13877,picked,Dust2,3. Noir Verse picked Dust2
+2400630,4,14084,picked,Mirage,4. LFO 10 picked Mirage
+2400630,5,13877,removed,Cache,5. Noir Verse removed Cache
+2400630,6,14084,removed,Ancient,6. LFO 10 removed Ancient
+2400630,7,,left_over,Anubis,7. Anubis was left over
+2400286,1,6290,removed,Anubis,1. Luminosity removed Anubis
+2400286,2,9928,removed,Inferno,2. GamerLegion removed Inferno
+2400286,3,6290,picked,Mirage,3. Luminosity picked Mirage
+2400286,4,9928,picked,Nuke,4. GamerLegion picked Nuke
+2400286,5,9928,removed,Ancient,5. GamerLegion removed Ancient
+2400286,6,6290,removed,Dust2,6. Luminosity removed Dust2
+2400286,7,,left_over,Cache,7. Cache was left over

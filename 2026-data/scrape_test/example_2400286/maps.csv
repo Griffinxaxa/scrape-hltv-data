@@ -1,0 +1,4 @@
+hltv_match_id,map_ordinal,map_name,map_stats_id,map_stats_url,pick_side,team1_rounds,team2_rounds,winner_team_id,half1_team1_rounds,half1_team2_rounds,half1_team1_side,half1_team2_side,half2_team1_rounds,half2_team2_rounds,half2_team1_side,half2_team2_side,ot_team1_rounds,ot_team2_rounds,ot_team1_side,ot_team2_side,played_status,left_team_name,right_team_name
+2400286,1,Mirage,244584,https://www.hltv.org/stats/matches/mapstatsid/244584/gamerlegion-vs-luminosity,team2,14,16,6290,5,7,CT,T,7,5,T,CT,2,4,,,played,GamerLegion,Luminosity
+2400286,2,Nuke,244590,https://www.hltv.org/stats/matches/mapstatsid/244590/luminosity-vs-gamerlegion,team1,13,7,9928,7,5,T,CT,6,2,CT,T,,,,,played,GamerLegion,Luminosity
+2400286,3,Cache,244595,https://www.hltv.org/stats/matches/mapstatsid/244595/luminosity-vs-gamerlegion,decider,9,13,6290,7,5,T,CT,2,8,CT,T,,,,,played,GamerLegion,Luminosity

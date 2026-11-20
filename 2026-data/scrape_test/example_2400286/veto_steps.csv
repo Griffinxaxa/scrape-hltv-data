@@ -1,0 +1,8 @@
+hltv_match_id,step_order,actor_team_id,action,map_name,raw_text
+2400286,1,6290,removed,Anubis,1. Luminosity removed Anubis
+2400286,2,9928,removed,Inferno,2. GamerLegion removed Inferno
+2400286,3,6290,picked,Mirage,3. Luminosity picked Mirage
+2400286,4,9928,picked,Nuke,4. GamerLegion picked Nuke
+2400286,5,9928,removed,Ancient,5. GamerLegion removed Ancient
+2400286,6,6290,removed,Dust2,6. Luminosity removed Dust2
+2400286,7,,left_over,Cache,7. Cache was left over

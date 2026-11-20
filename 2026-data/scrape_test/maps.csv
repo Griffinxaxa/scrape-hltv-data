@@ -1,0 +1,19 @@
+hltv_match_id,map_ordinal,map_name,map_stats_id,map_stats_url,pick_side,team1_rounds,team2_rounds,winner_team_id,half1_team1_rounds,half1_team2_rounds,half1_team1_side,half1_team2_side,half2_team1_rounds,half2_team2_rounds,half2_team1_side,half2_team2_side,ot_team1_rounds,ot_team2_rounds,ot_team1_side,ot_team2_side,played_status,left_team_name,right_team_name
+2400446,1,Nuke,244679,https://www.hltv.org/stats/matches/mapstatsid/244679/luminosity-vs-sangal,team1,13,11,10333,8,4,T,CT,5,7,CT,T,,,,,played,Sangal,Luminosity
+2400446,2,Ancient,244681,https://www.hltv.org/stats/matches/mapstatsid/244681/sangal-vs-luminosity,team2,13,9,10333,7,5,CT,T,6,4,T,CT,,,,,played,Sangal,Luminosity
+2400446,3,Dust2,,,,,,,,,,,,,,,,,,,unplayed,Sangal,Luminosity
+2400445,1,Inferno,244669,https://www.hltv.org/stats/matches/mapstatsid/244669/ninjas-in-pyjamas-vs-big,team1,13,11,7532,7,5,T,CT,6,6,CT,T,,,,,played,BIG,Ninjas in Pyjamas
+2400445,2,Ancient,244673,https://www.hltv.org/stats/matches/mapstatsid/244673/big-vs-ninjas-in-pyjamas,team2,14,16,4411,9,3,CT,T,3,9,T,CT,,,,,played,BIG,Ninjas in Pyjamas
+2400445,3,Cache,244677,https://www.hltv.org/stats/matches/mapstatsid/244677/ninjas-in-pyjamas-vs-big,decider,13,5,7532,7,5,T,CT,6,0,CT,T,,,,,played,BIG,Ninjas in Pyjamas
+2400631,1,Mirage,244671,https://www.hltv.org/stats/matches/mapstatsid/244671/g2-ares-vs-maybe,team2,12,16,13945,7,5,CT,T,5,7,T,CT,,,,,played,G2 Ares,MAYBE
+2400631,2,Cache,244675,https://www.hltv.org/stats/matches/mapstatsid/244675/maybe-vs-g2-ares,team1,10,13,13945,6,6,T,CT,4,7,CT,T,,,,,played,G2 Ares,MAYBE
+2400631,3,Anubis,,,,,,,,,,,,,,,,,,,unplayed,G2 Ares,MAYBE
+2400406,1,Ancient,244660,https://www.hltv.org/stats/matches/mapstatsid/244660/wbt-vs-mouz-nxt,team2,11,13,11176,9,3,CT,T,2,10,T,CT,,,,,played,WBT,MOUZ NXT
+2400406,2,Anubis,244665,https://www.hltv.org/stats/matches/mapstatsid/244665/wbt-vs-mouz-nxt,team1,13,4,13683,8,4,CT,T,5,0,T,CT,,,,,played,WBT,MOUZ NXT
+2400406,3,Mirage,244668,https://www.hltv.org/stats/matches/mapstatsid/244668/mouz-nxt-vs-wbt,decider,13,8,13683,9,3,T,CT,4,5,CT,T,,,,,played,WBT,MOUZ NXT
+2400630,1,Dust2,244663,https://www.hltv.org/stats/matches/mapstatsid/244663/lfo-10-vs-noir-verse,team1,8,13,14084,7,5,T,CT,1,8,CT,T,,,,,played,Noir Verse,LFO 10
+2400630,2,Mirage,244666,https://www.hltv.org/stats/matches/mapstatsid/244666/noir-verse-vs-lfo-10,team2,9,13,14084,6,6,CT,T,3,7,T,CT,,,,,played,Noir Verse,LFO 10
+2400630,3,Anubis,,,,,,,,,,,,,,,,,,,unplayed,Noir Verse,LFO 10
+2400286,1,Mirage,244584,https://www.hltv.org/stats/matches/mapstatsid/244584/gamerlegion-vs-luminosity,team2,14,16,6290,5,7,CT,T,7,5,T,CT,2,4,,,played,GamerLegion,Luminosity
+2400286,2,Nuke,244590,https://www.hltv.org/stats/matches/mapstatsid/244590/luminosity-vs-gamerlegion,team1,13,7,9928,7,5,T,CT,6,2,CT,T,,,,,played,GamerLegion,Luminosity
+2400286,3,Cache,244595,https://www.hltv.org/stats/matches/mapstatsid/244595/luminosity-vs-gamerlegion,decider,9,13,6290,7,5,T,CT,2,8,CT,T,,,,,played,GamerLegion,Luminosity

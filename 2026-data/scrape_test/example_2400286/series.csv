@@ -1,0 +1,6 @@
+hltv_match_id,match_url,series_stats_id,series_stats_url,event_id,event_name,event_url,team1_id,team1_name,team1_region,team2_id,team2_name,team2_region,best_of,environment,stage_raw,format_notes,scheduled_start_utc,completed_at_utc,status,team1_score,team2_score,winner_team_id,forfeit,walkover,incomplete,match_notes,demo_url,capture_time_utc,source_url
+2400286,https://www.hltv.org/matches/2400286/gamerlegion-vs-luminosity-stake-ranked-episode-6,133158,https://www.hltv.org/stats/matches/133158/gamerlegion-vs-luminosity,9258,Stake Ranked Episode 6,https://www.hltv.org/events/9258/stake-ranked-episode-6,9928,GamerLegion,Europe,6290,Luminosity,Europe,3,LAN,Upper bracket quarter-final,"Best of 3 (LAN)
+
+* Upper bracket quarter-final",2026-11-17T17:30:00Z,,Match over,1,2,6290,False,False,False,"Best of 3 (LAN)
+
+* Upper bracket quarter-final",https://www.hltv.org/download/demo/113801,2026-11-20T02:10:16Z,https://www.hltv.org/matches/2400286/gamerlegion-vs-luminosity-stake-ranked-episode-6

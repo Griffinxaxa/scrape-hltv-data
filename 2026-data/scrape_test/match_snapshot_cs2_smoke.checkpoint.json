@@ -1,0 +1,320 @@
+{
+  "updated_at": "2026-11-20T02:15:16.859587+00:00",
+  "page_offset": 100,
+  "pages_scraped": 1,
+  "total_matches": 31,
+  "until_date": "2026-11-18",
+  "reached_cutoff": true,
+  "matches": [
+    {
+      "match_id": 2400729,
+      "team1": "LAG",
+      "team2": "Villainous",
+      "score": "2-1",
+      "url": "https://www.hltv.org/matches/2400729/lag-vs-villainous-crossfire-season-7",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-20T01:30:22Z",
+      "data_unix_ms": 1795138222000
+    },
+    {
+      "match_id": 2400447,
+      "team1": "GamerLegion",
+      "team2": "BIG",
+      "score": "1-2",
+      "url": "https://www.hltv.org/matches/2400447/gamerlegion-vs-big-stake-ranked-episode-6",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T22:34:52Z",
+      "data_unix_ms": 1795127692000
+    },
+    {
+      "match_id": 2400269,
+      "team1": "aimclub",
+      "team2": "Nexus",
+      "score": "0-2",
+      "url": "https://www.hltv.org/matches/2400269/aimclub-vs-nexus-cct-2026-europe-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T20:37:22Z",
+      "data_unix_ms": 1795120642000
+    },
+    {
+      "match_id": 2400632,
+      "team1": "Drama",
+      "team2": "megoshort",
+      "score": "2-0",
+      "url": "https://www.hltv.org/matches/2400632/drama-vs-megoshort-cct-2026-europe-series-15-closed-qualifier",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T20:13:47Z",
+      "data_unix_ms": 1795119227000
+    },
+    {
+      "match_id": 2400446,
+      "team1": "Sangal",
+      "team2": "Luminosity",
+      "score": "2-0",
+      "url": "https://www.hltv.org/matches/2400446/sangal-vs-luminosity-stake-ranked-episode-6",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T19:38:14Z",
+      "data_unix_ms": 1795117094000
+    },
+    {
+      "match_id": 2400268,
+      "team1": "ex-INOX",
+      "team2": "FORZE Reload",
+      "score": "1-2",
+      "url": "https://www.hltv.org/matches/2400268/ex-inox-vs-forze-reload-cct-2026-europe-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T18:26:10Z",
+      "data_unix_ms": 1795112770000
+    },
+    {
+      "match_id": 2400445,
+      "team1": "BIG",
+      "team2": "Ninjas in Pyjamas",
+      "score": "2-1",
+      "url": "https://www.hltv.org/matches/2400445/big-vs-ninjas-in-pyjamas-stake-ranked-episode-6",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T17:31:23Z",
+      "data_unix_ms": 1795109483000
+    },
+    {
+      "match_id": 2400631,
+      "team1": "G2 Ares",
+      "team2": "MAYBE",
+      "score": "0-2",
+      "url": "https://www.hltv.org/matches/2400631/g2-ares-vs-maybe-cct-2026-europe-series-15-closed-qualifier",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T17:12:14Z",
+      "data_unix_ms": 1795108334000
+    },
+    {
+      "match_id": 2400406,
+      "team1": "WBT",
+      "team2": "MOUZ NXT",
+      "score": "2-1",
+      "url": "https://www.hltv.org/matches/2400406/wbt-vs-mouz-nxt-european-pro-league-series-10",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T14:35:16Z",
+      "data_unix_ms": 1795098916000
+    },
+    {
+      "match_id": 2400444,
+      "team1": "GamerLegion",
+      "team2": "Inner Circle",
+      "score": "2-1",
+      "url": "https://www.hltv.org/matches/2400444/gamerlegion-vs-inner-circle-stake-ranked-episode-6",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T14:09:55Z",
+      "data_unix_ms": 1795097395000
+    },
+    {
+      "match_id": 2400630,
+      "team1": "Noir Verse",
+      "team2": "LFO 10",
+      "score": "0-2",
+      "url": "https://www.hltv.org/matches/2400630/noir-verse-vs-lfo-10-cct-2026-europe-series-15-closed-qualifier",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T14:09:18Z",
+      "data_unix_ms": 1795097358000
+    },
+    {
+      "match_id": 2400267,
+      "team1": "Black Phoenix",
+      "team2": "Illyrians",
+      "score": "2-0",
+      "url": "https://www.hltv.org/matches/2400267/black-phoenix-vs-illyrians-cct-2026-europe-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T13:31:46Z",
+      "data_unix_ms": 1795095106000
+    },
+    {
+      "match_id": 2400629,
+      "team1": "Walczaki",
+      "team2": "KUUSAMO",
+      "score": "1-2",
+      "url": "https://www.hltv.org/matches/2400629/walczaki-vs-kuusamo-cct-2026-europe-series-15-closed-qualifier",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T12:04:02Z",
+      "data_unix_ms": 1795089842000
+    },
+    {
+      "match_id": 2400266,
+      "team1": "33",
+      "team2": "ex-RUSTEC",
+      "score": "1-2",
+      "url": "https://www.hltv.org/matches/2400266/33-vs-ex-rustec-cct-2026-europe-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T11:34:31Z",
+      "data_unix_ms": 1795088071000
+    },
+    {
+      "match_id": 2400405,
+      "team1": "MAYBE",
+      "team2": "ex-INOX",
+      "score": "0-2",
+      "url": "https://www.hltv.org/matches/2400405/maybe-vs-ex-inox-european-pro-league-series-10",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-19T11:12:05Z",
+      "data_unix_ms": 1795086725000
+    },
+    {
+      "match_id": 2400525,
+      "team1": "BBL",
+      "team2": "Envy",
+      "score": "2-1",
+      "url": "https://www.hltv.org/matches/2400525/bbl-vs-envy-tipsport-rush-brno-2026",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T23:08:42Z",
+      "data_unix_ms": 1795043322000
+    },
+    {
+      "match_id": 2400443,
+      "team1": "Ninjas in Pyjamas",
+      "team2": "Luminosity",
+      "score": "0-2",
+      "url": "https://www.hltv.org/matches/2400443/ninjas-in-pyjamas-vs-luminosity-stake-ranked-episode-6",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T20:37:30Z",
+      "data_unix_ms": 1795034250000
+    },
+    {
+      "match_id": 2400265,
+      "team1": "Leo",
+      "team2": "Walczaki",
+      "score": "2-1",
+      "url": "https://www.hltv.org/matches/2400265/leo-vs-walczaki-cct-2026-europe-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T20:34:21Z",
+      "data_unix_ms": 1795034061000
+    },
+    {
+      "match_id": 2400359,
+      "team1": "FORZE Reload",
+      "team2": "ex-INOX",
+      "score": "2-1",
+      "url": "https://www.hltv.org/matches/2400359/forze-reload-vs-ex-inox-nodwin-clutch-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T19:08:37Z",
+      "data_unix_ms": 1795028917000
+    },
+    {
+      "match_id": 2400524,
+      "team1": "SINNERS",
+      "team2": "Alliance",
+      "score": "1-2",
+      "url": "https://www.hltv.org/matches/2400524/sinners-vs-alliance-tipsport-rush-brno-2026",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T19:07:56Z",
+      "data_unix_ms": 1795028876000
+    },
+    {
+      "match_id": 2400442,
+      "team1": "Inner Circle",
+      "team2": "Sangal",
+      "score": "0-2",
+      "url": "https://www.hltv.org/matches/2400442/inner-circle-vs-sangal-stake-ranked-episode-6",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T18:36:38Z",
+      "data_unix_ms": 1795026998000
+    },
+    {
+      "match_id": 2400264,
+      "team1": "BAKS",
+      "team2": "The Last Resort",
+      "score": "2-0",
+      "url": "https://www.hltv.org/matches/2400264/baks-vs-the-last-resort-cct-2026-europe-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T16:26:21Z",
+      "data_unix_ms": 1795019181000
+    },
+    {
+      "match_id": 2400441,
+      "team1": "UNiTY",
+      "team2": "GamerLegion",
+      "score": "1-2",
+      "url": "https://www.hltv.org/matches/2400441/unity-vs-gamerlegion-stake-ranked-episode-6",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T16:24:17Z",
+      "data_unix_ms": 1795019057000
+    },
+    {
+      "match_id": 2400523,
+      "team1": "Phantom",
+      "team2": "Metizport",
+      "score": "1-2",
+      "url": "https://www.hltv.org/matches/2400523/phantom-vs-metizport-tipsport-rush-brno-2026",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T15:40:38Z",
+      "data_unix_ms": 1795016438000
+    },
+    {
+      "match_id": 2400404,
+      "team1": "FORZE Reload",
+      "team2": "G2 Ares",
+      "score": "2-1",
+      "url": "https://www.hltv.org/matches/2400404/forze-reload-vs-g2-ares-european-pro-league-series-10",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T15:22:58Z",
+      "data_unix_ms": 1795015378000
+    },
+    {
+      "match_id": 2400358,
+      "team1": "33",
+      "team2": "Spirit Academy",
+      "score": "2-0",
+      "url": "https://www.hltv.org/matches/2400358/33-vs-spirit-academy-nodwin-clutch-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T14:00:18Z",
+      "data_unix_ms": 1795010418000
+    },
+    {
+      "match_id": 2400263,
+      "team1": "ex-RUSTEC",
+      "team2": "MOUZ NXT",
+      "score": "2-0",
+      "url": "https://www.hltv.org/matches/2400263/ex-rustec-vs-mouz-nxt-cct-2026-europe-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T13:50:22Z",
+      "data_unix_ms": 1795009822000
+    },
+    {
+      "match_id": 2400440,
+      "team1": "Betclic",
+      "team2": "BIG",
+      "score": "0-2",
+      "url": "https://www.hltv.org/matches/2400440/betclic-vs-big-stake-ranked-episode-6",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T13:41:26Z",
+      "data_unix_ms": 1795009286000
+    },
+    {
+      "match_id": 2400403,
+      "team1": "Balkan Outlaws",
+      "team2": "PCIFIC",
+      "score": "2-1",
+      "url": "https://www.hltv.org/matches/2400403/balkan-outlaws-vs-pcific-european-pro-league-series-10",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T11:56:17Z",
+      "data_unix_ms": 1795002977000
+    },
+    {
+      "match_id": 2400522,
+      "team1": "Nexus",
+      "team2": "Iberian Soul",
+      "score": "2-0",
+      "url": "https://www.hltv.org/matches/2400522/nexus-vs-iberian-soul-tipsport-rush-brno-2026",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T11:51:40Z",
+      "data_unix_ms": 1795002700000
+    },
+    {
+      "match_id": 2400357,
+      "team1": "NT",
+      "team2": "ex-RUSTEC",
+      "score": "2-0",
+      "url": "https://www.hltv.org/matches/2400357/nt-vs-ex-rustec-nodwin-clutch-series-14",
+      "page_offset": 0,
+      "match_date_utc": "2026-11-18T10:37:36Z",
+      "data_unix_ms": 1794998256000
+    }
+  ]
+}

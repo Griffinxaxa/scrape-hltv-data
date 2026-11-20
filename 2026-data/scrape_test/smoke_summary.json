@@ -1,0 +1,133 @@
+{
+  "processed": 12,
+  "kept": 5,
+  "target_valid": 5,
+  "results": [
+    {
+      "match_id": 2400286,
+      "kept": false,
+      "reason": "fetch_failed"
+    },
+    {
+      "match_id": 2400729,
+      "kept": false,
+      "reason": "fetch_failed"
+    },
+    {
+      "match_id": 2400447,
+      "kept": false,
+      "reason": "fetch_failed"
+    },
+    {
+      "match_id": 2400269,
+      "kept": false,
+      "reason": "fetch_failed"
+    },
+    {
+      "match_id": 2400632,
+      "kept": false,
+      "reason": "fetch_failed"
+    },
+    {
+      "match_id": 2400446,
+      "kept": true,
+      "reason": "ok",
+      "forced": false,
+      "counts": {
+        "series": 1,
+        "maps": 3,
+        "veto_steps": 7,
+        "lineups": 10,
+        "player_stats": 90,
+        "h2h_maps": 0,
+        "past_match_links": 122,
+        "vrs_forecast": 2
+      },
+      "best_of": 3,
+      "teams": "Sangal vs Luminosity"
+    },
+    {
+      "match_id": 2400268,
+      "kept": false,
+      "reason": "fetch_failed"
+    },
+    {
+      "match_id": 2400445,
+      "kept": true,
+      "reason": "ok",
+      "forced": false,
+      "counts": {
+        "series": 1,
+        "maps": 3,
+        "veto_steps": 7,
+        "lineups": 10,
+        "player_stats": 120,
+        "h2h_maps": 6,
+        "past_match_links": 104,
+        "vrs_forecast": 2
+      },
+      "best_of": 3,
+      "teams": "BIG vs Ninjas in Pyjamas"
+    },
+    {
+      "match_id": 2400631,
+      "kept": true,
+      "reason": "ok",
+      "forced": false,
+      "counts": {
+        "series": 1,
+        "maps": 3,
+        "veto_steps": 7,
+        "lineups": 10,
+        "player_stats": 90,
+        "h2h_maps": 2,
+        "past_match_links": 212,
+        "vrs_forecast": 2
+      },
+      "best_of": 3,
+      "teams": "G2 Ares vs MAYBE"
+    },
+    {
+      "match_id": 2400406,
+      "kept": true,
+      "reason": "ok",
+      "forced": false,
+      "counts": {
+        "series": 1,
+        "maps": 3,
+        "veto_steps": 7,
+        "lineups": 10,
+        "player_stats": 120,
+        "h2h_maps": 0,
+        "past_match_links": 119,
+        "vrs_forecast": 2
+      },
+      "best_of": 3,
+      "teams": "WBT vs MOUZ NXT"
+    },
+    {
+      "match_id": 2400444,
+      "kept": false,
+      "reason": "fetch_failed"
+    },
+    {
+      "match_id": 2400630,
+      "kept": true,
+      "reason": "ok",
+      "forced": false,
+      "counts": {
+        "series": 1,
+        "maps": 3,
+        "veto_steps": 7,
+        "lineups": 10,
+        "player_stats": 90,
+        "h2h_maps": 0,
+        "past_match_links": 146,
+        "vrs_forecast": 2
+      },
+      "best_of": 3,
+      "teams": "Noir Verse vs LFO 10"
+    }
+  ],
+  "output_dir": "2026-data/scrape_test"
+}

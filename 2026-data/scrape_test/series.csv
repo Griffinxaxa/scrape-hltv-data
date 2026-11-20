@@ -1,0 +1,31 @@
+hltv_match_id,match_url,series_stats_id,series_stats_url,event_id,event_name,event_url,team1_id,team1_name,team1_region,team2_id,team2_name,team2_region,best_of,environment,stage_raw,format_notes,scheduled_start_utc,completed_at_utc,status,team1_score,team2_score,winner_team_id,forfeit,walkover,incomplete,match_notes,demo_url,capture_time_utc,source_url
+2400446,https://www.hltv.org/matches/2400446/sangal-vs-luminosity-stake-ranked-episode-6,133187,https://www.hltv.org/stats/matches/133187/sangal-vs-luminosity,9258,Stake Ranked Episode 6,https://www.hltv.org/events/9258/stake-ranked-episode-6,10333,Sangal,Europe,6290,Luminosity,Europe,3,LAN,Upper bracket final,"Best of 3 (LAN)
+
+* Upper bracket final",2026-11-19T17:45:00Z,,Match over,2,0,10333,False,False,False,"Best of 3 (LAN)
+
+* Upper bracket final",https://www.hltv.org/download/demo/114053,2026-11-20T02:04:07Z,https://www.hltv.org/matches/2400446/sangal-vs-luminosity-stake-ranked-episode-6
+2400445,https://www.hltv.org/matches/2400445/big-vs-ninjas-in-pyjamas-stake-ranked-episode-6,133185,https://www.hltv.org/stats/matches/133185/big-vs-ninjas-in-pyjamas,9258,Stake Ranked Episode 6,https://www.hltv.org/events/9258/stake-ranked-episode-6,7532,BIG,Germany,4411,Ninjas in Pyjamas,Europe,3,LAN,Lower bracket semi-final,"Best of 3 (LAN)
+
+* Lower bracket semi-final",2026-11-19T14:25:00Z,,Match over,2,1,7532,False,False,False,"Best of 3 (LAN)
+
+* Lower bracket semi-final",https://www.hltv.org/download/demo/114051,2026-11-20T02:04:40Z,https://www.hltv.org/matches/2400445/big-vs-ninjas-in-pyjamas-stake-ranked-episode-6
+2400631,https://www.hltv.org/matches/2400631/g2-ares-vs-maybe-cct-2026-europe-series-15-closed-qualifier,133184,https://www.hltv.org/stats/matches/133184/g2-ares-vs-maybe,9494,CCT 2026 Europe Series 15 Closed Qualifier,https://www.hltv.org/events/9494/cct-2026-europe-series-15-closed-qualifier,12889,G2 Ares,Europe,13945,MAYBE,Ukraine,3,Online,Group B opening match,"Best of 3 (Online)
+
+* Group B opening match",2026-11-19T15:00:00Z,,Match over,0,2,13945,False,False,False,"Best of 3 (Online)
+
+* Group B opening match",https://www.hltv.org/download/demo/114050,2026-11-20T02:04:56Z,https://www.hltv.org/matches/2400631/g2-ares-vs-maybe-cct-2026-europe-series-15-closed-qualifier
+2400406,https://www.hltv.org/matches/2400406/wbt-vs-mouz-nxt-european-pro-league-series-10,133183,https://www.hltv.org/stats/matches/133183/wbt-vs-mouz-nxt,9480,European Pro League Series 10,https://www.hltv.org/events/9480/european-pro-league-series-10,13683,WBT,Ukraine,11176,MOUZ NXT,Europe,3,Online,Quarter-final,"Best of 3 (Online)
+
+* Quarter-final",2026-11-19T11:30:00Z,,Match over,2,1,13683,False,False,False,"Best of 3 (Online)
+
+* Quarter-final",https://www.hltv.org/download/demo/114049,2026-11-20T02:04:57Z,https://www.hltv.org/matches/2400406/wbt-vs-mouz-nxt-european-pro-league-series-10
+2400630,https://www.hltv.org/matches/2400630/noir-verse-vs-lfo-10-cct-2026-europe-series-15-closed-qualifier,133181,https://www.hltv.org/stats/matches/133181/noir-verse-vs-lfo-10,9494,CCT 2026 Europe Series 15 Closed Qualifier,https://www.hltv.org/events/9494/cct-2026-europe-series-15-closed-qualifier,13877,Noir Verse,Ukraine,14084,LFO 10,Sweden,3,Online,Group A opening match,"Best of 3 (Online)
+
+* Group A opening match",2026-11-19T12:15:00Z,,Match over,0,2,14084,False,False,False,"Best of 3 (Online)
+
+* Group A opening match",https://www.hltv.org/download/demo/114047,2026-11-20T02:05:14Z,https://www.hltv.org/matches/2400630/noir-verse-vs-lfo-10-cct-2026-europe-series-15-closed-qualifier
+2400286,https://www.hltv.org/matches/2400286/gamerlegion-vs-luminosity-stake-ranked-episode-6,133158,https://www.hltv.org/stats/matches/133158/gamerlegion-vs-luminosity,9258,Stake Ranked Episode 6,https://www.hltv.org/events/9258/stake-ranked-episode-6,9928,GamerLegion,Europe,6290,Luminosity,Europe,3,LAN,Upper bracket quarter-final,"Best of 3 (LAN)
+
+* Upper bracket quarter-final",2026-11-17T17:30:00Z,,Match over,1,2,6290,False,False,False,"Best of 3 (LAN)
+
+* Upper bracket quarter-final",https://www.hltv.org/download/demo/113801,2026-11-20T02:10:16Z,https://www.hltv.org/matches/2400286/gamerlegion-vs-luminosity-stake-ranked-episode-6
